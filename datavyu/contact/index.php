@@ -13,7 +13,7 @@ $n2 = rand(1,20);
 
 /* config start */
 
-$emailAddress = 'gladiolus.c@gmail.com';
+$emailAddress = 'contact@databrary.org';
 
 /* config end */
 
