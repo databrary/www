@@ -1,0 +1,50 @@
+/*
+ * File: css/support.css
+ * Author: Gladys Chan
+ * Description: stylesheet of download page
+ */
+
+section
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+section h1
+{
+    margin: 0;
+    font-family: SofiaProLight, Helvetica, Arial, sans-serif;
+    font-weight: normal;
+}
+
+article p
+{
+    margin: 0;
+    padding: 5px 15px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: small;
+}
+
+/* Fix footer */
+#ground
+{
+	width: 100%;
+	border: none;
+	background-color: transparent;
+	text-align: left;	
+}
+
+#ground ul
+{
+	margin-top: 12px;
+}
+
+#ground a
+{
+	text-decoration: underline;
+}
+
+#social_network
+{
+	font-size: 16px;
+}
