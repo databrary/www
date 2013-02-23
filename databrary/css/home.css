@@ -1,0 +1,52 @@
+/*
+ * File: css/home.css
+ * Author: Gladys Chan
+ * Description: stylesheet of home page
+ */
+
+
+/* Splash style */
+h2{
+	text-align:center;   
+	font-family: SofiaProLight, Futura, Helvetica, Arial, sans-serif;
+	font-weight:normal;
+	color:#333;
+
+}
+
+p{
+	text-align:center;   
+	font-family: SofiaProLight, Futura, Helvetica, Arial, sans-serif;
+	font-weight:normal;
+	color:#333;
+}
+
+.splash
+{
+	margin-top: 100px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:10px;
+	padding-right:10px;
+}
+
+#logo-splash
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	margin-top:75px;
+	max-width:95%;
+	height:auto;
+	width: auto\9; /* ie8 */
+}  
+
+.sponsors{
+	display:block;
+	width:50px;
+	height:auto;
+	margin-top:10px;
+	margin-bottom:100px;
+	margin-left:auto;
+	margin-right:auto;
+}
