@@ -140,10 +140,7 @@ require "../includes/header.php";
           <td valign="top">&nbsp;</td>
           <td colspan="2"><input type="submit" name="button" id="button" value="Submit" />
           <input type="reset" name="button2" id="button2" value="Reset" />
-          
-		  <input type='hidden' name='expect' value='<?=$n1+$n2?>'/>
- 
-          <img id="loading" src="img/ajax-load.gif" width="16" height="16" alt="loading" /></td>
+	  <input type='hidden' name='expect' value='<?=$n1+$n2?>'/>
         </tr>
       </table>
       </form>    
