@@ -6,8 +6,10 @@
  */
 
 $title = "Datavyu";
+require "includes/header.php";
 ?>
-<?php require "includes/header.php"; ?>
+<script src="/js/slides.jquery.js"></script>
+<script src="/js/slideshow.js"></script>
     <div id="slides">
         <div class="slides_container">
             <div>

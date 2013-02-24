@@ -8,7 +8,7 @@
 $title = "Features";
 ?>
 <?php require "../includes/header.php"; ?>
-    <img class="feature-title" src="<?php url_prefix(); ?>images/features-is.png" alt="Datavyu is...">
+    <img class="feature-title" src="/images/features-is.png" alt="Datavyu is...">
     <section id="datavyu-is">
         <article class="feature">
             <h1>Prepared for sharing</h1>
@@ -24,17 +24,17 @@ $title = "Features";
         </article>
     </section>
 
-    <img class="feature-title" src="<?php url_prefix(); ?>images/features-can.png" alt="With Datavyu, you can...">
+    <img class="feature-title" src="/images/features-can.png" alt="With Datavyu, you can...">
     <section id="datavyu-can">
         <article class="feature">
-          <img width="420" src="<?php url_prefix(); ?>images/feature1datastreams.png">
+          <img width="420" src="/images/feature1datastreams.png">
             <h1>View multiple data streams</h1>
             <p>Datavyu supports multiple data streams—video, audio, physiology, motion tracking, eye tracking—and links them together with a flexible, extensible coding spreadsheet that enables time-locked coding and visualization.</p>
         </article>
         <article class="feature">
           <video width="420" height="100%" controls>
-            <source src="<?php url_prefix(); ?>images/feature2hand.mp4" type="video/mp4">
-			<source src="<?php url_prefix(); ?>images/feature2hand.ogg" type="video/ogg">
+            <source src="/images/feature2hand.mp4" type="video/mp4">
+			<source src="/images/feature2hand.ogg" type="video/ogg">
             Your browser does not support the video tag.
           </video>
             <h1>Record observations</h1>
@@ -42,8 +42,8 @@ $title = "Features";
         </article>
         <article class="feature">
           <video width="420" height="110%" controls>
-            <source src="<?php url_prefix(); ?>images/feature3scripts.mp4" type="video/mp4">
-			<source src="<?php url_prefix(); ?>images/feature3scripts.ogg" type="video/ogg">
+            <source src="/images/feature3scripts.mp4" type="video/mp4">
+			<source src="/images/feature3scripts.ogg" type="video/ogg">
             Your browser does not support the video tag.
           </video>
             <h1>Automate data extraction, analysis</h1>
@@ -51,8 +51,8 @@ $title = "Features";
         </article>
         <article class="feature">
           <video width="420" height="100%" controls>
-            <source src="<?php url_prefix(); ?>images/feature4editor.mp4" type="video/mp4">
-			<source src="<?php url_prefix(); ?>images/feature4editor.ogg" type="video/ogg">
+            <source src="/images/feature4editor.mp4" type="video/mp4">
+			<source src="/images/feature4editor.ogg" type="video/ogg">
             Your browser does not support the video tag.
           </video>
             <h1>Build on prior analyses</h1>

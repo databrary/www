@@ -5,7 +5,6 @@
  * Description: head and header sections of all pages
  */
 
-require "functions.php";
 ?>
 <!DOCTYPE html>
 <html>

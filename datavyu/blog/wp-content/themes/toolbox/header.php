@@ -9,7 +9,6 @@
  */
 
 $root_path = $_SERVER["DOCUMENT_ROOT"] . "/";
-require $root_path . "includes/functions.php";
 ?><!DOCTYPE html>
 <!--[if IE 6]>
 <html id="ie6" <?php language_attributes(); ?>>
@@ -54,7 +53,7 @@ require $root_path . "includes/functions.php";
 <!--[if lt IE 9]>
 <script src="<?php echo get_template_directory_uri(); ?>/js/html5.js" type="text/javascript"></script>
 <![endif]-->
-<?php require $root_path . "includes/css_js.php"; ?>
+<link rel="stylesheet" type="text/css" href="/css/main.css">
 
 <?php wp_head(); ?>
 </head>
