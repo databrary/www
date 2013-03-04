@@ -1,5 +1,9 @@
 # Website modifications
 
+## Site-wide
+
+- Increase font size site-wide?
+
 ## [Databrary.org](http://databrary.org)
 
 ### Site-wide footer
