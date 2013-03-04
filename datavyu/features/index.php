@@ -15,7 +15,7 @@ $title = "Features";
             <p>Datavyu file formats will be immediately compatible with the forthcoming <a href="http://databrary.org" target="_blank">Databrary</a> data library.</p>
         </article>
         <article class="feature">
-            <h1>A track record of success</h1>
+            <h1>A proven success</h1>
             <p>Datavyu builds on the success of <a href="http://www.openshapa.org/" target="_blank">OpenSHAPA</a> and the earlier MacSHAPA tool.</p>
         </article>
         <article class="feature">
