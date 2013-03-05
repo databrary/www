@@ -8,7 +8,7 @@
 
 ### Site-wide footer
 
-- Funding source with NSF logo and grant number (BCS 1238599) on each page (footer?)
+~~- Funding source with NSF logo and grant number (BCS 1238599) on each page (footer?)~~
 
 - Plan for addition of NICHD and possibly other funding sources.
 
@@ -29,11 +29,11 @@
 
 - Check social media links
 
-	- Should we have "Follow" links instead?
-	- Twitter links to @databrary, not @datavyu.
-	- Google+ is fine.
-	- Facebook links to Databrary, not Datavyu.
-	- Github link is fine.
+	- Should we have "Follow" links instead?  
+	- ~~Twitter links to @databrary, not @datavyu.~~
+	- Google+ is fine.  
+	- ~~Facebook links to Databrary, not Datavyu.~~
+	- Github link is fine. 
 
 ### [features.html](http://datavyu.org/features.html)
 
