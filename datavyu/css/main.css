@@ -291,3 +291,72 @@ footer li
 	background-color: transparent;
 	text-align: left;	
 }
+
+/* Lightbox email subscription form */
+#subscriber 
+{
+	font-size: small;	
+}
+
+#subscriber p
+{
+	padding-bottom:5px;
+	font-family: Helvetica, Arial, sans-serif;
+}               
+
+div.mc-field-group ul {
+	list-style-type: none;
+	padding-bottom:10px; 
+}                 
+div.mc-field-group {
+	margin:2px;
+	padding:1px;
+}
+
+/* Subscribe form label style */
+.mc-field-group label
+{
+    display: inline-block;
+    min-width: 100px;
+}
+
+/* Email format list style */
+div.input-group
+{
+    margin-top: 5px;
+}
+
+.input-group strong
+{
+    width: 100px;
+    float: left;
+    font-weight: normal;
+}
+
+.input-group ul
+{
+    display: inline;
+}
+
+.input-group li
+{
+    display: block;
+    float: left;
+}
+
+.input-group input
+{
+    margin-top: 0;
+}
+
+.input-group label
+{
+    display: inline;
+}
+
+/* Subscribe button style */
+.clear
+{
+    float: right;
+    margin-top: 20px;
+} 
