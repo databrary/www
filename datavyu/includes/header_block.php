@@ -63,6 +63,8 @@
             </li>
             <li class="main-nav-item<?php if ($title == "Developer") echo " current"; ?>" id="developer"><a href="http://github.com/databrary/datavyu" target="_blank">DEVELOPMENT</a></li>
             <li class="main-nav-item<?php if ($title == "Blog") echo " current"; ?>" id="blog"><a href="/blog">BLOG</a></li>
+            <li class="main-nav-itemSignup"><a class="fancybox" href="#subscriber">Join our mailing list</a></li>
+
         </ul>   
     </nav>
 </header>
