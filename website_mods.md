@@ -23,7 +23,7 @@
 
 ### Site-wide footer
 
-- Funding source with NSF logo and grant number (BCS 1238599) on each page (footer?)
+- ~~Funding source with NSF logo and grant number (BCS 1238599) on each page (footer?)~~
 
 - Plan for addition of NICHD and possibly other funding sources.
 
@@ -37,7 +37,7 @@
 
 ### [features.html](http://datavyu.org/features.html)
 
-- Replace monkeybars video for "Record Observations" with something that is less "motor"
+- Replace monkeybars video for "Record Observations" with something that is less "motor" (video taken yesterday. will sync and edit later this week)
 
 
 
