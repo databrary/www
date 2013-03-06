@@ -39,7 +39,16 @@
 
 - Replace monkeybars video for "Record Observations" with something that is less "motor" (video taken yesterday. will sync and edit later this week)
 
+### [support.html](http://datavyu.org/support.html)
 
+- Complete refactor to Datavyu
+	- Change "Help others by asking and answering OpenSHAPA questions." in **welcome to Datavyu Support** box
+	- Change to About Datavyu in blue right hand side bar.
+	 	
+### [datavyu.org/bugs](http://datavyu.org/bugs/)
+
+- Customize to reflect datavyu?
+- Link takes to log-in page.
 
 ## [Labnanny.org](http://labnanny.org)
 
