@@ -10,6 +10,8 @@
 
 ~~- Funding source with NSF logo and grant number (BCS 1238599) on each page (footer?)~~
 
+- Add Funding page to put fineprint.
+
 - Plan for addition of NICHD and possibly other funding sources.
 
 
