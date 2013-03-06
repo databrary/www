@@ -37,7 +37,7 @@
 
 ### [features.html](http://datavyu.org/features.html)
 
-- Replace monkeybars video for "Record Observations" with something that is less "motor"
+- Replace monkeybars video for "Record Observations" with something that is less "motor" (video taken yesterday. will sync and edit later this week)
 
 
 
