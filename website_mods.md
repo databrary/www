@@ -28,9 +28,7 @@ On MailChimp, fix Testing mail confirmation before site goes live.
 
 ### [Databrary.org/about/#community](http://staging.databrary.org/about/#community)
 
-Old site Clinton put up had links for every advisory board and committed contributor. Can't find the html on github, but it was on the old databrary repo. 
-
-1. Add back in those links.
+Add links to every advisory board and committed contributor. ~~Can't find the html on github, but it was on the old databrary repo.~~found! 
 
 ## [Datavyu.org](http://datavyu.org)
 
