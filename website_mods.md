@@ -12,6 +12,16 @@
 
 - Add Funding page when we have more funding sources
 
+### Join our mailing list tab
+
+Window persists after hitting subscribe button. Behavior is as follows:
+
+1. Enter info.
+2. Hit Subscribe button.
+3. New tab opens with "Almost finished warning"
+4. Returning to original tab shows persistent window.
+
+
 
 ## [Datavyu.org](http://datavyu.org)
 
