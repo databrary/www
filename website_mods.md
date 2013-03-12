@@ -55,8 +55,8 @@ Old site Clinton put up had links for every advisory board and committed contrib
 ### [support.html](http://datavyu.org/support.html)
 
 - Complete refactor to Datavyu
-	- Change "Help others by asking and answering OpenSHAPA questions." in **welcome to Datavyu Support** box
-	- Change to About Datavyu in blue right hand side bar.
+	- ~~Change "Help others by asking and answering OpenSHAPA questions." in **welcome to Datavyu Support** box~~
+	- ~~Change to About Datavyu in blue right hand side bar.~~
 	 	
 ### [datavyu.org/bugs](http://datavyu.org/bugs/)
 
