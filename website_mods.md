@@ -21,9 +21,16 @@ Window persists after hitting subscribe button. Behavior is as follows:
 3. New tab opens with "Almost finished warning"
 4. Returning to original tab shows persistent window.
 
+### Fix mailing list output
+
+On MailChimp, fix Testing mail confirmation before site goes live.
+
+
 ### [Databrary.org/about/#community](http://staging.databrary.org/about/#community)
 
-Old site Clinton put up had links for every advisory board and committed contributor. Can't find the html on github, but it was on the old databrary repo. Add back in those links.
+Old site Clinton put up had links for every advisory board and committed contributor. Can't find the html on github, but it was on the old databrary repo. 
+
+1. Add back in those links.
 
 ## [Datavyu.org](http://datavyu.org)
 
