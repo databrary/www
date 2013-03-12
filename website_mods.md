@@ -36,7 +36,7 @@ Add links to every advisory board and committed contributor. ~~Can't find the ht
 
 #### Developer tab
 
-- Should we alert that we are leaving the site?
+- Should we alert that we are leaving the site? (A tabbed page is opened up at the moment
 
 ### Site-wide footer
 
@@ -58,8 +58,9 @@ Add links to every advisory board and committed contributor. ~~Can't find the ht
 	 	
 ### [datavyu.org/bugs](http://datavyu.org/bugs/)
 
+- Link takes to log-in page (offering Bugzilla alongside the support forum, both with separate logins, might be confusing to the general public. How about a link nested somewhere in the github repository for developers?)
 - Customize to reflect datavyu?
-- Link takes to log-in page.
+
 
 ## [Labnanny.org](http://labnanny.org)
 
