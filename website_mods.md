@@ -31,11 +31,7 @@
 
 - Check social media links
 
-	- Should we have "Follow" links instead?  
-	- ~~Twitter links to @databrary, not @datavyu.~~
-	- Google+ is fine.  
-	- ~~Facebook links to Databrary, not Datavyu.~~
-	- Github link is fine. 
+	- Should we have "Follow" links instead?   
 
 ### [features.html](http://datavyu.org/features.html)
 
