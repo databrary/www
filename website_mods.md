@@ -2,7 +2,7 @@
 
 ## Site-wide
 
-- Increase font size site-wide?
+- ~~Increase font size site-wide?~~
 
 ## [Databrary.org](http://databrary.org)
 
@@ -10,9 +10,7 @@
 
 ~~- Funding source with NSF logo and grant number (BCS 1238599) on each page (footer?)~~
 
-- Add Funding page to put fineprint.
-
-- Plan for addition of NICHD and possibly other funding sources.
+- Add Funding page when we have more funding sources
 
 
 ## [Datavyu.org](http://datavyu.org)
@@ -27,11 +25,9 @@
 
 - ~~Funding source with NSF logo and grant number (BCS 1238599) on each page (footer?)~~
 
-- Plan for addition of NICHD and possibly other funding sources.
+- (Have included grant # for now, when more funding sources include only logos of funding agencies.)
 
-- Check social media links
-
-	- Should we have "Follow" links instead?   
+- Check social media links: should we have "Follow" links instead?   
 
 ### [features.html](http://datavyu.org/features.html)
 
