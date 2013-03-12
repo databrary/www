@@ -13,7 +13,7 @@ $title = "Databrary";
 <br><br>
 <h2>An open data library for developmental science. Share video, audio, and related metadata. <br>Discover more, faster.</h2>
 <br>
-<p>Funded by a grant from <img class="sponsors" src="images/nsf1.gif"></p>
+<p>Funded by Grant No. BCS-1238599 from <img class="sponsors" src="images/nsf1.gif"></p>
 </div>
 
 <?php require "includes/footer.php"; ?>
