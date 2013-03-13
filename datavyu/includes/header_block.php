@@ -5,9 +5,10 @@
  * Description: content displayed in meta header and real header
  */
 ?>
+
 <!-- Lightbox subscriber form -->
 <div id="subscriber" style="width:400px;display:none;">
-    <p>Join our mailing list to be notified of the latest news about Datavyu!</p>
+	<p>Join our mailing list to be notified of the latest news from Databrary!</p>
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
 	<form action="http://databrary.us2.list-manage.com/subscribe/post?u=4b4fa9408b40cd79e92f748e5&amp;id=0b29c1e7b5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
@@ -45,6 +46,7 @@
 </div>
 <!-- End Lightbox subscriber form -->
 
+
 <div id="meta-header-background"></div>
 <div id="meta-header">
     <a class="project" href="http://www.databrary.org"><img src="/images/navdatabrary.png" alt="Databrary">Databrary</a>
@@ -63,6 +65,7 @@
             </li>
             <li class="main-nav-item<?php if ($title == "Developer") echo " current"; ?>" id="developer"><a href="http://github.com/databrary/datavyu" target="_blank">DEVELOPMENT</a></li>
             <li class="main-nav-item<?php if ($title == "Blog") echo " current"; ?>" id="blog"><a href="/blog">BLOG</a></li>
+			<li class="main-nav-itemSignup" id="subscribe"><a class="fancybox" href="#subscriber">Newsletter</a></li>
         </ul>   
     </nav>
 </header>
