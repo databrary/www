@@ -47,6 +47,11 @@ if (isset($title)) {
 
 		$('.fancybox').fancybox();
 
+        /* Close subscribe form upon submission */
+        $("form").submit(function() {
+            parent.$.fancybox.close();
+        });
+
 		/*
 		 *  Different effects
 		 */

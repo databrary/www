@@ -35,7 +35,11 @@
 		<div id="mce-responses" class="clear">
 			<div class="response" id="mce-error-response" style="display:none"></div>
 			<div class="response" id="mce-success-response" style="display:none"></div>
-		</div>	<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+        </div>
+        <div class="clear">
+            <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">Subscribe</button>
+            <button type="reset" value="Reset" name="reset" id="mc-embedded-reset" class="button">Reset</button>
+        </div>
 	</form>
 </div>
 <!--End mc_embed_signup-->
@@ -64,7 +68,7 @@ url_prefix(); ?>images/navlabnanny.png" alt="Labnanny">Labnanny</a>
 				
             <li class="main-nav-item<?php if ($title == "FAQ") current_class(); ?>" id="faq"><a href="<?php url_prefix(); ?>faq">FAQ</a></li>
             <li class="main-nav-item<?php if ($title == "Development") current_class(); ?>" id="development"><a href="http://github.com/databrary" target="_blank">DEVELOPMENT</a></li>
-	    <li class="main-nav-itemSignup"><a class="fancybox" href="#subscriber">Join our mailing list</a></li>
+	    <li class="main-nav-itemSignup"><a class="fancybox" href="#subscriber">Newsletter</a></li>
         </ul>
     </nav>
 </header>
