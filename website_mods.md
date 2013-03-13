@@ -3,12 +3,13 @@
 ## Site-wide
 
 - ~~Increase font size site-wide?~~
-
+-
 ## [Databrary.org](http://databrary.org)
 
 ### Site-wide footer
 
 ~~- Funding source with NSF logo and grant number (BCS 1238599) on each page (footer?)~~
+ >Not sure this is site-wide. I see the footer in the datavyu.org pages, but not on staging.databrary.org. Probably just replicate the footer or 
 
 - Add Funding page when we have more funding sources
 
