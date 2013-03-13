@@ -65,6 +65,7 @@ Add links to every advisory board and committed contributor. ~~Can't find the ht
 ### Links.html?
 
 Should we add a links.html page with links to other lab/data management solutions like [Open Science Framework](http://openscienceframework.org/)
+Agreed. Can someone provide a list of these links?
 
 ### Site-wide footer
 
