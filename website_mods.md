@@ -62,6 +62,10 @@ Add links to every advisory board and committed contributor. ~~Can't find the ht
 
 ## [Labnanny.org](http://labnanny.org)
 
+### Links.html?
+
+Should we add a links.html page with links to other lab/data management solutions like [Open Science Framework](http://openscienceframework.org/)
+
 ### Site-wide footer
 
 - Funding source with NSF logo and grant number (BCS 1238599) on each page (footer?)
