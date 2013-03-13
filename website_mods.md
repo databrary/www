@@ -33,6 +33,7 @@ Add links to every advisory board and committed contributor. ~~Can't find the ht
 #### Developer tab
 
 - Should we alert that we are leaving the site? (Requires more unnecessary clicks?)
+- > True, more clicks. Could we have a mouse-over/pop-up or is that bad UI style?
 
 ### Site-wide footer
 
