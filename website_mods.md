@@ -34,7 +34,8 @@ Add links to every advisory board and committed contributor. ~~Can't find the ht
 
 - Should we alert that we are leaving the site? (Requires more unnecessary clicks?)
 
-> True, more clicks. Could we have a mouse-over/pop-up or is that bad UI style?
+> True, more clicks. Could we have a mouse-over/pop-up or is that bad UI style? 
+> Lightbox in the style of the subscription form, perhaps? It doesn't really leave the site though, it opens up a new tab.
 
 ### Site-wide footer
 
