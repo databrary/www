@@ -18,7 +18,7 @@
 
 ### Fix mailing list output
 
-On MailChimp, fix Testing mail confirmation before site goes live.
+On MailChimp, fix Testing mail confirmation / switch to a real list before site goes live.
 
 
 ### [Databrary.org/about/#community](http://staging.databrary.org/about/#community)
@@ -31,7 +31,7 @@ Add links to every advisory board and committed contributor. ~~Can't find the ht
 
 #### Developer tab
 
-- Should we alert that we are leaving the site? (A tabbed page is opened up at the moment
+- Should we alert that we are leaving the site? (Requires more unnecessary clicks?)
 
 ### Site-wide footer
 
@@ -39,7 +39,7 @@ Add links to every advisory board and committed contributor. ~~Can't find the ht
 
 - (Have included grant # for now, when more funding sources include only logos of funding agencies.)
 
-- Check social media links: should we have "Follow" links instead?   
+- Check social media links: should we have "Follow" links instead? (I'm personally wary about automatic follows and likes, so maybe no?)  
 
 ### [features.html](http://datavyu.org/features.html)
 
