@@ -34,13 +34,13 @@ date_default_timezone_set('America/New_York');
 		$err[]='Your email is invalid.';
 
 	if(!checkLen('subject'))
-		$err[]='You have not selected a subject.';
+		$err[]='You have not filled in the subject.';
 
 	if(!checkLen('message'))
 		$err[]='The message field is too short or empty.';
 
 	if((int)$_POST['captcha'] != $_POST['expect'])
-		$err[]='Your math was wrong. Please try again.';
+		$err[]='Incorrect math. Please try again.';
 
 
 	if(!count($err))
@@ -64,7 +64,7 @@ date_default_timezone_set('America/New_York');
 		$mail->AddReplyTo($_POST['email'], $_POST['name']);
 		$mail->AddAddress($emailAddress);
 		$mail->SetFrom($_POST['email'], $_POST['name']);
-		$mail->Subject = "A new ".mb_strtolower($_POST['subject'])." from ".$_POST['name']." | contact form feedback";
+		$mail->Subject = "Datavyu contact form msg from ".$_POST['name']." | ".mb_strtolower($_POST['subject']);
 
 		$mail->MsgHTML($msg);
 
@@ -117,13 +117,7 @@ require "../includes/header.php";
         </tr>
         <tr>
           <td><label for="subject">Subject</label></td>
-          <td><select name="subject" id="subject">
-            <option value="" selected="selected"> - Choose -</option>
-            <option value="Question">Question</option>
-            <option value="Business proposal">Business proposal</option>
-            <option value="Advertisement">Advertising</option>
-            <option value="Complaint">Complaint</option>
-          </select>          </td>
+          <td><input type="text" class="validate[required]" name="subject" id="subject" /></td>
           <td>&nbsp;</td>
         </tr>
         <tr>
