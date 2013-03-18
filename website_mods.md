@@ -21,6 +21,8 @@
 
 On MailChimp, fix Testing mail confirmation / switch to a real list before site goes live.
 
+### Need a blurb for "What is Databrary?" on FAQ page. Right now there is only a question.
+
 
 ### [Databrary.org/about/#community](http://staging.databrary.org/about/#community)
 
