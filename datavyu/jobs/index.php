@@ -39,7 +39,7 @@ $title = "Jobs";
         <h3>Compensation</h3>
         <p>Salary range competitive with senior level positions plus full NYU benefits, including health and tuition remission.</p>
         <h3>To apply</h3>
-        <p>Send the following to Lisa Steiger (lisa.steiger@nyu.edu):</p>
+        <p>Send the following to <A HREF="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#108;&#105;&#115;&#97;&#46;&#115;&#116;&#101;&#105;&#103;&#101;&#114;&#64;&#110;&#121;&#117;&#46;&#101;&#100;&#117;">Lisa Steiger</A>:</p>
         <ul>
             <li>One page cover letter (PDF).</li>
             <li>Academic transcript of your formal qualifications (PDF).</li>
