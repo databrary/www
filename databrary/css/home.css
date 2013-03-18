@@ -7,9 +7,10 @@
 
 /* Splash style */
 h2{
-	text-align:center;   
+	text-align:left;   
 	font-family: SofiaProLight, Futura, Helvetica, Arial, sans-serif;
 	font-weight:normal;
+    font-size:2.6em;
 	color:#333;
 
 }
@@ -21,11 +22,12 @@ p{
 	color:#333;
 }
 
-.splash
+#splash
 {
-	margin-top: 100px;
+	margin-top: 120px;
 	margin-left:auto;
 	margin-right:auto;
+    margin-bottom: 120px;
 	padding-left:10px;
 	padding-right:10px;
 }

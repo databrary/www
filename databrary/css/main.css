@@ -228,8 +228,21 @@ footer li
 
 #social_network
 {
-    text-align: right;
+    float: right;
     font-family: SofiaProLight, Helvetica, Arial, sans-serif;
+}
+
+#sponsors
+{
+    float:left;
+    font-family: SofiaProLight, Helvetica, Arial, sans-serif;
+}
+
+.sponslogo
+{
+    height:27px;
+    position: relative;
+    top:6px;
 }
 
 #facebook
