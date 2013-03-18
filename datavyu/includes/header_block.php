@@ -11,7 +11,7 @@
 	<p>Join our mailing list to be notified of the latest news from Databrary!</p>
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
-	<form action="http://databrary.us2.list-manage.com/subscribe/post?u=4b4fa9408b40cd79e92f748e5&amp;id=0b29c1e7b5" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<form action="http://databrary.us2.list-manage1.com/subscribe/post?u=4b4fa9408b40cd79e92f748e5&amp;id=aa39b9b162" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
 		<div class="mc-field-group">
 			<label for="mce-EMAIL">Email Address </label>
