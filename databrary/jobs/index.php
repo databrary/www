@@ -4,9 +4,9 @@ $title = "Jobs";
 <?php require "../includes/header.php"; ?>
     <h1>We are looking for great people to join our team!</h1>
     <article id="main-container">
-	<div class="form-container">
 	<p><em>Also see available <a href='http://datavyu.org/jobs'>Datavyu positions</a></em></p>
 
+	<div class="form-container">
         <h2>Web UI/UX Designer</h2>
         <p>
 		The Databrary project seeks a motivated and flexible UI/UX designer to help create a web-based data library.
@@ -26,7 +26,7 @@ $title = "Jobs";
 		<li>Understanding of layout, typography, color and other design principles</li>
 		<li>Knowledge of HTML5 and CSS3 with an ability to implement designs using these technologies</li>
         </ul>
-        <h4>Preferred</h4>
+        <h3>Preferred</h3>
         <ul>
 		<li>Knowledge of JavaScript, JQuery, CoffeeScript, or similar technologies.</li>
 		<li>Familiarity with UNIX development tools such as git</li>
@@ -43,7 +43,9 @@ $title = "Jobs";
             <li>Links to your open source contributions</li>
             <li>Resume (PDF)</li>
         </ul>
+	</div>
 
+	<div class="form-container">
         <h2>Web Developer</h2>
         <p>
 		The Databrary project seeks a motivated and flexible developer to help build a web-based data library.
@@ -64,7 +66,7 @@ $title = "Jobs";
 		<li>Familiarity with standard UNIX development tools such as git</li>
 		<li>Understanding of security and ethical concerns around sensitive data</li>
         </ul>
-        <h4>Preferred</h4>
+        <h3>Preferred</h3>
         <ul>
 		<li>History of contributions to open source projects</li>
 		<li>Experience creating RESTful interfaces for structured data</li>

@@ -4,8 +4,8 @@ $title = "Jobs";
 <?php require "../includes/header.php"; ?>
     <h1>We are looking for great people to join our team!</h1>
     <article id="main-container">
-	<div class="form-container">
 	<p><em>Also see available <a href='http://databrary.org/jobs'>Databrary positions</a></em></p>
+	<div class="form-container">
         <h2>Java Developer</h2>
 	<p>The Databrary project seeks a creative and productive developer to enhance an open source multi-platform desktop video data analysis application (datavyu.org).
 	Candidates should have 3-5 years of software development experience.
@@ -24,7 +24,7 @@ $title = "Jobs";
 		<li>Established track record of shipping reliable software products</li>
 		<li>Experience developing cross-platform applications for Windows, OS X, and Linux</li>
         </ul>
-        <h4>Preferred</h4>
+        <h3>Preferred</h3>
         <ul>
 		<li>Experience with video playback/transcoding tools such as FFmpeg, VLC, and gstreamer</li>
 		<li>Comfortable with Agile software development methodologies</li>
