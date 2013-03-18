@@ -1,51 +1,88 @@
 <?php
-/*
- * File: team/index.php
- * Author: Gladys Chan
- * Description: main content of jobs page
- */
-
 $title = "Jobs";
 ?>
 <?php require "../includes/header.php"; ?>
     <h1>We are looking for great people to join our team!</h1>
     <article id="main-container">
 	<div class="form-container">
-        <h2>Systems Architect</h2>
-        <p>The Databrary project (<a href="http://databrary.org">http://databrary.org</a>) aims to create a web-based data library where behavioral scientists can search and share video data openly with other researchers. Databrary's leaders, based at <a href="http://www.nyu.edu">New York University</a> and <a href="http://www.psu.edu">Penn State</a>, have been funded by the <a href="http://www.nsf.gov/awardsearch/showAward.do?AwardNumber=1238599">U.S. National Science Foundation</a> (NSF) to create Databrary and the associated video analysis and data management tools to make data sharing easy and efficient. The goal is to accelerate the pace of discovery in behavioral science and to improve scientific transparency and accountability.</p>
-        <p>Databrary seeks a visionary, entrepreneurial systems architect to lead the project, steer its design, and hire and manage the development team. Candidates should have 5-8 years of software development and management experience as a solutions architect, systems architect, project manager, or test manager.</p>
+	<p><em>Also see available <a href='http://datavyu.org/jobs'>Datavyu positions</a></em></p>
+
+        <h2>Web UI/UX Designer</h2>
+        <p>
+		The Databrary project seeks a motivated and flexible UI/UX designer to help create a web-based data library.
+		You will work with users and developers to design the face and UX of a site to enable behavioral researchers to collaborate, store, explore, and access research datasets.
+	</p>
         <h3>Responsibilities</h3>
         <ul>
-            <li>Designing and developing a new web-based video data library (Databrary) for searching, streaming, and sharing large research data sets.</li>
-            <li>Designing and developing desktop data analysis and data management tools to integrate video analysis with Databrary.</li>
-            <li>Building a small team of developers to execute the above. Writing position descriptions, and conducting interviews.</li>
-            <li>Mentoring and providing leadership for junior development staff.</li>
-            <li>Defining software development methodologies and practice.</li>
+		<li>Build clean, modular, and polished template designs using HTML, CSS, and SVG.</li>
+		<li>Create, test, and validate interface (UX and UI) designs using visual mockups and other rapid prototyping techniques.</li>
+		<li>Work flexibly with software developers and behavioral researchers to build and improve intuitive, professional interfaces.</li>
+		<li>Learn and understand structure of research data and its presentational needs.</li>
         </ul>
         <h3>Qualifications</h3>
         <ul>
-            <li>Experience developing in a modern MVC based web development framework (Django, Rails, Tower.js etc).</li>
-            <li>Experience as a technical team leader, project manager, or systems architect.</li>
-            <li>History of active contributions to open source projects.</li>
-            <li>Established track record of shipping reliable software products.</li>
-            <li>Experience developing cross-platform applications for Windows and OSX.</li>
+		<li>Background in visual communication, graphic design, or other relevant field</li>
+		<li>Proficiency with vector graphics design and image editing tools such as Illustrator, Inkscape, etc.</li>
+		<li>Understanding of layout, typography, color and other design principles</li>
+		<li>Knowledge of HTML5 and CSS3 with an ability to implement designs using these technologies</li>
         </ul>
-        <h3>Preferred</h3>
+        <h4>Preferred</h4>
         <ul>
-            <li>An understanding of configuration management practices using Chef or Puppet.</li>
-            <li>Experience with video playback/transcoding tools such as FFmpeg and VLC.</li>
-            <li>Experience working with large research data sets.</li>
+		<li>Knowledge of JavaScript, JQuery, CoffeeScript, or similar technologies.</li>
+		<li>Familiarity with UNIX development tools such as git</li>
+		<li>Experience interfacing with web frameworks such as Rails, Django, or PHP</li>
+		<li>Comfortable with Agile software development methodologies</li>
         </ul>
         <h3>Compensation</h3>
-        <p>Salary range competitive with senior level positions plus full NYU benefits, including health and tuition remission.</p>
+		<p>Salary range competitive with senior level academic positions plus full NYU benefits, including health and tuition remission.</p>
         <h3>To apply</h3>
-        <p>Send the following to Lisa Steiger (lisa.steiger@nyu.edu):</p>
+        <p>Send the following to <a href='mailto:lisa.steiger@nyu.edu'>Lisa Steiger</a>:</p>
         <ul>
-            <li>One page cover letter (PDF).</li>
-            <li>Academic transcript of your formal qualifications (PDF).</li>
-            <li>Links to your open source contributions.</li>
-            <li>Resume (PDF).             <!-- /content -->       </li>
+            <li>One page cover letter (PDF)</li>
+            <li>Academic transcript of your formal qualifications (PDF)</li>
+            <li>Links to your open source contributions</li>
+            <li>Resume (PDF)</li>
         </ul>
-		</div>
+
+        <h2>Web Developer</h2>
+        <p>
+		The Databrary project seeks a motivated and flexible developer to help build a web-based data library.
+		You will work with users and other developers to design and build the front end UI and tools to enable behavioral researchers to collaborate, store, explore, and access research datasets.
+	</p>
+        <h3>Responsibilities</h3>
+        <ul>
+		<li>Implement dynamic and modular web application to present and manipulate research materials.</li>
+		<li>Create, test, and validate interface (UX and UI) designs using rapid visual prototyping techniques.</li>
+		<li>Directly work with researchers (users) to identify and prioritize new features.</li>
+		<li>Learn, understand, and reorganize research data as needed for better integration with the site.</li>
+        </ul>
+        <h3>Qualifications</h3>
+        <ul>
+		<li>Background in CS or other relevant field and 3+ years programming experience</li>
+		<li>Knowledge of modern MVC web development frameworks (Django, Rails, Lift, etc.)</li>
+		<li>Experience with Ajax and working knowledge of HTML5 and CSS3</li>
+		<li>Familiarity with standard UNIX development tools such as git</li>
+		<li>Understanding of security and ethical concerns around sensitive data</li>
+        </ul>
+        <h4>Preferred</h4>
+        <ul>
+		<li>History of contributions to open source projects</li>
+		<li>Experience creating RESTful interfaces for structured data</li>
+		<li>Knowledge of SQL or other database technologies</li>
+		<li>Basic understanding of scientific practices and research tools, such as Matlab, SPSS, or R</li>
+		<li>Comfortable with Agile software development methodologies</li>
+        </ul>
+        <h3>Compensation</h3>
+		<p>Salary range competitive with senior level academic positions plus full NYU benefits, including health and tuition remission.</p>
+        <h3>To apply</h3>
+        <p>Send the following to <a href='mailto:lisa.steiger@nyu.edu'>Lisa Steiger</a>:</p>
+        <ul>
+            <li>One page cover letter (PDF)</li>
+            <li>Academic transcript of your formal qualifications (PDF)</li>
+            <li>Links to your open source contributions</li>
+            <li>Resume (PDF)</li>
+        </ul>
+
+	</div>
     </article>
 <?php require "../includes/footer.php"; ?>
