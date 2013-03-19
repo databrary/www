@@ -29,6 +29,10 @@
 - [Biomedical Informatics Research Network (BIRN)](http://www.birncommunity.org/resources/tools/)
 - [OpenFMRI](http://openfmri.org)
 - [Neurosynth.org](http://neurosynth.org)- [Brainmap.org](http://brainmap.org)- [International Electrophysiology Epilepsy Data Portal](http://ieeg.org)
+## Citation/reference management
+- [Mendeley](http://www.mendeley.com/)- [Zotero](http://www.zotero.org/)
+- [CiteULike](http://www.citeulike.org/)
+- [ResearchGate](http://www.researchgate.net/)
 
 # Lab/Research Management, Tools
 
