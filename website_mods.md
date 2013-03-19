@@ -31,6 +31,8 @@ On MailChimp, fix Testing mail confirmation / switch to a real list before site 
 
 ### Need a blurb for "What is Databrary?" on FAQ page. Right now there is only a question.
 
+> Databrary is a data library for scientists to share video and audio recordings, research data and analytical tools, and metadata with other investigators.
+
 ### [Databrary.org/jobs/](http://databrary.org/jobs/)
 
 - Font sizes for header and body text are 1 click smaller here than on datavyu.org/jobs/
@@ -42,7 +44,7 @@ Add links to every advisory board and committed contributor. ~~Can't find the ht
 ### [Databrary.org/contact/](http://staging.databrary.org/contact/)
 
 - Header says "Contact Datavyu." Change to "Contact Databrary."
-- 
+- Add some team photos.
 
 ## [Datavyu.org](http://datavyu.org)
 
