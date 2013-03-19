@@ -41,6 +41,7 @@ Add links to every advisory board and committed contributor. at openshapa/opensh
 
 Should we add a links.html page with links to other lab/data management solutions like [Open Science Framework](http://openscienceframework.org/)
 Agreed. Can someone provide a list of these links?
+> [Here](https://github.com/databrary/www/edit/master/links.html) is a start based on our @databrary Twitter subscriptions.
 
 ### Site-wide footer
 
