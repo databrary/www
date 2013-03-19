@@ -23,6 +23,7 @@
 - [Reproducibility Project](http://openscienceframework.org/project/EZcUj/wiki/home)
 - [CMDbase.org (animal behavior)](http://cmdbase.org/)
 - [Video Mosaic Collaborative](http://videomosaic.org/)
+- [Social Informatics Data Grid (SIDGrid)](http://sidgri.ci.uchicago.edu/home)
 
 ## Neuroscience
 
