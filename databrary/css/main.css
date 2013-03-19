@@ -134,6 +134,11 @@ nav .current#about
     background-color: #6C6;
 }
 
+nav .current#community
+{
+    background-color: #6C6;
+}
+
 nav .current#development
 {
     background-color: #6C6;

@@ -21,6 +21,8 @@ $("body").ready(function() {
 			/* Colors defined in css/main.css */
             if ($(this).is("#about"))
                 $(this).css("background-color", "#6C6");
+	    else if ($(this).is("#community"))
+                $(this).css("background-color", "#6C6");
             else if ($(this).is("#faq"))
                 $(this).css("background-color", "#6C6");
             else if ($(this).is("#development"))

@@ -49,22 +49,23 @@
 
 <div id="meta-header-background"></div>
 <div id="meta-header">
-    <a class="project" href="http://www.databrary.org"><img src="/images/navdatabrary.png" alt="Databrary">Databrary</a>
-    <a class="project" href="http://www.datavyu.org"><img src="/images/navdatavyu.png" alt="Datavyu">Datavyu</a>
-    <a class="project" href="http://www.labnanny.org"><img src="/images/navlabnanny.png" alt="Labnanny">Labnanny</a>
-    <a href="http://www.databrary.org/project/"><span class="misc">THE DATABRARY PROJECT</span></a>
+    <a class="project" href="http://databrary.org"><img src="/images/navdatabrary.png" alt="Databrary">Databrary</a>
+    <a class="project" href="http://datavyu.org"><img src="/images/navdatavyu.png" alt="Datavyu">Datavyu</a>
+    <a class="project" href="http://labnanny.org"><img src="/images/navlabnanny.png" alt="Labnanny">Labnanny</a>
+    <a href="http://databrary.org/about#project"><span class="misc">THE DATABRARY PROJECT</span></a>
 </div>
 
 <header>
     <a href="/"><img id="logo" src="/images/databrary.png" alt="Databrary"></a>
     <nav>
         <ul id="main-nav">
-            <li class="main-nav-item<?php if ($title == "About") echo " current"; ?>" id="about"><a href="/about">ABOUT DATABRARY</a>
+            <li class="main-nav-item<?php if ($title == "About") echo " current"; ?>" id="about"><a href="/about">ABOUT</a>
 				<ul class="sub-nav">
+	                <li><a href="/about#project">Project</a></li>
 	                <li><a href="/about#policies">Policies</a></li>
-	                <li><a href="/about#community">Community</a></li>
 	            </ul>
 	    </li>
+            <li class="main-nav-item<?php if ($title == "Community") echo " current"; ?>" id="community"><a href="/community">COMMUNITY</a></li>
             <li class="main-nav-item<?php if ($title == "FAQ") echo " current"; ?>" id="faq"><a href="/faq">FAQ</a></li>
             <li class="main-nav-item<?php if ($title == "Development") echo " current"; ?>" id="development"><a href="http://github.com/databrary" target="_blank">DEVELOPMENT</a></li>
 	    <li class="main-nav-itemSignup" id="subscribe"><a class="fancybox" href="#subscriber">Newsletter</a></li>

@@ -44,14 +44,5 @@ article span
     float: right;
 }
 
-article ul
-{
-	margin-left:15px;
-	margin-bottom:5px;
-	list-style-type:circle;
-	list-style-position:outside;
-	font-family: Helvetica, Arial, sans-serif;
-    font-size: small;
-}
 
 }
