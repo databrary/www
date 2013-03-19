@@ -6,13 +6,31 @@
 
 
 /* Splash style */
-h2{
+h2,h3{
 	text-align:left;   
 	font-family: SofiaProLight, Futura, Helvetica, Arial, sans-serif;
 	font-weight:normal;
-    font-size:2.6em;
 	color:#333;
+}
 
+h2{
+    font-size:2.6em;
+}
+
+h3{
+    font-size:1.6em;
+}
+
+span{
+    font-family:SofiaProMedium, Futura, Helvetica, Arial, sans-serif;
+}
+
+#splash a{
+    text-decoration:none;
+}
+
+#splash a:hover{
+    color:#ccc;
 }
 
 p{
