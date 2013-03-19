@@ -50,6 +50,19 @@ On MailChimp, fix Testing mail confirmation / switch to a real list before site 
 
 > Databrary takes privacy very seriously, but we also believe in the principle of informed consent. We believe that many people who participate in scientific research will give permission for their data to be shared if they can be confident that their privacy and dignity will be respected. Databrary has designed policies and systems to ensure this happens.  At the end of a research study, people depicted in video and audio recordings and photographs will be asked for their permission to share with other investigators. Those investigators must authorized by Databrary to have access. Databrary only grants authorized access to individuals who meet certain criteria, and who agree to follow Databrary's policies. The investigators must show that they are knowledgeable about ethical research principles with human participants, and the investigators must show that their scientific activity is supervised by an Institutional Review Board (IRB) or its equivalent. Investigators must promise to care for information they view in Databrary with the same care they would treat information they collect. Investigators must get official approval from their university or institute before sharing data with Databrary or before conducting research on information within Databrary.
 
+- Change answer to "Who can contribute data or tools to the open share repository?" to the following:
+
+> Any researcher who has:
+	1. Been named an authorized Databrary investigator;
+	2. Has appropriate IRB clearance to collect and share data with Databrary; and
+	3. Who has sought and secured permission to share from the people depicted in video or audio recordings or photographs or from research participants who provide self-reported health-related information
+
+> may contribute data. 
+
+> Any researcher can contribute tools to the repository.
+
+> [Contact Databrary](http://databrary.org/contact/) if you want to contribute data or tools.
+
 ### [Databrary.org/jobs/](http://databrary.org/jobs/)
 
 - Font sizes for header and body text are 1 click smaller here than on datavyu.org/jobs/
