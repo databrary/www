@@ -25,8 +25,8 @@ Add links to every advisory board and committed contributor. at openshapa/opensh
 ### Links.html?
 
 Should we add a links.html page with links to other lab/data management solutions like [Open Science Framework](http://openscienceframework.org/)
-The list comes across as a hodgepodge without descriptions of each. Could probably use some pruning too since we aren't endorsing, say, Mendeley per se. I think this should wait until later.
 > [Here](https://github.com/databrary/www/edit/master/links.html) is a start based on our @databrary Twitter subscriptions.
+>> The list comes across as a hodgepodge without descriptions of each. Could probably use some pruning too since we aren't endorsing, say, Mendeley per se. I think this should wait until later.
 
 ### Site-wide footer
 
