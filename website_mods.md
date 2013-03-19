@@ -17,13 +17,9 @@
 
 - Add Funding page when we have more funding sources
 
-### [Databrary.org/jobs/](http://databrary.org/jobs/)
-
-- Font sizes for header and body text are 1 click smaller here than on datavyu.org/jobs/
-
 ### [Databrary.org/about/#community](http://staging.databrary.org/about/#community)
 
-Add links to every advisory board and committed contributor. ~~Can't find the html on github, but it was on the old databrary repo.~~found! 
+Add links to every advisory board and committed contributor. at openshapa/openshare gh-pages 
 
 ### [Databrary.org/contact/](http://staging.databrary.org/contact/)
 
@@ -35,17 +31,7 @@ Add links to every advisory board and committed contributor. ~~Can't find the ht
 ### Site-wide nav bar
 
 #### Developer tab
-
-- Should we alert that we are leaving the site? (Requires more unnecessary clicks?)
-
-> True, more clicks. Could we have a mouse-over/pop-up or is that bad UI style? 
-> Lightbox in the style of the subscription form, perhaps? It doesn't really leave the site though, it opens up a new tab.
-
 	 	
-### [datavyu.org/bugs](http://datavyu.org/bugs/)
-
-- Link takes to log-in page (offering Bugzilla alongside the support forum, both with separate logins, might be confusing to the general public. How about a link nested somewhere in the github repository for developers?)
-
 ## [Labnanny.org](http://labnanny.org)
 
 ### Links.html?
