@@ -36,7 +36,7 @@ article p
     margin: 0;
     padding: 5px 0px 5px 0px;
     font-family: Helvetica, Arial, sans-serif;
-    font-size: small;
+    font-size: 0.9em;
 }
 
 article span
@@ -51,7 +51,7 @@ article ul
 	list-style-type:circle;
 	list-style-position:outside;
 	font-family: Helvetica, Arial, sans-serif;
-    font-size: small;
+    font-size: 0.9em;
 }
 
 }
