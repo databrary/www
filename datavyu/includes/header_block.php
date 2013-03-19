@@ -49,10 +49,10 @@
 
 <div id="meta-header-background"></div>
 <div id="meta-header">
-    <a class="project" href="http://www.databrary.org"><img src="/images/navdatabrary.png" alt="Databrary">Databrary</a>
-    <a class="project" href="http://www.datavyu.org"><img src="/images/navdatavyu.png" alt="Datavyu">Datavyu</a>
-    <a class="project" href="http://www.labnanny.org"><img src="/images/navlabnanny.png" alt="Labnanny">Labnanny</a>
-    <a href="http://www.databrary.org/project/"><span class="misc">THE DATABRARY PROJECT</span></a>
+    <a class="project" href="http://databrary.org"><img src="/images/navdatabrary.png" alt="Databrary">Databrary</a>
+    <a class="project" href="http://datavyu.org"><img src="/images/navdatavyu.png" alt="Datavyu">Datavyu</a>
+    <a class="project" href="http://labnanny.org"><img src="/images/navlabnanny.png" alt="Labnanny">Labnanny</a>
+    <a href="http://databrary.org/about#project"><span class="misc">THE DATABRARY PROJECT</span></a>
 </div>
 
 <header>

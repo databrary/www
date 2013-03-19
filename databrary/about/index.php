@@ -10,8 +10,8 @@ $title = "About";
 	<?php require "../includes/header.php"; ?>
 
 	<a name="project">
-		<h1 id="project">The Databrary Project</h1> 
-		<br>
+	<h1 id="project">The Databrary Project</h1> 
+	<article>
 		<p>
 		Most developmental scientists rely on video recordings to capture the complexity and richness of behavior. Researchers rarely share video data, and this has impeded scientific progress. By creating the cyber-infrastructure and community to enable open video sharing, the Databrary project aims to facilitate deeper, richer, and broader understanding of behavior.
 		</p><p> 
@@ -26,6 +26,7 @@ $title = "About";
 		</li></ul> 
 		<p>
 		The Databrary project is dedicated to transforming the culture of developmental science by building a community of researchers committed to open video data sharing, training a new generation of developmental scientists and empowering them with an unprecedented set of tools for discovery, and raising the profile of behavioral science by  bolstering interest in and support for scientific research among the general public.</p> 
+	</article>
 
 	<a name="policies">
 		<h1 id="policies">Policies</h1>
