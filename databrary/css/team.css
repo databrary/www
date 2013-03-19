@@ -1,0 +1,17 @@
+/*
+ * File: css/team.css
+ * Author: Gladys Chan
+ * Description: stylesheet of team page
+ */
+
+h1
+{
+    font-family: SofiaProLight, Helvetica, Arial, sans-serif;
+    font-size: x-large;
+    font-weight: normal;
+}
+
+ul
+{
+    font-size: small;
+}

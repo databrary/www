@@ -11,7 +11,7 @@
 	<p>Join our mailing list to be notified of the latest news from Databrary!</p>
 <!-- Begin MailChimp Signup Form -->
 <div id="mc_embed_signup">
-	<form action="http://databrary.us2.list-manage1.com/subscribe/post?u=4b4fa9408b40cd79e92f748e5&amp;id=aa39b9b162" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	<form action="http://databrary.us2.list-manage.com/subscribe/post?u=4b4fa9408b40cd79e92f748e5&amp;id=94241ee61f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 
 		<div class="mc-field-group">
 			<label for="mce-EMAIL">Email Address </label>
@@ -52,20 +52,24 @@
     <a class="project" href="http://databrary.org"><img src="/images/navdatabrary.png" alt="Databrary">Databrary</a>
     <a class="project" href="http://datavyu.org"><img src="/images/navdatavyu.png" alt="Datavyu">Datavyu</a>
     <a class="project" href="http://labnanny.org"><img src="/images/navlabnanny.png" alt="Labnanny">Labnanny</a>
-    <a href="http://databrary.org/about#project"><span class="misc">THE DATABRARY PROJECT</span></a>
+    <a href="/about#project"><span class="misc">THE DATABRARY PROJECT</span></a>
 </div>
 
 <header>
-    <a href="/"><img id="logo" src="/images/datavyu.png" alt="Datavyu"></a>
+    <a href="/"><img id="logo" src="/images/databrary.png" alt="Databrary"></a>
     <nav>
         <ul id="main-nav">
-            <li class="main-nav-item<?php if ($title == "Download") echo " current"; ?>" id="download"><a href="/download">DOWNLOAD</a></li>
-            <li class="main-nav-item<?php if ($title == "Features") echo " current"; ?>" id="features"><a href="/features">FEATURES</a></li>
-            <li class="main-nav-item<?php if ($title == "Support") echo " current"; ?>" id="support"><a href="/support">SUPPORT</a></li>
-            <li class="main-nav-item<?php if ($title == "Developer") echo " current"; ?>" id="developer"><a href="http://github.com/databrary/datavyu" target="_blank">DEVELOPMENT</a></li>
-            <li class="main-nav-item<?php if ($title == "Blog") echo " current"; ?>" id="blog"><a href="/blog">BLOG</a></li>
+            <li class="main-nav-item<?php if ($title == "About") echo " current"; ?>" id="about"><a href="/about">ABOUT</a>
+				<ul class="sub-nav">
+	                <li><a href="/about#project">Project</a></li>
+	                <li><a href="/about#policies">Policies</a></li>
+	            </ul>
+	    </li>
+            <li class="main-nav-item<?php if ($title == "Community") echo " current"; ?>" id="community"><a href="/community">COMMUNITY</a></li>
+            <li class="main-nav-item<?php if ($title == "FAQ") echo " current"; ?>" id="faq"><a href="/faq">FAQ</a></li>
+            <li class="main-nav-item<?php if ($title == "Development") echo " current"; ?>" id="development"><a href="http://github.com/databrary" target="_blank">DEVELOPMENT</a></li>
 	    <li class="main-nav-itemSignup" id="subscribe"><a class="fancybox" href="#subscriber">Newsletter</a></li>
-        </ul>   
+        </ul>
     </nav>
 </header>
 

@@ -64,7 +64,7 @@ date_default_timezone_set('America/New_York');
 		$mail->AddReplyTo($_POST['email'], $_POST['name']);
 		$mail->AddAddress($emailAddress);
 		$mail->SetFrom($_POST['email'], $_POST['name']);
-		$mail->Subject = "Datavyu contact form msg from ".$_POST['name']." | ".$_POST['subject'];
+		$mail->Subject = "Databrary contact form msg from ".$_POST['name']." | ".$_POST['subject'];
 
 		$mail->MsgHTML($msg);
 
@@ -95,8 +95,7 @@ function checkEmail($str)
 require "../includes/header.php";
 ?>
 
-<h1>Contact Datavyu</h1>
-	<p>For troubleshooting and any technical assistance, please visit the <a href="../support/">support forum</a>.		Otherwise, send us a message and we will get back to you shortly.</p>  
+<h1>Contact Databrary</h1>
 <div id="contact-container">
 
 	<div class="form-container">
@@ -134,7 +133,7 @@ require "../includes/header.php";
           <td valign="top">&nbsp;</td>
           <td colspan="2"><input type="submit" name="button" id="button" value="Submit" />
           <input type="reset" name="button2" id="button2" value="Reset" />
-	  <input type='hidden' name='expect' value='<?=$n1+$n2?>'/>
+		  <input type='hidden' name='expect' value='<?=$n1+$n2?>'/>
         </tr>
       </table>
       </form>    
