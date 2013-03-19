@@ -131,22 +131,22 @@ nav li
  */
 nav .current#about
 {
-    background-color: #6C6;
+    background-color: #95CF72;
 }
 
 nav .current#community
 {
-    background-color: #6C6;
+    background-color: #95CF72;
 }
 
 nav .current#development
 {
-    background-color: #6C6;
+    background-color: #95CF72;
 }
 
 nav .current#faq
 {
-    background-color: #6C6;
+    background-color: #95CF72;
 }
 
 
@@ -162,7 +162,7 @@ nav a
 
 nav a:hover
 {
-    background-color: #FC3;
+    background-color: #72CF83;
 }
 
 /* Dropdown items */

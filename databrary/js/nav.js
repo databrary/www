@@ -9,7 +9,7 @@ $("body").ready(function() {
         var sub_nav = $(this).find(".sub-nav");
         var parent_width = $(this).width();
         
-        $(this).css("background-color", "#FC3");
+        $(this).css("background-color", "#72CF83");
         sub_nav.width(parent_width - 2);             // 2 = border
         sub_nav.find("li").width(parent_width - 22); // 22 = padding + border
         sub_nav.css("z-index", "10");
@@ -20,13 +20,13 @@ $("body").ready(function() {
         if ($(this).hasClass("current")) {
 			/* Colors defined in css/main.css */
             if ($(this).is("#about"))
-                $(this).css("background-color", "#6C6");
+                $(this).css("background-color", "#95CF72");
 	    else if ($(this).is("#community"))
-                $(this).css("background-color", "#6C6");
+                $(this).css("background-color", "#95CF72");
             else if ($(this).is("#faq"))
-                $(this).css("background-color", "#6C6");
+                $(this).css("background-color", "#95CF72");
             else if ($(this).is("#development"))
-                $(this).css("background-color", "#6C6");
+                $(this).css("background-color", "#95CF72");
         }
         else
             $(this).css("background-color", "#FFF");
