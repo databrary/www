@@ -29,40 +29,6 @@
 
 On MailChimp, fix Testing mail confirmation / switch to a real list before site goes live.
 
-### [Databrary.org/faq/](http://databrary.org/faq/)
-
-- Need a blurb for "What is Databrary?"
-
-> Databrary is a data library for scientists to share video and audio recordings, research data and analytical tools, and metadata with other investigators.
-
-- Replace answer to "Will I receive credit for my contributions if other researchers use my data?" with the following:
-
-> Yes. Users will sign an agreement stating that they will acknowledge contributors by citing any data or tool they use from Databrary. Databrary will provide permanent links and a citation format.
-
-- Replace answer to "What can I contribute?" with the following:
-
-> Data contributors can share raw digital video files, other data streams (e.g., audio, motion tracking, eye tracking coordinates, physiological data, transcripts), papers based on the data, associated metadata (e.g., coded spreadsheets, codebook, questionnaires, instruments, analysis spreadsheets), and a handful of tags describing the overall dataset that reflect standard federal guidelines (number of participants at various ages and their sex, race, ethnicity, and geographical region, typically/atypically developing) and study design (human/animal, naturalistic/experimental, cross-sectional/longitudinal). These rich forms of metadata will help users to search for appropriate datasets within Databrary, browse the videos within datasets for particulars, and make greater use of datasets for research and teaching. 
-> Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see [Databrary definitions](https://databrary.com/policies/definitions.md)"), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created template documents for this purpose (see examples [here](https://github.com/databrary/policies/) ).  
-> In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends investigators adopt [best practices for data security](https://github.com/databrary/policies/blob/master/best-practices.md and uphold the [Databrary Bill of Rights](https://github.com/databrary/policies/blob/master/bill-of-rights.md).
-> Tool contributors can share tools and algorithms for visualizing, exploring, and analyzing data, and other uses. Links and scripts will enable interoperability between coded data and tools. Open source tools can share the source code.
-
-- Change answer to "What about privacy?" to the following:
-
-> Databrary takes privacy very seriously, but we also believe in the principle of informed consent. We believe that many people who participate in scientific research will give permission for their data to be shared if they can be confident that their privacy and dignity will be respected. Databrary has designed policies and systems to ensure this happens.  At the end of a research study, people depicted in video and audio recordings and photographs will be asked for their permission to share with other investigators. Those investigators must authorized by Databrary to have access. Databrary only grants authorized access to individuals who meet certain criteria, and who agree to follow Databrary's policies. The investigators must show that they are knowledgeable about ethical research principles with human participants, and the investigators must show that their scientific activity is supervised by an Institutional Review Board (IRB) or its equivalent. Investigators must promise to care for information they view in Databrary with the same care they would treat information they collect. Investigators must get official approval from their university or institute before sharing data with Databrary or before conducting research on information within Databrary.
-
-- Change answer to "Who can contribute data or tools to the open share repository?" to the following:
-
-> Any researcher who has:
-	1. Been named an authorized Databrary investigator;
-	2. Has appropriate IRB clearance to collect and share data with Databrary; and
-	3. Who has sought and secured permission to share from the people depicted in video or audio recordings or photographs or from research participants who provide self-reported health-related information
-
-> may contribute data. 
-
-> Any researcher can contribute tools to the repository.
-
-> [Contact Databrary](http://databrary.org/contact/) if you want to contribute data or tools.
-
 ### [Databrary.org/jobs/](http://databrary.org/jobs/)
 
 - Font sizes for header and body text are 1 click smaller here than on datavyu.org/jobs/
