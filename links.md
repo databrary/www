@@ -1,5 +1,7 @@
 # Open Access/Big Data Journals
 
+- [Archives of Scientific Psychology](http://www.apa.org/pubs/journals/arc/index.aspx)
+- [Journal of Open Psychology Data](http://openpsychologydata.metajnl.com/about/)
 - [BMJOpen](http://bmjopen.bmj.com/), @BMJ_Open
 - [GigaScience](http://www.gigasciencejournal.com/), @gigascience
 - [PeerJ](https://peerj.com/), @peerj
@@ -10,8 +12,23 @@
 
 - [MyOpenArchive](http://myopenarchive.org/), @myopenarchive
 - [Open Repository](http://www.openrepository.com/), @OpenRepository
-- [OpenFMRI](http://openfmri.org)
 - [FigShare](http://figshare.com/), @figshare
+
+## Social science and education
+- [TalkBank](http://www.talkbank.org/)
+- [ICPSR](http://www.icpsr.umich.edu/icpsrweb/landing.jsp)
+- [Dataverse](http://thedata.org/)
+- [Journal of Open Psychology Data](http://openpsychologydata.metajnl.com/about/)
+- [PsychFileDrawer.org](http://psychfiledrawer.org/)
+- [Reproducibility Project](http://openscienceframework.org/project/EZcUj/wiki/home)
+- [CMDbase.org (animal behavior)](http://cmdbase.org/)
+- [Video Mosaic Collaborative](http://videomosaic.org/)
+
+## Neuroscience
+
+- [Biomedical Informatics Research Network (BIRN)](http://www.birncommunity.org/resources/tools/)
+- [OpenFMRI](http://openfmri.org)
+- [Neurosynth.org](http://neurosynth.org)- [Brainmap.org](http://brainmap.org)- [International Electrophysiology Epilepsy Data Portal](http://ieeg.org)
 
 # Lab/Research Management, Tools
 
@@ -20,3 +37,13 @@
 - [SoftwareCarpentry](http://software-carpentry.org/), @swcarpentry
 - [rOpenSci](http://ropensci.org/), @ropensci
 - [IPython](http://ipython.org/), @IPythonDev
+
+# Video/audio coding tools
+
+- [ELAN](http://tla.mpi.nl/tools/tla-tools/elan/) 
+- [Transana](http://www.transana.org/)
+- [Noldus Observer](http://www.noldus.com/human-behavior-research/products/the-observer-xt)
+- [Mangold Interact](http://www.mangold-international.com/software/interact/what-is-interact.html)
+- [LENA](http://www.lenafoundation.org/)
+- [StudioCode](http://www.studiocodegroup.com/)
+- [DIVER: Digital Interactive Video Exploration and Reflection](http://diver.stanford.edu/)
