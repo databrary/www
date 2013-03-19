@@ -2,7 +2,6 @@
 
 ## Site-wide
 
-- ~~Increase font size site-wide?~~
 - databrary.com does not point to www.databrary.org site.
   Yes, it does:
     databrary.com is an alias for databrary.org.
@@ -11,12 +10,6 @@
 ## [Databrary.org](http://databrary.org)
 
 ### Site-wide footer
-- We need a databrary-specific footer.
-	- ~~Facebook icon links to datavyu, not databrary FB page. Correct URL is https://www.facebook.com/pages/Databrary/185349568273416~~
-	- ~~Google+ icond links to @datavyu, not @databrary. Correct URL is https://plus.google.com/u/1/111083162045777800330/posts~~ 
-	- ~~GitHub icon links to http://github.com/databrary/datavyu; Correct URL is http://github.com/databrary~~
-	- Twitter icon link is correct.
-	- Fix URLs to Jobs and Contact to databrary.org/jobs/ and databrary.org/contact from staging*
 
 - Add Funding page when we have more funding sources
 
@@ -26,7 +19,6 @@ Add links to every advisory board and committed contributor. at openshapa/opensh
 
 ### [Databrary.org/contact/](http://staging.databrary.org/contact/)
 
-- ~~Header says "Contact Datavyu." Change to "Contact Databrary."~~
 - Add some team photos.
 
 ## [Datavyu.org](http://datavyu.org)
@@ -40,7 +32,7 @@ Add links to every advisory board and committed contributor. at openshapa/opensh
 ### Links.html?
 
 Should we add a links.html page with links to other lab/data management solutions like [Open Science Framework](http://openscienceframework.org/)
-Agreed. Can someone provide a list of these links?
+The list comes across as a hodgepodge without descriptions of each. Could probably use some pruning too since we aren't endorsing, say, Mendeley per se. I think this should wait until later.
 > [Here](https://github.com/databrary/www/edit/master/links.html) is a start based on our @databrary Twitter subscriptions.
 
 ### Site-wide footer
