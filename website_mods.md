@@ -4,6 +4,9 @@
 
 - ~~Increase font size site-wide?~~
 - databrary.com does not point to www.databrary.org site.
+  Yes, it does:
+    databrary.com is an alias for databrary.org.
+  foo.databrary.com doesn't but blame name.com for that.
 
 ## [Databrary.org](http://databrary.org)
 
