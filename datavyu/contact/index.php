@@ -64,7 +64,7 @@ date_default_timezone_set('America/New_York');
 		$mail->AddReplyTo($_POST['email'], $_POST['name']);
 		$mail->AddAddress($emailAddress);
 		$mail->SetFrom($_POST['email'], $_POST['name']);
-		$mail->Subject = "Datavyu contact form msg from ".$_POST['name']." | ".mb_strtolower($_POST['subject']);
+		$mail->Subject = "Datavyu contact form msg from ".$_POST['name']." | ".$_POST['subject'];
 
 		$mail->MsgHTML($msg);
 
@@ -117,7 +117,7 @@ require "../includes/header.php";
         </tr>
         <tr>
           <td><label for="subject">Subject</label></td>
-          <td><input type="text" class="validate[required]" name="subject" id="subject" /></td>
+          <td><input type="text" class="validate[required]" name="subject" id="subject"/></td>
           <td>&nbsp;</td>
         </tr>
         <tr>

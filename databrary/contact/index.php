@@ -34,7 +34,7 @@ date_default_timezone_set('America/New_York');
 		$err[]='Your email is invalid.';
 
 	if(!checkLen('subject'))
-		$err[]='You have not selected a subject.';
+		$err[]='You have not filled in the subject.';
 
 	if(!checkLen('message'))
 		$err[]='The message field is too short or empty.';
@@ -64,7 +64,7 @@ date_default_timezone_set('America/New_York');
 		$mail->AddReplyTo($_POST['email'], $_POST['name']);
 		$mail->AddAddress($emailAddress);
 		$mail->SetFrom($_POST['email'], $_POST['name']);
-		$mail->Subject = "Message regarding ".mb_strtolower($_POST['subject'])." from ".$_POST['name']." | Databrary contact form feedback";
+		$mail->Subject = "Databrary contact form msg from ".$_POST['name']." | ".$_POST['subject'];
 
 		$mail->MsgHTML($msg);
 
@@ -96,7 +96,6 @@ require "../includes/header.php";
 ?>
 
 <h1>Contact Databrary</h1>
-	<p>For troubleshooting and any technical assistance, please visit the <a href="../support/">support forum</a>.		Otherwise, send us a message and we will get back to you shortly.</p>  
 <div id="contact-container">
 
 	<div class="form-container">
@@ -134,10 +133,7 @@ require "../includes/header.php";
           <td valign="top">&nbsp;</td>
           <td colspan="2"><input type="submit" name="button" id="button" value="Submit" />
           <input type="reset" name="button2" id="button2" value="Reset" />
-          
 		  <input type='hidden' name='expect' value='<?=$n1+$n2?>'/>
- 
-          <img id="loading" src="img/ajax-load.gif" width="16" height="16" alt="loading" /></td>
         </tr>
       </table>
       </form>    
@@ -151,7 +147,7 @@ require "../includes/header.php";
 <div id="loc-container">
 	<div class="form-container">
 		<h2>Office Location</h3>
-		<p>196 Mercer St., 8th Floor, Attn: Databrary, New York, NY 10012</p>
+		<p>Attn: Databrary<br/>196 Mercer St., 8th Floor<br/>New York, NY 10012</p>
 	</div>
 </div>
 <?php require "../includes/footer.php" ?>
