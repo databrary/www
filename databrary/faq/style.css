@@ -56,6 +56,14 @@ article ul
 	font-family: Helvetica, Arial, sans-serif;
     font-size: small;
 }
+article ol
+{
+	margin-left:15px;
+	margin-bottom:5px;
+	list-style-position:outside;
+	font-family: Helvetica, Arial, sans-serif;
+    font-size: small;
+}
 
 article span
 {
