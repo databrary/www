@@ -9,10 +9,6 @@
 
 ## [Databrary.org](http://databrary.org)
 
-### Site-wide footer
-
-- Add Funding page when we have more funding sources
-
 ### [Databrary.org/about/#community](http://staging.databrary.org/about/#community)
 
 Add links to every advisory board and committed contributor. at openshapa/openshare gh-pages 
@@ -23,9 +19,6 @@ Add links to every advisory board and committed contributor. at openshapa/opensh
 
 ## [Datavyu.org](http://datavyu.org)
 
-### Site-wide nav bar
-
-#### Developer tab
 	 	
 ## [Labnanny.org](http://labnanny.org)
 
