@@ -16,6 +16,7 @@
 	- Google+ icond links to @datavyu, not @databrary. Correct URL is https://plus.google.com/u/1/111083162045777800330/posts
 	- GitHub icon links to http://github.com/databrary/datavyu; Correct URL is http://github.com/databrary
 	- Twitter icon link is correct.
+	- Fix URLs to Jobs and Contact to databrary.org/jobs/ and databrary.org/contact from staging*
 
 - Add Funding page when we have more funding sources
 
@@ -29,10 +30,18 @@ On MailChimp, fix Testing mail confirmation / switch to a real list before site 
 
 ### Need a blurb for "What is Databrary?" on FAQ page. Right now there is only a question.
 
+### [Databrary.org/jobs/](http://databrary.org/jobs/)
+
+- Font sizes for header and body text are 1 click smaller here than on datavyu.org/jobs/
 
 ### [Databrary.org/about/#community](http://staging.databrary.org/about/#community)
 
 Add links to every advisory board and committed contributor. ~~Can't find the html on github, but it was on the old databrary repo.~~found! 
+
+### [Databrary.org/contact/](http://staging.databrary.org/contact/)
+
+- Header says "Contact Datavyu." Change to "Contact Databrary."
+- 
 
 ## [Datavyu.org](http://datavyu.org)
 
