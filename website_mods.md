@@ -11,6 +11,11 @@
 
 ~~- Funding source with NSF logo and grant number (BCS 1238599) on each page (footer?)~~
  >Not sure this is site-wide. I see the footer in the datavyu.org pages, but not on staging.databrary.org. Probably just replicate the footer or 
+- We need a databrary-specific footer.
+	- Facebook icon links to datavyu, not databrary FB page. Correct URL is https://www.facebook.com/pages/Databrary/185349568273416?.
+	- Google+ icond links to @datavyu, not @databrary. Correct URL is https://plus.google.com/u/1/111083162045777800330/posts
+	- GitHub icon links to http://github.com/databrary/datavyu; Correct URL is http://github.com/databrary
+	- Twitter icon link is correct.
 
 - Add Funding page when we have more funding sources
 
