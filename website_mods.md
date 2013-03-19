@@ -4,7 +4,7 @@
 
 - ~~Increase font size site-wide?~~
 - databrary.com does not point to www.databrary.org site.
-- 
+
 ## [Databrary.org](http://databrary.org)
 
 ### Site-wide footer
