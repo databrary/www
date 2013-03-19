@@ -51,7 +51,7 @@ $title = "Community";
 
 	<article>
 		<h2>Committed Contributors</h2>
-	        <p><a href="http://www.psych.nyu.edu/adolph/">Karen Adolph</a>, New York University</p>  
+		<p><a href="http://www.psych.nyu.edu/adolph/">Karen Adolph</a>, New York University</p>  
 		<p><a href="http://psych.indiana.edu/faculty/alberts.php">Jeff Alberts</a>, Indiana University</p>
 		<p><a href="http://glial.psych.wisc.edu/index.php/psychsplashfacstaff/90">Martha Alibali</a>, University of Wisconsin</p>  
 		<p><a href="http://www.brown.edu/Departments/CLPS/people/dima-amso">Dima Amso</a>, Brown University</p>
@@ -103,7 +103,7 @@ $title = "Community";
 		<p><a href="http://psych.la.psu.edu/directory/faculty-bios/liben.html">Lynn Liben</a>, University of Pennsylvania</p>
 		<p><a href="http://www.udel.edu/chs/facultystaff/lobo.html">Michele Lobo</a>, University of Delaware</p>
 		<p><a href="http://www.faculty.virginia.edu/childstudycenter/people2.html">Vanessa LoBoue</a>, Rutgers University</p>
-		<p><a href="http://tulane.edu/sse/psyc/faculty-and-staff/faculty/lockman.cfm">Jeff Lockman,Tulane University</a></p>   
+		<p><a href="http://tulane.edu/sse/psyc/faculty-and-staff/faculty/lockman.cfm">Jeff Lockman</a>, Tulane University</p>   
 		<p><a href="http://www.ryerson.ca/psychology/faculty/ma/index.html">Lili Ma</a>, Ryerson University</p>
 		<p><a href="http://www.virginia.edu/psychology/people/detail.php?id=77">Angeline Lillard</a>, University of Virginia</p>
 		<p><a href="http://psyling.psy.cmu.edu/">Brian MacWhinney</a>, Carnegie Mellon University</p>
