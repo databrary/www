@@ -22,7 +22,7 @@ $title = "Community";
 
 				<p>Clinton Freeman, Developer</p>
 
-				<p>Jesse Lingeman, Developer </p>
+				<p><a href="http://jesseisageek.com">Jesse Lingeman</a>, Developer </p>
 
 				<p>Eric Montellese, Developer</p>
 
