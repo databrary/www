@@ -23,7 +23,7 @@ Add links to every advisory board and committed contributor. at openshapa/opensh
 
 ### [Databrary.org/contact/](http://staging.databrary.org/contact/)
 
-- Header says "Contact Datavyu." Change to "Contact Databrary."
+- ~~Header says "Contact Datavyu." Change to "Contact Databrary."~~
 - Add some team photos.
 
 ## [Datavyu.org](http://datavyu.org)
