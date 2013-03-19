@@ -61,11 +61,10 @@
         <ul id="main-nav">
             <li class="main-nav-item<?php if ($title == "Download") echo " current"; ?>" id="download"><a href="/download">DOWNLOAD</a></li>
             <li class="main-nav-item<?php if ($title == "Features") echo " current"; ?>" id="features"><a href="/features">FEATURES</a></li>
-            <li class="main-nav-item<?php if ($title == "Support") echo " current"; ?>" id="support"><a href="/support">SUPPORT</a>
-            </li>
+            <li class="main-nav-item<?php if ($title == "Support") echo " current"; ?>" id="support"><a href="/support">SUPPORT</a></li>
             <li class="main-nav-item<?php if ($title == "Developer") echo " current"; ?>" id="developer"><a href="http://github.com/databrary/datavyu" target="_blank">DEVELOPMENT</a></li>
             <li class="main-nav-item<?php if ($title == "Blog") echo " current"; ?>" id="blog"><a href="/blog">BLOG</a></li>
-			<li class="main-nav-itemSignup" id="subscribe"><a class="fancybox" href="#subscriber">Newsletter</a></li>
+	    <li class="main-nav-itemSignup" id="subscribe"><a class="fancybox" href="#subscriber">Newsletter</a></li>
         </ul>   
     </nav>
 </header>
