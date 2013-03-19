@@ -95,7 +95,7 @@ function checkEmail($str)
 require "../includes/header.php";
 ?>
 
-<h1>Contact Datavyu</h1>
+<h1>Contact Databrary</h1>
 	<p>For troubleshooting and any technical assistance, please visit the <a href="../support/">support forum</a>.		Otherwise, send us a message and we will get back to you shortly.</p>  
 <div id="contact-container">
 
