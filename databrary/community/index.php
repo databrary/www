@@ -15,7 +15,7 @@ $title = "Community";
 		<p>Lisa Steiger, New York University</p>
 		<p>Dylan Simon, Developer, New York University</p>
 		<p>Clinton Freeman, Developer</p>
-		<p><a href="http://jesseisageek.com">Jesse Lingeman</a>, Developer</p>
+		<p>Jesse Lingeman, Developer</p>
 		<p>Eric Montellese, Developer</p>
 		<p>Kasey Soska, User Support</p>
 		<p>Gladys Chan, Web Design</p>
