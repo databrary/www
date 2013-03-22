@@ -51,8 +51,8 @@ $title = "FAQ";
 		<h2>What can I contribute?</h2>
 
 		<p>Data contributors can share raw digital video files, other data streams (e.g., audio, motion tracking, eye tracking coordinates, physiological data, transcripts), papers based on the data, associated metadata (e.g., coded spreadsheets, codebook, questionnaires, instruments, analysis spreadsheets), and a handful of tags describing the overall dataset that reflect standard federal guidelines (number of participants at various ages and their sex, race, ethnicity, and geographical region, typically/atypically developing) and study design (human/animal, naturalistic/experimental, cross-sectional/longitudinal). These rich forms of metadata will help users to search for appropriate datasets within Databrary, browse the videos within datasets for particulars, and make greater use of datasets for research and teaching.</p>
-		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='https://github.com/databrary/policies/definitions.md'>Databrary definitions</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created template documents for this purpose (see <a href='https://github.com/databrary/policies/'>examples</a>).</p>
-		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends investigators adopt <a href='https://github.com/databrary/policies/blob/master/best-practices.md'>best practices for data security</a> and uphold the <a href='https://github.com/databrary/policies/blob/master/bill-of-rights.md'>Databrary Bill of Rights</a>.</p>
+		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='https://github.com/databrary/policies/definitions.md' target='_blank'>Databrary definitions</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created template documents for this purpose (see <a href='https://github.com/databrary/policies/' target='_blank'>examples</a>).</p>
+		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends investigators adopt <a href='https://github.com/databrary/policies/blob/master/best-practices.md' target='_blank'>best practices for data security</a> and uphold the <a href='https://github.com/databrary/policies/blob/master/bill-of-rights.md' target='_blank'>Databrary Bill of Rights</a>.</p>
 		<p>Tool contributors can share tools and algorithms for visualizing, exploring, and analyzing data, and other uses. Links and scripts will enable interoperability between coded data and tools. Open source tools can share the source code.</p>
 
 	</article>   
@@ -67,48 +67,49 @@ $title = "FAQ";
 		<h2>What are some ways I might use it?</h2>
 
 		<p>Consistent with NIH guidelines on data sharing, researchers can:</p>
-        <ul>
-		<li> Upload their own video data and metadata for sharing and archival storage so that their data will survive in usable form beyond their lifetimes</li>
+	        	<ul>
+				<li> Upload their own video data and metadata for sharing and archival storage so that their data will survive in usable form beyond their lifetimes</li>
 
-		<li> Enhance teaching by extracting video clips that illustrate an empirical or theoretical point and showing it to their students</li>
-
-		<li> Enhance classroom lessons by allowing students to observe and score children's behaviors or to run "mini-studies" across the data store</li>
-
-		<li> Point readers and reviewers to raw video data that illustrate procedures and findings</li>
-
-		<li> View archived data for exemplars to make comparisons with their own work, and reinforce open scientific inquiry, to check how coding was done, see what displays or apparatuses were used, and gather detailed information to understand better how conclusions were drawn</li>
-
-		<li> Browse the database to stimulate ideas that lead to further research</li>
-
-		<li> Expand their own sample sizes, run replication studies, examine cohort effects, and assess possible differences due to geographical location or population by using suitable data in the archive</li>
-
-		<li> Integrate data across archived studies to create new datasets or to conduct meta-analyses on raw data or metadata</li>
-
-		<li> Build on other researchers' codes and prior coding efforts to extend or transform prior analyses and promote further discovery, and return the results to the archive</li>
-
-		<li> Score archived data for behaviors that were outside the scope of the original study and then return the results to the archive</li>
-
-		<li> Use the video data themselves as stimuli in new studies</li>
-
-		<li> Use archived data for new purposes in fields outside developmental psychology</li>
-
-		<li> Use archived data to test the performance of visualization, exploration, and analysis tools</li>
-
-		<li> Use various tools contributed to the archive to enhance understanding of their own data</li>
-
-		<li> Collaborate with like-minded researchers in a sub-area of development to create corpora of data with shared coding schemes and other metadata, as exemplified by TalkBank</li></ul>
+				<li> Enhance teaching by extracting video clips that illustrate an empirical or theoretical point and showing it to their students</li>
+		
+				<li> Enhance classroom lessons by allowing students to observe and score participants' behaviors or to run "mini-studies" across the data store</li>
+		
+				<li> Point readers and reviewers to raw video data that illustrate procedures and findings</li>
+		
+				<li> View archived data for exemplars to make comparisons with their own work and reinforce open scientific inquiry by checking how coding was done, seeing what displays or apparatuses were used, and gathering detailed information to understand better how conclusions were drawn</li>
+		
+				<li> Browse the database to stimulate ideas that lead to further research</li>
+		
+				<li> Expand their own sample sizes, run replication studies, examine cohort effects, and assess possible differences due to geographical location or population by using suitable data in the archive</li>
+		
+				<li> Integrate data across archived studies to create new datasets or to conduct meta-analyses on raw data or metadata</li>
+		
+				<li> Build on other researchers' codes and prior coding efforts to extend or transform prior analyses and promote further discovery and return the results to the archive</li>
+		
+				<li> Score archived data for behaviors that were outside the scope of the original study and then return the results to the archive</li>
+		
+				<li> Use the video data themselves as stimuli in new studies</li>
+		
+				<li> Use archived data for new purposes in fields outside developmental psychology</li>
+		
+				<li> Use archived data to test the performance of visualization, exploration, and analysis tools</li>
+		
+				<li> Use various tools contributed to the archive to enhance understanding of their own data</li>
+		
+				<li> Collaborate with like-minded researchers in a sub-area of development to create corpora of data with shared coding schemes and other metadata, as exemplified by TalkBank</li>
+			</ul>
 	</article>
 
 	<article id="whocon">
 		<h2>Who can contribute data or tools to the open share repository?</h2>
 
-		<p>Any researcher who has:
-		<ol>
-		<li>Been named an authorized Databrary investigator;</li>
-		<li>Has appropriate IRB clearance to collect and share data with Databrary; and</li>
-		<li>Who has sought and secured permission to share from the people depicted in video or audio recordings or photographs or from research participants who provide self-reported health-related information</li>
-		</ol>
-		may contribute data.</p>
+		<p>Any researcher who has:</p>
+			<ol>
+				<li>Been named an authorized Databrary investigator;</li>
+				<li>Has appropriate IRB clearance to collect and share data with Databrary; and</li>
+				<li>Who has sought and secured permission to share from the people depicted in video or audio recordings or photographs or from research participants who provide self-reported health-related information</li>
+			</ol>
+		<p>may contribute data.</p>
 
 		<p>Any researcher can contribute tools to the repository.</p>
 
@@ -139,11 +140,11 @@ $title = "FAQ";
 	</article>
 
 	<article id="requirements">
-		<h2>Do I have to use OpenSHAPA or <a href="http://datavyu.org">Datavyu</a> to contribute?</h2>
+		<h2>Do I have to use <a href="http://datavyu.org">Datavyu</a> to contribute?</h2>
 
-		<p>No. Contributors are not required to score their data with the OpenSHAPA coding tool. However, we encourage them to use OpenSHAPA because it is free and open source and every user strengthens and grows the community.</p> 
+		<p>No. Contributors are not required to score their data with the Datavyu coding tool. However, we encourage them to use Datavyu because it is free and open source and every user strengthens and grows the community.</p> 
 
-		<p>We will work towards round trip interoperability between OpenSHAPA and other free or low-cost academic tools (TalkBank, Elan, Transana). We are also aiming to build one-way translation between commercial tools (e.g., Noldus, Mangold) and OpenSHAPA.</p> 
+		<p>We will work towards round trip interoperability between Datavyu and other free or low-cost academic tools (OpenSHAPA, TalkBank, Elan, Transana). We are also aiming to build one-way translation between commercial tools (e.g., Noldus, Mangold) and Datavyu.</p> 
 	</article>
 
 	<article id="improve">
