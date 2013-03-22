@@ -29,9 +29,10 @@ $title = "Community";
 		<p>Richard Aslin, William R. Kenan Professor of Brain &amp; Cognitive Sciences, Director of Rochester Center for Brain Imaging, University of Rochester</p>
 		<p>Roger Bakeman, Professor of Psychology Emeritus, Georgia State University</p>
 		<p>Bennett Bertenthal, James H. Rudy Professor of Psychological and Brain Sciences, Director of SidGRID, Indiana University</p>
-		<p>Howard Besser, Professor of Cinema Studies, Director, Moving Image Archiving &amp; Preservation Program, New York University</p>
+		<p>Howard Besser, Professor of Cinema Studies, Director of Moving Image Archiving &amp; Preservation Program, New York University</p>
 		<p>Erik De Schutter, Professor, Okinawa Institute of Science and Technology, President, Organization for Computational Neuroscience</p>
 		<p>James Cole Galloway, Professor of Physical Therapy, Psychology, Human Development and Family Studies, and Biomechanics and Movement Sciences, University of Delaware</p>
+		<p>Clyde Lee Giles, David Reese Professor at the College of Information Sciences and Technology, Director of the Intelligent Systems Research Laboratory, The Pennsylvania State University </p>
 		<p>Paul Horn, Senior Vice Provost for Research, Distinguished Scientist in Residence, New York University</p>
 		<p>Carl Kesselman, Professor of Industrial and Systems Engineering, Fellow of the USC Information Sciences Institute, Director of BIRN, University of Southern California</p>
 		<p>Yann LeCun, Silver Professor of the Courant Institute of Mathematical and Computer Sciences, New York University</p>
