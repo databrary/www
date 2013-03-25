@@ -46,6 +46,12 @@
     line-height: 150%;
 }
 
-.feature {
+.feature
+{
 	border:1px;
+}
+
+.feature img, .feature video
+{
+	border: 1px solid #000;	
 }
