@@ -148,7 +148,7 @@ require "../includes/header.php";
 <div id="loc-container">
 	<div class="form-container">
 		<h2>Office Location</h3>
-		<p>Attn: Databrary<br/>196 Mercer St., 8th Floor<br/>New York, NY 10012</p>
+		<p>Attn: Databrary<br/>196 Mercer St., 8th Floor, Room 807<br/>New York, NY 10012</p>
 	</div>
 </div>
 <?php require "../includes/footer.php" ?>
