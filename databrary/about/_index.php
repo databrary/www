@@ -49,7 +49,7 @@ $title = "About";
           <li>Permission to Share Self-Reported Health-Related Information of Children Under 12, <a href="..doc/share-health-child-2013-04-05.doc">.doc</a>, <a href="..doc/share-health-child-2013-04-05.pdf">.pdf</a></li>
           <li>Assent to Share Self-Reported Health-Related Information  Script for Children Younger Than 12, <a href="..doc/assent-script-health-2013-04-05.doc">.doc</a>, <a href="..doc/assent-script-health-2013-04-05.pdf">.pdf</a></li>
          </ul>
-		<p>For more information about Databrary policies and procedures see the <a href="http://github.com/databrary/policies" target="_blank">github repository</a>.</p>
+		<p>For more information about Databrary policies and procedures see the <a href="http://github.com/databrary/policies" target="_blank">github repository</a>.	</p>
 	</article>
 
 <?php require "../includes/footer.php"; ?>
