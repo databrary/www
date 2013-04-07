@@ -36,7 +36,7 @@ $title = "Jobs";
         <h3>Compensation</h3>
 		<p>Salary range competitive with senior level academic positions plus full NYU benefits, including health and tuition remission.</p>
         <h3>To apply</h3>
-        <p>Send the following to <a href='mailto:lisa.steiger@nyu.edu'>Lisa Steiger</a>:</p>
+        <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
         <ul>
             <li>One page cover letter (PDF)</li>
             <li>Academic transcript of your formal qualifications (PDF)</li>
@@ -77,7 +77,7 @@ $title = "Jobs";
         <h3>Compensation</h3>
 		<p>Salary range competitive with senior level academic positions plus full NYU benefits, including health and tuition remission.</p>
         <h3>To apply</h3>
-        <p>Send the following to <a href='mailto:lisa.steiger@nyu.edu'>Lisa Steiger</a>:</p>
+        <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
         <ul>
             <li>One page cover letter (PDF)</li>
             <li>Academic transcript of your formal qualifications (PDF)</li>
