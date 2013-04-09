@@ -39,18 +39,18 @@ $title = "About";
 
 		<h2>Procedures</h2>
 
-		<p>Databrary is governed by a set of <a href="/pdf/sops-2013-04-05.pdf" target="_blank">standard operating procedures</a> (SOPs). Individuals who wish to have full access must apply for authorized Investigator or Affiliate Investigator status. Only researchers who demonstrate knowledge of the principles of research ethics with human participants and who agree to the provisions of Databrary's <a href="/pdf/investigator-agmt-2013-04-05.pdf" target="_blank">Investigator Agreement</a> will be granted access.</p>
+		<p>Databrary is governed by a set of <a href="/pdf/sops-2013-04-09.pdf" target="_blank">standard operating procedures</a> (SOPs). Individuals who wish to have full access must apply for authorized Investigator or Affiliate Investigator status. Only researchers who demonstrate knowledge of the principles of research ethics with human participants and who agree to the provisions of Databrary's <a href="/pdf/investigator-agmt-2013-04-05.pdf" target="_blank">Investigator Agreement</a> will be granted access.</p>
 		<p>Databrary will begin accepting applications for Investigator or Affiliate Investigator status later this year. The following documents may be useful to researchers considering whether to apply or when preparing an application to a research superivision entity (e.g., IRB) for approval to share with Databrary:</p>
         <ul>		
 	  <li>Databrary Standard Operating Procedures (SOPs),
-		<a href="/doc/sops-2013-04-05.doc">.doc</a>,
-		<a href="/pdf/sops-2013-04-05.pdf">.pdf</a></li>
+		<a href="/doc/sops-2013-04-09.doc">.doc</a>,
+		<a href="/pdf/sops-2013-04-09.pdf">.pdf</a></li>
 	  <li>Databrary Investigator Agreement,
 		<a href="/doc/investigator-agmt-2013-04-05.doc">.doc</a>,
 		<a href="/pdf/investigator-agmt-2013-04-05.pdf">.pdf</a></li>
 	  <li>Permission to Share Recordings of Children Under 12,
-		<a href="/doc/share-recordings-child-2013-04-05.doc">.doc</a>,
-		<a href="/pdf/share-recordings-child-2013-04-05.pdf">.pdf</a></li>
+		<a href="/doc/share-recordings-child-2013-04-09.doc">.doc</a>,
+		<a href="/pdf/share-recordings-child-2013-04-09.pdf">.pdf</a></li>
 	  <li>Assent to Share Recordings Script for Children Younger Than 12,
 		<a href="/doc/assent-script-recordings-2013-04-05.doc">.doc</a>,
 		<a href="/pdf/assent-script-recordings-2013-04-05.pdf">.pdf</a></li>
