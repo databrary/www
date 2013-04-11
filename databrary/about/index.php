@@ -46,8 +46,8 @@ $title = "About";
 		<a href="/doc/sops-2013-04-09.doc">.doc</a>,
 		<a href="/pdf/sops-2013-04-09.pdf">.pdf</a></li>
 	  <li>Databrary Investigator Agreement,
-		<a href="/doc/investigator-agmt-2013-04-05.doc">.doc</a>,
-		<a href="/pdf/investigator-agmt-2013-04-05.pdf">.pdf</a></li>
+		<a href="/doc/investigator-agmt-2013-04-11.doc">.doc</a>,
+		<a href="/pdf/investigator-agmt-2013-04-11.pdf">.pdf</a></li>
 	  <li>Permission to Share Recordings of Children Under 12,
 		<a href="/doc/share-recordings-child-2013-04-09.doc">.doc</a>,
 		<a href="/pdf/share-recordings-child-2013-04-09.pdf">.pdf</a></li>
