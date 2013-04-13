@@ -58,8 +58,8 @@ $title = "About";
 		<a href="/doc/databrary-permission-to-share-child-2013-04-13.docx">.docx</a>,
 		<a href="/pdf/databrary-permission-to-share-child-2013-04-13.pdf">.pdf</a></li>
 	  <li>Assent to Share Recordings Script for Children Younger Than 12,
-		<a href="/doc/databrary-assent-to-share-child-script-2013-04-12.docx">.docx</a>,
-		<a href="/pdf/databrary-assent-to-share-child-script-2013-04-12.pdf">.pdf</a></li>
+		<a href="/doc/databrary-assent-to-share-child-script-2013-04-13.docx">.docx</a>,
+		<a href="/pdf/databrary-assent-to-share-child-script-2013-04-13.pdf">.pdf</a></li>
 	  <li>Permission to Share Self-Reported Health-Related Information,
 		<a href="/doc/databrary-permission-to-share-health-adult-2013-04-13.docx">.docx</a>,
 		<a href="/pdf/databrary-permission-to-share-health-adult-2013-04-13.pdf">.pdf</a></li>
@@ -70,8 +70,8 @@ $title = "About";
 		<a href="/doc/databrary-permission-to-share-health-child-2013-04-13.docx">.docx</a>,
 		<a href="/pdf/databrary-permission-to-share-chealth-hild-2013-04-13.pdf">.pdf</a></li>
 	  <li>Assent to Share Self-Reported Health-Related Information Script for Children Younger Than 12,
-		<a href="/doc/databrary-assent-to-share-health-child-script-2013-04-12.docx">.docx</a>,
-		<a href="/pdf/databrary-assent-to-share-health-child-script-2013-04-12.pdf">.pdf</a></li>
+		<a href="/doc/databrary-assent-to-share-health-child-script-2013-04-13.docx">.docx</a>,
+		<a href="/pdf/databrary-assent-to-share-health-child-script-2013-04-13.pdf">.pdf</a></li>
          </ul>
 		<p>For more information about Databrary policies and procedures see the <a href="http://github.com/databrary/policies" target="_blank">github repository</a>.</p>
 	</article>
