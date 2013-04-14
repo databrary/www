@@ -1,1 +1,3 @@
 Redirect /project /about
+Redirect /pdf /policies
+Redirect /doc /policies

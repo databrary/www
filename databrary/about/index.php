@@ -17,12 +17,11 @@ $title = "About";
 		</p><p> 
 		The Databrary project includes:</p>
 		<ul>
-		<li>
-		<a href="/">Databrary</a>. A web-based repository for open sharing and preservation of video data and associated metadata.
-		</li><li> 
-		<a href="http://datavyu.org">Datavyu</a>. A free, open source video-coding software, that enables coding, exploring, and analyzing video data.
-		</li><li> 
-		<a href="http://labnanny.org">Labnanny</a>. A data management system that supports data-sharing within labs, among collaborators, and in the Databrary repository.
+		<li><a href="/">Databrary</a>. A web-based repository for open sharing and preservation of video data and associated metadata.
+		</li>
+		<li><a href="http://datavyu.org">Datavyu</a>. A free, open source video-coding software, that enables coding, exploring, and analyzing video data.
+		</li>
+		<li><a href="http://labnanny.org">Labnanny</a>. A data management system that supports data-sharing within labs, among collaborators, and in the Databrary repository.
 		</li></ul> 
 		<p>
 		The Databrary project is dedicated to transforming the culture of developmental science by building a community of researchers committed to open video data sharing, training a new generation of developmental scientists and empowering them with an unprecedented set of tools for discovery, and raising the profile of behavioral science by  bolstering interest in and support for scientific research among the general public.</p> 
