@@ -67,7 +67,7 @@ $title = "About";
 		<a href="/policies/databrary-permission-to-share-health-minor12-17-2013-04-13.pdf">.pdf</a></li>
 	  <li>Permission to Share Self-Reported Health-Related Information About Children Under 12,
 		<a href="/policies/databrary-permission-to-share-health-child-2013-04-13.docx">.docx</a>,
-		<a href="/policies/databrary-permission-to-share-chealth-hild-2013-04-13.pdf">.pdf</a></li>
+		<a href="/policies/databrary-permission-to-share-health-child-2013-04-13.pdf">.pdf</a></li>
 	  <li>Assent to Share Self-Reported Health-Related Information Script for Children Younger Than 12,
 		<a href="/policies/databrary-assent-to-share-health-child-script-2013-04-13.docx">.docx</a>,
 		<a href="/policies/databrary-assent-to-share-health-child-script-2013-04-13.pdf">.pdf</a></li>
