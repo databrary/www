@@ -11,7 +11,6 @@ $title = "Community";
 
 		<p>Rick O. Gilmore, Associate Professor of Psychology, Director of Human Imaging, <a href="http://www.imaging.psu.edu">Social, Life, &amp; Engineering Sciences Imaging Center</a>, Penn State University, <a href="http://personal.psu.edu/rog1">Faculty Page</a>, rogilmore@psu.edu</p> 
 		<p>David Millman, Director of Digital Library Technology Services, New York University, dsm@nyu.edu</p>
-		<p>Amy Chang, Project Coordinator, New York University</p>
 		<p>Lisa Steiger, New York University</p>
 		<p>Dylan Simon, Developer, New York University</p>
 		<p>Clinton Freeman, Developer</p>
