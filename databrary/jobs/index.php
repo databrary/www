@@ -7,6 +7,53 @@ $title = "Jobs";
 	<p><em>Also see available <a href='http://datavyu.org/jobs'>Datavyu positions</a></em></p>
 
 	<div class="form-container">
+        <h2>Data Curator</h2>
+	<p>
+		The Databrary project at New York University seeks a Data Curator, an information specialist who will work with researchers in developmental science to acquire and organize the content of the Databrary digital library.
+		While its content is heterogeneous, a significant portion of the library is video material.
+	</p>
+        <h3>Responsibilities</h3>
+	<p>
+		You will work in close collaboration with individual faculty and researchers across the country in preparing files for deposit, including
+		<ul>
+			<li>Analysis of the structure of study data;</li>
+			<li>Data normalization, cleaning, authority management;</li>
+			<li>Organization of digital and physical inventories.</li>
+		</ul>
+		You will also work in close collaboration with the Databrary software developers to
+		<ul>
+			<li>Devise metadata schema that are flexible but that also offer incentives to consistency;</li>
+			<li>Devise effective discovery services that function across heterogeneous metadata, and which foster interactions among a highly diverse community of researchers, including UX design and evaluation;</li>
+			<li>Create best practices for long-term sustainability of data formats, including video formats, such as format migration and transcoding;</li>
+			<li>Create deposit, maintenance, and annotation workflows;</li>
+			<li>Create taxonomy(ies) and initial tag sets.</li>
+		</ul>
+	</p>
+	<h3>Qualifications</h3>
+	<ul>
+		<li>MLS and 3-5 years experience in a related field, such as developmental science, metadata schema design and management, taxonomy management, or equivalent education and experience;</li>
+		<li>Working knowledge of data management, including metadata, data retrieval and research data use, format migration, preservation;</li>
+		<li>Demonstrated experience in consulting with faculty regarding technology or metadata options/requirements;</li>
+		<li>Excellent oral and written communication skills.</li>
+	</ul>
+	<h3>Preferred</h3>
+	<ul>
+		<li>Familiarity with video data and/or sensor data.</li>
+		<li>Familiarity with data management technologies such as XML, SQL, unix filesystems.</li>
+		<li>Familiarity with current efforts in annotation standards.</li>
+	</ul>
+        <h3>Compensation</h3>
+		<p>Salary range competitive with senior level academic positions plus full NYU benefits, including health and tuition remission.</p>
+        <h3>To apply</h3>
+        <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
+        <ul>
+            <li>One page cover letter (PDF)</li>
+            <li>Academic transcript of your formal qualifications (PDF)</li>
+            <li>Resume (PDF)</li>
+        </ul>
+	</div>
+
+	<div class="form-container">
         <h2>Web UI/UX Designer</h2>
         <p>
 		The Databrary project seeks a motivated and flexible UI/UX designer to help create a web-based data library.
