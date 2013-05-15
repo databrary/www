@@ -4,9 +4,9 @@ $title = "Jobs";
 <?php require "../includes/header.php"; ?>
     <h1>We are looking for great people to join our team!</h1>
     <article id="main-container">
-	<p><em>Also see available <a href='http://datavyu.org/jobs'>Datavyu positions</a></em></p>
+	<div>
+	<p>We are growing a team from scratch to design and build new open source solutions for science using the latest technologies.</p>
 
-	<div cass="base-container">
 	<p>All positions are senior level academic positions at NYU in New York and offer competitive salaries, full benefits including health and tuition remission, and opportunities to take classes, pursue (another) degree, or produce academic publications related to the project.</p>
         <h3>To apply</h3>
         <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
@@ -17,6 +17,8 @@ $title = "Jobs";
             <li>Resume (PDF)</li>
         </ul>
 	</div>
+
+	<p><em>Also see available <a href='http://datavyu.org/jobs'>Datavyu positions</a></em></p>
 
 	<div class="form-container">
         <h2>Data Curator</h2>
