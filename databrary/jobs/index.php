@@ -6,6 +6,18 @@ $title = "Jobs";
     <article id="main-container">
 	<p><em>Also see available <a href='http://datavyu.org/jobs'>Datavyu positions</a></em></p>
 
+	<div cass="base-container">
+	<p>All positions are senior level academic positions at NYU in New York and offer competitive salaries, full benefits including health and tuition remission, and opportunities to take classes, pursue (another) degree, or produce academic publications related to the project.</p>
+        <h3>To apply</h3>
+        <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
+        <ul>
+            <li>One page cover letter (PDF)</li>
+            <li>Academic transcript of your formal qualifications (PDF)</li>
+            <li>Links to your open source contributions or other samples of your work</li>
+            <li>Resume (PDF)</li>
+        </ul>
+	</div>
+
 	<div class="form-container">
         <h2>Data Curator</h2>
 	<p>
@@ -42,15 +54,6 @@ $title = "Jobs";
 		<li>Familiarity with data management technologies such as XML, SQL, unix filesystems.</li>
 		<li>Familiarity with current efforts in annotation standards.</li>
 	</ul>
-        <h3>Compensation</h3>
-		<p>Salary range competitive with senior level academic positions plus full NYU benefits, including health and tuition remission.</p>
-        <h3>To apply</h3>
-        <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
-        <ul>
-            <li>One page cover letter (PDF)</li>
-            <li>Academic transcript of your formal qualifications (PDF)</li>
-            <li>Resume (PDF)</li>
-        </ul>
 	</div>
 
 	<div class="form-container">
@@ -79,16 +82,6 @@ $title = "Jobs";
 		<li>Familiarity with UNIX development tools such as git</li>
 		<li>Experience interfacing with web frameworks such as Rails, Django, or PHP</li>
 		<li>Comfortable with Agile software development methodologies</li>
-        </ul>
-        <h3>Compensation</h3>
-		<p>Salary range competitive with senior level academic positions plus full NYU benefits, including health and tuition remission.</p>
-        <h3>To apply</h3>
-        <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
-        <ul>
-            <li>One page cover letter (PDF)</li>
-            <li>Academic transcript of your formal qualifications (PDF)</li>
-            <li>Links to your open source contributions</li>
-            <li>Resume (PDF)</li>
         </ul>
 	</div>
 
@@ -121,17 +114,6 @@ $title = "Jobs";
 		<li>Basic understanding of scientific practices and research tools, such as Matlab, SPSS, or R</li>
 		<li>Comfortable with Agile software development methodologies</li>
         </ul>
-        <h3>Compensation</h3>
-		<p>Salary range competitive with senior level academic positions plus full NYU benefits, including health and tuition remission.</p>
-        <h3>To apply</h3>
-        <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
-        <ul>
-            <li>One page cover letter (PDF)</li>
-            <li>Academic transcript of your formal qualifications (PDF)</li>
-            <li>Links to your open source contributions</li>
-            <li>Resume (PDF)</li>
-        </ul>
-
 	</div>
     </article>
 <?php require "../includes/footer.php"; ?>
