@@ -59,9 +59,9 @@ $title = "Jobs";
 	</div>
 
 	<div class="form-container">
-	<h2>Postdoctoral Fellow</h2>
+	<h2>Postdoctoral Fellow in Open Science/Big Data/Informatics</h2>
 	<p>
-		The Databrary project, in coordination with the Department of Psychology and Digital Library Services at NYU, seeks a cross-disciplinary postdoctoral fellow looking to expand their knowledge of research methods and technology practices in science and industry.
+		The Databrary project, in coordination with the Department of Psychology and Digital Library Services at NYU, seeks a cross-disciplinary postdoctoral fellow who seeks expand knowledge of research methods and technology practices in science and industry.
 		You will participate in design, development, and deployment of technology to support collaboration, exploration, and analysis of open research datasets.
 	</p>
         <h3>Responsibilities</h3>
@@ -69,6 +69,7 @@ $title = "Jobs";
 		<li>Design new approaches for structuring, presenting, and sharing research data.</li>
 		<li>Work with a small team of software developers to build web, mobile, and desktop software tools to manage, analyze, and visualize data.</li>
 		<li>Engage with researchers within and beyond the fields of developmental psychology, library science, and computer vision to collect, organize, and repurpose data.</li>
+		<li>Prepare and publish academic articles covering innovations, discoveries, or uses associated with the data library.</li>
         </ul>
         <h3>Qualifications</h3>
         <ul>
