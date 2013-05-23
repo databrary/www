@@ -35,7 +35,7 @@ $title = "Jobs";
         <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
         <ul>
             <li>One page cover letter (PDF)</li>
-            <li>Academic transcript of your formal qualifications (PDF)</li>
+            <li>Academic transcript of any formal qualifications (PDF)</li>
             <li>Links to your open source contributions</li>
             <li>Resume (PDF)</li>
         </ul>
