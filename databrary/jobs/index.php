@@ -7,12 +7,11 @@ $title = "Jobs";
 	<div>
 	<p>We are growing a team from scratch to design and build new open source solutions for science using the latest technologies.</p>
 
-	<p>All positions are senior level academic positions at NYU in New York and offer competitive salaries, full benefits including health and tuition remission, and opportunities to take classes, pursue (another) degree, or produce academic publications related to the project.</p>
+	<p>All positions are senior level academic positions at NYU in New York and offer competitive salaries, full benefits including health and tuition remission, and opportunities to take classes, pursue a(nother) degree, or produce academic publications related to the project.</p>
         <h3>To apply</h3>
         <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
         <ul>
             <li>One page cover letter (PDF)</li>
-            <li>Academic transcript of any formal qualifications (PDF)</li>
             <li>Links to your open source contributions or other samples of your work</li>
             <li>Resume (PDF)</li>
         </ul>
