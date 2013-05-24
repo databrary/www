@@ -1,13 +1,7 @@
-<?php
-/*
- * File: features/index.php
- * Author: Gladys Chan
- * Description: main content of download page
- */
-
-$title = "Features";
-?>
-<?php require "../includes/header.php"; ?>
+<!DOCTYPE html>
+<html>
+<!--#set var="title" value="Features" -->
+<!--#include virtual="/includes/header.shtml" -->
     <img class="feature-title" src="/images/features-is.png" alt="Datavyu is...">
     <section id="datavyu-is">
         <article class="feature">
@@ -59,4 +53,4 @@ $title = "Features";
             <p>By adding new data columns, you can build on prior work. Enhance it. Compare reliability between coders.</p>
         </article>
     </section>
-<?php require "../includes/footer.php"; ?>
+<!--#include virtual="/includes/footer.shtml" -->

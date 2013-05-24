@@ -1,13 +1,7 @@
-<?php
-/*
- * File: index.php
- * Author: Gladys Chan
- * Description: main content of index page
- */
-
-$title = "Datavyu";
-require "includes/header.php";
-?>
+<!DOCTYPE html>
+<html>
+<!--#set var="title" value="Datavyu" -->
+<!--#include virtual="/includes/header.shtml" -->
 <script src="/js/slides.jquery.js"></script>
 <script src="/js/slideshow.js"></script>
     <div id="slides">
@@ -39,4 +33,4 @@ require "includes/header.php";
         <p>Datavyu software and technical support is free, now and always. Datavyu is open-source. Anyone can improve Datavyu and share the new features with the other researchers.</p>
     </article>
     <!-- end of features -->
-<?php require "includes/footer.php"; ?>
+<!--#include virtual="/includes/footer.shtml" -->

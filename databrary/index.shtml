@@ -1,13 +1,7 @@
-<?php
-/*
- * File: index.php
- * Author: Gladys Chan
- * Description: main content of index page
- */
-
-$title = "Databrary";
-?>
-<?php require "includes/header.php"; ?>
+<!DOCTYPE html>
+<html>
+<!--#set var="title" value="Databrary" -->
+<!--#include virtual="/includes/header.shtml" -->
 <script src="/js/slides.jquery.js"></script>
 <script src="/js/slideshow.js"></script>
 
@@ -17,4 +11,4 @@ $title = "Databrary";
 <br>
 </div>
 
-<?php require "includes/footer.php"; ?>
+<!--#include virtual="/includes/footer.shtml" -->

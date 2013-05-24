@@ -1,7 +1,7 @@
-<?php
-$title = "Jobs";
-?>
-<?php require "../includes/header.php"; ?>
+<!DOCTYPE html>
+<html>
+<!--#set var="title" value="Jobs" -->
+<!--#include virtual="/includes/header.shtml" -->
     <h1>We are looking for great people to join our team!</h1>
     <article id="main-container">
 	<div>
@@ -145,4 +145,4 @@ $title = "Jobs";
         </ul>
 	</div>
     </article>
-<?php require "../includes/footer.php"; ?>
+<!--#include virtual="/includes/footer.shtml" -->

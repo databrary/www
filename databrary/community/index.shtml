@@ -1,7 +1,7 @@
-<?php
-$title = "Community";
-?>
-<?php require "../includes/header.php"; ?>
+<!DOCTYPE html>
+<html>
+<!--#set var="title" value="Community" -->
+<!--#include virtual="/includes/header.shtml" -->
 
 	<a name="community">
 	<h1 id="community">Community</h1> 
@@ -151,4 +151,4 @@ $title = "Community";
 		<p><a href="http://www.cogs.indiana.edu/people/homepages/yu.html">Chen Yu</a>, Indiana University</p>
 	</article>
 
-<?php require "../includes/footer.php"; ?>
+<!--#include virtual="/includes/footer.shtml" -->

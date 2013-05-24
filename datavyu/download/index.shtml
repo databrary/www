@@ -1,13 +1,7 @@
-<?php
-/*
- * File: download/index.php
- * Author: Gladys Chan
- * Description: main content of download page
- */
-
-$title = "Download";
-?>
-<?php require "../includes/header.php"; ?>
+<!DOCTYPE html>
+<html>
+<!--#set var="title" value="Download" -->
+<!--#include virtual="/includes/header.shtml" -->
     <h1 id="datavyu">Download Datavyu</h1>
 
     <article id="main-container">
@@ -25,4 +19,4 @@ $title = "Download";
 		<p>Soon you will be able to install additional plugins to customize Datavyu and make it yours. Stay tuned for greater functionality that addresses your different needs!   </p>
     </article>
 	
-<?php require "../includes/footer.php"; ?>
+<!--#include virtual="/includes/footer.shtml" -->
