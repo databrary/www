@@ -115,7 +115,7 @@
 	</div>
 
 	<div class="form-container">
-        <h2>Web Developer</h2>
+        <h2>Software Developer</h2>
         <p>
 		The Databrary project seeks a motivated and flexible developer to help build a web-based data library.
 		You will work with users and other developers to design and build the front end UI and tools to enable behavioral researchers to collaborate, store, explore, and access research datasets.
@@ -138,6 +138,7 @@
         <h3>Preferred</h3>
         <ul>
 		<li>History of contributions to open source projects</li>
+		<li>Familiarity with scala and play</li>
 		<li>Experience creating RESTful interfaces for structured data</li>
 		<li>Knowledge of SQL or other database technologies</li>
 		<li>Basic understanding of scientific practices and research tools, such as Matlab, SPSS, or R</li>
