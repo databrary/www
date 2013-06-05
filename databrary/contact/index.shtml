@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<!--#set var="title" value="Contact" -->
+<!--#include virtual="/includes/header.shtml" -->
+
+<h1>Contact Databrary</h1>
+<div id="contact-container">
+
+	<div class="form-container">
+	<h2>Send us a message</h2>
+
+	<p>You can send us email at &quot;contact&quot; or &quot;<em><a href="/about">team member</a>'s first name</em>&quot; at databrary dot org.</p>
+    
+    </div>
+</div>
+<div id="loc-container">
+	<div class="form-container">
+		<h2>Office Location</h3>
+		<p>Attn: Databrary<br/>196 Mercer St., 8th Floor, Room 807<br/>New York, NY 10012</p>
+	</div>
+</div>
+
+<!--#include virtual="/includes/footer.shtml" -->
