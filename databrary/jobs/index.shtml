@@ -91,13 +91,13 @@
 <h3>Responsibilities</h3>
 <ul>
 <li>Build dynamic and modular web application to organize, present, and manipulate research materials.</li>
-<li>Design, implement, test, and validate data management and web-based tools in Scala and/or Haskell.</li>
+<li>Design, implement, test, and validate data management and web-based tools in Scala, Haskell, or OCaml.</li>
 <li>Directly work with researchers (users) to identify and prioritize new features.</li>
 <li>Learn, understand, and reorganize research data as needed for better integration with the site.</li>
 </ul>
 <h3>Qualifications</h3>
 <ul>
-<li>Background in CS or other relevant field and functional programming experience (OCaml, Haskell, Scala, etc.)</li>
+<li>Background in CS or other relevant field and functional programming experience in OCaml, Haskell, or Scala.</li>
 <li>Knowledge of modern web, SQL, and NoSQL technologies</li>
 <li>Familiarity with standard UNIX development tools such as git</li>
 <li>Understanding of security and ethical concerns around sensitive data</li>
@@ -105,7 +105,7 @@
 <h3>Preferred</h3>
 <ul>
 <li>History of contributions to open source projects</li>
-<li>Familiarity with Play, Snap, or other web framework</li>
+<li>Familiarity with Play, Snap, Ocsigen or other web framework</li>
 <li>Experience creating RESTful interfaces for structured data</li>
 <li>Basic understanding of scientific practices and research tools, such as Matlab, SPSS, or R</li>
 <li>Comfortable with Agile software development methodologies</li>
