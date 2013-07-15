@@ -269,7 +269,6 @@
             <li class="main-nav-item<!--#echo var="Features" -->" id="features"><a href="/features">FEATURES</a></li>
             <li class="main-nav-item<!--#echo var="Support" -->" id="support"><a href="/support">SUPPORT</a></li>
             <li class="main-nav-item<!--#echo var="Developer" -->" id="developer"><a href="http://github.com/databrary/datavyu" target="_blank">DEVELOPMENT</a></li>
-            <li class="main-nav-item<!--#echo var="Blog" -->" id="blog"><a href="/blog">BLOG</a></li>
 	    <li class="main-nav-itemSignup" id="subscribe"><a class="fancybox" href="#subscriber">Newsletter</a></li>
         </ul>   
     </nav>
