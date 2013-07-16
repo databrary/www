@@ -264,11 +264,11 @@
     <a href="/"><img id="logo" src="/images/datavyu.png" alt="Datavyu"></a>
     <nav>
         <ul id="main-nav">
-<!--#set var="$title" value=" current" -->
-            <li class="main-nav-item<!--#echo var="Download" -->" id="download"><a href="/download">DOWNLOAD</a></li>
-            <li class="main-nav-item<!--#echo var="Features" -->" id="features"><a href="/features">FEATURES</a></li>
-            <li class="main-nav-item<!--#echo var="Support" -->" id="support"><a href="/support">SUPPORT</a></li>
-            <li class="main-nav-item<!--#echo var="Developer" -->" id="developer"><a href="http://github.com/databrary/datavyu" target="_blank">DEVELOPMENT</a></li>
+<!--#set var="$title" value="current" -->
+            <li class="main-nav-item <!--#echo var="Download" -->" id="download"><a href="/download">DOWNLOAD</a></li>
+            <li class="main-nav-item <!--#echo var="Features" -->" id="features"><a href="/features">FEATURES</a></li>
+            <li class="main-nav-item <!--#echo var="Support" -->" id="support"><a href="/support">SUPPORT</a></li>
+            <li class="main-nav-item <!--#echo var="Developer" -->" id="developer"><a href="http://github.com/databrary/datavyu" target="_blank">DEVELOPMENT</a></li>
 	    <li class="main-nav-itemSignup" id="subscribe"><a class="fancybox" href="#subscriber">Newsletter</a></li>
         </ul>   
     </nav>

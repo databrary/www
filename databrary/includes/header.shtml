@@ -265,16 +265,16 @@
     <a href="/"><img id="logo" src="/images/databrary.png" alt="Databrary"></a>
     <nav>
         <ul id="main-nav">
-<!--#set var="$title" value=" current" -->
-	    <li class="main-nav-item<!--#echo var="About" -->" id="about"><a href="/about">ABOUT</a>
+<!--#set var="$title" value="current" -->
+	    <li class="main-nav-item <!--#echo var="About" -->" id="about"><a href="/about">ABOUT</a>
 		<ul class="sub-nav">
 			<li><a href="/about#project">Project</a></li>
 	                <li><a href="/about#policies">Policies</a></li>
 		</ul>
 	    </li>
-            <li class="main-nav-item<!--#echo var="Community" -->" id="community"><a href="/community">COMMUNITY</a></li>
-	    <li class="main-nav-item<!--#echo var="FAQ" -->" id="faq"><a href="/faq">FAQ</a></li>
-	    <li class="main-nav-item<!--#echo var="Development" -->" id="development"><a href="http://github.com/databrary" target="_blank">DEVELOPMENT</a></li>
+            <li class="main-nav-item <!--#echo var="Community" -->" id="community"><a href="/community">COMMUNITY</a></li>
+	    <li class="main-nav-item <!--#echo var="FAQ" -->" id="faq"><a href="/faq">FAQ</a></li>
+	    <li class="main-nav-item <!--#echo var="Development" -->" id="development"><a href="http://github.com/databrary" target="_blank">DEVELOPMENT</a></li>
 	    <li class="main-nav-itemSignup" id="subscribe"><a class="fancybox" href="#subscriber">Newsletter</a></li>
         </ul>
     </nav>
