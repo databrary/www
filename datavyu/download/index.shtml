@@ -6,11 +6,17 @@
 
     <article id="main-container">
 	<div class="form-container">
-		<h2>Version 0.9: <a href="https://www.dropbox.com/s/e91acfm0fsm9yiy/openshapa-1.11-WIN-20101220.zip">Windows</a> | <a href="https://www.dropbox.com/s/d5v7qcsjddg5zoy/openshapa-1.11-OSX-20101220.dmg">Mac OS X</a></h2>
-		<p>System requirements: Java 1.6 or higher, at least 1GB RAM, 1.2 GHz processor.</p>
-		<br>
-	
-	</div>	
+		<h2>Latest Release: 0.9</h2>
+		<ul>
+			<li><a href="https://www.dropbox.com/s/e91acfm0fsm9yiy/openshapa-1.11-WIN-20101220.zip">Windows</a></li>
+			<li><a href="https://www.dropbox.com/s/d5v7qcsjddg5zoy/openshapa-1.11-OSX-20101220.dmg">Mac OS X</a></li>
+			<li>System requirements: Java 1.6 or higher, at least 1GB RAM, 1.2 GHz processor.</li>
+		</ul>
+	</div>
+	<div class="form-container">
+		<h2>Other releases</h2>
+		<p>Most people should use the latest supported release above, but you can find older releases and unreleased (unstable) versions in our <a href="/releases/">releases directory</a>.</p>
+	</div>
 	</article>  
 	
 
