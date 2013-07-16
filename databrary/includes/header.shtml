@@ -272,7 +272,13 @@
 	                <li><a href="/about#policies">Policies</a></li>
 		</ul>
 	    </li>
-            <li class="main-nav-item <!--#echo var="Community" -->" id="community"><a href="/community">COMMUNITY</a></li>
+	    <li class="main-nav-item <!--#echo var="Community" -->" id="community"><a href="/community">COMMUNITY</a>
+		<ul class="sub-nav">
+			<li><a href="/community/team.shtml">Team</a></li>
+	                <li><a href="/community/board.shtml">Advisory Board</a></li>
+	                <li><a href="/community/contributors.shtml">Data Contributors</a></li>
+		</ul>
+	    </li>
 	    <li class="main-nav-item <!--#echo var="FAQ" -->" id="faq"><a href="/faq">FAQ</a></li>
 	    <li class="main-nav-item <!--#echo var="Development" -->" id="development"><a href="http://github.com/databrary" target="_blank">DEVELOPMENT</a></li>
 	    <li class="main-nav-itemSignup" id="subscribe"><a class="fancybox" href="#subscriber">Newsletter</a></li>
