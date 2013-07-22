@@ -4,7 +4,6 @@
 <!--#include virtual="/includes/header.shtml" -->
     <h1>We are looking for great people to join our team!</h1>
     <article id="main-container">
-	<p><em>Also see available <a href='http://databrary.org/jobs'>Databrary positions</a></em></p>
 	<div class="form-container">
 	<h2>Java Developer</h2>
 	<p>The Databrary project seeks a creative and productive developer to enhance an open source multi-platform video data analysis application (datavyu.org).</p>
