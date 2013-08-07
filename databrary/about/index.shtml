@@ -3,7 +3,6 @@
 <!--#set var="title" value="About" -->
 <!--#include virtual="/includes/header.shtml" -->
 
-	<a name="project">
 	<h1 id="project">The Databrary Project</h1> 
 	<article>
 		<p>
@@ -21,7 +20,6 @@
 		The Databrary project is dedicated to transforming the culture of developmental science by building a community of researchers committed to open video data sharing, training a new generation of developmental scientists and empowering them with an unprecedented set of tools for discovery, and raising the profile of behavioral science by  bolstering interest in and support for scientific research among the general public.</p> 
 	</article>
 
-	<a name="policies">
 	<h1 id="policies">Policies</h1>
 	<article>
 		<h2>Values</h2>
