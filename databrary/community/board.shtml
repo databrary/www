@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <!--#set var="title" value="Community" -->
-<!--#include virtual="/includes/header.shtml" -->
+<!--#include virtual="../includes/header.shtml" -->
 
 	<h1>Advisory Board</h1>
 	<article>
@@ -32,4 +32,4 @@
 		<p>Luke Zhang, Associate Professor of Information Sciences and Technology, The Pennsylvania State University</p>
 	</article>
 
-<!--#include virtual="/includes/footer.shtml" -->
+<!--#include virtual="../includes/footer.shtml" -->

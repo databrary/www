@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <!--#set var="title" value="Features" -->
-<!--#include virtual="/includes/header.shtml" -->
+<!--#include virtual="../includes/header.shtml" -->
     <img class="feature-title" src="/images/features-is.png" alt="Datavyu is...">
     <section id="datavyu-is">
         <article class="feature">
@@ -53,4 +53,4 @@
             <p>By adding new data columns, you can build on prior work. Enhance it. Compare reliability between coders.</p>
         </article>
     </section>
-<!--#include virtual="/includes/footer.shtml" -->
+<!--#include virtual="../includes/footer.shtml" -->

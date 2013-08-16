@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <!--#set var="title" value="Contact" -->
-<!--#include virtual="/includes/header.shtml" -->
+<!--#include virtual="../includes/header.shtml" -->
 
 <h1>Contact Databrary</h1>
 <div id="contact-container">
@@ -20,4 +20,4 @@
 	</div>
 </div>
 
-<!--#include virtual="/includes/footer.shtml" -->
+<!--#include virtual="../includes/footer.shtml" -->

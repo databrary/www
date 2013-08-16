@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <!--#set var="title" value="Download" -->
-<!--#include virtual="/includes/header.shtml" -->
+<!--#include virtual="../includes/header.shtml" -->
     <h1 id="datavyu">Download Datavyu</h1>
 
     <article id="main-container">
@@ -25,4 +25,4 @@
 		<p>Soon you will be able to install additional plugins to customize Datavyu and make it yours. Stay tuned for greater functionality that addresses your different needs!   </p>
     </article>
 	
-<!--#include virtual="/includes/footer.shtml" -->
+<!--#include virtual="../includes/footer.shtml" -->

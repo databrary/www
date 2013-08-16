@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <!--#set var="title" value="Databrary" -->
-<!--#include virtual="/includes/header.shtml" -->
+<!--#include virtual="includes/header.shtml" -->
 <script src="/js/slides.jquery.js"></script>
 <script src="/js/slideshow.js"></script>
 
@@ -11,4 +11,4 @@
 <br>
 </div>
 
-<!--#include virtual="/includes/footer.shtml" -->
+<!--#include virtual="includes/footer.shtml" -->

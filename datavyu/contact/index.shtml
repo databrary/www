@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <!--#set var="title" value="Contact" -->
-<!--#include virtual="/includes/header.shtml" -->
+<!--#include virtual="../includes/header.shtml" -->
 
 <h1>Contact Datavyu</h1>
 <p>For troubleshooting and any technical assistance, please visit the <a href="/support/">support forum</a>.
 Otherwise, please <a href="http://databrary.org/contact">contact Databrary</a>.</p>
 
-<!--#include virtual="/includes/footer.shtml" -->
+<!--#include virtual="../includes/footer.shtml" -->

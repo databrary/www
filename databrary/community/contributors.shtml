@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <!--#set var="title" value="Community" -->
-<!--#include virtual="/includes/header.shtml" -->
+<!--#include virtual="../includes/header.shtml" -->
 
 	<h1>Committed Contributors</h1>
 	<article>
@@ -105,5 +105,5 @@
 		<p><a href="http://www.cogs.indiana.edu/people/homepages/yu.html">Chen Yu</a>, Indiana University</p>
 	</article>
 
-<!--#include virtual="/includes/footer.shtml" -->
+<!--#include virtual="../includes/footer.shtml" -->
 

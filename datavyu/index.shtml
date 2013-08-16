@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <!--#set var="title" value="Datavyu" -->
-<!--#include virtual="/includes/header.shtml" -->
+<!--#include virtual="../includes/header.shtml" -->
 <script src="/js/slides.jquery.js"></script>
 <script src="/js/slideshow.js"></script>
     <div id="slides">
@@ -33,4 +33,4 @@
         <p>Datavyu software and technical support is free, now and always. Datavyu is open-source. Anyone can improve Datavyu and share the new features with the other researchers.</p>
     </article>
     <!-- end of features -->
-<!--#include virtual="/includes/footer.shtml" -->
+<!--#include virtual="../includes/footer.shtml" -->
