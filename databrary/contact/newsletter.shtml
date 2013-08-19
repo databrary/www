@@ -7,24 +7,24 @@
 
         <div class="block">
             <label for="email">Email Address</label>
-            <input id="email" type="email" value="" name="EMAIL" placeholder="Email">
+            <input id="email" type="email" value="" name="EMAIL" data-placeholder="Email">
         </div>
 
         <div class="block">
             <label for="first">First Name</label>
-            <input id="first" type="text" value="" name="FNAME" placeholder="First name">
+            <input id="first" type="text" value="" name="FNAME" data-placeholder="First name">
         </div>
 
         <div class="block">
             <label for="last">Last Name</label>
-            <input id="last" type="text" value="" name="LNAME" placeholder="Last name">
+            <input id="last" type="text" value="" name="LNAME" data-placeholder="Last name">
         </div>
 
         <div class="block">
             <label>Email Format</label>
-            <ul><li><input id="html" type="radio" value="html" name="EMAILTYPE"><label for="html">HTML</label></li>
-                <li><input id="text" type="radio" value="text" name="EMAILTYPE"><label for="text">Text</label></li>
-                <li><input id="mobile" type="radio" value="mobile" name="EMAILTYPE"><label for="mobile">Mobile</label></li>
+            <ul><li><input id="html" type="radio" value="html" name="EMAILTYPE"><label for="html" class="light">HTML</label></li>
+                <li><input id="text" type="radio" value="text" name="EMAILTYPE"><label for="text" class="light">Text</label></li>
+                <li><input id="mobile" type="radio" value="mobile" name="EMAILTYPE"><label for="mobile" class="light">Mobile</label></li>
             </ul>
         </div>
 

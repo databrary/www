@@ -29,10 +29,10 @@
 
             </ul>
 
-            <ul class="inline">
+            <ul class="inline email">
 
                 <li><a href="mailto:karen.adolph@nyu.edu" title="Email Karen Adolph"><img
-                        src="/img/social/email.png" alt="Email Karen Adolph"></a></li>
+                        src="/img/social/email.png" alt="Email Karen Adolph">karen.adolph@nyu.edu</a></li>
 
             </ul>
         </div>
@@ -71,10 +71,10 @@
 
             </ul>
 
-            <ul class="inline">
+            <ul class="inline email">
 
                 <li><a href="mailto:rogilmore@psu.edu" title="Email Rick O. Gilmore"><img
-                        src="/img/social/email.png" alt="Email Rick O. Gilmore"></a></li>
+                        src="/img/social/email.png" alt="Email Rick O. Gilmore">rogilmore@psu.edu</a></li>
 
             </ul>
         </div>
@@ -105,10 +105,10 @@
 
             </ul>
 
-            <ul class="inline">
+            <ul class="inline email">
 
                 <li><a href="mailto:dsm@nyu.edu" title="Email David Millman"><img
-                        src="/img/social/email.png" alt="Email David Millman"></a></li>
+                        src="/img/social/email.png" alt="Email David Millman">dsm@nyu.edu</a></li>
 
             </ul>
         </div>
@@ -125,10 +125,10 @@
             <div class="column_small">
                 <h1>Lisa Steiger</h1>
 
-                <ul class="inline">
+                <ul class="inline email">
 
                     <li><a href="mailto:lisa@databrary.org" title="Email Lisa Steiger"><img
-                            src="/img/social/email.png" alt="Email Lisa Steiger"></a></li>
+                            src="/img/social/email.png" alt="Email Lisa Steiger">lisa@databrary.org</a></li>
 
                 </ul>
             </div>
@@ -141,10 +141,10 @@
             <div class="column_small">
                 <h1>Dylan Simon</h1>
 
-                <ul class="inline">
+                <ul class="inline email">
 
                     <li><a href="mailto:dylan@databrary.org" title="Email Dylan Simon"><img
-                            src="/img/social/email.png" alt="Email Dylan Simon"></a></li>
+                            src="/img/social/email.png" alt="Email Dylan Simon">dylan@databrary.org</a></li>
 
                 </ul>
             </div>
@@ -157,10 +157,10 @@
             <div class="column_small">
                 <h1>Alex Sokoloff</h1>
 
-                <ul class="inline">
+                <ul class="inline email">
 
                     <li><a href="mailto:alex@databrary.org" title="Email Alex Sokoloff"><img
-                            src="/img/social/email.png" alt="Email Alex Sokoloff"></a></li>
+                            src="/img/social/email.png" alt="Email Alex Sokoloff">alex@databrary.org</a></li>
 
                 </ul>
             </div>
@@ -172,10 +172,10 @@
             <div class="column_small">
                 <h1>Michael Continues</h1>
 
-                <ul class="inline">
+                <ul class="inline email">
 
                     <li><a href="mailto:mike@databrary.org" title="Email Michael Continues"><img
-                            src="/img/social/email.png" alt="Email Michael Continues"></a></li>
+                            src="/img/social/email.png" alt="Email Michael Continues">mike@databrary.org</a></li>
 
                 </ul>
             </div>

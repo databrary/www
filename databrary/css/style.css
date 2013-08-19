@@ -897,24 +897,15 @@ TEAM
     margin: 0 10px 0 0;
 }
 
-#static_team .profile ul.inline a,
 #static_team .profile ul.inline img {
-    display: block;
+    vertical-align: bottom;
+    position: relative;
+    top: -2px;
+    margin-right: 5px;
 }
 
-#static_team .profile ul.inline a:hover {
-    -webkit-box-shadow: 0 0 5px #c8619d;
-    -moz-box-shadow: 0 0 5px #c8619d;
-    box-shadow: 0 0 5px #c8619d;
-}
-
-#static_team .flatten ul.inline,
-#static_team .flatten h1 {
-    float: left;
-}
-
-#static_team .flatten ul.inline {
-    margin: 4px 0 0 5px;
+#static_team .profile ul.email a {
+    color: #9A7F6A;
 }
 
 #static_team .flatten .profile {
@@ -935,4 +926,65 @@ TEAM
 #static_team .flatten .column_mini {
     width: auto;
     float: none;
+}
+
+/*
+FORMS
+*/
+#static_form label {
+    font-weight: bold;
+    display: block;
+}
+#static_form label.light {
+    font-weight: normal;
+    display: inline;
+    margin-left: 5px;
+    position: relative;
+    top: 2px;
+}
+
+#static_form ul {
+    list-style: none;
+    padding: 0;
+}
+
+#static_form li {
+    display: inline-block;
+    padding: 5px 10px;
+    font-size: 1.25em;
+    margin-right: 10px;
+}
+
+#static_form .block {
+    margin-bottom: 10px;
+}
+
+#static_form input[type="email"],
+#static_form input[type="text"] {
+    font-size: 1.25em;
+    padding: 5px 10px;
+    width: 100%;
+    max-width: 640px;
+}
+
+#static_form button {
+    font-size: 1.25em;
+    padding: 5px 10px;
+    margin-right: 10px;
+    background: #A9E6A6;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+#static_form button[type="reset"] {
+    background: #E4A5CA;
+}
+
+#static_form button:hover {
+    background: #68CB63;
+}
+
+#static_form button[type="reset"]:hover {
+    background: #C8619D;
 }
