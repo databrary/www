@@ -1,15 +1,245 @@
-<!DOCTYPE html>
-<html>
 <!--#set var="title" value="Community" -->
 <!--#include virtual="../includes/header.shtml" -->
+<article id="static_team">
+<h1>The Databrary Team</h1>
 
-	<h1 id="community">Community</h1> 
-	<article>
-		<ul>
-			<li><a href="team.shtml">The Databrary Team</a></li>
-			<li><a href="board.shtml">Advisory Board</a></li>
-			<li><a href="contributors.shtml">Committed Contributors</a></li>
-		</ul>
-	</article>
+<h2>Principal Investigators</h2>
 
+
+<article class="profile cf">
+    <div class="row">
+        <div class="column_mini">
+            <img src="/img/profiles/karen.jpg" alt="Karen Adolph" class="avatar">
+        </div>
+
+        <div class="column_small">
+            <h1>Karen Adolph</h1>
+
+            <div class="position">Director</div>
+
+            <ul class="info">
+
+                <li>
+                    <div class="title">Professor of Psychology and Neural Science</div>
+                    <div class="affil"><a href="http://www.nyu.edu/" title="New York University">New York University</a>
+                    </div>
+                </li>
+
+                <li><a href="http://psych.nyu.edu/adolph" title="NYU Action Lab">NYU Action Lab</a></li>
+
+            </ul>
+
+            <ul class="inline">
+
+                <li><a href="mailto:karen.adolph@nyu.edu" title="Email Karen Adolph"><img
+                        src="/img/social/email.png" alt="Email Karen Adolph"></a></li>
+
+            </ul>
+        </div>
+    </div>
+</article>
+
+
+<article class="profile cf">
+    <div class="row">
+        <div class="column_mini">
+            <img src="/img/profiles/rick.jpg" alt="Rick O. Gilmore" class="avatar">
+        </div>
+
+        <div class="column_small">
+            <h1>Rick O. Gilmore</h1>
+
+            <div class="position">Associate Director</div>
+
+            <ul class="info">
+
+
+                <li>
+                    <div class="title">Associate Professor of Psychology</div>
+                    <div class="affil"><a href="http://personal.psu.edu/rog1" title="Penn State University">Penn State
+                        University</a></div>
+                </li>
+
+
+                <li>
+                    <div class="title">Director of Human Imaging</div>
+                    <div class="affil"><a href="http://www.imaging.psu.edu"
+                                          title="&lt;abbr title=&quot;Social, Life, &amp;amp; Engineering Sciences Imaging Center&quot;&gt;SLEIC&lt;/abbr&gt;"><abbr
+                            title="Social, Life, &amp; Engineering Sciences Imaging Center">SLEIC</abbr></a></div>
+                </li>
+
+
+            </ul>
+
+            <ul class="inline">
+
+                <li><a href="mailto:rogilmore@psu.edu" title="Email Rick O. Gilmore"><img
+                        src="/img/social/email.png" alt="Email Rick O. Gilmore"></a></li>
+
+            </ul>
+        </div>
+    </div>
+</article>
+
+
+<article class="profile cf">
+    <div class="row">
+        <div class="column_mini">
+            <img src="/img/profiles/david.jpg" alt="David Millman" class="avatar">
+        </div>
+
+        <div class="column_small">
+            <h1>David Millman</h1>
+
+            <div class="position">Co-Investigator</div>
+
+            <ul class="info">
+
+
+                <li>
+                    <div class="title">Director of Digital Library Technology Services</div>
+                    <div class="affil"><a href="http://dlib.nyu.edu/dlts/" title="New York University">New York
+                        University</a></div>
+                </li>
+
+
+            </ul>
+
+            <ul class="inline">
+
+                <li><a href="mailto:dsm@nyu.edu" title="Email David Millman"><img
+                        src="/img/social/email.png" alt="Email David Millman"></a></li>
+
+            </ul>
+        </div>
+    </div>
+</article>
+
+<h2>Staff</h2>
+
+<div class="flatten">
+
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Lisa Steiger</h1>
+
+                <ul class="inline">
+
+                    <li><a href="mailto:lisa@databrary.org" title="Email Lisa Steiger"><img
+                            src="/img/social/email.png" alt="Email Lisa Steiger"></a></li>
+
+                </ul>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Dylan Simon</h1>
+
+                <ul class="inline">
+
+                    <li><a href="mailto:dylan@databrary.org" title="Email Dylan Simon"><img
+                            src="/img/social/email.png" alt="Email Dylan Simon"></a></li>
+
+                </ul>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Alex Sokoloff</h1>
+
+                <ul class="inline">
+
+                    <li><a href="mailto:alex@databrary.org" title="Email Alex Sokoloff"><img
+                            src="/img/social/email.png" alt="Email Alex Sokoloff"></a></li>
+
+                </ul>
+            </div>
+        </div>
+    </article>
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Michael Continues</h1>
+
+                <ul class="inline">
+
+                    <li><a href="mailto:mike@databrary.org" title="Email Michael Continues"><img
+                            src="/img/social/email.png" alt="Email Michael Continues"></a></li>
+
+                </ul>
+            </div>
+        </div>
+    </article>
+
+</div>
+
+<br>
+
+<div class="flatten">
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Gladys Chan</h1>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>John Franchak</h1>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Clinton Freeman</h1>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Jesse Lingeman</h1>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Eric Montellese</h1>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Kasey Soska</h1>
+            </div>
+        </div>
+    </article>
+</div>
+</article>
 <!--#include virtual="../includes/footer.shtml" -->

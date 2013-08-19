@@ -1,291 +1,79 @@
-<head>
-<meta charset="UTF-8">
-<title><!--#echo var="title" --></title>
-<link rel="stylesheet" type="text/css" href="/css/main.css">
-<script src="/js/jquery-1.8.3.min.js"></script>
-<script src="/js/nav.js"></script>
-<link rel="stylesheet" type="text/css" href="style.css">
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
 
+        <title><!--#echo var="title" --> || Databrary</title>
 
-<!-- Subscription lightbox -->
+        <link rel="stylesheet" href="/css/style.css">
 
-<!-- Add mousewheel plugin (this is optional) -->
-<script type="text/javascript" src="/subscriberform/jquery.mousewheel-3.0.6.pack.js"></script>
-<!-- Add fancyBox main JS and CSS files -->
-<script type="text/javascript" src="/subscriberform/jquery.fancybox.js?v=2.1.4"></script>
-<link rel="stylesheet" type="text/css" href="/subscriberform/jquery.fancybox.css?v=2.1.4" media="screen" />
-<!-- Add Button helper (this is optional) -->
-<link rel="stylesheet" type="text/css" href="/subscriberform/helpers/jquery.fancybox-buttons.css?v=1.0.5" />
-<script type="text/javascript" src="/subscriberform/helpers/jquery.fancybox-buttons.js?v=1.0.5"></script>
-<!-- Add Thumbnail helper (this is optional) -->
-<link rel="stylesheet" type="text/css" href="/subscriberform/helpers/jquery.fancybox-thumbs.css?v=1.0.7" />
-<script type="text/javascript" src="/subscriberform/helpers/jquery.fancybox-thumbs.js?v=1.0.7"></script>
-<!-- Add Media helper (this is optional) -->
-<script type="text/javascript" src="/subscriberform/helpers/jquery.fancybox-media.js?v=1.0.5"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+        <script>
+            if (!window.jQuery) {
+                document.write('<script src="/js/libs/jquery/jquery-1.10.2.min.js"><\/script>');
+            }
+        </script>
+        <script src="/js/scripts.js"></script>
 
-<script type="text/javascript">
-	$(document).ready(function() {
-		/*
-		 *  Simple image gallery. Uses default settings
-		 */
+        <!--[if lt IE 9]><script src="/js/libs/html5shiv/html5shiv.min.js"></script><![endif]-->
+    </head>
 
-		$('.fancybox').fancybox();
+    <body>
+        <section id="bar">
+            <div class="wrapper">
+                <h1><a href="/about#project" title="About the Databrary Project">THE DATABRARY PROJECT</a></h1>
 
-        /* Close subscribe form upon submission */
-        $("form").submit(function() {
-            parent.$.fancybox.close();
-        });
+                <nav>
+                    <a href="http://databrary.org" title="Databrary"><img src="/img/logo/databrary-nav.png" alt="Databrary">Databrary</a>
+                    <a href="http://datavyu.org" title="Datavyu"><img src="/img/logo/datavyu-nav.png" alt="Datavyu">Datavyu</a>
+                    <a href="http://labnanny.org" title="Labnanny"><img src="/img/logo/labnanny-nav.png" alt="Labnanny">Labnanny</a>
+                </nav>
+            </div>
+        </section>
 
-		/*
-		 *  Different effects
-		 */
+        <header id="header">
+            <div class="wrapper">
+                <h1><a href="/" title="Databrary: An Open Data Library"><img id="logo" src="/img/logo/databrary.png" alt="Databrary"></a></h1>
 
-		// Change title type, overlay closing speed
-		$(".fancybox-effects-a").fancybox({
-			helpers: {
-				title : {
-					type : 'outside'
-				},
-				overlay : {
-					speedOut : 0
-				}
-			}
-		});
+                <nav>
+                    <!--#set var="$title" value="current" -->
+                    <ul>
+                        <li class='<!--#echo var="About" -->'>
+                            <a href="/about" title="About">ABOUT</a>
 
-		// Disable opening and closing animations, change title type
-		$(".fancybox-effects-b").fancybox({
-			openEffect  : 'none',
-			closeEffect	: 'none',
+                            <ul>
+                                <li><a href="/about" title="Project">Project</a></li>
+                                <li><a href="/about#policies" title="Policies">Policies</a></li>
+                            </ul>
+                        </li>
 
-			helpers : {
-				title : {
-					type : 'over'
-				}
-			}
-		});
+                        <li class='<!--#echo var="Community" -->'>
+                            <a href="/community" title="Community">COMMUNITY</a>
 
-		// Set custom style, close if clicked, change title type and overlay color
-		$(".fancybox-effects-c").fancybox({
-			wrapCSS    : 'fancybox-custom',
-			closeClick : true,
+                            <ul>
+                                <li><a href="/community" title="Team">Team</a></li>
+                                <li><a href="/community/board.shtml" title="Advisory Board">Board</a></li>
+                                <li><a href="/community/contributors.shtml" title="Data Contributors">Contributors</a></li>
+                            </ul>
+                        </li>
 
-			openEffect : 'none',
+                        <li class='<!--#echo var="FAQ" -->'>
+                            <a href="/faq" title="FAQ">FAQ</a>
+                        </li>
 
-			helpers : {
-				title : {
-					type : 'inside'
-				},
-				overlay : {
-					css : {
-						'background' : 'rgba(238,238,238,0.85)'
-					}
-				}
-			}
-		});
+                        <li class='<!--#echo var="Development" -->'>
+                            <a href="http://github.com/databrary" title="Development on Github.com">DEVELOPMENT</a>
+                        </li>
 
-		// Remove padding, set opening and closing animations, close if clicked and disable overlay
-		$(".fancybox-effects-d").fancybox({
-			padding: 0,
+                        <li class='<!--#echo var="Newsletter" -->'>
+                            <a href="/contact/newsletter.shtml" title="Newsletter">NEWSLETTER</a>
+                        </li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
 
-			openEffect : 'elastic',
-			openSpeed  : 150,
-
-			closeEffect : 'elastic',
-			closeSpeed  : 150,
-
-			closeClick : true,
-
-			helpers : {
-				overlay : null
-			}
-		});
-
-		/*
-		 *  Button helper. Disable animations, hide close button, change title type and content
-		 */
-
-		$('.fancybox-buttons').fancybox({
-			openEffect  : 'none',
-			closeEffect : 'none',
-
-			prevEffect : 'none',
-			nextEffect : 'none',
-
-			closeBtn  : false,
-
-			helpers : {
-				title : {
-					type : 'inside'
-				},
-				buttons	: {}
-			},
-
-			afterLoad : function() {
-				this.title = 'Image ' + (this.index + 1) + ' of ' + this.group.length + (this.title ? ' - ' + this.title : '');
-			}
-		});
-
-
-		/*
-		 *  Thumbnail helper. Disable animations, hide close button, arrows and slide to next gallery item if clicked
-		 */
-
-		$('.fancybox-thumbs').fancybox({
-			prevEffect : 'none',
-			nextEffect : 'none',
-
-			closeBtn  : false,
-			arrows    : false,
-			nextClick : true,
-
-			helpers : {
-				thumbs : {
-					width  : 50,
-					height : 50
-				}
-			}
-		});
-
-		/*
-		 *  Media helper. Group items, disable animations, hide arrows, enable media and button helpers.
-		*/
-		$('.fancybox-media')
-			.attr('rel', 'media-gallery')
-			.fancybox({
-				openEffect : 'none',
-				closeEffect : 'none',
-				prevEffect : 'none',
-				nextEffect : 'none',
-
-				arrows : false,
-				helpers : {
-					media : {},
-					buttons : {}
-				}
-			});
-
-		/*
-		 *  Open manually
-		 */
-
-		$("#fancybox-manual-a").click(function() {
-			$.fancybox.open('1_b.jpg');
-		});
-
-		$("#fancybox-manual-b").click(function() {
-			$.fancybox.open({
-				href : 'iframe.html',
-				type : 'iframe',
-				padding : 5
-			});
-		});
-
-		$("#fancybox-manual-c").click(function() {
-			$.fancybox.open([
-				{
-					href : '1_b.jpg',
-					title : 'My title'
-				}, {
-					href : '2_b.jpg',
-					title : '2nd title'
-				}, {
-					href : '3_b.jpg'
-				}
-			], {
-				helpers : {
-					thumbs : {
-						width: 75,
-						height: 50
-					}
-				}
-			});
-		});
-
-	});
-</script>
-<style type="text/css">
-	.fancybox-custom .fancybox-skin {
-		box-shadow: 0 0 50px #222;
-	}
-</style>
-
-</head>
-<body>
-
-<!-- Lightbox subscriber form -->
-<div id="subscriber" style="width:400px;display:none;">
-	<p>Join our mailing list to be notified of the latest news from Databrary!</p>
-<!-- Begin MailChimp Signup Form -->
-<div id="mc_embed_signup">
-	<form action="http://databrary.us2.list-manage.com/subscribe/post?u=4b4fa9408b40cd79e92f748e5&amp;id=94241ee61f" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-
-		<div class="mc-field-group">
-			<label for="mce-EMAIL">Email Address </label>
-			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-		</div>
-		<div class="mc-field-group">
-			<label for="mce-FNAME">First Name </label>
-			<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-		</div>
-		<div class="mc-field-group">
-			<label for="mce-LNAME">Last Name </label>
-			<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-		</div>
-		<div class="mc-field-group input-group">
-			<strong>Email Format </strong>
-			<ul><li><input type="radio" value="html" name="EMAILTYPE" id="mce-EMAILTYPE-0"><label for="mce-EMAILTYPE-0">HTML</label></li>
-				<li><input type="radio" value="text" name="EMAILTYPE" id="mce-EMAILTYPE-1"><label for="mce-EMAILTYPE-1">Text</label></li>
-				<li><input type="radio" value="mobile" name="EMAILTYPE" id="mce-EMAILTYPE-2"><label for="mce-EMAILTYPE-2">Mobile</label></li>
-			</ul>
-		</div>
-		<div id="mce-responses" class="clear">
-			<div class="response" id="mce-error-response" style="display:none"></div>
-			<div class="response" id="mce-success-response" style="display:none"></div>
-        </div>
-        <div class="clear">
-            <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button">Subscribe</button>
-            <button type="reset" value="Reset" name="reset" id="mc-embedded-reset" class="button">Reset</button>
-        </div>
-	</form>
-</div>
-<!--End mc_embed_signup-->
-</div>
-<!-- End Lightbox subscriber form -->
-
-
-<div id="meta-header-background"></div>
-<div id="meta-header">
-    <a class="project" href="http://databrary.org"><img src="/images/navdatabrary.png" alt="Databrary">Databrary</a>
-    <a class="project" href="http://datavyu.org"><img src="/images/navdatavyu.png" alt="Datavyu">Datavyu</a>
-    <a class="project" href="http://labnanny.org"><img src="/images/navlabnanny.png" alt="Labnanny">Labnanny</a>
-    <a href="/about#project"><span class="misc">THE DATABRARY PROJECT</span></a>
-</div>
-
-<header>
-    <a href="/"><img id="logo" src="/images/databrary.png" alt="Databrary"></a>
-    <nav>
-        <ul id="main-nav">
-<!--#set var="$title" value="current" -->
-	    <li class="main-nav-item <!--#echo var="About" -->" id="about"><a href="/about">ABOUT</a>
-		<ul class="sub-nav">
-			<li><a href="/about#project">Project</a></li>
-	                <li><a href="/about#policies">Policies</a></li>
-		</ul>
-	    </li>
-	    <li class="main-nav-item <!--#echo var="Community" -->" id="community"><a href="/community">COMMUNITY</a>
-		<ul class="sub-nav">
-			<li><a href="/community/team.shtml">Team</a></li>
-	                <li><a href="/community/board.shtml">Advisory Board</a></li>
-	                <li><a href="/community/contributors.shtml">Data Contributors</a></li>
-		</ul>
-	    </li>
-	    <li class="main-nav-item <!--#echo var="FAQ" -->" id="faq"><a href="/faq">FAQ</a></li>
-	    <li class="main-nav-item <!--#echo var="Development" -->" id="development"><a href="http://github.com/databrary" target="_blank">DEVELOPMENT</a></li>
-	    <li class="main-nav-itemSignup" id="subscribe"><a class="fancybox" href="#subscriber">Newsletter</a></li>
-        </ul>
-    </nav>
-</header>
-
-<hr class="secdivide">
-
-<section>
+        <main id="main">
+            <div class="wrapper">

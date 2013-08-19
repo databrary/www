@@ -1,22 +1,20 @@
-<!DOCTYPE html>
-<html>
 <!--#set var="title" value="Jobs" -->
 <!--#include virtual="../includes/header.shtml" -->
-    <h1>We are looking for great people to join our team!</h1>
-    <article id="main-container">
-	<div>
-	<p>We are growing a team from scratch to design and build new open source solutions for science using the latest technologies.</p>
+<article id="static_jobs">
+    <h1>Join Our Team</h1>
 
-        <h3>To apply</h3>
-        <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
-        <ul>
-            <li>One page cover letter (PDF)</li>
-            <li>Links to your open source contributions or other samples of your work</li>
-            <li>Resume (PDF)</li>
-        </ul>
-	</div>
+    <p>We are growing a team from scratch to design and build new open source solutions for science using the latest technologies.</p>
 
-	<p><em>See available <a href='http://datavyu.org/jobs'>Datavyu positions</a></em></p>
+    <p>See available <a href='http://datavyu.org/jobs'>Datavyu positions</a>.</p>
 
-    </article>
+    <h2>To apply</h2>
+
+    <p>Send the following to <a href='mailto:jobs@@databrary.org'>jobs@@databrary.org</a>:</p>
+
+    <ul>
+        <li>One page cover letter (PDF)</li>
+        <li>Links to open source contributions/samples</li>
+        <li>Resume (PDF)</li>
+    </ul>
+</article>
 <!--#include virtual="../includes/footer.shtml" -->
