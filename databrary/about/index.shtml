@@ -1,5 +1,5 @@
 <!--#set var="title" value="About" -->
-<!--#include virtual="../includes/header.shtml" -->
+<!--#include virtual="/includes/header.shtml" -->
 <article id="static_about">
     <h1>About the Project</h1>
 
@@ -22,7 +22,7 @@
 </article>
 
 <article id="static_policies">
-    <h1>Policies</h1>
+    <h1 id="policies">Policies</h1>
 
     <h2>Values</h2>
 
@@ -77,4 +77,4 @@
 
     <p class="legal"><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">These documents</span> are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons Attribution 3.0 Unported License</a>.</p>
 </article>
-<!--#include virtual="../includes/footer.shtml" -->
+<!--#include virtual="/includes/footer.shtml" -->

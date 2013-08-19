@@ -1,5 +1,5 @@
 <!--#set var="title" value="Contact" -->
-<!--#include virtual="../includes/header.shtml" -->
+<!--#include virtual="/includes/header.shtml" -->
 <article id="static_contact">
     <h1>Contact Databrary</h1>
 
@@ -14,4 +14,4 @@
         New York, NY 10012<br/>
         (212)998-5536</p>
 </article>
-<!--#include virtual="../includes/footer.shtml" -->
+<!--#include virtual="/includes/footer.shtml" -->

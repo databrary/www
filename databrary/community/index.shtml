@@ -1,5 +1,5 @@
 <!--#set var="title" value="Community" -->
-<!--#include virtual="../includes/header.shtml" -->
+<!--#include virtual="/includes/header.shtml" -->
 <article id="static_team">
 <h1>The Databrary Team</h1>
 
@@ -242,4 +242,4 @@
     </article>
 </div>
 </article>
-<!--#include virtual="../includes/footer.shtml" -->
+<!--#include virtual="/includes/footer.shtml" -->

@@ -1,5 +1,5 @@
 <!--#set var="title" value="An Open Data Library" -->
-<!--#include virtual="includes/header.shtml" -->
+<!--#include virtual="/includes/header.shtml" -->
 
 <article class="banner">
     <h1><strong>Data</strong>brary is an <span class="term">open data library</span> for developmental science.
@@ -8,4 +8,4 @@
     <h2><a href="/about">Click here to learn more &gt;&gt;</a></h2>
 </article>
 
-<!--#include virtual="includes/footer.shtml" -->
+<!--#include virtual="/includes/footer.shtml" -->

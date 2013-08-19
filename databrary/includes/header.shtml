@@ -1,79 +1,79 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title><!--#echo var="title" --> || Databrary</title>
+    <title><!--#echo var="title" --> || Databrary</title>
 
-        <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/style.css">
 
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>
-            if (!window.jQuery) {
-                document.write('<script src="/js/libs/jquery/jquery-1.10.2.min.js"><\/script>');
-            }
-        </script>
-        <script src="/js/scripts.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script>
+        if (!window.jQuery) {
+            document.write('<script src="/js/libs/jquery/jquery-1.10.2.min.js"><\/script>');
+        }
+    </script>
+    <script src="/js/scripts.js"></script>
 
-        <!--[if lt IE 9]><script src="/js/libs/html5shiv/html5shiv.min.js"></script><![endif]-->
-    </head>
+    <!--[if lt IE 9]><script src="/js/libs/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
 
-    <body>
-        <section id="bar">
-            <div class="wrapper">
-                <h1><a href="/about#project" title="About the Databrary Project">THE DATABRARY PROJECT</a></h1>
+<body>
+<section id="bar">
+    <div class="wrapper">
+        <h1><a href="/about#project" title="About the Databrary Project"><span>THE </span>DATABRARY<span> PROJECT</span></a></h1>
 
-                <nav>
-                    <a href="http://databrary.org" title="Databrary"><img src="/img/logo/databrary-nav.png" alt="Databrary">Databrary</a>
-                    <a href="http://datavyu.org" title="Datavyu"><img src="/img/logo/datavyu-nav.png" alt="Datavyu">Datavyu</a>
-                    <a href="http://labnanny.org" title="Labnanny"><img src="/img/logo/labnanny-nav.png" alt="Labnanny">Labnanny</a>
-                </nav>
-            </div>
-        </section>
+        <nav>
+            <a href="http://databrary.org" title="Databrary"><img src="/img/logo/databrary-nav.png" alt="Databrary"><span>Databrary</span></a>
+            <a href="http://datavyu.org" title="Datavyu"><img src="/img/logo/datavyu-nav.png" alt="Datavyu"><span>Datavyu</span></a>
+            <a href="http://labnanny.org" title="Labnanny"><img src="/img/logo/labnanny-nav.png" alt="Labnanny"><span>Labnanny</span></a>
+        </nav>
+    </div>
+</section>
 
-        <header id="header">
-            <div class="wrapper">
-                <h1><a href="/" title="Databrary: An Open Data Library"><img id="logo" src="/img/logo/databrary.png" alt="Databrary"></a></h1>
+<header id="header">
+    <div class="wrapper">
+        <h1><a href="/" title="Databrary: An Open Data Library"><img id="logo" src="/img/logo/databrary.png" alt="Databrary"></a></h1>
 
-                <nav>
-                    <!--#set var="$title" value="current" -->
+        <nav>
+            <!--#set var="$title" value="current" -->
+            <ul>
+                <li class='<!--#echo var="About" -->'>
+                    <a href="http://databrary.org/about" title="About">ABOUT</a>
+
                     <ul>
-                        <li class='<!--#echo var="About" -->'>
-                            <a href="/about" title="About">ABOUT</a>
-
-                            <ul>
-                                <li><a href="/about" title="Project">Project</a></li>
-                                <li><a href="/about#policies" title="Policies">Policies</a></li>
-                            </ul>
-                        </li>
-
-                        <li class='<!--#echo var="Community" -->'>
-                            <a href="/community" title="Community">COMMUNITY</a>
-
-                            <ul>
-                                <li><a href="/community" title="Team">Team</a></li>
-                                <li><a href="/community/board.shtml" title="Advisory Board">Board</a></li>
-                                <li><a href="/community/contributors.shtml" title="Data Contributors">Contributors</a></li>
-                            </ul>
-                        </li>
-
-                        <li class='<!--#echo var="FAQ" -->'>
-                            <a href="/faq" title="FAQ">FAQ</a>
-                        </li>
-
-                        <li class='<!--#echo var="Development" -->'>
-                            <a href="http://github.com/databrary" title="Development on Github.com">DEVELOPMENT</a>
-                        </li>
-
-                        <li class='<!--#echo var="Newsletter" -->'>
-                            <a href="/contact/newsletter.shtml" title="Newsletter">NEWSLETTER</a>
-                        </li>
+                        <li><a href="http://databrary.org/about/" title="Project">Project</a></li>
+                        <li><a href="http://databrary.org/about/#policies" title="Policies">Policies</a></li>
                     </ul>
-                </nav>
-            </div>
-        </header>
+                </li>
 
-        <main id="main">
-            <div class="wrapper">
+                <li class='<!--#echo var="Community" -->'>
+                    <a href="http://databrary.org/community/" title="Community">COMMUNITY</a>
+
+                    <ul>
+                        <li><a href="http://databrary.org/community/" title="Team">Team</a></li>
+                        <li><a href="http://databrary.org/community/board/" title="Advisory Board">Board</a></li>
+                        <li><a href="http://databrary.org/community/contributors/" title="Data Contributors">Contributors</a></li>
+                    </ul>
+                </li>
+
+                <li class='<!--#echo var="FAQ" -->'>
+                    <a href="http://databrary.org/faq/" title="FAQ">FAQ</a>
+                </li>
+
+                <li class='<!--#echo var="Development" -->'>
+                    <a href="http://github.com/databrary" title="Development on Github.com">DEVELOPMENT</a>
+                </li>
+
+                <li class='<!--#echo var="Newsletter" -->'>
+                    <a href="http://databrary.org/contact/newsletter/" title="Newsletter">NEWSLETTER</a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<main id="main">
+    <div class="wrapper">
