@@ -6,9 +6,9 @@
                 <div class="wrapper">
                     <nav id="footer_nav" class="footer_links half">
                         <ul class="inline">
-                            <li><a href="/about" title="About the Project">About</a></li>
-                            <li><a href="/jobs" title="Join Our Team">Jobs</a></li>
-                            <li><a href="/contact" title="Contact Us">Contact</a></li>
+                            <li><a href="http://databrary.org/about/" title="About the Project">About</a></li>
+                            <li><a href="http://databrary.org/jobs/" title="Join Our Team">Jobs</a></li>
+                            <li><a href="http://databrary.org/contact/" title="Contact Us">Contact</a></li>
                         </ul>
                     </nav>
 
