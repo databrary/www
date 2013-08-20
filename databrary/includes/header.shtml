@@ -23,7 +23,7 @@
 <body>
 <section id="bar">
     <div class="wrapper">
-        <h1><a href="/about#project" title="About the Databrary Project"><span>THE </span>DATABRARY<span> PROJECT</span></a></h1>
+        <h1><a href="http://databrary.org/about/#project" title="About the Databrary Project"><span>THE </span>DATABRARY<span> PROJECT</span></a></h1>
 
         <nav>
             <a href="http://databrary.org" title="Databrary"><img src="/img/logo/databrary-nav.png" alt="Databrary"><span>Databrary</span></a>
