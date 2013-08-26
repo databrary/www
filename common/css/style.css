@@ -904,10 +904,6 @@ TEAM
     margin-bottom: 7px;
 }
 
-#static_team .profile ul.inline li {
-    margin: 0 10px 0 0;
-}
-
 #static_team .profile ul.info img {
     vertical-align: bottom;
     position: relative;
