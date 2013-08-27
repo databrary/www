@@ -1,0 +1,96 @@
+<!--#set var="title" value="Features" -->
+<!--#include virtual="../includes/header.shtml" -->
+<article id="static_jobs">
+    <h1>We are looking for great people to join our team!</h1>
+
+    <h2>Java Developer</h2>
+
+    <p>The Databrary project seeks a creative and productive developer to enhance an open source multi-platform
+        video data analysis application (datavyu.org).</p>
+
+    <h3>Responsibilities</h3>
+
+    <ul>
+        <li>Enhance and test an existing desktop analysis tool.</li>
+        <li>Build data visualization, import, and export tools.</li>
+        <li>Identify new feature priorities based on user feedback.</li>
+        <li>Provide customer support and training.</li>
+    </ul>
+
+    <h3>Qualifications</h3>
+
+    <ul>
+        <li>Prior development experience in Java, C/C++, and Ruby</li>
+        <li>History of active contributions to open source projects</li>
+        <li>Established track record of shipping reliable software products</li>
+        <li>Experience developing cross-platform applications for Windows, OS X, and Linux</li>
+    </ul>
+
+    <h3>Preferred</h3>
+
+    <ul>
+        <li>3-5 years of software development experience</li>
+        <li>Familiarity with standard UNIX development tools such as git</li>
+        <li>Experience with video playback/transcoding tools such as FFmpeg, VLC, and gstreamer</li>
+        <li>Comfortable with Agile software development methodologies</li>
+    </ul>
+
+    <h2>Java QA Engineer</h2>
+
+    <p>The Databrary project seeks a creative and flexible quality assurance engineer to test and enhance an open
+        source multi-platform video data analysis application (datavyu.org). You would provide an interface between
+        developers and academic users, with many opportunities to employ and expand your Java and Ruby programming
+        skills.</p>
+
+    <h3>Responsibilities</h3>
+
+    <ul>
+        <li>Learn the use and structure of a Java scientific video analysis tool and Ruby-based scripting
+            language.
+        </li>
+        <li>Perform research analysis tasks to identify and diagnose problems with the tool.</li>
+        <li>Work with users to understand existing work flows, provide support and training, and capture issues and
+            feature requests in bug reports.
+        </li>
+        <li>Provide minor Java fixes and enhancements, and work with other developers to explain and implement
+            larger projects.
+        </li>
+    </ul>
+
+    <h3>Qualifications</h3>
+
+    <ul>
+        <li>Excellent written and verbal technical and non-technical communication skills</li>
+        <li>Prior programming experience with Java</li>
+        <li>Understanding of software development process, bug tracking, and source code management</li>
+        <li>Experience working with cross-platform applications under Windows, OS X, and Linux</li>
+    </ul>
+
+    <h3>Preferred</h3>
+
+    <ul>
+        <li>History of active contributions to open source projects</li>
+        <li>Familiarity with standard UNIX development tools such as git</li>
+        <li>Experience with video playback/transcoding tools such as FFmpeg, VLC, and gstreamer</li>
+        <li>Previous QA and software testing experience</li>
+    </ul>
+
+    <hr/>
+
+    <h2>Compensation</h2>
+
+    <p>Salary range competitive with senior level academic positions plus full NYU benefits, including health and
+        tuition remission.</p>
+
+    <h2>To apply</h2>
+
+    <p>Send the following to <a href='mailto:jobs@databrary.org'>jobs@databrary.org</a>:</p>
+
+    <ul>
+        <li>One page cover letter (PDF)</li>
+        <li>Academic transcript of any formal qualifications (PDF)</li>
+        <li>Links to your open source contributions</li>
+        <li>Resume (PDF)</li>
+    </ul>
+</article>
+<!--#include virtual="../includes/footer.shtml" -->
