@@ -31,7 +31,7 @@
 
     <article class="feature">
         <h1>Free and open-source</h1>
-        <p>Datavyu software and technical support is free, now and always. Datavyu is open-source. Anyone can improve Datavyu and share the new features with the other researchers.</p>
+        <p>Datavyu software and technical support is free, now and always. Datavyu is open-source. Anyone can improve Datavyu and share the new features with other researchers.</p>
     </article>
 </article>
 <!--#include virtual="/includes/footer.shtml" -->
