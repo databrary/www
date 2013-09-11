@@ -156,27 +156,44 @@
     <article class="profile cf">
         <div class="row">
             <div class="column_small">
-                <h1>Alex Sokoloff</h1>
-
-                <ul class="info email">
-
-                    <li><a href="mailto:alex@databrary.org" title="Email Alex Sokoloff"><img
-                            src="/img/social/email.png" alt="Email Alex Sokoloff">alex@databrary.org</a></li>
-
-                </ul>
-            </div>
-        </div>
-    </article>
-
-    <article class="profile cf">
-        <div class="row">
-            <div class="column_small">
                 <h1>Michael Continues</h1>
 
                 <ul class="info email">
 
                     <li><a href="mailto:mike@databrary.org" title="Email Michael Continues"><img
                             src="/img/social/email.png" alt="Email Michael Continues">mike@databrary.org</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Andrea Byrne</h1>
+
+                <ul class="info email">
+
+                    <li><a href="mailto:andrea@databrary.org" title="Email Andrea Byrne"><img
+                            src="/img/social/email.png" alt="Email Andrea Byrne">andrea@databrary.org</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </article>
+
+
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Lina Wictoren Roy</h1>
+
+                <ul class="info email">
+
+                    <li><a href="mailto:lina@databrary.org" title="Email Lina Wictoren Roy"><img
+                            src="/img/social/email.png" alt="Email Lina Wictoren Roy">lina@databrary.org</a></li>
 
                 </ul>
             </div>
