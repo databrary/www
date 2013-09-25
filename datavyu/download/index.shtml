@@ -1,29 +1,67 @@
+
+
 <!--#set var="title" value="Download" -->
 <!--#include virtual="/includes/header.shtml" -->
         <article id="static_download">
 
+
         </article>
-    <h1 id="datavyu">Download Datavyu</h1>
+    <h1 id="datavyu">Download Datavyu Releases</h1>
 
     <article id="main-container">
 	<div class="form-container">
-		<h2>Latest Release: 0.9</h2>
+		<h2>Latest Release: 1.0.3</h2>
 		<ul>
-			<li><a href="https://www.dropbox.com/s/e91acfm0fsm9yiy/openshapa-1.11-WIN-20101220.zip">Windows</a></li>
-			<li><a href="https://www.dropbox.com/s/d5v7qcsjddg5zoy/openshapa-1.11-OSX-20101220.dmg">Mac OS X</a></li>
+			<li><a href="/releases/Datavyu-Windows-latest.zip">Windows</a></li>
+			<li><a href="/releases/Datavyu-OSX-latest.zip">Mac OS X</a></li>
 			<li>System requirements: Java 1.6 or higher, at least 1GB RAM, 1.2 GHz processor.</li>
 		</ul>
 	</div>
 	<div class="form-container">
+	<h2>Release notes for 1.0.3:</h2>
+	<h3>Additions</h3>
+	<ul>
+			<li>Datavyu automatically checks for updates when opened</li>
+			<li>On file open, a window pops up to display file open progress</li>
+			<li>Ruby scripting API is documented on the support wiki</li>
+			<li>Errors print to the scripting console window</li>
+			<li>A message prints to scripting console window to indicate that a script is running</li>
+		</ul>
+	<br>
+	<h3>Changes</h3>
+		<ul>
+			<li>Scripts must not include the entire API at the top of the file. Instead, add the line "require ‘Datavyu\_API.rb'" to the top of the file before the _begin_ command. Please see the support wiki for details.</li>
+		</ul>
+	<br>
+	<h3>Bug Fixes</h3>
+  		<ul>
+  			<li>Fixed change_arg and make_rel functions in the scripting API</li>
+  			<li>Prevented Datavyu from writing special characters that made files unreadable in OpenSHAPA</li>
+  			<li>Fixed a bug where some offsets would be set to 00:00:000 when the file was saved</li>
+  			<li>Fixed the delete cell command</li>	
+  			<li>Performance improvements when opening files</li>
+  			<li>Fixed memory issues that caused a drop in video playback performance</li>
+  		</ul>
+  	<br>
+
+	<h3>Known Issues</h3>
+  		<ul>
+  			<li>Video playback on Windows may be laggy (try the VLC plugin instead of Quicktime)</li>
+  			<li>In some cases, the asterisk in the title bar indicating that changes have been made to the file may not appear/disappear correctly</li>
+  			<li>Hidden variables may be listed as shown in the variable list</li>
+  			<li>Temporal ordering displays cells incorrectly in rare cases</li>
+  		</ul>
+  	<br>
+	<div class="form-container">
 		<h2>Other releases</h2>
 		<p>Most people should use the latest supported release above, but you can find older releases and unreleased (unstable) versions in our <a href="/releases/">releases directory</a>.</p>
 	</div>
-	</article>  
-	
+	</article>
+
 
     <h1 id="plugins">Additional Plugins</h1>
     <article>
 		<p>Soon you will be able to install additional plugins to customize Datavyu and make it yours. Stay tuned for greater functionality that addresses your different needs!   </p>
     </article>
-	
+
 <!--#include virtual="/includes/footer.shtml" -->
