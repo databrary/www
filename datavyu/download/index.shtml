@@ -27,12 +27,10 @@
 			<li>Errors print to the scripting console window</li>
 			<li>A message prints to scripting console window to indicate that a script is running</li>
 		</ul>
-	<br>
 	<h3>Changes</h3>
 		<ul>
 			<li>Scripts must not include the entire API at the top of the file. Instead, add the line "require ‘Datavyu\_API.rb'" to the top of the file before the _begin_ command. Please see the support wiki for details.</li>
 		</ul>
-	<br>
 	<h3>Bug Fixes</h3>
   		<ul>
   			<li>Fixed change_arg and make_rel functions in the scripting API</li>
@@ -42,7 +40,6 @@
   			<li>Performance improvements when opening files</li>
   			<li>Fixed memory issues that caused a drop in video playback performance</li>
   		</ul>
-  	<br>
 
 	<h3>Known Issues</h3>
   		<ul>
@@ -51,7 +48,6 @@
   			<li>Hidden variables may be listed as shown in the variable list</li>
   			<li>Temporal ordering displays cells incorrectly in rare cases</li>
   		</ul>
-  	<br>
 	<div class="form-container">
 		<h2>Other releases</h2>
 		<p>Most people should use the latest supported release above, but you can find older releases and unreleased (unstable) versions in our <a href="/releases/">releases directory</a>.</p>
