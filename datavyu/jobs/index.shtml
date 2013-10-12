@@ -3,84 +3,80 @@
 <article id="static_jobs">
     <h1>We are looking for great people to join our team!</h1>
 
-    <h2>Java Developer</h2>
+    <h2>Video Data Visualization Web Developer</h2>
 
-    <p>The Databrary project seeks a creative and productive developer to enhance an open source multi-platform
-        video data analysis application (datavyu.org).</p>
+    <p>
+    The Databrary project seeks a motivated and flexible developer to transition an existing open source <a href='http://datavyu.org'>video analysis application</a> to a new <a href='http://datarary.org'>web-based platform</a>.
+    You will take ownership of the research tool, working to support researchers and other users, while designing and reimplementing its functionality with modern web technology.
+    </p>
 
     <h3>Responsibilities</h3>
 
     <ul>
-        <li>Enhance and test an existing desktop analysis tool.</li>
-        <li>Build data visualization, import, and export tools.</li>
-        <li>Identify new feature priorities based on user feedback.</li>
-        <li>Provide customer support and training.</li>
+	    <li>Learn, maintain, and help phase out an existing Java desktop analysis tool.</li>
+	    <li>Interact with users to understand its current research uses and limitations.</li>
+	    <li>Design a new web-based implementation using modern technologies.</li>
+	    <li>Work with a small team to implement front-end interface, API, and back-end data storage.</li>
+	    <li>Build future enhancements including data visualization, import and export, and integration with data sharing.</li>
     </ul>
 
     <h3>Qualifications</h3>
 
     <ul>
-        <li>Prior development experience in Java, C/C++, and Ruby</li>
-        <li>History of active contributions to open source projects</li>
-        <li>Established track record of shipping reliable software products</li>
-        <li>Experience developing cross-platform applications for Windows, OS X, and Linux</li>
+	    <li>Broad interest in a diverse set of technologies, including Scala/FP, C/C++, Python/Ruby, Java, SQL, NoSQL, and GUI development</li>
+	    <li>Working knowledge of HTML5/JS, Ajax/RESTful interfaces, modern MVC web frameworks</li>
+	    <li>Familiarity with standard UNIX development tools such as git</li>
+	    <li>An eagerness to architect new designs from scratch as well as a willingness to dive into an existing code base</li>
     </ul>
 
     <h3>Preferred</h3>
 
     <ul>
-        <li>3-5 years of software development experience</li>
-        <li>Familiarity with standard UNIX development tools such as git</li>
-        <li>Experience with video playback/transcoding tools such as FFmpeg, VLC, and gstreamer</li>
-        <li>Comfortable with Agile software development methodologies</li>
+	    <li>2-5 years of software development experience</li>
+	    <li>Experience with video playback/transcoding tools such as FFmpeg, VLC, and gstreamer</li>
+	    <li>Basic understanding of research methods and statistics using R, IPython, MATLAB, or SPSS</li>
+	    <li>History of active contributions to open source projects</li>
     </ul>
 
-    <h2>Java QA Engineer</h2>
+    <h2>Research Data Library Back-end Developer</h2>
 
-    <p>The Databrary project seeks a creative and flexible quality assurance engineer to test and enhance an open
-        source multi-platform video data analysis application (datavyu.org). You would provide an interface between
-        developers and academic users, with many opportunities to employ and expand your Java and Ruby programming
-        skills.</p>
+    <p>
+    The Databrary project seeks a motivated programmer to help build an open source web-based data library.
+    You will work with other developers and data curators to develop back-end interfaces and tools to enable behavioral researchers to search, collaborate, store, explore, and present research datasets.
+    </p>
 
     <h3>Responsibilities</h3>
 
     <ul>
-        <li>Learn the use and structure of a Java scientific video analysis tool and Ruby-based scripting
-            language.
-        </li>
-        <li>Perform research analysis tasks to identify and diagnose problems with the tool.</li>
-        <li>Work with users to understand existing work flows, provide support and training, and capture issues and
-            feature requests in bug reports.
-        </li>
-        <li>Provide minor Java fixes and enhancements, and work with other developers to explain and implement
-            larger projects.
-        </li>
+	    <li>Work with a small team to implement search and data management tools and web APIs.</li>
+	    <li>Design, implement, test, and validate web framework controllers in Scala.</li>
+	    <li>Learn, understand, reorganize, and index research data as needed for better integration with the site.</li>
+	    <li>Implement dynamic and modular web application to organize, present, and manipulate research materials.</li>
     </ul>
 
     <h3>Qualifications</h3>
 
     <ul>
-        <li>Excellent written and verbal technical and non-technical communication skills</li>
-        <li>Prior programming experience with Java</li>
-        <li>Understanding of software development process, bug tracking, and source code management</li>
-        <li>Experience working with cross-platform applications under Windows, OS X, and Linux</li>
+	    <li>Background in CS or other relevant field and functional programming experience in OCaml, Haskell, Scala, or Clojure</li>
+	    <li>Knowledge of modern relational database, indexing, video, and web technologies such as PostgreSQL, solr, ffmpeg, and play</li>
+	    <li>Understanding of security and ethical concerns around sensitive data</li>
+	    <li>Familiarity with standard UNIX development tools such as git</li>
     </ul>
 
     <h3>Preferred</h3>
 
     <ul>
-        <li>History of active contributions to open source projects</li>
-        <li>Familiarity with standard UNIX development tools such as git</li>
-        <li>Experience with video playback/transcoding tools such as FFmpeg, VLC, and gstreamer</li>
-        <li>Previous QA and software testing experience</li>
+	    <li>2-5 years of software development experience</li>
+	    <li>History of contributions to open source projects</li>
+	    <li>Experience creating data processing pipelines and RESTful interfaces for structured data</li>
+	    <li>Basic understanding of scientific practices and research tools, such as Matlab, SPSS, or R</li>
     </ul>
 
     <hr/>
 
     <h2>Compensation</h2>
 
-    <p>Salary range competitive with senior level academic positions plus full NYU benefits, including health and
-        tuition remission.</p>
+    <p>Salary range competitive with senior level academic positions plus full NYU benefits, including health and tuition remission.</p>
 
     <h2>To apply</h2>
 
