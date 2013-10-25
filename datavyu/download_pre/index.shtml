@@ -10,7 +10,7 @@
 
     <article id="main-container">
 	<div class="form-container">
-		<h2>Latest Pre-release: 1.0.3rev3</h2>
+		<h2>Latest Pre-release: 1.0.4rev1</h2>
 		<ul>
 			<li><a href="/releases_pre/Datavyu-Windows-latest.zip">Windows</a></li>
 			<li><a href="/releases_pre/Datavyu-OSX-latest.zip">Mac OS X</a></li>
@@ -21,12 +21,12 @@
 		<h2>Other releases</h2>
 		<p>Most people should use the latest supported release above, but you can find older releases and unreleased (unstable) versions in our <a href="/releases/">releases directory</a>.</p>
 	</div>
-	</article>  
-	
+	</article>
+
 
     <h1 id="plugins">Additional Plugins</h1>
     <article>
 		<p>Soon you will be able to install additional plugins to customize Datavyu and make it yours. Stay tuned for greater functionality that addresses your different needs!   </p>
     </article>
-	
+
 <!--#include virtual="/includes/footer.shtml" -->
