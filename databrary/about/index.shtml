@@ -8,13 +8,13 @@
     <p>The Databrary project includes:</p>
 
     <dl>
-        <dt><a href="@routes.Static.index">Databrary</a></dt>
+        <dt><a href="/">Databrary</a></dt>
         <dd>A web-based repository for open sharing and preservation of video data and associated metadata.</dd>
 
-        <dt><a href="http://datavyu.org">Datavyu</a></dt>
+        <dt><a href="http://datavyu.org/">Datavyu</a></dt>
         <dd>A free, open source video-coding software, that enables coding, exploring, and analyzing video data.</dd>
 
-        <dt><a href="http://labnanny.org">Labnanny</a></dt>
+        <dt><a href="http://labnanny.org/">Labnanny</a></dt>
         <dd>A data management system that supports data-sharing within labs, among collaborators, and in the Databrary repository.</dd>
     </dl>
 
