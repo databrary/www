@@ -50,7 +50,7 @@
                 </li>
 
                 <li class='<!--#echo var="Policy" -->'>
-                    <a href="http://databrary.org/policy/" title="Policy">Policy</a>
+                    <a href="http://databrary.org/policy/" title="Policy">GETTING STARTED</a>
 
                     <ul>
                         <li><a href="http://databrary.org/policies/" title="Policies">Policies</a></li>
