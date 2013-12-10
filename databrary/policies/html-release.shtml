@@ -1,6 +1,6 @@
 <!--#set var="title" value="Policy" -->
-<!--#include virtual="/../includes/header.shtml" -->
+<!--#include virtual="/includes/header.shtml" -->
 <article id="static_release">
-    <!--#include virtual="/../policies/sharing-release-instructions.html" -->
+    <!--#include virtual="sharing-release-instructions.html" -->
 </article>
-<!--#include virtual="/../includes/footer.shtml" -->
+<!--#include virtual="/includes/footer.shtml" -->
