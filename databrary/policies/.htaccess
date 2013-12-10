@@ -1,2 +1,3 @@
 Options Indexes FollowSymLinks
 IndexOptions NameWidth=*
+Options +Includes
