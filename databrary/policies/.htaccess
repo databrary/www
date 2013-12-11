@@ -1,6 +1,2 @@
-Options Indexes FollowSymLinks
+Options Indexes FollowSymLinks Includes
 IndexOptions NameWidth=*
-
-Options +Includes
-AddType text/html .shtml
-AddHandler server-parsed .shtml
