@@ -10,7 +10,7 @@
 
     <article id="main-container">
 	<div class="form-container">
-		<h2>Latest Pre-release: 1.0.4rev1</h2>
+		<h2>Latest Pre-release: 1.0.4rev3</h2>
 		<ul>
 			<li><a href="/releases_pre/Datavyu-Windows-latest.zip">Windows</a></li>
 			<li><a href="/releases_pre/Datavyu-OSX-latest.zip">Mac OS X</a></li>
