@@ -23,7 +23,7 @@
 <body>
 <section id="bar">
     <div class="wrapper">
-        <h1><a href="http://databrary.org/about/#project" title="About the Databrary Project"><span>THE </span>DATABRARY<span> PROJECT</span></a></h1>
+        <h1><a href="/about/#project" title="About the Databrary Project"><span>THE </span>DATABRARY<span> PROJECT</span></a></h1>
 
         <nav>
             <a href="http://databrary.org" title="Databrary"><img src="/img/logo/databrary-nav.png" alt="Databrary"><span>Databrary</span></a>
@@ -41,39 +41,39 @@
             <!--#set var="$title" value="current" -->
             <ul>
                 <li class='<!--#echo var="About" -->'>
-                    <a href="http://databrary.org/about" title="About">ABOUT</a>
+                    <a href="/about" title="About">ABOUT</a>
 
                     <ul>
-                        <li><a href="http://databrary.org/about/" title="Project">Project</a></li>
-                        <li><a href="http://databrary.org/about/faq/" title="FAQ">FAQ</a></li>
+                        <li><a href="/about/" title="Project">Project</a></li>
+                        <li><a href="/about/faq/" title="FAQ">FAQ</a></li>
                     </ul>
                 </li>
 
                 <li class='<!--#echo var="Policy" -->'>
-                    <a href="http://databrary.org/policy/" title="Policy">GETTING STARTED</a>
+                    <a href="/policy/" title="Policy">GETTING STARTED</a>
 
                     <ul>
-                        <li><a href="http://databrary.org/policy/" title="Policies">Policies</a></li>
-                        <li><a href="http://databrary.org/policies/sharing-release-instructions.shtml" title="How to Share">How to Share</a></li>
+                        <li><a href="/policy/" title="Policies">Policies</a></li>
+                        <li><a href="/policies/sharing-release-instructions.shtml" title="How to Share">How to Share</a></li>
                     </ul>
                 </li>
 
                 <li class='<!--#echo var="Community" -->'>
-                    <a href="http://databrary.org/community/" title="Community">COMMUNITY</a>
+                    <a href="/community/" title="Community">COMMUNITY</a>
 
                     <ul>
-                        <li><a href="http://databrary.org/community/" title="Team">Team</a></li>
-                        <li><a href="http://databrary.org/community/board/" title="Advisory Board">Board</a></li>
-                        <li><a href="http://databrary.org/community/contributors/" title="Data Contributors">Contributors</a></li>
+                        <li><a href="/community/" title="Team">Team</a></li>
+                        <li><a href="/community/board/" title="Advisory Board">Board</a></li>
+                        <li><a href="/community/contributors/" title="Data Contributors">Contributors</a></li>
                     </ul>
                 </li>
 
                 <li class='<!--#echo var="Development" -->'>
-                    <a href="http://github.com/databrary" title="Development on Github.com">DEVELOPMENT</a>
+                    <a href="tabrary" title="Development on Github.com">DEVELOPMENT</a>
                 </li>
 
                 <li class='<!--#echo var="Newsletter" -->'>
-                    <a href="http://databrary.org/contact/newsletter/" title="Newsletter">NEWSLETTER</a>
+                    <a href="/contact/newsletter/" title="Newsletter">NEWSLETTER</a>
                 </li>
             </ul>
         </nav>
