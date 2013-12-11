@@ -45,7 +45,16 @@
 
                     <ul>
                         <li><a href="http://databrary.org/about/" title="Project">Project</a></li>
-                        <li><a href="http://databrary.org/about/#policies" title="Policies">Policies</a></li>
+                        <li><a href="http://databrary.org/about/faq/" title="FAQ">FAQ</a></li>
+                    </ul>
+                </li>
+
+                <li class='<!--#echo var="Policy" -->'>
+                    <a href="http://databrary.org/policy/" title="Policy">GETTING STARTED</a>
+
+                    <ul>
+                        <li><a href="http://databrary.org/policy/" title="Policies">Policies</a></li>
+                        <li><a href="http://databrary.org/policies/" title="How to Share">How to Share</a></li>
                     </ul>
                 </li>
 
@@ -57,10 +66,6 @@
                         <li><a href="http://databrary.org/community/board/" title="Advisory Board">Board</a></li>
                         <li><a href="http://databrary.org/community/contributors/" title="Data Contributors">Contributors</a></li>
                     </ul>
-                </li>
-
-                <li class='<!--#echo var="FAQ" -->'>
-                    <a href="http://databrary.org/faq/" title="FAQ">FAQ</a>
                 </li>
 
                 <li class='<!--#echo var="Development" -->'>
