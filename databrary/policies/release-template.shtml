@@ -1,7 +1,8 @@
 <!--#set var="title" value="Policy" -->
 <!--#include virtual="/includes/header.shtml" -->
 <article id="static_policies">
-<div><small>This file is also available in <a href="release-template.pdf">pdf</a>, <a href="release-template.docx">docx</a>, or the original <a href="https://github.com/databrary/policies/blob/master/release-template.md">markdown</a>.</small></div>
+<div class="other-formats">This file is also available in <a href="release-template.pdf">pdf</a>, <a href="release-template.docx">docx</a>, or the original <a href="https://github.com/databrary/policies/blob/master/release-template.md">markdown</a>.</div>
+
     <!--#include virtual="release-template.html" -->
 </article>
 <!--#include virtual="/includes/footer.shtml" -->

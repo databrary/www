@@ -1083,3 +1083,14 @@ SLIDES
     width: 46%;
     margin: 0 2% 0;
 }
+
+.other-formats {
+	text-align: right;
+	font-size: 0.75em;
+	padding-left: 75%;
+	font-style: italic;
+}
+
+.release-notes {
+
+}
