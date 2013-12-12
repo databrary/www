@@ -1,7 +1,7 @@
 <!--#set var="title" value="Policy" -->
 <!--#include virtual="/includes/header.shtml" -->
 <article id="static_policies">
-<div><small>This file is also available in <a href="investigator-agmt.pdf">pdf</a>, <a href="%FILE%.docx">docx</a>, or the original <a href="https://github.com/databrary/policies/blob/master/%FILE%.md">markdown</a>.</small></div>
+<div><small>This file is also available in <a href="investigator-agmt.pdf">pdf</a>, <a href="investigator-agmt.docx">docx</a>, or the original <a href="https://github.com/databrary/policies/blob/master/investigator-agmt.md">markdown</a>.</small></div>
     <!--#include virtual="investigator-agmt.html" -->
 </article>
 <!--#include virtual="/includes/footer.shtml" -->
