@@ -9,16 +9,10 @@
         <li>System requirements: Java 1.6 or higher, at least 1GB RAM, 1.2 GHz processor.</li>
     </ul>
 
-    <h2>Development Release: 1.0.4rev3</h2>
+    <h2>Development Releases</h2>
 
     <p>Most people should use the latest supported release above, but you can find older releases and unreleased
         (unstable) versions in our <a href="/releases/">releases directory</a>.</p>
-
-    <ul>
-        <li><a href="/releases/Datavyu-Windows-20130918.zip">Windows</a></li>
-        <li><a href="/releases/Datavyu-OSX-20130918.zip ">Mac OS X</a></li>
-        <li>System requirements: Java 1.6 or higher, at least 1GB RAM, 1.2 GHz processor.</li>
-    </ul>
 
     <h2>Plugins</h2>
 
