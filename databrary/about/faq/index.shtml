@@ -155,7 +155,7 @@
         <h2>How can I search the database?</h2>
 
         <div>
-            <p>To search for appropriate datasets, users type in relevant words or phrases (e.g., infant, Smith, language, 12-month-old, 2011). If these words are present in the abstract, manuscript, coding manual, spreadsheets, or other metadata associated with the study, studies, video clips or portions of video clips might be returned.</p>
+            <p>To search for appropriate datasets or videos, users type in relevant words or phrases (e.g., infant, Smith, language, 12-month-old, 2011). If these words are present in the abstract, manuscript, coding manual, spreadsheets, or other associated metadata, then studies, video clips, or portions of video clips will be returned.</p>
 
             <p>To navigate within datasets and search results, users could browse by relevance, time sample, or event sample.</p>
         </div>
