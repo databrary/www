@@ -199,6 +199,21 @@
             </div>
         </div>
     </article>
+    
+    <article class="profile cf">
+        <div class="row">
+            <div class="column_small">
+                <h1>Vicky Foo</h1>
+
+                <ul class="info email">
+
+                    <li><a href="mailto:vicky@databrary.org" title="Email Vicky Foo"><img
+                            src="/img/social/email.png" alt="Email Vicky Foo">vicky@databrary.org</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </article>
 
 </div>
 
@@ -251,13 +266,6 @@
     </article>
 
 
-    <article class="profile cf">
-        <div class="row">
-            <div class="column_small">
-                <h1>Kasey Soska</h1>
-            </div>
-        </div>
-    </article>
 </div>
 </article>
 <!--#include virtual="/includes/footer.shtml" -->
