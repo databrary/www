@@ -1,0 +1,19 @@
+<header id="site_header" class="site_header">
+	<div class="wrap">
+		<h1>
+			<a href="/" title="{{ SITENAME }}"><img id="logo" src="{{ SITEURL }}/theme/img/logo/{{ SITESLUG }}.png" alt="{{ SITENAME }}"></a>
+		</h1>
+
+		<nav>
+			<ul>
+				{% for pg in PAGES %}
+				{% if not '/' in pg.slug %}
+				<li class="{% if page and pg.slug in page.slug %}current{% endif %}">
+					<a href="{{ SITEURL }}/{{ pg.url }}" title="{{ pg.title }}">{{ pg.brief }}</a>
+				</li>
+				{% endif %}
+				{% endfor %}
+			</ul>
+		</nav>
+	</div>
+</header>

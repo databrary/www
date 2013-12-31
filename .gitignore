@@ -1,5 +1,9 @@
 *~
 /common/robots.txt
 .DS_Store
-
+/.idea
 /*.iml
+/env
+*.pid
+__pycache__
+/*/output/*

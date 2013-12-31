@@ -1,0 +1,11 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }}{% endblock %}
+
+{% block content %}
+<article id="page_{{ page.slug.replace('/', '_') }}" class="hentry page page_{{ page.slug.replace('/', '_') }}">
+	<h1>{{ page.title }}</h1>
+
+	{{ page.content }}
+</article>
+{% endblock content %}

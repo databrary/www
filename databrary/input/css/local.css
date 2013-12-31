@@ -1,0 +1,181 @@
+/* FAQ */
+.page_faq section {
+    padding-bottom: .5em;
+}
+
+.page_faq h2 {
+    font-size: 1em;
+    margin-top: 0;
+}
+
+.page_faq h2 .arrow {
+    bottom: 0.25em;
+    border-style: dashed;
+    border-color: transparent;
+    border-width: 0.53em;
+    display: -moz-inline-box;
+    display: inline-block;
+    height: 0;
+    width: 0;
+    line-height: 0;
+    vertical-align: middle;
+    font-size: 8px;
+    border-bottom: 1em solid #333333;
+    margin: 0 5px;
+    position: relative;
+    -webkit-transform: rotate(90deg);
+    -moz-transform: rotate(90deg);
+    -o-transform: rotate(90deg);
+    transform: rotate(90deg);
+    -webkit-transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+}
+
+.page_faq h2:hover .arrow {
+    -webkit-transform: rotate(135deg);
+    -moz-transform: rotate(135deg);
+    -o-transform: rotate(135deg);
+    transform: rotate(135deg);
+    -webkit-transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+}
+
+.page_faq h2.unfolded .arrow {
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+    -webkit-transition: all 0.1s linear;
+    -moz-transition: all 0.1s linear;
+    transition: all 0.1s linear;
+}
+
+.page_faq > div {
+    padding-top: .5em;
+}
+
+/* TEAM */
+.page_team h2 {
+    margin: 28px 0;
+    border-top: 1px solid #d1cac4;
+    border-bottom: 1px solid #d1cac4;
+    padding: 7px 0;
+    font-size: 1em;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #ee6f07;
+    font-weight: normal;
+    text-align: center;
+}
+
+.page_team .profile {
+    margin-bottom: 28px;
+}
+
+.page_team .profile .avatar {
+    padding: 7px;
+    border: 1px solid #d1cac4;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+}
+
+.page_team .profile h1 {
+    font-size: 1.2em;
+    color: #3ea938;
+    border-bottom: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.page_team .profile .position {
+    font-family: 'SofiaProMedium', Helvetica, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-size: 0.9em;
+}
+
+.page_team .profile ul.info {
+    font-size: 0.9em;
+    line-height: 1.2;
+    list-style: none;
+    padding: 0;
+    margin: 7px 0 0;
+}
+
+.page_team .profile ul.info li {
+    margin-bottom: 7px;
+}
+
+.page_team .profile ul.info img {
+    vertical-align: bottom;
+    position: relative;
+    top: -2px;
+    margin-right: 5px;
+}
+
+.page_team .profile ul.email a {
+    color: #9A7F6A;
+}
+
+.page_team .flatten .profile {
+    margin-bottom: 10px;
+}
+
+.page_team .column_mini {
+    float: left;
+    width: 200px;
+    margin-right: 16px;
+}
+
+.page_team .column_small {
+    float: left;
+}
+
+.page_team .flatten .column_small,
+.page_team .flatten .column_mini {
+    width: auto;
+    float: none;
+}
+
+/* TEAM STAFF */
+.page_team dl dt {
+	font-weight: bold;
+    font-size: 1.2em;
+    color: #3ea938;
+    border-bottom: 0;
+    padding: 0;
+    margin: 14px 0 0;
+}
+
+.page_team dl dt:first-of-type {
+    margin-top: 0;
+}
+
+.page_team dl dd {
+    font-size: 0.9em;
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+/* CONTRIBUTORS AND BOARD */
+.page_contributors dl dt,
+.page_board dl dt {
+    font-weight: bold;
+    margin-top: .5em;
+}
+
+.page_contributors dl dt:first-of-type,
+.page_board dl dt:first-of-type {
+    margin-top: 0;
+}
+
+.page_contributors dl dd,
+.page_board dl dd {
+    margin-bottom: 0;
+    font-size: 0.9em;
+    text-indent: -1em;
+    padding-left: 1em;
+    text-align: left;
+}

@@ -20,7 +20,7 @@ DEFAULT_ORPHANS = 3
 
 PLUGIN_PATH = '../common/plugins'
 PLUGINS = ['sitemap']
-MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'admonition', 'headerid(level=1)', 'nl2br', 'sane_lists']
+MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'admonition', 'headerid(level=2)', 'nl2br', 'sane_lists']
 
 SITEMAP = {
 	'format': 'xml',
@@ -30,6 +30,7 @@ SITEMAP = {
 
 # COMPILE
 THEME = '../common/theme'
+DELETE_OUTPUT_DIRECTORY = True
 
 PATH = 'input/'
 OUTPUT_PATH = 'output/'

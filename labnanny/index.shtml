@@ -1,8 +1,0 @@
-<!--#set var="title" value="Keep Your Research Tidy" -->
-<!--#include virtual="/includes/header.shtml" -->
-<article class="banner">
-    <img id="logo" src="/img/splash/labnanny.png">
-
-    <h1>Track progress. Ensure data integrity. <br>Improve productivity. Keep your research tidy.</h1>
-</article>
-<!--#include virtual="/includes/footer.shtml" -->

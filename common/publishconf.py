@@ -4,7 +4,6 @@ from __future__ import unicode_literals
 
 # COMPILE
 RELATIVE_URLS = False
-DELETE_OUTPUT_DIRECTORY = True
 
 # FEEDS
 FEED_ALL_RSS = 'feeds/all.xml'

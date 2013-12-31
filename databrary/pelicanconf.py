@@ -12,7 +12,8 @@ sys.path.append(os.path.abspath(__file__)+'/../../')
 from common.pelicanconf import *
 
 # SITE
-SITENAME = 'The Databrary Project'
+SITENAME = 'Databrary: An Open Data Library for Developmental Science'
+SITESLUG = 'databrary'
 
 # CONTENT
 # TEMPLATE_PAGES = {} // for custom pages from git
