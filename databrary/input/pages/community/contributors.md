@@ -1,6 +1,7 @@
 Title: Committed Contributors
 Brief: Contributors
-Slug: contributors
+Slug: community/contributors
+Order: 2700
 
 [Karen Adolph](http://www.psych.nyu.edu/adolph/ "Karen Adolph on the web")
 :	New York University

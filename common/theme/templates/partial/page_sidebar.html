@@ -1,0 +1,47 @@
+<nav class="col_nav">
+	{% for pg in PAGES if pg.slug == page.slug.split('/')[0] %}
+		<h2><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title|replace('&nbsp;', ' ') }}</a></h2>
+	{% endfor %}
+
+	{% for pg1 in PAGES|sort(attribute='order') if pg1.slug.startswith(page.slug.split('/')[0]) and pg1.slug.count('/') == 1 %}
+		{% if loop.first %}
+			<ul>
+		{% endif %}
+
+				<li>
+					<a href="{{ SITEURL }}/{{ pg1.url }}">{{ pg1.title|replace('&nbsp;', ' ') }}</a>
+
+					{% for pg2 in PAGES|sort(attribute='order') if pg2.slug.startswith('/'.join(pg1.slug.split('/')[0:2])) and pg2.slug.count('/') == 2 %}
+						{% if loop.first %}
+							<ul>
+						{% endif %}
+
+								<li>
+									<a href="{{ SITEURL }}/{{ pg2.url }}">{{ pg2.title|replace('&nbsp;', ' ') }}</a>
+
+									{% for pg3 in PAGES|sort(attribute='order') if pg3.slug.startswith('/'.join(pg2.slug.split('/')[0:3])) and pg3.slug.count('/') == 3 %}
+										{% if loop.first %}
+											<ul>
+										{% endif %}
+
+												<li>
+													<a href="{{ SITEURL }}/{{ pg3.url }}">{{ pg3.title|replace('&nbsp;', ' ') }}</a>
+												</li>
+
+										{% if loop.last %}
+											</ul>
+										{% endif %}
+									{% endfor %}
+								</li>
+
+						{% if loop.last %}
+							</ul>
+						{% endif %}
+					{% endfor %}
+				</li>
+
+		{% if loop.last %}
+			</ul>
+		{% endif %}
+	{% endfor %}
+</nav>

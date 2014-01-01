@@ -1,6 +1,7 @@
 Title: Advisory Board
 Brief: Board
-Slug: board
+Slug: community/board
+Order: 2500
 
 David Ackerman
 :	Executive Director of Digital Library Technology Services

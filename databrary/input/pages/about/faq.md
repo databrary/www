@@ -1,6 +1,7 @@
 Title: Frequently Asked Questions
 Brief: F.A.Q.
-Slug: faq
+Slug: about/faq
+Order: 1300
 
 <section data-feature="fold">
 	<h2>What is Databrary?</h2>

@@ -1,6 +1,7 @@
 Title: Our Team
 Brief: Team
-Slug: team
+Slug: community/team
+Order: 2300
 
 # Principal Investigators
 
