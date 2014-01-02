@@ -48,14 +48,18 @@ TYPOGRIFY = True
 # URLS
 ARTICLE_URL = 'post/{slug}.html'
 ARTICLE_SAVE_AS = 'post/{slug}.html'
+
 PAGE_URL = '{slug}.html'
 PAGE_SAVE_AS = '{slug}.html'
-CATEGORY_URL = 'category/{slug}.html'
-CATEGORY_SAVE_AS = 'category/{slug}.html'
+
 ARCHIVES_SAVE_AS = 'archives.html'
+
+CATEGORY_SAVE_AS = False
+CATEGORIES_SAVE_AS = False
 
 TAG_SAVE_AS = False
 TAGS_SAVE_AS = False
+
 AUTHOR_SAVE_AS = False
 AUTHORS_SAVE_AS = False
 

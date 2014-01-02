@@ -1,14 +1,14 @@
 /* FAQ */
-.page_faq section {
+.page_about_faq .entry-content section {
     padding-bottom: .5em;
 }
 
-.page_faq h2 {
+.page_about_faq .entry-content h2 {
     font-size: 1em;
     margin-top: 0;
 }
 
-.page_faq h2 .arrow {
+.page_about_faq .entry-content h2 .arrow {
     bottom: 0.25em;
     border-style: dashed;
     border-color: transparent;
@@ -32,7 +32,7 @@
     transition: all 0.1s linear;
 }
 
-.page_faq h2:hover .arrow {
+.page_about_faq .entry-content h2:hover .arrow {
     -webkit-transform: rotate(135deg);
     -moz-transform: rotate(135deg);
     -o-transform: rotate(135deg);
@@ -42,7 +42,7 @@
     transition: all 0.1s linear;
 }
 
-.page_faq h2.unfolded .arrow {
+.page_about_faq .entry-content h2.unfolded .arrow {
     -webkit-transform: rotate(180deg);
     -moz-transform: rotate(180deg);
     -o-transform: rotate(180deg);
@@ -52,12 +52,12 @@
     transition: all 0.1s linear;
 }
 
-.page_faq > div {
+.page_about_faq .entry-content section div {
     padding-top: .5em;
 }
 
 /* TEAM */
-.page_community_team h2 {
+.page_community_team .entry-content h2 {
     margin: 56px 0;
     border-top: 1px solid #d1cac4;
     border-bottom: 1px solid #d1cac4;
@@ -70,11 +70,15 @@
     text-align: center;
 }
 
-.page_community_team .profile {
+.page_community_team .entry-content h2:first-of-type {
+    margin-top: 0;
+}
+
+.page_community_team .entry-content .profile {
     margin-bottom: 28px;
 }
 
-.page_community_team .profile .avatar {
+.page_community_team .entry-content .profile .avatar {
     padding: 7px;
     border: 1px solid #d1cac4;
     -webkit-border-radius: 7px;
@@ -82,7 +86,7 @@
     border-radius: 7px;
 }
 
-.page_community_team .profile h1 {
+.page_community_team .entry-content .profile h1 {
     font-size: 1.2em;
     color: #3ea938;
     border-bottom: 0;
@@ -90,13 +94,13 @@
     margin: 0;
 }
 
-.page_community_team .profile .position {
+.page_community_team .entry-content .profile .position {
     font-family: 'SofiaProMedium', Helvetica, Verdana, sans-serif;
     text-transform: uppercase;
     font-size: 0.9em;
 }
 
-.page_community_team .profile ul.info {
+.page_community_team .entry-content .profile ul.info {
     font-size: 0.9em;
     line-height: 1.2;
     list-style: none;
@@ -104,43 +108,33 @@
     margin: 7px 0 0;
 }
 
-.page_community_team .profile ul.info li {
+.page_community_team .entry-content .profile ul.info li {
     margin-bottom: 7px;
 }
 
-.page_community_team .profile ul.info img {
+.page_community_team .entry-content .profile ul.info img {
     vertical-align: bottom;
     position: relative;
     top: -2px;
     margin-right: 5px;
 }
 
-.page_community_team .profile ul.email a {
+.page_community_team .entry-content .profile ul.email a {
     color: #9A7F6A;
 }
 
-.page_community_team .flatten .profile {
-    margin-bottom: 10px;
-}
-
-.page_community_team .column_mini {
+.page_community_team .entry-content .column_mini {
     float: left;
     width: 200px;
     margin-right: 16px;
 }
 
-.page_community_team .column_small {
+.page_community_team .entry-content .column_small {
     float: left;
 }
 
-.page_community_team .flatten .column_small,
-.page_community_team .flatten .column_mini {
-    width: auto;
-    float: none;
-}
-
 /* TEAM STAFF */
-.page_community_team dl dt {
+.page_community_team .entry-content dl dt {
 	font-weight: bold;
     font-size: 1.2em;
     color: #3ea938;
@@ -149,30 +143,30 @@
     margin: 14px 0 0;
 }
 
-.page_community_team dl dt:first-of-type {
+.page_community_team .entry-content dl dt:first-of-type {
     margin-top: 0;
 }
 
-.page_community_team dl dd {
+.page_community_team .entry-content dl dd {
     font-size: 0.9em;
     margin-bottom: 0;
     margin-left: 0;
 }
 
 /* CONTRIBUTORS AND BOARD */
-.page_community_contributors dl dt,
-.page_community_board dl dt {
+.page_community_contributors .entry-content dl dt,
+.page_community_board .entry-content dl dt {
     font-weight: bold;
     margin-top: .5em;
 }
 
-.page_community_contributors dl dt:first-of-type,
-.page_community_board dl dt:first-of-type {
+.page_community_contributors .entry-content dl dt:first-of-type,
+.page_community_board .entry-content dl dt:first-of-type {
     margin-top: 0;
 }
 
-.page_community_contributors dl dd,
-.page_community_board dl dd {
+.page_community_contributors .entry-content dl dd,
+.page_community_board .entry-content dl dd {
     margin-bottom: 0;
     font-size: 0.9em;
     text-indent: -1em;

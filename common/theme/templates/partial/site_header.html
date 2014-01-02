@@ -6,7 +6,7 @@
 
 		<nav>
 			<ul>
-				{% for pg in PAGES %}
+				{% for pg in PAGES|sort(attribute='order') %}
 				{% if not '/' in pg.slug %}
 				<li class="{% if page and pg.slug in page.slug %}current{% endif %}">
 					<a href="{{ SITEURL }}/{{ pg.url }}" title="{{ pg.title }}">{{ pg.brief }}</a>

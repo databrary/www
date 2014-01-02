@@ -1,11 +1,18 @@
 {% extends "base.html" %}
 
-{% block title %}{{ page.title }}{% endblock %}
+{% block title %}{{ page.title|replace('&nbsp;', ' ') }}{% endblock %}
 
 {% block content %}
 <article id="page_{{ page.slug.replace('/', '_') }}" class="hentry page page_{{ page.slug.replace('/', '_') }}">
-	<h1>{{ page.title }}</h1>
+	<h1 class="entry-title"><span></span>{{ page.title|replace('&nbsp;', ' ') }}</h1>
 
-	{{ page.content }}
+	<div class="cf">
+		<div class="entry-content col_with_nav">
+			{{ page.content }}
+		</div>
+
+		{% include 'partial/page_sidebar.html' %}
+	</div>
+
 </article>
 {% endblock content %}
