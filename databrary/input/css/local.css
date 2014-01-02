@@ -6,6 +6,7 @@
 .page_about_faq .entry-content h2 {
     font-size: 1em;
     margin-top: 0;
+	cursor: pointer;
 }
 
 .page_about_faq .entry-content h2 .arrow {

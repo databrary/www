@@ -3,7 +3,7 @@ Brief: F.A.Q.
 Slug: about/faq
 Order: 1300
 
-<section data-feature="fold">
+<section class="question">
 	<h2>What is Databrary?</h2>
 
 	<div>
@@ -11,7 +11,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>Why should I contribute my data or tools to an open data sharing library?</h2>
 
 	<div>
@@ -20,7 +20,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>Will I receive credit for my contributions if other researchers use my data?</h2>
 
 	<div>
@@ -30,7 +30,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>What can I contribute?</h2>
 
 	<div>
@@ -44,7 +44,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>What about privacy?</h2>
 
 	<div>
@@ -61,7 +61,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>How do I apply for access?</h2>
 
 	<div>
@@ -71,7 +71,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>What are some ways I might use it?</h2>
 
 	<div>
@@ -109,7 +109,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>Who can contribute data or tools to the open share repository?</h2>
 
 	<div>
@@ -131,7 +131,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>How do I contribute?</h2>
 
 	<div>
@@ -139,7 +139,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>When do I contribute?</h2>
 
 	<div>
@@ -149,7 +149,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>How can I search the database?</h2>
 
 	<div>
@@ -159,7 +159,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>Do I have to use <a href="http://datavyu.org">Datavyu</a> to contribute?</h2>
 
 	<div>
@@ -169,7 +169,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>How will using Datavyu and joining the Databrary improve my science?</h2>
 
 	<div>
@@ -177,7 +177,7 @@ Order: 1300
 	</div>
 </section>
 
-<section data-feature="fold">
+<section class="question">
 	<h2>How do we build a sustainable user community?</h2>
 
 	<div>

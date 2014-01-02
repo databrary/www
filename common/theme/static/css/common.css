@@ -307,6 +307,16 @@ ul.inline li {
 	width: 34%;
 }
 
+.col_third {
+	float: left;
+	width: 31%;
+	margin-right: 3.5%;
+}
+
+.col_third:last-of-type {
+	margin-right: 0;
+}
+
 @media (max-width: 680px) {
 	.col_with_nav {
 		float: none;
@@ -608,3 +618,71 @@ nav.page_sidebar a {
 nav.page_sidebar a:hover {
 	color: #9ADC97
 }
+
+/* CAROUSEL */
+
+.carousel {
+	position: relative;
+	width: 100%;
+	height: 477px;
+	overflow: hidden;
+	border: 1px solid #999;
+	margin-bottom: 56px;
+}
+
+.carousel .panels {
+	position: relative;
+}
+
+.carousel .panel {
+	position: absolute;
+	width: 100%;
+}
+
+.carousel .panel img {
+	width: 100%;
+	height: auto;
+}
+
+.carousel .text {
+	background-color: rgba(255, 255, 255, 0.9);
+	padding: 21px 28px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+}
+
+.carousel .text h1 {
+	display: inline;
+	margin: 0;
+	font-size: 1.4em;
+}
+
+.carousel .text span {
+	color: #68CB63;
+}
+
+/* INFO BLOCKS */
+
+.info_blocks {
+	margin-bottom: 56px;
+}
+
+.info_block{
+	font-size: 1em;
+}
+
+.info_block h2 {
+	margin: 0;
+	text-align: center;
+}
+
+/* BLOG */
+
+
+
+/* EVENTS */
+
+
+
