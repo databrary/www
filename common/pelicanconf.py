@@ -10,7 +10,7 @@ DEFAULT_LANG = 'en'
 AUTHOR = 'The Databrary Team'
 
 # CONTENT
-USE_FOLDER_AS_CATEGORY = False
+USE_FOLDER_AS_CATEGORY = True
 DEFAULT_CATEGORY = 'news'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 
@@ -25,7 +25,7 @@ MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'admonition', 'head
 SITEMAP = {
 	'format': 'xml',
 	'priorities': {'articles': 0.75, 'indexes': 0.5, 'pages': 1},
-	'changefreqs': {'articles': 'monthly', 'indexes': 'daily', 'pages': 'monthly'}
+	'changefreqs': {'articles': 'monthly', 'indexes': 'daily', 'pages': 'monthly'},
 }
 
 # COMPILE
@@ -70,4 +70,8 @@ TRANSLATION_FEED_ATOM = None
 FEED_MAX_ITEMS = 25
 
 # CUSTOM
-# HEADER_PROJECTS =
+PROJECTS = (
+	('Databrary', 'http://localhost:8001'),
+	('Datavyu', 'http://localhost:8002'),
+	('Labnanny', 'http://localhost:8003'),
+)

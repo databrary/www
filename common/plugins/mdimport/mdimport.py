@@ -29,7 +29,8 @@ class MarkdownImportReader(MarkdownReader):
 	Title: TITLE
 	Source: RELATIVE_SOURCE
 
-	Content is not read
+	Content is not read.
+	Source metadata stripped.
 	"""
 
 	file_extensions = ['mdi']
@@ -41,7 +42,7 @@ class MarkdownImportReader(MarkdownReader):
 
 		with pelican_open(filename) as mdi:
 			with pelican_open(re.search(r"Source: ([\w/\\\.-]*)", mdi).group(1)) as md:
-				content = self._md.convert(mdi+"\n"+md)
+				content = self._md.convert(mdi+"\n"+re.sub(r"([A-Z][\w-]*): (.*)", r"", md))
 
 		metadata = self._parse_metadata(self._md.Meta)
 		return content, metadata

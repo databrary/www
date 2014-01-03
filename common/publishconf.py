@@ -9,6 +9,12 @@ RELATIVE_URLS = False
 FEED_ALL_RSS = 'feeds/all.xml'
 CATEGORY_FEED_RSS = 'feeds/%s.xml'
 
+# CUSTOM
+PROJECTS = (
+	('Databrary', 'http://databrary.org'),
+	('Datavyu', 'http://datavyu.org'),
+	('Labnanny', 'http://labnanny.org'),
+)
+
 # SOCIAL
-# DISQUS_SITENAME = ''
 # GOOGLE_ANALYTICS = ''

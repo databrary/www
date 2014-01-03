@@ -162,7 +162,7 @@ label.light {
 
 .field li {
 	display: inline-block;
-	padding: 5px 10px;
+	padding: 5px 10px 5px 0;
 	font-size: 1.25em;
 	margin-right: 10px;
 }
@@ -370,6 +370,10 @@ ul.inline li {
 
 .site_main h2 {
 	margin-bottom: 0;
+}
+
+.site_main h2:first-of-type {
+	margin-top: 0;
 }
 
 /* SITE TOOLBAR */
@@ -589,23 +593,16 @@ ul.inline li {
 	font-size: 1em;
 }
 
-nav.page_sidebar h2 a {
-	color: #333;
-}
-
-nav.page_sidebar h2 a:hover {
-	color: #999;
-}
-
 .page_sidebar ul {
 	margin: 0;
-	padding-left: 0;
+	/*padding-left: 0;*/
+	padding-left: 28px;
 	list-style: none;
 }
 
-.page_sidebar ul ul {
-	padding-left: 28px;
-}
+/*.page_sidebar ul ul {*/
+	/*padding-left: 28px;*/
+/*}*/
 
 .page_sidebar li {
 	margin-left: 0;

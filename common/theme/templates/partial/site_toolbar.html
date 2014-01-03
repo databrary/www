@@ -5,9 +5,9 @@
 		</h1>
 
 		<nav>
-			<a href="http://databrary.org" title="Databrary"><img src="{{ SITEURL }}/theme/img/logo/databrary-nav.png" alt="Databrary"><span>Databrary</span></a>
-			<a href="http://datavyu.org" title="Datavyu"><img src="{{ SITEURL }}/theme/img/logo/datavyu-nav.png" alt="Datavyu"><span>Datavyu</span></a>
-			<a href="http://labnanny.org" title="Labnanny"><img src="{{ SITEURL }}/theme/img/logo/labnanny-nav.png" alt="Labnanny"><span>Labnanny</span></a>
+			{% for title, link in PROJECTS %}
+				<a href="{{ link }}"><img src="{{ SITEURL }}/theme/img/logo/{{ title|lower }}-nav.png" alt="{{ title }}"><span>{{ title }}</span></a>
+			{% endfor %}
 		</nav>
 	</div>
 </section>

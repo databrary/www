@@ -14,3 +14,6 @@ from common.pelicanconf import *
 # SITE
 SITENAME = 'Datavyu: Video coding and data visualization tool'
 SITESLUG = 'datavyu'
+
+# COMPILE
+OUTPUT_RETENTION = ('maven2', 'releases', 'support')

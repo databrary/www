@@ -1,6 +1,12 @@
 <nav class="col_nav page_sidebar">
 	{% for pg in PAGES if pg.slug == page.slug.split('/')[0] %}
-		<h2><a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title|replace('&nbsp;', ' ') }}</a></h2>
+		<h2>
+			{% if not page.slug == pg.slug %}
+				<a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title|replace('&nbsp;', ' ') }}</a>
+			{% else %}
+				<span>{{ pg.title|replace('&nbsp;', ' ') }}</span>
+			{% endif %}
+		</h2>
 	{% endfor %}
 
 	{# This recursive hack is awful, but jinja recursive feature is incompatible with pelican's page structure. #}
