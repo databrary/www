@@ -41,7 +41,7 @@ PAGE_DIR = 'pages'
 PAGE_EXCLUDES = ()
 ARTICLE_DIR = 'posts'
 ARTICLE_EXCLUDES = ()
-STATIC_PATHS = ['files', 'img', 'ico', 'js', 'css']
+STATIC_PATHS = ['files', 'img', 'ico', 'js', 'css', 'extra', '.htaccess']
 
 TYPOGRIFY = True
 

@@ -1,78 +1,77 @@
-Title: What can Datavyu do?
+Title: Discover Datavyu
 Brief: Features
 Slug: features
 Order: 1000
 Display: wide
 
-<section id="datavyu_is" class="cf">
-	<div class="row">
-		<img class="feature-title" src="/img/features/features-is.png" alt="Datavyu is...">
-	</div>
+# Datavyu is...
 
-	<article class="feature">
-		<h1>Prepared for sharing</h1>
+<section id="info_blocks" class="cf info_blocks">
+	<div class="col_third info_block">
+		<h2>Prepared for Sharing</h2>
 
 		<p>Datavyu file formats will be immediately compatible with the forthcoming <a href="http://databrary target="_blank">Databrary</a> data library.</p>
-	</article>
+	</div>
 
-	<article class="feature">
-		<h1>A proven success</h1>
+	<div class="col_third info_block">
+		<h2>A Proven Success</h2>
 
 		<p>Datavyu builds on the success of <a href="http://www.openshapa.org/" target="_blank">OpenSHAPA</a> and
 			the earlier MacSHAPA tool.</p>
-	</article>
-
-	<article class="feature">
-		<h1>For behavioral scientists</h1>
-
-		<p>Datavyu and its precursor <a href="http://www.openshapa.org/" target="_blank">OpenSHAPA</a> are used by hundreds of behavioral scientists with diverse interests in behavior, especially development.</p>
-	</article>
-</section>
-
-<section id="datavyu_can" class="cf">
-	<div class="row">
-		<img class="feature-title" src="/img/features/features-can.png" alt="With Datavyu, you can...">
 	</div>
 
-	<article class="feature" id="feature1">
+	<div class="col_third info_block">
+		<h2>Built for You</h2>
+
+		<p>Datavyu and its precursor <a href="http://www.openshapa.org/" target="_blank">OpenSHAPA</a> are used by hundreds of behavioral scientists with diverse interests in behavior, especially development.</p>
+	</div>
+</section>
+
+# With Datavyu, you can...
+
+<section id="info_blocks" class="cf info_blocks">
+	<div class="col_half info_block">
 		<img src="/img/features/feature1datastreams.png">
 
-		<h1>View multiple data streams</h1>
+		<h2>View multiple data streams</h2>
 
 		<p>Datavyu supports multiple data streams—video, audio, physiology, motion tracking, eye tracking—and links them together with a flexible, extensible coding spreadsheet that enables time-locked coding and visualization.</p>
-	</article>
+	</div>
 
-	<article class="feature" id="feature2">
+	<div class="col_half info_block">
 		<video controls>
 			<source src="/img/features/feature2hand.mp4" type="video/mp4">
 			<source src="/img/features/feature2hand.ogg" type="video/ogg">
 			Your browser does not support the video tag.
 		</video>
-		<h1>Record observations</h1>
+
+		<h2>Record observations</h2>
 
 		<p>Keyboard shortcuts and user-defined scripts let you navigate quickly and iteratively through data streams, adding comments, codes, and interpretations. Utterly flexible, user-defined codes enable researchers with widely differing needs to use the same tools.</p>
-	</article>
+	</div>
 
-	<article class="feature" id="feature3" style="clear:left;">
+	<div class="col_half info_block">
 		<video controls>
 			<source src="/img/features/feature3scripts.mp4" type="video/mp4">
 			<source src="/img/features/feature3scripts.ogg" type="video/ogg">
 			Your browser does not support the video tag.
 		</video>
-		<h1>Automate data extraction, analysis</h1>
+
+		<h2>Automate data extraction, analysis</h2>
 
 		<p>Script higher-order analyses in <a href="http://www.ruby-lang.org/">Ruby</a> or <a href="http://www.r-project.org/">R</a> or export data for statistical analysis. Scripting also ensures that multi-step data cleaning or manipulation procedures run the same way every time, increasing data reliability and reducing errors.</p>
-	</article>
+	</div>
 
-	<article class="feature" id="feature4">
+	<div class="col_half info_block">
 		<video controls>
 			<source src="/img/features/feature4editor.mp4" type="video/mp4">
 			<source src="/img/features/feature4editor.ogg" type="video/ogg">
 			Your browser does not support the video tag.
 		</video>
-		<h1>Build on prior analyses</h1>
+
+		<h2>Build on prior analyses</h2>
 
 		<p>By adding new data columns, you can build on prior work. Enhance it. Compare reliability between
 			coders.</p>
-	</article>
+	</div>
 </section>

@@ -296,6 +296,12 @@ ul.inline li {
 	width: 50%;
 }
 
+.col_half {
+	float: left;
+	width: 48%;
+	margin-right: 4%;
+}
+
 .col_with_nav {
 	float: left;
 	width: 63%;

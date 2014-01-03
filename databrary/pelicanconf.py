@@ -14,3 +14,6 @@ from common.pelicanconf import *
 # SITE
 SITENAME = 'Databrary: An Open Data Library for Developmental Science'
 SITESLUG = 'databrary'
+
+# COMPILE
+OUTPUT_RETENTION = ('irclogs')
