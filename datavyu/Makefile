@@ -4,15 +4,10 @@ PY=python
 PELICAN=$(BASEDIR)/../env/Scripts/pelican
 PELICANOPTS=
 
-# removed "$(INPUTDIR) -o $(OUTPUTDIR)" before before -s in pelican call
-# paths specified in pelicanconf.py/pelicanconf.ext.py
 INPUTDIR=$(BASEDIR)/input
 OUTPUTDIR=$(BASEDIR)/output
-
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-EXTCONFFILE=$(BASEDIR)/pelicanconf.ext.py
-EXTPUBLISHCONF=$(BASEDIR)/publishconf.ext.py
 
 FTP_HOST=localhost
 FTP_USER=anonymous
@@ -59,13 +54,13 @@ help:
 	@echo '                                                                       '
 
 html:
-	$(PELICAN) -s $(CONFFILE) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
 regenerate:
-	$(PELICAN) -r -s $(CONFFILE) $(PELICANOPTS)
+	$(PELICAN) -r $(INPUTDIR) -o $(OUTPUTDIR) -s $(CONFFILE) $(PELICANOPTS)
 
 serve:
 ifdef PORT
@@ -87,7 +82,7 @@ stopserver:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 publish:
-	$(PELICAN) -s $(PUBLISHCONF) $(PELICANOPTS)
+	$(PELICAN) $(INPUTDIR) -o $(OUTPUTDIR) -s $(PUBLISHCONF) $(PELICANOPTS)
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)

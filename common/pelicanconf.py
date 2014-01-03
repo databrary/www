@@ -19,7 +19,7 @@ DEFAULT_PAGINATION = 5
 DEFAULT_ORPHANS = 3
 
 PLUGIN_PATH = '../common/plugins'
-PLUGINS = ['sitemap']
+PLUGINS = ['sitemap', 'mdimport']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'admonition', 'headerid(level=2)', 'nl2br', 'sane_lists']
 
 SITEMAP = {

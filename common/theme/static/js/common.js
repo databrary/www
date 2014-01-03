@@ -33,9 +33,9 @@ dbjs.carousel = function (region, panel) {
 		fadeSpeed = 1000,
 		waitSpeed = 5000;
 
-	setInterval(function () {
+	var interval = setInterval(function () {
 		$region.find(panel + ":last-child").fadeOut(fadeSpeed, function () {
-			$(this).prependTo($region).fadeIn(fadeSpeed);
+			$(this).prependTo($region.find('.panels')).fadeIn(fadeSpeed);
 		});
 	}, waitSpeed);
 };

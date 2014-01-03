@@ -12,5 +12,5 @@ sys.path.append(os.path.abspath(__file__)+'/../../')
 from common.pelicanconf import *
 
 # SITE
-SITENAME = 'Databrary: An Open Data Library for Developmental Science'
-SITESLUG = 'databrary'
+SITENAME = 'Datavyu: Video coding and data visualization tool'
+SITESLUG = 'datavyu'
