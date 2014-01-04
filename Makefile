@@ -11,8 +11,6 @@ OUTPUTDIR=$(BASEDIR)/output
 
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
-EXTCONFFILE=$(BASEDIR)/pelicanconf.ext.py
-EXTPUBLISHCONF=$(BASEDIR)/publishconf.ext.py
 
 FTP_HOST=localhost
 FTP_USER=anonymous

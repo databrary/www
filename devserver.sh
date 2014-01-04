@@ -1,8 +1,17 @@
 #!/usr/bin/env bash
 ##
+# Prep
+##
+subdir=databrary
+
+if [[ $# -eq 3 ]]; then
+  subdir=$3
+fi
+
+##
 # This section should match your Makefile
 ##
-BASEDIR=$(pwd)
+BASEDIR=$(pwd)/$subdir
 
 PY=python
 PELICAN=$BASEDIR/../env/Scripts/pelican
@@ -20,7 +29,7 @@ SRV_PID=$BASEDIR/srv.pid
 PELICAN_PID=$BASEDIR/pelican.pid
 
 function usage(){
-  echo "usage: $0 (stop) (start) (restart) [port]"
+  echo "usage: $0 (stop) (start) (restart) [port] [subdir]"
   echo "This starts pelican in debug and reload mode and then launches"
   echo "A pelican.server to help site development. It doesn't read"
   echo "your pelican options so you edit any paths in your Makefile"
@@ -64,7 +73,7 @@ function start_up(){
   local port=$1
   echo "Starting up Pelican and pelican.server"
   shift
-  $PELICAN --debug --autoreload -r $INPUTDIR -o $OUTPUTDIR -s $CONFFILE $PELICANOPTS &
+  $PELICAN --debug --autoreload -r -s $CONFFILE $PELICANOPTS &
   pelican_pid=$!
   echo $pelican_pid > $PELICAN_PID
   cd $OUTPUTDIR
@@ -86,9 +95,9 @@ function start_up(){
 ###
 #  MAIN
 ###
-[[ ($# -eq 0) || ($# -gt 2) ]] && usage
+[[ ($# -eq 0) || ($# -gt 3) ]] && usage
 port=''
-[[ $# -eq 2 ]] && port=$2
+[[ $# -gt 1 ]] && port=$2
 
 if [[ $1 == "stop" ]]; then
   shut_down
