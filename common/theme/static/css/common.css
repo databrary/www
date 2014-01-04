@@ -302,6 +302,10 @@ ul.inline li {
 	margin-right: 4%;
 }
 
+.col_half:last-of-type {
+	margin-right: 0;
+}
+
 .col_with_nav {
 	float: left;
 	width: 63%;
@@ -380,6 +384,15 @@ ul.inline li {
 
 .site_main h2:first-of-type {
 	margin-top: 0;
+}
+
+.site_main h2.special_head {
+	font-size: 2em;
+	font-weight: normal;
+	font-style: italic;
+	letter-spacing: 1px;
+	margin-bottom: 14px;
+	border-bottom: 1px solid #999;
 }
 
 /* SITE TOOLBAR */
@@ -601,14 +614,9 @@ ul.inline li {
 
 .page_sidebar ul {
 	margin: 0;
-	/*padding-left: 0;*/
-	padding-left: 28px;
+	padding-left: 21px;
 	list-style: none;
 }
-
-/*.page_sidebar ul ul {*/
-	/*padding-left: 28px;*/
-/*}*/
 
 .page_sidebar li {
 	margin-left: 0;
@@ -672,13 +680,24 @@ nav.page_sidebar a:hover {
 	margin-bottom: 56px;
 }
 
+.info_blocks.footless {
+	margin-bottom: 0;
+}
+
 .info_block{
 	font-size: 1em;
 }
 
-.info_block h2 {
+.info_block h2,
+.info_block h3 {
 	margin: 0;
 	text-align: center;
+}
+
+.info_block img,
+.info_block video {
+	width: 100%;
+	height: auto;
 }
 
 /* BLOG */
