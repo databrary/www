@@ -7,8 +7,8 @@
 		<nav>
 			<ul>
 				{% for pg in PAGES|sort(attribute='order') %}
-				{% if not '/' in pg.slug %}
-				<li class="{% if page and pg.slug in page.slug %}current{% endif %}">
+				{% if not '/' in pg.slug and not 'sphinx' in pg.display %}
+				<li class="{% if page and (pg.slug in page.slug or page.slug in pg.redirect) %}current{% endif %}">
 					<a href="{% if pg.redirect %}{{ pg.redirect }}{% else %}{{ SITEURL }}/{{ pg.url }}{% endif %}" title="{{ pg.title }}">{{ pg.brief }}</a>
 				</li>
 				{% endif %}

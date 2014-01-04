@@ -7,3 +7,5 @@
 *.pid
 __pycache__
 /*/output/*
+
+/datavyu/input/pages/user-guide

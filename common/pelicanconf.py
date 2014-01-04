@@ -2,17 +2,23 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+import re
+
+
 # LOCAL
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = 'en'
 
+
 # SITE
 AUTHOR = 'The Databrary Team'
+
 
 # CONTENT
 USE_FOLDER_AS_CATEGORY = True
 DEFAULT_CATEGORY = 'news'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
+DEFAULT_METADATA = (('order', '10000'),)
 
 SUMMARY_MAX_LENGTH = 50
 DEFAULT_PAGINATION = 5
@@ -27,6 +33,7 @@ SITEMAP = {
 	'priorities': {'articles': 0.75, 'indexes': 0.5, 'pages': 1},
 	'changefreqs': {'articles': 'monthly', 'indexes': 'daily', 'pages': 'monthly'},
 }
+
 
 # COMPILE
 THEME = '../common/theme'
@@ -44,6 +51,19 @@ ARTICLE_EXCLUDES = ()
 STATIC_PATHS = ['files', 'img', 'ico', 'js', 'css', 'extra', '.htaccess']
 
 TYPOGRIFY = True
+
+
+# JINJA
+def sphinx_element(value, element):
+	try:
+		out = re.search(re.compile("<"+element+">(.*)</"+element+">", re.DOTALL), value).group(1)
+	except Exception:
+		out = value
+
+	return out
+
+JINJA_FILTERS = {'sphinx': sphinx_element}
+
 
 # URLS
 ARTICLE_URL = 'post/{slug}.html'
@@ -63,11 +83,13 @@ TAGS_SAVE_AS = False
 AUTHOR_SAVE_AS = False
 AUTHORS_SAVE_AS = False
 
+
 # FEEDS
 FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 FEED_MAX_ITEMS = 25
+
 
 # CUSTOM
 PROJECTS = (

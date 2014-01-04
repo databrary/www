@@ -1,5 +1,5 @@
 Title: Support Forum
 Brief: Support
 Order: 4000
-Slug: support
+Slug: redirect-support
 Redirect: /support

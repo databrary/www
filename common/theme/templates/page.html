@@ -8,11 +8,21 @@
 
 	<div class="cf">
 		<div class="entry-content {% if 'wide' not in page.display %}col_with_nav{% endif %}">
-			{{ page.content }}
+			{%if 'sphinx' not in page.display %}
+				{{ page.content }}
+			{% else %}
+				{{ page.content|sphinx('content') }}
+			{% endif %}
 		</div>
 
 		{% if 'wide' not in page.display %}
-			{% include 'partial/page_sidebar.html' %}
+			{%if 'sphinx' not in page.display %}
+				{% include 'partial/page_sidebar.html' %}
+			{% else %}
+				<nav class="col_nav page_sidebar">
+					{{ page.content|sphinx('sidebar') }}
+				</nav>
+			{% endif %}
 		{% endif %}
 	</div>
 
