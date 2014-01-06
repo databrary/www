@@ -50,7 +50,7 @@ ARTICLE_DIR = 'posts'
 ARTICLE_EXCLUDES = ()
 STATIC_PATHS = ['files', 'img', 'ico', 'js', 'css', 'extra', '.htaccess']
 
-TYPOGRIFY = True
+TYPOGRIFY = False
 
 
 # JINJA

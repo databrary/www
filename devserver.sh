@@ -13,8 +13,8 @@ fi
 ##
 BASEDIR=$(pwd)/$subdir
 
-PY=python
-PELICAN=$BASEDIR/../env/Scripts/pelican
+PY=$(pwd)/env/bin/python
+PELICAN=$(pwd)/env/bin/pelican
 PELICANOPTS=
 
 INPUTDIR=$BASEDIR/input

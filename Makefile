@@ -1,16 +1,23 @@
-BASEDIR=$(CURDIR)
+SITE?=all
+
+PORT_all=
+PORT_databrary=8001
+PORT_datavyu=8002
+PORT_labnanny=8003
+
+PORT?=$(PORT_$(SITE))
+
+BASEDIR=$(CURDIR)/$(SITE)
 
 PY=python
-PELICAN=$(BASEDIR)/../env/Scripts/pelican
+PELICAN=$(CURDIR)/env/bin/pelican
 PELICANOPTS=
 
-# removed "$(INPUTDIR) -o $(OUTPUTDIR)" before before -s in pelican call
-# paths specified in pelicanconf.py/pelicanconf.ext.py
 INPUTDIR=$(BASEDIR)/input
 OUTPUTDIR=$(BASEDIR)/output
 
-CONFFILE=$(BASEDIR)/pelicanconf.py
-PUBLISHCONF=$(BASEDIR)/publishconf.py
+PELICANCONF=pelicanconf.py
+PUBLISHCONF=publishconf.py
 
 FTP_HOST=localhost
 FTP_USER=anonymous
@@ -38,12 +45,12 @@ help:
 	@echo 'Makefile for a pelican Web site                                        '
 	@echo '                                                                       '
 	@echo 'Usage:                                                                 '
-	@echo '   make html                        (re)generate the web site          '
+	@echo '   make html [SITE=all]             (re)generate the web site          '
 	@echo '   make clean                       remove the generated files         '
 	@echo '   make regenerate                  regenerate files upon modification '
-	@echo '   make publish                     generate using production settings '
-	@echo '   make serve [PORT=8000]           serve site at http://localhost:8000'
-	@echo '   make devserver [PORT=8000]       start/restart develop_server.sh    '
+	@echo '   make publish [SITE=all]          generate using production settings '
+	@echo '   make serve [SITE=]               serve site at http://localhost:8000'
+	@echo '   make devserver [SITE=]           start/restart develop_server.sh    '
 	@echo '   make stopserver                  stop local server                  '
 	@echo '   make ssh_upload                  upload the web site via SSH        '
 	@echo '   make rsync_upload                upload the web site via rsync+ssh  '
@@ -57,13 +64,25 @@ help:
 	@echo '                                                                       '
 
 html:
-	$(PELICAN) -s $(CONFFILE) $(PELICANOPTS)
+ifeq ($(SITE), all)
+	cd $(CURDIR)/databrary && $(PELICAN) -s $(CURDIR)/databrary/$(PELICANCONF) $(PELICANOPTS) && cd -
+	cd $(CURDIR)/datavyu && $(PELICAN) -s $(CURDIR)/datavyu/$(PELICANCONF) $(PELICANOPTS) && cd -
+	cd $(CURDIR)/labnanny && $(PELICAN) -s $(CURDIR)/labnanny/$(PELICANCONF) $(PELICANOPTS) && cd -
+else
+	cd $(BASEDIR) && $(PELICAN) -s $(BASEDIR)/$(PELICANCONF) $(PELICANOPTS) && cd -
+endif
 
 clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
 regenerate:
-	$(PELICAN) -r -s $(CONFFILE) $(PELICANOPTS)
+ifeq ($(SITE), all)
+	cd $(CURDIR)/databrary && $(PELICAN) -r -s $(CURDIR)/databrary/$(PELICANCONF) $(PELICANOPTS) && cd -
+	cd $(CURDIR)/datavyu && $(PELICAN) -r -s $(CURDIR)/datavyu/$(PELICANCONF) $(PELICANOPTS) && cd -
+	cd $(CURDIR)/labnanny && $(PELICAN) -r -s $(CURDIR)/labnanny/$(PELICANCONF) $(PELICANOPTS) && cd -
+else
+	$(PELICAN) -r -s $(BASEDIR)/$(PELICANCONF) $(PELICANOPTS)
+endif
 
 serve:
 ifdef PORT
@@ -74,9 +93,10 @@ endif
 
 devserver:
 ifdef PORT
-	$(BASEDIR)/develop_server.sh restart $(PORT)
+	$(CURDIR)/devserver.sh restart $(PORT) $(SITE)
 else
-	$(BASEDIR)/develop_server.sh restart
+	@echo 'Hey! Like this:'
+	@echo '    make devserver SITE=[databrary|datavyu|labnanny]'
 endif
 
 stopserver:
@@ -85,7 +105,13 @@ stopserver:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 publish:
-	$(PELICAN) -s $(PUBLISHCONF) $(PELICANOPTS)
+ifeq ($(SITE), all)
+	cd $(CURDIR)/databrary && $(PELICAN) -s $(CURDIR)/databrary/$(PUBLISHCONF) $(PELICANOPTS) && cd -
+	cd $(CURDIR)/datavyu && $(PELICAN) -s $(CURDIR)/datavyu/$(PUBLISHCONF) $(PELICANOPTS) && cd -
+	cd $(CURDIR)/labnanny && $(PELICAN) -s $(CURDIR)/labnanny/$(PUBLISHCONF) $(PELICANOPTS) && cd -
+else
+	cd $(BASEDIR) && $(PELICAN) -s $(BASEDIR)/$(PUBLISHCONF) $(PELICANOPTS) && cd -
+endif
 
 ssh_upload: publish
 	scp -P $(SSH_PORT) -r $(OUTPUTDIR)/* $(SSH_USER)@$(SSH_HOST):$(SSH_TARGET_DIR)
