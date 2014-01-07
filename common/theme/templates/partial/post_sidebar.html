@@ -1,0 +1,21 @@
+<aside id="events" class="col_nav events">
+	{% for category, articles in categories if category == 'event' %}
+		<h2 class="special_head">Upcoming Events</h2>
+
+		{% if articles|future|length > 0 %}
+			{% for article in articles|future|reverse %}
+				{% include 'partial/post_event.html' %}
+			{% endfor %}
+		{% else %}
+			<p>There are no scheduled events.</p>
+		{% endif %}
+
+		{% if articles|recent|length > 0 %}
+			<h2 class="special_head">Recent Events</h2>
+
+			{% for article in articles|recent %}
+				{% include 'partial/post_event.html' %}
+			{% endfor %}
+		{% endif %}
+	{% endfor %}
+</aside>

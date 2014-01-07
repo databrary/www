@@ -1,3 +1,0 @@
-Title: Ditto
-
-Lorum.

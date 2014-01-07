@@ -1,0 +1,27 @@
+<article id="page_{{ article.slug.replace('/', '_') }}" class="hentry article page page_{{ article.slug.replace('/', '_') }}">
+	<h1 class="entry-title"><span></span>
+		{% if output_file.find('post/') == 0 %}
+			{{ article.title }}
+		{% else %}
+			<a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Read more: {{ article.title|striptags }}">{{ article.title }}</a>
+		{% endif %}
+	</h1>
+
+	<div class="cf">
+		<div class="entry-content {% if 'wide' not in article.display and output_file.find('post/') == 0 %}col_with_nav{% endif %}">
+			{% if output_file.find('post/') == 0 %}
+				{{ article.content }}
+			{% else %}
+				{{ article.summary }}
+			{% endif %}
+
+			<footer class="post-info">
+				<p>{{ article.category|capitalize }}, posted <time class="published" pubdate="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>. <a href="{{ SITEURL }}/{{ article.url }}">Read more...</a></p>
+			</footer>
+		</div>
+
+		{% if 'wide' not in article.display and output_file.find('post/') == 0 %}
+			{% include 'partial/post_sidebar.html' %}
+		{% endif %}
+	</div>
+</article>

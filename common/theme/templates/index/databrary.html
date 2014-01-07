@@ -1,4 +1,5 @@
 {% if articles_page.number == 1 %}
+
 <section id="carousel" class="carousel">
 	<div class="panels">
 		<div class="panel">
@@ -52,28 +53,15 @@
 </section>
 {% endif %}
 
-<section id="articles" class="cf articles">
-    <main id="articles" class="col_with_nav articles">
-        {% for article in articles_page.object_list %}
-        <article class="hentry">
-            <header>
-                <h2 class="entry-title">{{articles_page}}<a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a></h2>
-            </header>
-
-            <footer class="post-info">
-                <abbr class="published" title="{{ article.date.isoformat() }}"> {{ article.locale_date }} </abbr>
-                {% if article.author %}<address class="vcard author">By <a class="url fn" href="{{ SITEURL }}/{{ article.author.url }}">{{ article.author }}</a></address>{% endif %}
-            </footer>
-
-            <div class="entry-content">
-                {{ article.summary }}
-            </div>
-        </article>
+<div id="posts" class="cf posts">
+    <section id="articles" class="col_with_nav articles">
+        {% for article in articles if article.category != 'event' %}
+        {# for article in articles_page.object_list if article.category != 'event' #}
+        	{% include 'partial/post_article.html' %}
         {% endfor %}
 
         {% include 'partial/pagination.html' %}
-    </main>
+    </section>
 
-    <aside id="event_sidebar" class="col_nav event_sidebar">
-    </aside>
-</section>
+    {% include 'partial/post_sidebar.html' %}
+</div>

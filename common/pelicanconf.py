@@ -3,6 +3,7 @@
 from __future__ import unicode_literals
 
 import re
+import datetime
 
 
 # LOCAL
@@ -15,17 +16,17 @@ AUTHOR = 'The Databrary Team'
 
 
 # CONTENT
-USE_FOLDER_AS_CATEGORY = True
+USE_FOLDER_AS_CATEGORY = False
 DEFAULT_CATEGORY = 'news'
-DEFAULT_DATE_FORMAT = '%Y-%m-%d'
+DEFAULT_DATE_FORMAT = '%B %d, %Y'
 DEFAULT_METADATA = (('order', '10000'),)
 
 SUMMARY_MAX_LENGTH = 50
-DEFAULT_PAGINATION = 5
-DEFAULT_ORPHANS = 3
+DEFAULT_PAGINATION = 1
+# DEFAULT_ORPHANS = 1
 PAGINATION_PATTERNS = (
-    (1, '{base_name}/', '{base_name}/index.html'),
-    (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+	(1, '{base_name}/', '{base_name}/index.html'),
+	(2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
 )
 
 PLUGIN_PATH = '../common/plugins'
@@ -45,7 +46,7 @@ DELETE_OUTPUT_DIRECTORY = True
 
 PATH = 'input/'
 OUTPUT_PATH = 'output/'
-DIRECT_TEMPLATES = ('index')
+DIRECT_TEMPLATES = ('index',)
 PAGINATED_DIRECT_TEMPLATES = ('index',)
 
 PAGE_DIR = 'pages'
@@ -60,13 +61,35 @@ TYPOGRIFY = False
 # JINJA
 def sphinx_element(value, element):
 	try:
-		out = re.search(re.compile("<"+element+">(.*)</"+element+">", re.DOTALL), value).group(1)
+		out = re.search(re.compile("<" + element + ">(.*)</" + element + ">", re.DOTALL), value).group(1)
 	except Exception:
 		out = value
 
 	return out
 
-JINJA_FILTERS = {'sphinx': sphinx_element}
+
+def future_date(iterable):
+	now = datetime.datetime.now()
+
+	iterable = [post for post in iterable if post.date >= now]
+
+	return iterable
+
+
+def recent_date(iterable, days=30):
+	now = datetime.datetime.now()
+	past = now - datetime.timedelta(days=days)
+
+	iterable = [post for post in iterable if now >= post.date >= past]
+
+	return iterable
+
+
+JINJA_FILTERS = {
+	'sphinx': sphinx_element,
+	'future': future_date,
+	'recent': recent_date,
+}
 
 
 # URLS
@@ -97,7 +120,7 @@ FEED_MAX_ITEMS = 25
 
 # CUSTOM
 PROJECTS = (
-	('Databrary', 'http://localhost:8001'),
-	('Datavyu', 'http://localhost:8002'),
-	('Labnanny', 'http://localhost:8003'),
+	('Databrary', 'http://databrary.org:8001'),
+	('Datavyu', 'http://datavyu.org:8002'),
+	('Labnanny', 'http://labnanny.org:8003'),
 )

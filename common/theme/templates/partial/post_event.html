@@ -1,0 +1,11 @@
+<article class="hentry event">
+	<time class="date" pubdate="{{ article.date.isoformat() }}"> {{ article.locale_date }} </time>
+
+	<h3 class="entry-title">
+		<a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark" title="Permalink to {{ article.title|striptags }}">{{ article.title }}</a>
+	</h3>
+
+	<div class="entry-content">
+		{{ article.summary }}
+	</div>
+</article>

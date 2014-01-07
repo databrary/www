@@ -1,6 +1,6 @@
 {% extends "base.html" %}
 
-{% block title %}{{ page.title|replace('&nbsp;', ' ') }}{% endblock %}
+{% block title %}{{ page.title|striptags }}{% endblock %}
 
 {% block content %}
 <article id="page_{{ page.slug.replace('/', '_') }}" class="hentry page page_{{ page.slug.replace('/', '_') }}">
