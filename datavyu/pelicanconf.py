@@ -18,7 +18,18 @@ SITESLUG = 'datavyu'
 # COMPILE
 OUTPUT_RETENTION = ('maven2', 'releases', 'support')
 
-STATIC_PATHS.append('releases')
+STATIC_PATHS.extend([
+	'releases',
+	'user-guide/.buildinfo',
+	'user-guide/objects.inv',
+	'user-guide/searchindex.js',
+	'user-guide/_downloads',
+	'user-guide/_images',
+	'user-guide/_sources',
+	'user-guide/_static',
+])
 
-TEMPLATE_PAGES = {'../../../datavyu/version.txt': 'version.txt',
-                  '../../../datavyu/pre_version.txt': 'pre_version.txt'}
+TEMPLATE_PAGES = {
+	'../../../datavyu/version.txt': 'version.txt',
+	'../../../datavyu/pre_version.txt': 'pre_version.txt',
+}

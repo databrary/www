@@ -65,11 +65,12 @@ help:
 
 html:
 ifeq ($(SITE), all)
-	cd $(CURDIR)/databrary && $(PELICAN) -s $(CURDIR)/databrary/$(PELICANCONF) $(PELICANOPTS) && cd -
-	cd $(CURDIR)/datavyu && $(PELICAN) -s $(CURDIR)/datavyu/$(PELICANCONF) $(PELICANOPTS) && cd -
-	cd $(CURDIR)/labnanny && $(PELICAN) -s $(CURDIR)/labnanny/$(PELICANCONF) $(PELICANOPTS) && cd -
+	cd ../docs-datavyu && make html-pelican && cd -
+	$(PELICAN) -s $(CURDIR)/databrary/$(PELICANCONF) $(PELICANOPTS)
+	$(PELICAN) -s $(CURDIR)/datavyu/$(PELICANCONF) $(PELICANOPTS)
+	$(PELICAN) -s $(CURDIR)/labnanny/$(PELICANCONF) $(PELICANOPTS)
 else
-	cd $(BASEDIR) && $(PELICAN) -s $(BASEDIR)/$(PELICANCONF) $(PELICANOPTS) && cd -
+	$(PELICAN) -s $(BASEDIR)/$(PELICANCONF) $(PELICANOPTS)
 endif
 
 clean:
@@ -106,11 +107,11 @@ stopserver:
 
 publish:
 ifeq ($(SITE), all)
-	cd $(CURDIR)/databrary && $(PELICAN) -s $(CURDIR)/databrary/$(PUBLISHCONF) $(PELICANOPTS) && cd -
-	cd $(CURDIR)/datavyu && $(PELICAN) -s $(CURDIR)/datavyu/$(PUBLISHCONF) $(PELICANOPTS) && cd -
-	cd $(CURDIR)/labnanny && $(PELICAN) -s $(CURDIR)/labnanny/$(PUBLISHCONF) $(PELICANOPTS) && cd -
+	$(PELICAN) -s $(CURDIR)/databrary/$(PUBLISHCONF) $(PELICANOPTS)
+	$(PELICAN) -s $(CURDIR)/datavyu/$(PUBLISHCONF) $(PELICANOPTS)
+	$(PELICAN) -s $(CURDIR)/labnanny/$(PUBLISHCONF) $(PELICANOPTS)
 else
-	cd $(BASEDIR) && $(PELICAN) -s $(BASEDIR)/$(PUBLISHCONF) $(PELICANOPTS) && cd -
+	$(PELICAN) -s $(BASEDIR)/$(PUBLISHCONF) $(PELICANOPTS)
 endif
 
 ssh_upload: publish
