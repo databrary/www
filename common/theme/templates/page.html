@@ -11,17 +11,18 @@
 			{%if 'sphinx' not in page.display %}
 				{{ page.content }}
 			{% else %}
-				{{ page.content|sphinx('content') }}
+				{{ page.content|sphinx('content')|replace('tt>', 'code>')|replace('<tt', '<code') }}
+				{{ page.content|sphinx('trail') }}
 			{% endif %}
 		</div>
 
 		{% if 'wide' not in page.display %}
-			{%if 'sphinx' not in page.display %}
-				{% include 'partial/page_sidebar.html' %}
-			{% else %}
-				<nav class="col_nav page_sidebar">
-					{{ page.content|sphinx('sidebar') }}
-				</nav>
+            {%if 'sphinx' not in page.display %}
+                {% include 'partial/page_sidebar.html' %}
+            {% else %}
+                <nav class="col_nav page_sidebar">
+                    {{ page.content|sphinx('sidebar') }}
+                </nav>
 			{% endif %}
 		{% endif %}
 	</div>
