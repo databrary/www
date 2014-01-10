@@ -4,20 +4,11 @@ PORT_databrary=8001
 PORT_datavyu=8002
 PORT_labnanny=8003
 
-BASEDIR=$(CURDIR)/$(SITE)
-
 PY=python3
 PELICAN=$(PY) $(shell which pelican)
 PELICANOPTS=
 
-OUTPUTDIR=$(BASEDIR)/output
-
 CONF=pelicanconf.py
-
-SSH_HOST=localhost
-SSH_PORT=22
-SSH_USER=root
-SSH_TARGET_DIR=/var/www
 
 ifeq ($(DEBUG), 1)
 	PELICANOPTS += -D
@@ -40,27 +31,29 @@ help:
 OUTDIR=$*/output
 regenerate: PELICANOPTS+=-r
 publish: CONF=publishconf.py
-html: $(SITE)
+staging: OUTDIR=/var/www/staging/$*
 
-publish: generate
 html: generate
 regenerate: generate
-
-staging: OUTDIR=/var/www/staging/$*
+publish: generate
 staging: publish
 
 docs-datavyu:
 	$(MAKE) -C ../docs-datavyu html-pelican
 
-generate: $(addprefix generate-,$(SITE))
+policies:
+	$(MAKE) -C ../policies all
+	ln -sfT ../../policies/doc databrary/input/policies
+
+generate-databrary: policies
 generate-datavyu: docs-datavyu
+
+generate: $(addprefix generate-,$(SITE))
 generate-%:
 	$(PELICAN) -o $(OUTDIR) -s $*/$(CONF) $(PELICANOPTS)
 
 clean:
 	rm -rf */output
-
-regenerate: $(SITE)
 
 devserver: $(addprefix devserver-,$(SITE))
 devserver-%:
