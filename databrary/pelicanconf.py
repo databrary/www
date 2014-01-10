@@ -16,3 +16,7 @@ SITESLUG = 'databrary'
 
 # COMPILE
 OUTPUT_RETENTION = ('irclogs', 'policies', 'awstats', 'awstats.cgi')
+
+STATIC_PATHS.extend([
+	'policies',
+])
