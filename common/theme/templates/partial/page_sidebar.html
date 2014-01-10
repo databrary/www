@@ -1,11 +1,7 @@
 <nav class="col_nav page_sidebar">
 	{% for pg in PAGES if pg.slug == page.slug.split('/')[0] %}
 		<h2>
-			{% if not page.slug == pg.slug %}
-				<a href="{{ SITEURL }}/{{ pg.url }}">{{ pg.title|replace('&nbsp;', ' ') }}</a>
-			{% else %}
-				<span>{{ pg.title|replace('&nbsp;', ' ') }}</span>
-			{% endif %}
+            <a href="{{ SITEURL }}/{{ pg.url }}" class="{% if page.slug == pg.slug %}current{% endif %}">{{ pg.title|replace('&nbsp;', ' ') }}</a>
 		</h2>
 	{% endfor %}
 
@@ -17,11 +13,7 @@
 		{% endif %}
 
 				<li>
-					{% if not page.slug == pg1.slug %}
-						<a href="{{ SITEURL }}/{{ pg1.url }}">{{ pg1.title|replace('&nbsp;', ' ') }}</a>
-					{% else %}
-						<span>{{ pg1.title|replace('&nbsp;', ' ') }}</span>
-					{% endif %}
+                    <a href="{{ SITEURL }}/{{ pg1.url }}" class="{% if page.slug == pg1.slug %}current{% endif %}">{{ pg1.title|replace('&nbsp;', ' ') }}</a>
 
 					{% for pg2 in PAGES|sort(attribute='order') if pg2.slug.startswith('/'.join(pg1.slug.split('/')[0:2])) and pg2.slug.count('/') == 2 %}
 						{% if loop.first %}
@@ -29,11 +21,7 @@
 						{% endif %}
 
 								<li>
-									{% if not page.slug == pg2.slug %}
-										<a href="{{ SITEURL }}/{{ pg2.url }}">{{ pg2.title|replace('&nbsp;', ' ') }}</a>
-									{% else %}
-										<span>{{ pg2.title|replace('&nbsp;', ' ') }}</span>
-									{% endif %}
+                                    <a href="{{ SITEURL }}/{{ pg2.url }}" class="{% if page.slug == pg2.slug %}current{% endif %}">{{ pg2.title|replace('&nbsp;', ' ') }}</a>
 
 									{% for pg3 in PAGES|sort(attribute='order') if pg3.slug.startswith('/'.join(pg2.slug.split('/')[0:3])) and pg3.slug.count('/') == 3 %}
 										{% if loop.first %}
@@ -41,11 +29,7 @@
 										{% endif %}
 
 												<li>
-													{% if not page.slug == pg3.slug %}
-														<a href="{{ SITEURL }}/{{ pg3.url }}">{{ pg3.title|replace('&nbsp;', ' ') }}</a>
-													{% else %}
-														<span>{{ pg3.title|replace('&nbsp;', ' ') }}</span>
-													{% endif %}
+                                                    <a href="{{ SITEURL }}/{{ pg3.url }}" class="{% if page.slug == pg3.slug %}current{% endif %}">{{ pg3.title|replace('&nbsp;', ' ') }}</a>
 												</li>
 
 										{% if loop.last %}

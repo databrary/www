@@ -3,9 +3,5 @@
 {% block title %}{{ article.title|striptags }}{% endblock title %}
 
 {% block content %}
-{% if article.category == 'event' %}
-	{% include 'partial/post_event.html' %}
-{% else %}
-	{% include 'partial/post_article.html' %}
-{% endif %}
+{% include 'partial/post_article.html' %}
 {% endblock content %}

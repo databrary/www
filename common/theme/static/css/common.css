@@ -90,11 +90,6 @@ a abbr[title] {
 	border-bottom: 0;
 }
 
-strong,
-b {
-	font-family: 'SofiaProMedium', Helvetica, Verdana, sans-serif;
-}
-
 hr {
 	border: 0;
 	border-bottom: 1px solid #a39c96;
@@ -423,6 +418,22 @@ ul.inline li {
     margin-top: 0;
 }
 
+.site_main img {
+    margin-bottom: 28px;
+    max-width: 100%;
+    height: auto;
+}
+
+.site_main pre {
+    margin-bottom: 28px;
+}
+
+.site_main ul,
+.site_main ol,
+.site_main dl {
+    margin-bottom: 28px;
+}
+
 /* SITE TOOLBAR */
 .site_toolbar {
 	position: fixed;
@@ -673,6 +684,11 @@ nav.page_sidebar a:hover {
 	color: #9FDE9C
 }
 
+nav.page_sidebar a.current,
+nav.page_sidebar a.current:hover {
+    color: #333;
+}
+
 /* PAGINATOR */
 
 .paginator {
@@ -808,6 +824,15 @@ nav.page_sidebar a:hover {
 	margin-bottom: 14px;
 }
 
+.article .event-date {
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.article .event-date time {
+    color: #ee6f07;
+}
+
 /* EVENTS */
 
 .col_nav h2.special_head {
@@ -837,4 +862,258 @@ nav.page_sidebar a:hover {
 
 .event h3 a:hover {
 	color: #9FDE9C
+}
+
+/* SPHINX */
+
+.site_main a.headerlink {
+    display: none;
+    margin-left: .25em;
+}
+
+.site_main a.headerlink:hover {
+    text-decoration: none;
+}
+
+h1:hover .headerlink,
+h2:hover .headerlink,
+h3:hover .headerlink,
+h4:hover .headerlink,
+h5:hover .headerlink,
+h6:hover .headerlink {
+    display: inline-block;
+}
+
+div.section{ margin-bottom: 28px; }
+
+div.admonition {
+    background: #F6F6F6;
+    border-top: 2px solid #ccc;
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 28px;
+    padding: 14px 28px;
+}
+
+div.admonition code.xref, div.admonition a code {
+    border-bottom: 1px solid #F6F6F6;
+}
+
+div.admonition p.admonition-title {
+    font-size: 1.333em;
+    font-weight: bold;
+}
+
+div.admonition p.last {
+    margin-bottom: 0;
+}
+
+div.admonition-returns.admonition,
+div.admonition-programming-101.admonition,
+div.admonition-example.admonition {
+    background: #C6D9E6;
+    border-color: #7BA6C5;
+}
+
+div.admonition-hidden.admonition {
+    display: none;
+}
+
+p.admonition-title {
+    display: inline;
+}
+
+p.admonition-title:after {
+    content: ":";
+}
+
+div.leftie{
+    width: 35%;
+    float: left;
+    text-align: left;
+}
+
+div.rightie_bottom {
+    text-align: right;
+    width: 35%;
+    float: right;
+}
+
+dt:target, .highlight, pre {
+    background: #FFFFD1;
+}
+
+div.note {
+    background-color: #F6F6F6;
+    border: 1px solid #ccc;
+}
+
+div.seealso {
+    background-color: #ffc;
+    border: 1px solid #ff6;
+}
+
+div.topic {
+    background-color: #F6F6F6;
+}
+
+ul.simple {
+    margin-bottom: 0;
+}
+
+.this-page-menu {
+    display: none;
+}
+
+.page_sphinx h1:not(.entry-title) {
+    display: none;
+}
+
+code.descname, code.descclassname {
+    font-size: 0.95em;
+}
+
+code.descname {
+    padding-right: 0.08em;
+}
+
+img.screenshot {
+    -moz-box-shadow: 2px 2px 4px #F6F6F6;
+    -webkit-box-shadow: 2px 2px 4px #F6F6F6;
+    box-shadow: 2px 2px 4px #F6F6F6;
+}
+
+table.docutils {
+    border: 1px solid #888;
+    -moz-box-shadow: 2px 2px 4px #F6F6F6;
+    -webkit-box-shadow: 2px 2px 4px #F6F6F6;
+    box-shadow: 2px 2px 4px #F6F6F6;
+    margin-bottom: 28px;
+    width: 100%;
+}
+
+table.docutils td, table.docutils th {
+    border: 1px solid #888;
+    padding: 0.25em 0.7em;
+}
+
+table.field-list, table.footnote {
+    border: none;
+    -moz-box-shadow: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+table.footnote {
+    margin: 5px 5% 0;
+    width: 95%;
+    border: 1px solid #F6F6F6;
+    background: #fdfdfd;
+    font-size: 0.9em;
+}
+
+table.footnote + table.footnote {
+    margin-top: -0.1em;
+    margin-bottom: .75em;
+    border-top: none;
+}
+
+table.field-list th {
+    padding: 0 0.8em 0 0;
+}
+
+table.field-list td {
+    padding: 0;
+}
+
+table.footnote td.label {
+    width: 0;
+    padding: 0.3em 0 0.3em 0.5em;
+}
+
+dl {
+    margin: 0;
+    padding: 0;
+}
+
+dl dd {
+    margin-left: 30px;
+}
+
+blockquote {
+    margin: 0 0 0 30px;
+    padding: 0;
+}
+
+ul, ol {
+    margin: 0.1em 0 0 2em;
+    padding: 0.1em;
+}
+
+pre {
+    padding: .5em 1em;
+    line-height: 1.3em;
+    overflow: auto;
+    word-wrap: normal;
+    white-space: pre;
+}
+
+dl dl {
+    margin-left: -90px;
+    padding-left: 90px;
+}
+
+code {
+    background-color: #FFFFD1;
+}
+
+code.xref, a code {
+    background-color: #FFFFD1;
+    color: #333;
+    border-bottom: 1px solid white;
+}
+
+a.reference {
+    text-decoration: none;
+}
+
+a.reference:hover {
+    text-decoration: underline;
+}
+
+a.footnote-reference {
+    text-decoration: none;
+    font-size: 0.7em;
+    vertical-align: top;
+    border-bottom: 1px dotted #bb0000;
+}
+
+a:hover code {
+    background: #FFF8F3;
+}
+
+em.xref {
+    font-style: normal;
+    background-color: #FAF1F6;
+}
+
+.getit {
+    margin: 28px 56px;
+    padding: 14px 21px;
+    border: 1px solid #ddd;
+    font-size: 0.8em;
+    -moz-box-shadow: 2px 2px 4px #F6F6F6;
+    -webkit-box-shadow: 2px 2px 4px #F6F6F6;
+    box-shadow: 2px 2px 4px #F6F6F6;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.getit p {
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.trail {
+    margin-bottom: 56px;
 }

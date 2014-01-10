@@ -9,6 +9,10 @@
 
 	<div class="cf">
 		<div class="entry-content {% if 'wide' not in article.display and output_file.find('post/') == 0 %}col_with_nav{% endif %}">
+            {% if article.category == 'event' %}
+                <div class="event-date"><span>Event Date</span>: <time class="published" pubdate="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></div>
+            {% endif %}
+
 			{% if output_file.find('post/') == 0 %}
 				{{ article.content }}
 			{% else %}

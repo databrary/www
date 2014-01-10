@@ -3,7 +3,7 @@
 {% block title %}{{ page.title|striptags }}{% endblock %}
 
 {% block content %}
-<article id="page_{{ page.slug.replace('/', '_') }}" class="hentry page page_{{ page.slug.replace('/', '_') }}">
+<article id="page_{{ page.slug.replace('/', '_') }}" class="hentry page page_{{ page.slug.replace('/', '_') }} {%if 'sphinx' in page.display %}page_sphinx{% endif %}">
 	<h1 class="entry-title"><span></span>{{ page.title|replace('&nbsp;', ' ') }}</h1>
 
 	<div class="cf">

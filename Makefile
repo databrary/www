@@ -86,7 +86,7 @@ stopserver:
 
 publish:
 ifeq ($(SITE), all)
-	cd ../docs-datavyu && make html-pelican && cd -
+	$(MAKE) -C ../docs-datavyu html-pelican
 	$(PELICAN) -s $(CURDIR)/databrary/$(PUBLISHCONF) $(PELICANOPTS)
 	$(PELICAN) -s $(CURDIR)/datavyu/$(PUBLISHCONF) $(PELICANOPTS)
 	$(PELICAN) -s $(CURDIR)/labnanny/$(PUBLISHCONF) $(PELICANOPTS)
