@@ -5,8 +5,7 @@ from __future__ import unicode_literals
 # PATHS
 import os
 import sys
-sys.path.append(os.curdir)
-sys.path.append(os.path.normpath(os.path.abspath(__file__)+'/../../'))
+sys.path.append(os.path.dirname(__file__))
 
 # CONFIG
 from pelicanconf import *

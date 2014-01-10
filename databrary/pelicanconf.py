@@ -6,7 +6,6 @@ from __future__ import unicode_literals
 import os
 import sys
 sys.path.append(os.curdir)
-sys.path.append(os.path.normpath(os.path.abspath(__file__)+'/../../'))
 
 # CONFIG
 from common.pelicanconf import *
@@ -16,4 +15,4 @@ SITENAME = 'Databrary: An Open Data Library for Developmental Science'
 SITESLUG = 'databrary'
 
 # COMPILE
-OUTPUT_RETENTION = ('irclogs', 'policies')
+OUTPUT_RETENTION = ('irclogs', 'policies', 'awstats', 'awstats.cgi')
