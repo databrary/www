@@ -13,7 +13,7 @@
 		{% endif %}
 
 				<li>
-                    <a href="{{ SITEURL }}/{{ pg1.url }}" class="{% if page.slug == pg1.slug %}current{% endif %}">{{ pg1.title|replace('&nbsp;', ' ') }}</a>
+                    <a href="{{ SITEURL }}/{{ pg1.url }}" class="{% if page.slug == pg1.slug %}current{% else %}{% if pg1.slug in page.slug %}parent{% endif %}{% endif %}">{{ pg1.title|replace('&nbsp;', ' ') }}</a>
 
 					{% for pg2 in PAGES|sort(attribute='order') if pg2.slug.startswith('/'.join(pg1.slug.split('/')[0:2])) and pg2.slug.count('/') == 2 %}
 						{% if loop.first %}
@@ -21,7 +21,7 @@
 						{% endif %}
 
 								<li>
-                                    <a href="{{ SITEURL }}/{{ pg2.url }}" class="{% if page.slug == pg2.slug %}current{% endif %}">{{ pg2.title|replace('&nbsp;', ' ') }}</a>
+                                    <a href="{{ SITEURL }}/{{ pg2.url }}" class="{% if page.slug == pg2.slug %}current{% else %}{% if pg2.slug in page.slug %}parent{% endif %}{% endif %}">{{ pg2.title|replace('&nbsp;', ' ') }}</a>
 
 									{% for pg3 in PAGES|sort(attribute='order') if pg3.slug.startswith('/'.join(pg2.slug.split('/')[0:3])) and pg3.slug.count('/') == 3 %}
 										{% if loop.first %}

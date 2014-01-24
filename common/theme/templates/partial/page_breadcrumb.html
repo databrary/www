@@ -10,7 +10,9 @@
 						<li>
 							<a href="{{ SITEURL }}/{{ pg.url }}" class="{% if page.slug == pg.slug %}current{% endif %}">{{ pg.title|replace('&nbsp;', ' ') }}</a>
 						</li>
-			{% else %}
+			{% endif %}
+
+			{% if loop.last %}
 					</ul>
 				</nav>
 			{% endif %}

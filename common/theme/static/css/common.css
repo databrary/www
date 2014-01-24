@@ -434,6 +434,9 @@ ul.inline li {
     margin-bottom: 28px;
 }
 
+.site_main dl img,
+.site_main ol img,
+.site_main ul img,
 .site_main ul p,
 .site_main ol p,
 .site_main ol ol,
@@ -700,6 +703,11 @@ nav.page_sidebar a.current:hover {
     color: #333;
 }
 
+nav.page_sidebar a.parent,
+nav.page_sidebar a.parent:hover {
+	color: #4B7849;
+}
+
 /* PAGINATOR */
 
 .paginator {
@@ -741,7 +749,7 @@ nav.page_sidebar a.current:hover {
 
 .breadcrumbs ul {
 	margin: 0;
-	padding: 7px 14px 0 14px;
+	padding: 0 14px 0 14px;
 	list-style: none;
 	background-color: #C8ECC6;
 	position: relative;
@@ -752,6 +760,8 @@ nav.page_sidebar a.current:hover {
 
 .breadcrumbs li {
 	float: left;
+	padding-top: 7px;
+	padding-bottom: 1px;
 	margin-right: 7px;
 }
 
