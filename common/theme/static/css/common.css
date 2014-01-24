@@ -434,6 +434,15 @@ ul.inline li {
     margin-bottom: 28px;
 }
 
+.site_main ul p,
+.site_main ol p,
+.site_main ol ol,
+.site_main ul ol,
+.site_main ul ul,
+.site_main ol ul {
+	margin-bottom: 0;
+}
+
 /* SITE TOOLBAR */
 .site_toolbar {
 	position: fixed;
@@ -668,8 +677,10 @@ ul.inline li {
 
 .page_sidebar ul {
 	margin: 0;
+	margin-left: 3px;
 	padding-left: 21px;
-	list-style: none;
+	list-style: circle;
+	font-size: 1rem;
 }
 
 .page_sidebar li {
@@ -677,11 +688,11 @@ ul.inline li {
 }
 
 nav.page_sidebar a {
-	color: #68CB63;
+	color: #5EAF5A;
 }
 
 nav.page_sidebar a:hover {
-	color: #9FDE9C
+	color: #68CB63;
 }
 
 nav.page_sidebar a.current,
@@ -720,6 +731,47 @@ nav.page_sidebar a.current:hover {
 .paginator_current {
 	margin: 0 auto;
 	text-align: center;
+}
+
+/* BREADCRUMBS */
+
+.breadcrumbs {
+	font-size: 0.75em;
+}
+
+.breadcrumbs ul {
+	margin: 0;
+	padding: 7px 14px 0 14px;
+	list-style: none;
+	background-color: #C8ECC6;
+	position: relative;
+	left: -14px;
+	display: block;
+	float: left;
+}
+
+.breadcrumbs li {
+	float: left;
+	margin-right: 7px;
+}
+
+.breadcrumbs li:last-child {
+	margin-right: 0;
+}
+
+.breadcrumbs li:after {
+	content: "";
+	display: inline-block;
+	margin-left: 4px;
+	border: 4px solid transparent;
+	border-left-color: #333;
+	width: 0;
+	height: 0;
+}
+
+.breadcrumbs a,
+.breadcrumbs a:hover {
+	color: #333;
 }
 
 /* BANNER */
