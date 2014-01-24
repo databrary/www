@@ -56,7 +56,7 @@ ARTICLE_EXCLUDES = ()
 STATIC_PATHS = ['files', 'img', 'ico', 'js', 'css', 'extra', '.htaccess']
 
 TYPOGRIFY = False
-
+PYGMENTS_RST_OPTIONS = {'classprefix': 'highlight', 'linenos': 'table'}
 
 # JINJA
 def sphinx_element(value, element):
