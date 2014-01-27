@@ -1,21 +1,22 @@
 {% for pg in PAGES|sort(attribute='order') %}
+	{% if loop.first %}
+		<nav class="breadcrumbs cf">
+			<ul class="cf">
+	{% endif %}
+
 	{% for slug in page.slug.split('/') %}
 		{% if pg.slug.endswith(slug) %}
-			{% if loop.first %}
-				<nav class="breadcrumbs cf">
-					<ul class="cf">
-			{% endif %}
-
 			{% if not loop.last %}
 						<li>
 							<a href="{{ SITEURL }}/{{ pg.url }}" class="{% if page.slug == pg.slug %}current{% endif %}">{{ pg.title|replace('&nbsp;', ' ') }}</a>
 						</li>
 			{% endif %}
 
-			{% if loop.last %}
-					</ul>
-				</nav>
-			{% endif %}
 		{% endif %}
 	{% endfor %}
+
+	{% if loop.last %}
+			</ul>
+		</nav>
+	{% endif %}
 {% endfor %}
