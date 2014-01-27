@@ -43,7 +43,7 @@ docs-datavyu:
 
 policies:
 	$(MAKE) -C ../policies all
-	ln -sfT ../../policies/doc databrary/input/policies
+	ln -sfT ../../../policies/doc databrary/input/policies
 
 generate-databrary: policies
 generate-datavyu: docs-datavyu
