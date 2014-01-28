@@ -116,6 +116,10 @@ td {
 	padding: 1px 2px;
 }
 
+video {
+	margin-bottom: 28px;
+}
+
 /* FORMS */
 button,
 input,
