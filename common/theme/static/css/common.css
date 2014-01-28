@@ -618,6 +618,7 @@ ul.inline li {
 
 .site_footer ul.inline {
 	margin-bottom: 28px;
+	margin-left: 0;
 }
 
 .site_footer ul.inline li {
