@@ -1,22 +1,15 @@
-{% for pg in PAGES|sort(attribute='order') %}
-	{% if loop.first %}
-		<nav class="breadcrumbs cf">
-			<ul class="cf">
-	{% endif %}
-
-	{% for slug in page.slug.split('/') %}
-		{% if pg.slug.endswith(slug) %}
-			{% if not loop.last %}
-						<li>
-							<a href="{{ SITEURL }}/{{ pg.url }}" class="{% if page.slug == pg.slug %}current{% endif %}">{{ pg.title|replace('&nbsp;', ' ') }}</a>
-						</li>
-			{% endif %}
-
-		{% endif %}
-	{% endfor %}
-
-	{% if loop.last %}
-			</ul>
-		</nav>
-	{% endif %}
-{% endfor %}
+<nav class="breadcrumbs cf">
+	<ul class="cf">
+		{% for slug in page.slug.split('/') %}
+			{% for pg in PAGES|sort(attribute='order') %}
+				{% if pg.slug.endswith('/'.join(page.slug.split('/')[:page.slug.split('/').index(slug)+1])) and pg.slug != page.slug %}
+					{% if not loop.last %}
+								<li>
+									<a href="{{ SITEURL }}{% if pg.redirect %}{{ pg.redirect }}{% else %}/{{ pg.url }}{% endif %}" class="{% if page.slug == pg.slug %}current{% endif %}">{{ pg.title|replace('&nbsp;', ' ') }}</a>
+								</li>
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+		{% endfor %}
+	</ul>
+</nav>
