@@ -13,7 +13,7 @@ CATEGORY_FEED_RSS = 'feeds/%s.xml'
 PROJECTS = (
 	('Databrary', 'http://databrary.org'),
 	('Datavyu', 'http://datavyu.org'),
-	('Labnanny', 'http://labnanny.org'),
+	# ('Labnanny', 'http://labnanny.org'),
 )
 
 # SOCIAL

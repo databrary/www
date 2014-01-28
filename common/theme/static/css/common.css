@@ -102,6 +102,20 @@ img {
 	height: auto;
 }
 
+table {
+	font-size: 0.75em;
+	width: 100%;
+}
+
+thead {
+	vertical-align: bottom;
+}
+
+td {
+	border: 1px solid #ccc;
+	padding: 1px 2px;
+}
+
 /* FORMS */
 button,
 input,
