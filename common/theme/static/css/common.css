@@ -481,11 +481,14 @@ ul.inline li {
 	top: 0;
 	left: 0;
 	right: 0;
-	color: #ccc;
-	background-color: #000;
+	color: #333;
 	line-height: 42px;
 	height: 42px;
 	overflow: hidden;
+	background-color: #fff;
+	-webkit-box-shadow: 0 0 5px #333;
+	-moz-box-shadow: 0 0 5px #333;
+	box-shadow: 0 0 5px #333;
 }
 
 .site_toolbar a:hover {
@@ -528,6 +531,7 @@ ul.inline li {
 	border-bottom: 1px solid #ccc;
 	margin: 42px 0 28px;
 	overflow: hidden;
+	background-color: #fff;
 }
 
 .site_header h1 {

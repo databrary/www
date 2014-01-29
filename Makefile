@@ -1,8 +1,7 @@
-SITE?=databrary datavyu labnanny
+SITE?=databrary datavyu
 
 PORT_databrary=8001
 PORT_datavyu=8002
-PORT_labnanny=8003
 
 PY=python3
 PELICAN=$(PY) $(shell which pelican)

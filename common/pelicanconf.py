@@ -122,5 +122,4 @@ FEED_MAX_ITEMS = 25
 PROJECTS = (
 	('Databrary', 'http://databrary.org:8001'),
 	('Datavyu', 'http://datavyu.org:8002'),
-	# ('Labnanny', 'http://labnanny.org:8003'),
 )
