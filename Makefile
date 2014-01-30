@@ -38,7 +38,9 @@ publish: generate
 staging: publish
 
 docs-datavyu:
-	$(MAKE) -C ../docs-datavyu html-pelican
+	$(MAKE) -C ../docs-datavyu html-pelican latexpdf
+	mkdir -p datavyu/input/docs
+	ln -f ../docs-datavyu/build/latex/DatavyuManual.pdf datavyu/input/docs/user-guide.pdf
 
 policies:
 	$(MAKE) -C ../policies all

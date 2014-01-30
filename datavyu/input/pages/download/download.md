@@ -17,7 +17,7 @@ Order: 2000
 
 # Older Releases
 
-Most people should use the latest stable release, but you can find older releases and unstable versions in our [releases directory](/releases/).
+Most people should use the latest stable release, but you can also download [older releases](/releases/) or [unstable versions](/releases_pre/).
 
 # Plugins
 
