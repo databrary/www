@@ -22,7 +22,7 @@ help:
 	@echo '   make regenerate                  regenerate files upon modification '
 	@echo '   make publish [SITE=all]          generate using production settings '
 	@echo '   make devserver [SITE=]           start/restart develop_server.sh    '
-	@echo '   make stopserver                  stop local server                  '
+	@echo '   make stop                  stop local server                  '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
@@ -54,13 +54,13 @@ generate-%:
 clean:
 	rm -rf */output
 
-devserver: $(addprefix devserver-,$(SITE))
-devserver-%:
+start: $(addprefix start-,$(SITE))
+start-%:
 	./devserver.sh restart $(PORT_$*) $* &
 
-stopserver: $(addprefix stopserver-,$(SITE))
-stopserver-%:
+stop: $(addprefix stop-,$(SITE))
+stop-%:
 	./devserver.sh stop $(PORT_$*) $*
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-.PHONY: html help clean generate regenerate devserver publish staging
+.PHONY: html help clean generate regenerate start stop publish staging

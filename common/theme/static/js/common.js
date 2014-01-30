@@ -35,7 +35,7 @@ dbjs.carousel = function (region, panel) {
 
 	var resize = function () {
 		$region.css({
-			'height': ($region.outerWidth() * 9 / 16)+'px'
+			'height': ($region.outerWidth() * 9 / 16) + 'px'
 		});
 	};
 
@@ -50,7 +50,42 @@ dbjs.carousel = function (region, panel) {
 	}, waitSpeed);
 };
 
+/**
+ * Does smart stuff with anchor scrolling...
+ */
+dbjs.anchorScroll = function () {
+	var offset = 50;
+
+	var scrollToAnchor = function (anchor) {
+		$("html, body").scrollTop($(anchor).position().top - offset);
+
+		$('[id]').each(function () {
+			var $this = $(this);
+
+			if($this.attr('id') == anchor.substr(1))
+				$this.addClass('target');
+			else
+				$this.removeClass('target');
+		});
+	};
+
+	$('a').bind('click', function (e) {
+		var sHref = this.href.split("#");
+
+		if (document.location.href.indexOf(sHref[0]) == 0 && sHref[1]) {
+			scrollToAnchor("#" + sHref[1]);
+			window.history.pushState(null, null, this.href);
+
+			e.preventDefault();
+			return false;
+		}
+	});
+
+	scrollToAnchor(document.location.hash);
+};
+
 $(document).ready(function () {
 	dbjs.fold('.question', 'h2', 'div');
 	dbjs.carousel('.carousel', '.panel');
+	dbjs.anchorScroll();
 });
