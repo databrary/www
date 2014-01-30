@@ -15,10 +15,11 @@ SITENAME = 'Datavyu: Video coding and data visualization tool'
 SITESLUG = 'datavyu'
 
 # COMPILE
-OUTPUT_RETENTION = ('maven2', 'releases', 'support')
+OUTPUT_RETENTION = ('maven2', 'releases', 'releases_pre', 'support')
 
 STATIC_PATHS.extend([
 	'releases',
+	'releases_pre',
 	'pages/user-guide/.buildinfo',
 	'pages/user-guide/objects.inv',
 	'pages/user-guide/searchindex.js',
