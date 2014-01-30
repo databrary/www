@@ -18,6 +18,7 @@ SITESLUG = 'datavyu'
 OUTPUT_RETENTION = ('maven2', 'releases', 'releases_pre', 'support')
 
 STATIC_PATHS.extend([
+	'docs',
 	'releases',
 	'releases_pre',
 	'pages/user-guide/.buildinfo',
