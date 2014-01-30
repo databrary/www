@@ -1,4 +1,4 @@
-Title: Contact Databarary
+Title: Contact Us
 Brief: Contact
 Slug: contact
 Order: 4000
