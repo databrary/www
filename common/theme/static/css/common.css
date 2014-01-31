@@ -39,7 +39,7 @@ f594a1
 *
 C2707B
 E7C6CA
-.
+
 F9F1F2
 
 */
@@ -232,6 +232,9 @@ button {
 	-webkit-border-radius: 2px;
 	-moz-border-radius: 2px;
 	border-radius: 2px;
+	-webkit-transition: all 0.1s linear;
+	-moz-transition: all 0.1s linear;
+	transition: all 0.1s linear;
 }
 
 button {
@@ -246,11 +249,11 @@ button[type="reset"] {
 }
 
 button:hover {
-	background: #7AB8AB;
+	background: #E4F1EE;
 }
 
 button[type="reset"]:hover {
-	background: #C2707B;
+	background: #F3E2E5;
 }
 
 /* COMMON */
