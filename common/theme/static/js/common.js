@@ -62,7 +62,9 @@ dbjs.anchorScroll = function () {
 		if($anchor.length == 0)
 			return;
 
-		$("html, body").scrollTop($anchor.position().top - offset);
+		$("html, body").scrollTop($anchor.position().top - offset).animate({
+			scrollTop: $anchor.position().top - offset
+		}, 'slow');
 
 		$('[id]').each(function () {
 			var $this = $(this);
