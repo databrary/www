@@ -57,7 +57,12 @@ dbjs.anchorScroll = function () {
 	var offset = 50;
 
 	var scrollToAnchor = function (anchor) {
-		$("html, body").scrollTop($(anchor).position().top - offset);
+		var $anchor = $(anchor);
+
+		if($anchor.length == 0)
+			return;
+
+		$("html, body").scrollTop($anchor.position().top - offset);
 
 		$('[id]').each(function () {
 			var $this = $(this);
