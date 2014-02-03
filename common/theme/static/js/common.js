@@ -59,7 +59,7 @@ dbjs.anchorScroll = function () {
 	var scrollToAnchor = function (anchor) {
 		var $anchor = $(anchor);
 
-		if($anchor.length == 0)
+		if ($anchor.length == 0)
 			return;
 
 		$("html, body").scrollTop($anchor.position().top - offset).animate({
@@ -69,7 +69,7 @@ dbjs.anchorScroll = function () {
 		$('[id]').each(function () {
 			var $this = $(this);
 
-			if($this.attr('id') == anchor.substr(1))
+			if ($this.attr('id') == anchor.substr(1))
 				$this.addClass('target');
 			else
 				$this.removeClass('target');
@@ -91,8 +91,57 @@ dbjs.anchorScroll = function () {
 	scrollToAnchor(document.location.hash);
 };
 
+/**
+ *
+ */
+dbjs.sidebarScroll = function () {
+	var $content = $('.col_with_nav'),
+		$sidebar = $('.col_nav'),
+		$window = $(window),
+		$doc = $(document);
+
+	var timer,
+		timing = 250;
+
+	if($sidebar.length == 0)
+		return;
+
+	var scrollUpdate = function () {
+		var contentHeight = $content.outerHeight(false),
+			sidebarHeight = $sidebar.outerHeight(false),
+			toolbarOffset = 50,
+			windowHeight = $window.height(),
+			docHeight = $doc.height(),
+			docScroll = $doc.scrollTop(),
+			contentOffset = $content.offset().top;
+
+		var contentFoot = docHeight - contentOffset - contentHeight,
+			realHeight = docHeight - windowHeight - contentFoot - contentOffset + toolbarOffset,
+			realScroll = docScroll - contentOffset + toolbarOffset,
+			range = contentHeight - sidebarHeight,
+			scroll = realScroll / realHeight;
+
+		$sidebar.animate({
+			marginTop: ($window.width() <= 680 || docScroll <= (contentOffset - toolbarOffset) || range <= 0 || scroll <= 0) ? 0 : (scroll > 1) ? range : range * scroll
+		}, timing);
+	};
+
+	$window.scroll(function () {
+		clearTimeout(timer);
+		timer = setTimeout(scrollUpdate, timing);
+	});
+
+	$window.resize(function () {
+		clearTimeout(timer);
+		timer = setTimeout(scrollUpdate, timing);
+	});
+
+	scrollUpdate();
+};
+
 $(document).ready(function () {
 	dbjs.fold('.question', 'h2', 'div');
 	dbjs.carousel('.carousel', '.panel');
 	dbjs.anchorScroll();
+	dbjs.sidebarScroll();
 });

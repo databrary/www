@@ -734,6 +734,18 @@ ul.inline li {
 
 /* PAGE SIDEBAR */
 
+.page_sidebar {
+	border-left: 1px solid #ccc;
+	padding-left: 7px;
+}
+
+@media (max-width: 680px) {
+	.page_sidebar {
+		border-left: 0;
+		padding-left: 0;
+	}
+}
+
 .page_sidebar h2 {
 	margin: 0;
 	font-size: 1em;
@@ -744,7 +756,7 @@ ul.inline li {
 	margin-left: 3px;
 	padding-left: 21px;
 	list-style: circle;
-	font-size: 1rem;
+	font-size: 0.8rem;
 }
 
 .page_sidebar li {
@@ -1242,8 +1254,27 @@ nav.page_sidebar a.parent:hover {
 	font-style: italic;
 }
 
-/* SPHINX */
+/* TRAIL */
+.site_main .trail {
+	font-size: 0.8rem;
+	margin-top: 28px;
+	padding-top: 14px;
+	border-top: 1px solid #ccc;
+}
 
+div.leftie {
+	width: 45%;
+	float: left;
+	text-align: left;
+}
+
+div.rightie_bottom {
+	text-align: right;
+	width: 45%;
+	float: right;
+}
+
+/* SPHINX */
 .site_main a.headerlink {
 	display: none;
 	margin-left: .25em;
@@ -1302,18 +1333,6 @@ p.admonition-title {
 
 p.admonition-title:after {
 	content: ":";
-}
-
-div.leftie {
-	width: 35%;
-	float: left;
-	text-align: left;
-}
-
-div.rightie_bottom {
-	text-align: right;
-	width: 35%;
-	float: right;
 }
 
 dt.target, .highlight, pre {
@@ -1442,6 +1461,8 @@ pre {
 }
 
 pre:hover {
+	position: relative;
+	z-index: 500;
 	width: 150%;
 }
 
@@ -1506,10 +1527,6 @@ em.xref {
 .getit p {
 	margin-bottom: 0;
 	text-align: left;
-}
-
-.trail {
-	margin-bottom: 56px;
 }
 
 /* SYNTAX */

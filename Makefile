@@ -21,8 +21,8 @@ help:
 	@echo '   make clean                       remove the generated files         '
 	@echo '   make regenerate                  regenerate files upon modification '
 	@echo '   make publish [SITE=all]          generate using production settings '
-	@echo '   make devserver [SITE=]           start/restart develop_server.sh    '
-	@echo '   make stop                  stop local server                  '
+	@echo '   make start [SITE=]               start/restart develop_server.sh    '
+	@echo '   make stop                        stop local server                  '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
@@ -55,6 +55,8 @@ generate-%:
 
 clean:
 	rm -rf */output
+
+start-datavyu: docs-datavyu
 
 start: $(addprefix start-,$(SITE))
 start-%:
