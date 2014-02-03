@@ -45,13 +45,13 @@ body {
 .event h3 a,
 .info_block h2 a,
 .info_block h3 a {
-	color: #82C270;
+	color: #7AB8AB;
 }
 
 .event h3 a:hover,
 .info_block h2 a:hover,
 .info_block h3 a:hover {
-	color: #CDE7C6;
+	color: #CAE2DE;
 }
 
 .term,
