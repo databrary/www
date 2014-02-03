@@ -33,11 +33,11 @@ body {
 .article .event-date time,
 .carousel .text span,
 .page_community_team .entry-content h2 {
-	color: #C2707B;
+	color: #D68D5C;
 }
 
 .site_main a:hover {
-	color: #E7C6CA;
+	color: #EBC6AD;
 }
 
 .page_community_team .entry-content .profile h1,
@@ -87,16 +87,16 @@ body,
 button[type="reset"],
 .site_main .article h1.entry-title,
 .site_main .article h1.entry-title span {
-	background-color: #E7C6CA;
+	background-color: #EBC6AD;
 }
 
 button[type="reset"]:hover {
-	background-color: #F3E2E5;
+	background-color: #F7E8DE;
 }
 
 a:hover code,
 em.xref {
-	background-color: #F9F1F2;
+	background-color: #FBF4EF;
 }
 
 div.admonition-returns.admonition,
@@ -176,7 +176,7 @@ div.admonition a code {
 }
 
 a.footnote-reference {
-	border-bottom-color: #C2707B;
+	border-bottom-color: #D68D5C;
 }
 
 input:focus,
@@ -200,9 +200,9 @@ div.seealso {
 }
 
 .site_footer .footer_social a:hover img {
-	-webkit-box-shadow: 0 0 5px #C2707B;
-	-moz-box-shadow: 0 0 5px #C2707B;
-	box-shadow: 0 0 5px #C2707B;
+	-webkit-box-shadow: 0 0 5px #D68D5C;
+	-moz-box-shadow: 0 0 5px #D68D5C;
+	box-shadow: 0 0 5px #D68D5C;
 }
 
 img.screenshot,
@@ -220,4 +220,8 @@ table.docutils,
 
 .site_main h1.entry-title {
 	text-shadow: -1px 0 2px #F2F8F7;
+}
+
+.site_main .article h1.entry-title {
+	text-shadow: -1px 0 2px #FBF4EF;
 }

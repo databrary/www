@@ -221,3 +221,7 @@ table.docutils,
 .site_main h1.entry-title {
 	text-shadow: -1px 0 2px #F2F8F7;
 }
+
+.site_main .article h1.entry-title {
+	text-shadow: -1px 0 2px #FBF4EF;
+}
