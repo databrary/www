@@ -1,6 +1,6 @@
 SITE?=databrary datavyu
 
-WWW=/var/www
+WWW=/home/www
 PORT_databrary=8001
 PORT_datavyu=8002
 
