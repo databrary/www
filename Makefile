@@ -1,7 +1,7 @@
 SITE?=databrary datavyu
 
 WWW=/home/www
-CONF=/etc/apache2/vhosts.d/www.conf
+APACHE=/etc/apache2/vhosts.d/www.conf
 
 PORT_databrary=8001
 PORT_datavyu=8002
@@ -42,10 +42,10 @@ regenerate: generate
 publish: generate
 staging: publish
 production: update publish
-	diff etc/apache.conf $(CONF) && echo "Apache config (above) needs updating."
+	@diff etc/apache.conf $(APACHE) || echo "Apache config (above) needs updating."
 
 update-%:
-	cd ../$* && git pull
+	cd ../$* && [[ `git symbolic-ref HEAD` = refs/heads/master ]] && git pull
 update: $(addprefix update-,datavyu datavyu-docs policies www)
 
 datavyu-docs:
