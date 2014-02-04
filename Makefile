@@ -37,17 +37,17 @@ regenerate: generate
 publish: generate
 staging: publish
 
-docs-datavyu:
-	$(MAKE) -C ../docs-datavyu html-pelican latexpdf
+datavyu-docs:
+	$(MAKE) -C ../datavyu-docs html-pelican latexpdf
 	mkdir -p datavyu/input/docs
-	ln -f ../docs-datavyu/build/latex/DatavyuManual.pdf datavyu/input/docs/user-guide.pdf
+	ln -f ../datavyu-docs/build/latex/DatavyuManual.pdf datavyu/input/docs/user-guide.pdf
 
 policies:
 	$(MAKE) -C ../policies all
 	ln -sfT ../../../policies/doc databrary/input/policies
 
 generate-databrary: policies
-generate-datavyu: docs-datavyu
+generate-datavyu: datavyu-docs
 
 generate: $(addprefix generate-,$(SITE))
 generate-%:
@@ -56,7 +56,7 @@ generate-%:
 clean:
 	rm -rf */output
 
-start-datavyu: docs-datavyu
+start-datavyu: datavyu-docs
 
 start: $(addprefix start-,$(SITE))
 start-%:
