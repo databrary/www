@@ -1,0 +1,227 @@
+/* FONT */
+code.xref, a code,
+nav.page_sidebar li.current > a.current,
+nav.page_sidebar li.current > a.current:hover,
+nav.page_sidebar a.current,
+nav.page_sidebar a.current:hover,
+nav.page_sidebar li.current > a,
+nav.page_sidebar li.current > a:hover,
+nav.page_sidebar a.parent,
+nav.page_sidebar a.parent:hover,
+.site_main .breadcrumbs a,
+.site_main .breadcrumbs a:hover,
+.site_toolbar,
+.site_header li a,
+body {
+	color: #333;
+}
+
+.site_main h2.special_head {
+	color: #666;
+}
+
+.article .post-info,
+.event .date {
+	color: #999;
+}
+
+.page_community_team .entry-content .profile ul.email a {
+	color: #ccc;
+}
+
+.site_main a,
+.article .event-date time,
+.carousel .text span,
+.page_community_team .entry-content h2 {
+	color: #D68D5C;
+}
+
+.site_main a:hover {
+	color: #EBC6AD;
+}
+
+.page_community_team .entry-content .profile h1,
+.page_community_team .entry-content dl dt,
+.event h3 a,
+.info_block h2 a,
+.info_block h3 a {
+	color: #7AB8AB;
+}
+
+.event h3 a:hover,
+.info_block h2 a:hover,
+.info_block h3 a:hover {
+	color: #CAE2DE;
+}
+
+.term,
+.site_header li li a:hover,
+.site_footer a,
+.site_main .trail a,
+nav.page_sidebar a {
+	color: #7AB8AB;
+}
+
+.site_footer a:hover,
+.site_main .trail a:hover,
+nav.page_sidebar a:hover {
+	color: #CAE2DE;
+}
+
+/* BACKGROUND */
+table.footnote,
+div.topic,
+div.admonition,
+div.note {
+	background-color: #F6F6F6;
+}
+
+.site_toolbar,
+body,
+.carousel .text,
+.site_header,
+.site_header li ul {
+	background-color: #fff;
+}
+
+button[type="reset"],
+.site_main .article h1.entry-title,
+.site_main .article h1.entry-title span {
+	background-color: #EBC6AD;
+}
+
+button[type="reset"]:hover {
+	background-color: #F7E8DE;
+}
+
+a:hover code,
+em.xref {
+	background-color: #FBF4EF;
+}
+
+div.admonition-returns.admonition,
+div.admonition-programming-101.admonition,
+div.admonition-example.admonition,
+button,
+.site_main h1.entry-title,
+.site_main h1.entry-title span,
+.site_header li.current a {
+	background-color: #CAE2DE;
+}
+
+button:hover,
+.site_main .breadcrumbs ul,
+.site_header li:hover a {
+	background-color: #E4F1EE;
+}
+
+div.seealso,
+code.xref,
+a code,
+dt.target,
+.highlight,
+pre,
+code {
+	background-color: #FFFFD1;
+}
+
+/* BORDER */
+.site_main .breadcrumbs li:after {
+	border-left-color: #333;
+}
+
+.page_about_faq .entry-content h2 .arrow {
+	border-bottom-color: #333;
+}
+
+.page_community_team .entry-content .profile .avatar,
+div.note,
+.site_header li ul,
+.getit,
+td,
+button,
+input,
+select,
+textarea {
+	border-color: #ccc;
+}
+
+.site_main .trail,
+.page_community_team .entry-content h2,
+div.admonition,
+.site_main h2.special_head,
+.site_footer {
+	border-top-color: #ccc;
+}
+
+.page_community_team .entry-content h2,
+div.admonition,
+.site_header,
+.site_main h2.special_head,
+hr {
+	border-bottom-color: #ccc;
+}
+
+.page_sidebar {
+	border-left-color: #ccc;
+}
+
+div.admonition code.xref,
+div.admonition a code {
+	border-bottom-color: #F6F6F6;
+}
+
+.site_header li a {
+	border-bottom: 3px solid #fff;
+}
+
+a.footnote-reference {
+	border-bottom-color: #D68D5C;
+}
+
+input:focus,
+select:focus,
+textarea:focus,
+div.admonition-returns.admonition,
+div.admonition-programming-101.admonition,
+div.admonition-example.admonition {
+	border-color: #7AB8AB;
+}
+
+div.seealso {
+	border-color: #ff6;
+}
+
+/* SHADOW */
+.site_toolbar {
+	-webkit-box-shadow: 0 0 5px #333;
+	-moz-box-shadow: 0 0 5px #333;
+	box-shadow: 0 0 5px #333;
+}
+
+.site_footer .footer_social a:hover img {
+	-webkit-box-shadow: 0 0 5px #D68D5C;
+	-moz-box-shadow: 0 0 5px #D68D5C;
+	box-shadow: 0 0 5px #D68D5C;
+}
+
+img.screenshot,
+table.docutils,
+.getit {
+	-moz-box-shadow: 2px 2px 4px #F6F6F6;
+	-webkit-box-shadow: 2px 2px 4px #F6F6F6;
+	box-shadow: 2px 2px 4px #F6F6F6;
+}
+
+.site_header li:hover a,
+.site_header li.current a {
+	text-shadow: 0 -1px 2px #F2F8F7;
+}
+
+.site_main h1.entry-title {
+	text-shadow: -1px 0 2px #F2F8F7;
+}
+
+.site_main .article h1.entry-title {
+	text-shadow: -1px 0 2px #FBF4EF;
+}

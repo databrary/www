@@ -1,0 +1,7 @@
+{% extends 'base.html' %}
+
+{% block title %}{{ article.title|striptags }}{% endblock title %}
+
+{% block content %}
+{% include 'partial/post_article.html' %}
+{% endblock content %}

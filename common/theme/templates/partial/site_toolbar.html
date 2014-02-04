@@ -1,0 +1,13 @@
+<section id="site_toolbar" class="site_toolbar">
+	<div class="wrap">
+		<h1>
+			<a href="http://databrary.org/about.html" title="About the Databrary Project"><span>THE </span>DATABRARY<span> PROJECT</span></a>
+		</h1>
+
+		<nav>
+			{% for title, link in PROJECTS %}
+				<a href="{{ link }}"><img src="{{ SITEURL }}/theme/img/logo/{{ title|lower }}-nav.png" alt="{{ title }}"><span>{{ title }}</span></a>
+			{% endfor %}
+		</nav>
+	</div>
+</section>

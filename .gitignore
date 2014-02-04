@@ -1,5 +1,14 @@
 *~
 /common/robots.txt
 .DS_Store
-
+/.idea
 /*.iml
+/env
+*.pid
+__pycache__
+/*/output/
+/*/*.pyc
+/datavyu/input/pages/user-guide
+/datavyu/input/docs/
+/databrary/input/policies
+Thumbs.db

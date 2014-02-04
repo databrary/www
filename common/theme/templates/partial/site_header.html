@@ -1,0 +1,19 @@
+<header id="site_header" class="site_header">
+	<div class="wrap">
+		<h1>
+			<a href="/" title="{{ SITENAME }}"><img id="logo" src="{{ SITEURL }}/theme/img/logo/{{ SITESLUG }}.png" alt="{{ SITENAME }}"></a>
+		</h1>
+
+		<nav>
+			<ul>
+				{% for pg in PAGES|sort(attribute='order') %}
+				{% if not '/' in pg.slug and not 'sphinx' in pg.display %}
+				<li class="{% if page and (pg.slug in page.slug or page.slug.split('/')[0] in pg.redirect) %}current{% endif %}">
+					<a href="{% if pg.redirect %}{{ pg.redirect }}{% else %}{{ SITEURL }}/{{ pg.url }}{% endif %}" title="{{ pg.title }}">{{ pg.brief }}</a>
+				</li>
+				{% endif %}
+				{% endfor %}
+			</ul>
+		</nav>
+	</div>
+</header>

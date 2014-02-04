@@ -1,0 +1,45 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title|striptags }}{% endblock %}
+
+{% block content %}
+<article id="page_{{ page.slug.replace('/', '_') }}" class="hentry page page_{{ page.slug.replace('/', '_') }} {%if 'sphinx' in page.display %}page_sphinx{% endif %}">
+    {% include 'partial/page_breadcrumb.html' %}
+
+    <h1 class="entry-title"><span></span>{{ page.title|replace('&nbsp;', ' ') }}</h1>
+
+    <div class="cf">
+        <div class="entry-content {% if 'wide' not in page.display %}col_with_nav{% endif %}">
+			{%if 'mdimport' in page.display and 'user-guide/policies' in page.slug %}
+				<div class="otherformats top">
+					{% include 'partial/page_otherformats.html' %}
+				</div>
+			{% endif %}
+
+            {%if 'sphinx' not in page.display %}
+				{{ page.content }}
+            {% else %}
+				{{ page.content|sphinx('content')|replace('tt>', 'code>')|replace('<tt', '<code') }}
+				{{ page.content|sphinx('trail') }}
+            {% endif %}
+
+			{%if 'mdimport' in page.display and 'user-guide/policies' in page.slug %}
+				<div class="otherformats bottom">
+					{% include 'partial/page_otherformats.html' %}
+				</div>
+			{% endif %}
+        </div>
+
+        {% if 'wide' not in page.display %}
+			{%if 'sphinx' not in page.display %}
+				{% include 'partial/page_sidebar.html' %}
+			{% else %}
+				<nav class="col_nav page_sidebar">
+					{{ page.content|sphinx('sidebar') }}
+				</nav>
+			{% endif %}
+        {% endif %}
+    </div>
+
+</article>
+{% endblock content %}
