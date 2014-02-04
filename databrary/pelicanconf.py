@@ -15,7 +15,7 @@ SITENAME = 'Databrary: An Open Data Library for Developmental Science'
 SITESLUG = 'databrary'
 
 # COMPILE
-OUTPUT_RETENTION = ('irclogs', 'policies', 'awstats', 'awstats.cgi')
+OUTPUT_RETENTION = ('irclogs', 'policies', 'awstats', 'awstats.cgi', 'bugs')
 
 STATIC_PATHS.extend([
 	'policies',
