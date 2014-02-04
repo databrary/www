@@ -41,8 +41,12 @@ html: generate
 regenerate: generate
 publish: generate
 staging: publish
-production: publish
+production: update publish
 	diff etc/apache.conf $(CONF) && echo "Apache config (above) needs updating."
+
+update-%:
+	cd ../$* && git pull
+update: $(addprefix update-,datavyu datavyu-docs policies www)
 
 datavyu-docs:
 	$(MAKE) -C ../datavyu-docs html-pelican latexpdf
