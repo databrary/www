@@ -1,6 +1,8 @@
 SITE?=databrary datavyu
 
 WWW=/home/www
+CONF=/etc/apache2/vhosts.d/www.conf
+
 PORT_databrary=8001
 PORT_datavyu=8002
 
@@ -40,6 +42,7 @@ regenerate: generate
 publish: generate
 staging: publish
 production: publish
+	diff etc/apache.conf $(CONF) && echo "Apache config (above) needs updating."
 
 datavyu-docs:
 	$(MAKE) -C ../datavyu-docs html-pelican latexpdf
