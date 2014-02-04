@@ -1,5 +1,6 @@
 SITE?=databrary datavyu
 
+WWW=/var/www
 PORT_databrary=8001
 PORT_datavyu=8002
 
@@ -17,12 +18,13 @@ help:
 	@echo 'Makefile for a pelican Web site                                        '
 	@echo '                                                                       '
 	@echo 'Usage:                                                                 '
-	@echo '   make html [SITE=all]             (re)generate the web site          '
-	@echo '   make clean                       remove the generated files         '
-	@echo '   make regenerate                  regenerate files upon modification '
-	@echo '   make publish [SITE=all]          generate using production settings '
-	@echo '   make start [SITE=]               start/restart develop_server.sh    '
-	@echo '   make stop                        stop local server                  '
+	@echo '   make html [SITE=all]     (re)generate the web site          '
+	@echo '   make clean               remove the generated files         '
+	@echo '   make regenerate          regenerate files upon modification '
+	@echo '   make stanging            publish to $(WWW)/staging'
+	@echo '   make production          publish to $(WWW)'
+	@echo '   make start [SITE=]       start/restart develop_server.sh    '
+	@echo '   make stop                stop local server                  '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
@@ -30,12 +32,14 @@ help:
 OUTDIR=$*/output
 regenerate: PELICANOPTS+=-r
 publish: CONF=publishconf.py
-staging: OUTDIR=/var/www/staging/$*
+staging: OUTDIR=$(WWW)/staging/$*
+production: OUTDIR=$(WWW)/$*
 
 html: generate
 regenerate: generate
 publish: generate
 staging: publish
+production: publish
 
 datavyu-docs:
 	$(MAKE) -C ../datavyu-docs html-pelican latexpdf
@@ -67,4 +71,4 @@ stop-%:
 	./devserver.sh stop $(PORT_$*) $*
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-.PHONY: html help clean generate regenerate start stop publish staging
+.PHONY: html help clean generate regenerate start stop publish staging production
