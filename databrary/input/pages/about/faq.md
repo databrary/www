@@ -145,6 +145,8 @@ Order: 1300
 	<div>
 		<p>Data contributors can upload data at any point and release it openly at any point - as data are collected, after scoring the data, after manuscript submission, when a manuscript goes to press, or later.</p>
 
+		<p>Funding agency requirements and journal standards about data sharing are evolving. Databrary's <a href="/user-guide/policies/data-sharing-manifesto.html">Data Sharing Manifesto</a> discusses our views on these issues.</p>
+
 		<p>Tool contributors can share their stuff and release it at any point - as the tools are being developed, after testing, after a manuscript goes to press, or later.</p>
 	</div>
 </section>
