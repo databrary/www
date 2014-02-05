@@ -11,15 +11,13 @@ Achieving these goals requires that we create and maintain a community that embo
 
 # Procedures
 
-Databrary is governed by a set of [standard operating procedures](/user-guide/policies/standard-operating-proceedures.html) (SOPs). Individuals who wish to have full access must apply for authorized Investigator or Affiliate Investigator status. Only researchers who demonstrate knowledge of the principles of research ethics with human participants and who agree to the provisions of Databrary's <a href="/policies/investigator-agmt.shtml">Investigator Agreement</a> will be granted access.
+Databrary is governed by a set of [standard operating procedures](/user-guide/policies/standard-operating-proceedures.html) (SOPs). Individuals who wish to have full access must apply for authorized Investigator or Affiliate Investigator status. Only researchers who demonstrate knowledge of the principles of research ethics with human participants and who agree to the provisions of Databrary's <a href="/user-guide/policies/investigator-agreement.html">Investigator Agreement</a> will be granted access.
 
 Databrary is accepting applications for Investigator or Affiliate Investigator status. The following documents may be useful to researchers considering whether to apply or when preparing an application to a research superivision entity (e.g., IRB) for approval to share with Databrary:
 
-- [Databrary Standard Operating Procedures (SOPs)](/user-guide/policies/standard-operating-proceedures.html), [.docx](/policies/sops.docx), [.pdf](/policies/sops.pdf)
-- [Databrary Investigator Agreement](/user-guide/policies/investigator-agreement.html), [.docx](/policies/investigator-agmt.docx), [.pdf](/policies/investigator-agmt.pdf)
+- [Databrary Standard Operating Procedures (SOPs)](/user-guide/policies/standard-operating-proceedures.html), [.docx](/policies/standard-operating-proceedures.docx), [.pdf](/policies/standard-operating-proceedures.pdf)
+- [Databrary Investigator Agreement](/user-guide/policies/investigator-agreement.html), [.docx](/policies/investigator-agreement.docx), [.pdf](/policies/investigator-agreement.pdf)
 - Permission to Share Template, [.docx](/policies/release-template.docx), [.pdf](/policies/release-template.pdf)
-
-For more information about Databrary policies and procedures see the [github repository](http://github.com/databrary/policies).
 
 ----
 
