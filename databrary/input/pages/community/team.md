@@ -114,27 +114,28 @@ Order: 2300
 
 # Staff
 
-Lisa Steiger
-:	<img src="/theme/img/social/email.png"> [lisa@databrary.org](mailto:lisa@databrary.org "Email Lisa Steiger")
-:	212-998-5536
-
-Dylan Simon
-:	<img src="/theme/img/social/email.png"> [dylan@databrary.org](mailto:dylan@databrary.org "Email Dylan Simon")
-
-Michael Continues
-:	<img src="/theme/img/social/email.png"> [mike@databrary.org](mailto:mike@databrary.org "Email Michael Continues")
+Andrea Byrne
+:	<img src="/theme/img/social/email.png"> [andrea@databrary.org](mailto:andrea@databrary.org "Email Andrea Byrne")
 
 Jon Coe
 :	<img src="/theme/img/social/email.png"> [jon@databrary.org](mailto:jon@databrary.org "Email Jon Coe")
 
-Andrea Byrne
-:	<img src="/theme/img/social/email.png"> [andrea@databrary.org](mailto:andrea@databrary.org "Email Andrea Byrne")
-
-Lina Wictoren Roy
-:	<img src="/theme/img/social/email.png"> [lina@databrary.org](mailto:lina@databrary.org "Email Lina Wictoren Roy")
+Michael Continues
+:	<img src="/theme/img/social/email.png"> [mike@databrary.org](mailto:mike@databrary.org "Email Michael Continues")
 
 Vicky Foo
 :	<img src="/theme/img/social/email.png"> [vicky@databrary.org](mailto:vicky@databrary.org "Email Vicky Foo")
+
+Dylan Simon
+:	<img src="/theme/img/social/email.png"> [dylan@databrary.org](mailto:dylan@databrary.org "Email Dylan Simon")
+
+Lisa Steiger
+:	<img src="/theme/img/social/email.png"> [lisa@databrary.org](mailto:lisa@databrary.org "Email Lisa Steiger")
+:	212-998-5536
+
+Lina Wictoren Roy
+:	<img src="/theme/img/social/email.png"> [lina@databrary.org](mailto:lina@databrary.org "Email Lina Wictoren Roy")
+:   212-998-5800
 
 ----
 
