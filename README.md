@@ -1,3 +1,11 @@
+# Editing Documents
+
+Pages and posts can be written in markdown (.md) restructured text (.rst) or in html (.html). In any document format, the headers are essential to generating valid web pages.
+
+## Headings
+
+Do not use H1 to represent the title of a document. Use H1s as the highest level of your page outline. You can have multiple H1s. 
+
 # Databrary Project Websites Generator
 
 This project generates static content for databrary.org, datavyu.org, and labnanny.org using Pelican, a python library. It pulls content from other databrary repos, including [policies](https://github.com/databrary/policies), [datavyu](https://github.com/databrary/datavyu), and [datavyu-docs](https://github.com/databrary/datavyu-docs).
