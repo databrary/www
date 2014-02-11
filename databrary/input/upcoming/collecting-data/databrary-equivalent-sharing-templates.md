@@ -22,6 +22,6 @@ Please indicate below whether you do or do not give us permission to use your or
 - On Dr. Adolph’s website or professional websites designed to make research results available for professional purposes only. Yes/No.
 - On recruiting advertisements for the Infant Action Lab. Yes/No.
 
-You will receive a copy of this form. If at any time in the future you change your mind about granting us permission to use your or your child’s images, just notify us by calling the Infant Action Lab (212-998- 9058) and we will stop using them (except in the case of images already published in books or journals.
+You will receive a copy of this form. If at any time in the future you change your mind about granting us permission to use your or your child’s images, just notify us by calling the Infant Action Lab (xxx-xxx-xxxx) and we will stop using them (except in the case of images already published in books or journals).
 
 Signature ___________________________________ Date ___________
