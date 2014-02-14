@@ -1,25 +1,27 @@
+# Editing Documents
+
+Pages and posts can be written in markdown (.md) restructured text (.rst) or in html (.html). In any document format, the headers are essential to generating valid web pages.
+
+## Headings
+
+Do not use H1 to represent the title of a document. Use H1s as the highest level of your page outline. You can have multiple H1s. 
+
 # Databrary Project Websites Generator
 
 This project generates static content for databrary.org, datavyu.org, and labnanny.org using Pelican, a python library. It pulls content from other databrary repos, including [policies](https://github.com/databrary/policies), [datavyu](https://github.com/databrary/datavyu), and [datavyu-docs](https://github.com/databrary/datavyu-docs).
 
 ## Requirements
 
-- Python 3.3.x
-- virtualenv
-
-## Installation
-
-`cd www
-virtualenv -p python3.3 env
-env/bin/pip install -r requirements.txt`
+see requirements.txt
 
 ## Use
 
 ### Development server
 
-`make devserver SITE=(databrary|datavyu|labnanny)`
+`make start SITE=(databrary|datavyu|labnanny)`
+`make stop SITE=(databrary|datavyu|labnanny)`
 
-This command loads a development server for the site requested on a default port, such that they can be run it parallel.
+These commands start and stop the development server for the site requested on a default port, such that they can be run it parallel.
 
 databrary
 :	port 8001

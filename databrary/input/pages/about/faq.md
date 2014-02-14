@@ -35,10 +35,10 @@ Order: 1300
 
 	<div>
 		<p>Data contributors can share raw digital video files, other data streams (e.g., audio, motion tracking, eye tracking coordinates, physiological data, transcripts), papers based on the data, associated metadata (e.g., coded spreadsheets, codebooks, questionnaires, instruments, analysis spreadsheets), and a handful of tags describing the overall dataset that reflect standard federal guidelines (number of participants at various ages and their sex, race, ethnicity, and geographical region, typically/atypically developing) and study design (human/animal, naturalistic/experimental, cross-sectional/longitudinal). These rich forms of metadata will help users to search for appropriate datasets within Databrary, browse the videos within datasets for particulars, and make greater use of datasets for research and teaching.</p>
-		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='https://github.com/databrary/policies/definitions.md' target='_blank'>Databrary definitions</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href="http://databrary.org/policies/release-template.shtml">template documents</a> for this purpose </p>
-		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends investigators adopt <a href='https://github.com/databrary/policies/blob/master/best-practices.md' target='_blank'>
+		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/user-guide/policies/definitions.html'>Databrary definitions</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href="/user-guide/policies/release-template.html">template documents</a> for this purpose </p>
+		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends investigators adopt <a href='/user-guide/policies/best-practices.html'>
 			best practices for data security</a>
-			and uphold the <a href='https://github.com/databrary/policies/blob/master/bill-of-rights.md' target='_blank'>
+			and uphold the <a href='/user-guide/policies/bill-of-rights.html' target='_blank'>
 				Databrary Bill of Rights</a>.</p>
 		<p>Tool contributors can share tools and algorithms for visualizing, exploring, and analyzing data, and other uses. Links and scripts will enable interoperability between coded data and tools. Open source tools can share the source code.</p>
 	</div>
@@ -65,7 +65,7 @@ Order: 1300
 	<h2>How do I apply for access?</h2>
 
 	<div>
-		<p>You may browse Databrary's public assets freely without signing in. If you wish to have access to protected information, you must submit an <a href="http://databrary.org/policies/investigator-agmt.shtml">application</a> for approval as either an Investigator or Affiliate Investigator. Investigators must have Principal Investigator (PI) status at their home institutions. Affiliate Investigators must be affiliated with a Databrary-approved Investigator who sponsors and agrees to supervise the Affiliate Investigator's research. </p>
+		<p>You may browse Databrary's public assets freely without signing in. If you wish to have access to protected information, you must submit an <a href="/user-guide/policies/investigator-agreement.html">application</a> for approval as either an Investigator or Affiliate Investigator. Investigators must have Principal Investigator (PI) status at their home institutions. Affiliate Investigators must be affiliated with a Databrary-approved Investigator who sponsors and agrees to supervise the Affiliate Investigator's research. </p>
 		<p>The application will request information about you, your institution, and for Affiliate Investigators, the name of the sponsoring or supervising Investigator. You will need to provide information about your research ethics training status. You will also be asked to sign an Investigator Agreement in which you promise to follow Databrary policies and ethical principles when viewing, analyzing, or contributing to Databrary. You will need to promise that you have authority to sign on behalf of your institution or get an official with appropriate authority to sign.</p>
 		<p>Databrary staff will review the application, request more information if needed, and when all information is in order, send you an email with login information that grants you access. You will need to renew your account at least every other year.</p>
 	</div>
@@ -127,7 +127,7 @@ Order: 1300
 
 		<p>Any researcher may contribute tools to the repository.</p>
 
-		<p><a href='/contact/'>Contact Databrary</a> if you want to contribute data or tools.</p>
+		<p><a href='/contact.html'>Contact Databrary</a> if you want to contribute data or tools.</p>
 	</div>
 </section>
 
@@ -144,6 +144,8 @@ Order: 1300
 
 	<div>
 		<p>Data contributors can upload data at any point and release it openly at any point - as data are collected, after scoring the data, after manuscript submission, when a manuscript goes to press, or later.</p>
+
+		<p>Funding agency requirements and journal standards about data sharing are evolving. Databrary's <a href="/user-guide/policies/data-sharing-manifesto.html">Data Sharing Manifesto</a> discusses our views on these issues.</p>
 
 		<p>Tool contributors can share their stuff and release it at any point - as the tools are being developed, after testing, after a manuscript goes to press, or later.</p>
 	</div>

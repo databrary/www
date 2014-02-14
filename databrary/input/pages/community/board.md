@@ -77,11 +77,6 @@ Carol Mandel
 :	Dean of the Division of Libraries
 :	New York University
 
-Susan McHale
-:	Professor of Human Development
-:	Director of the Social Science Research Institute
-:	The Pennsylvania State University
-
 Peter Molenaar
 :	Distinguished Professor of Human Development and Psychology
 :	The Pennsylvania State University
@@ -89,6 +84,10 @@ Peter Molenaar
 Sarah Morrow
 :	Privacy Manager, Office of Risk Management
 :	The Pennsylvania State University
+
+Brian Nosek
+: Associate Professor of Psychology
+: University of Virgina 
 
 Roy Pea
 :	David Jacks Professor of Education and Learning Sciences
@@ -111,6 +110,10 @@ Deb Roy
 Linda Smith
 :	Distinguished Professor and Chancellor's Professor of Psychological and Brain Sciences
 :	Indiana University
+
+Douglas Teti
+: Professor, Human Development, Psychology, and Pediatrics
+: Pennsylvania State University
 
 Peter Vishton
 :	Associate Professor of Psychology
