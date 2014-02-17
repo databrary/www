@@ -32,12 +32,17 @@ help:
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
 
-OUTDIR=output
 regenerate: PELICANOPTS+=-r
 publish: CONF=publishconf.py
-staging: OUTDIR=$(WWW)/staging
-production deploy: OUTDIR=$(WWW)
-ifeq ($(MAKECMDGOALS),deploy)
+
+ifneq ($(filter staging,$(MAKECMDGOALS)),)
+OUTDIR=$(WWW)/staging
+else ifneq ($(filter production deploy,$(MAKECMDGOALS)),)
+OUTDIR=$(WWW)
+else
+OUTDIR=output
+endif
+ifneq ($(filter deploy,$(MAKECMDGOALS)),)
 UPDATE:=FORCE
 endif
 
@@ -53,6 +58,9 @@ generate: $(SITE:%=$(OUTDIR)/%/index.html)
 $(OUTDIR)/%/index.html: ../www/.git/refs/heads/master
 	$(PELICAN) -o $(OUTDIR)/$* -s $*/$(CONF) $(PELICANOPTS)
 
+$(OUTDIR)/datavyu/index.html: datavyu/input/pages/user-guide/index.html datavyu/input/docs/user-guide.pdf ../datavyu/version.txt ../datavyu/pre_version.txt
+$(OUTDIR)/databrary/index.html: databrary/input/policies
+
 ../%/.git/refs/heads/master: $(UPDATE)
 	cd ../$* && [[ `git symbolic-ref HEAD` = refs/heads/master ]] && git pull
 
@@ -66,9 +74,6 @@ datavyu/input/docs/user-guide.pdf: ../datavyu-docs/.git/refs/heads/master
 databrary/input/policies: ../policies/.git/refs/heads/master
 	$(MAKE) -C ../policies all
 	ln -sfT ../../../policies/doc $@
-
-$(OUTDIR)/datavyu/index.html: datavyu/input/pages/user-guide/index.html datavyu/input/docs/user-guide.pdf ../datavyu/version.txt ../datavyu/pre_version.txt
-$(OUTDIR)/databrary/index.html: databrary/input/policies
 
 clean:
 	rm -rf output
