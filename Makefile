@@ -44,6 +44,8 @@ OUTDIR=output
 endif
 ifneq ($(filter deploy,$(MAKECMDGOALS)),)
 UPDATE:=FORCE
+else
+STAMP:=FORCE
 endif
 
 html: generate
@@ -55,7 +57,7 @@ deploy: production
 	@diff etc/apache.conf $(APACHE) || echo "Apache config (above) needs updating."
 
 generate: $(SITE:%=$(OUTDIR)/%/index.html)
-$(OUTDIR)/%/index.html: ../www/.git/refs/heads/master
+$(OUTDIR)/%/index.html: ../www/.git/refs/heads/master $(STAMP)
 	$(PELICAN) -o $(OUTDIR)/$* -s $*/$(CONF) $(PELICANOPTS)
 
 $(OUTDIR)/datavyu/index.html: datavyu/input/pages/user-guide/index.html datavyu/input/docs/user-guide.pdf ../datavyu/version.txt ../datavyu/pre_version.txt
