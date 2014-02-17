@@ -60,7 +60,8 @@ generate: $(SITE:%=$(OUTDIR)/%/index.html)
 $(OUTDIR)/%/index.html: ../www/.git/refs/heads/master $(REGEN)
 	$(PELICAN) -o $(OUTDIR)/$* -s $*/$(CONF) $(PELICANOPTS)
 
-$(OUTDIR)/datavyu/index.html: datavyu/input/pages/user-guide/index.html datavyu/input/docs/user-guide.pdf ../datavyu/version.txt ../datavyu/pre_version.txt
+datavyu_files:=$(addprefix ../datavyu/,version.txt pre_version.txt RELEASE-NOTES.md)
+$(OUTDIR)/datavyu/index.html: datavyu/input/pages/user-guide/index.html datavyu/input/docs/user-guide.pdf $(datavyu_files)
 $(OUTDIR)/databrary/index.html: databrary/input/policies
 
 ../%/.git/refs/heads/master: $(UPDATE)
@@ -72,7 +73,7 @@ datavyu/input/docs/user-guide.pdf: ../datavyu-docs/.git/refs/heads/master
 	$(MAKE) -C ../datavyu-docs latexpdf
 	mkdir -p $(dir $@)
 	ln -f ../datavyu-docs/build/latex/DatavyuManual.pdf $@
-../datavyu/version.txt ../datavyu/pre_version.txt: ../datavyu/.git/refs/heads/master
+$(datavyu_files): ../datavyu/.git/refs/heads/master
 databrary/input/policies: ../policies/.git/refs/heads/master
 	$(MAKE) -C ../policies all
 	ln -sfT ../../../policies/doc $@
