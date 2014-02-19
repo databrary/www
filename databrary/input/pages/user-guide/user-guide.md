@@ -2,7 +2,6 @@ Title: User Guide
 Brief: User Guide
 Slug: user-guide
 Order: 3000
-Redirect: /user-guide/policies.html
 
 Databrary is federally funded by the NSF and the NIH to create a library for sharing video and metadata for developmental and behavioral research. Access is limited to Authorized users. Users must sign the [Databrary Investigator Agreement](policies/investigator-agreement.md)  and have their agreement co-signed by their Institution or Sponsor to become authorized.
  
