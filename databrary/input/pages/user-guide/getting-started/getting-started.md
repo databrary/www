@@ -1,7 +1,7 @@
 Title: Getting Started	
 Brief: Getting Started	
 Slug: user-guide/getting-started
-Order: 3800
+Order: 3000
 
 #Getting Started
 
