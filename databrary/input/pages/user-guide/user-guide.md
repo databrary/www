@@ -7,6 +7,8 @@ Databrary is federally funded by the NSF and the NIH to create a library for sha
  
 Data are only visible if they have been: (a) released by the participants for sharing in Databrary and (b) released for sharing by the contributing researcher. 
 
-We will soon have a Databrary User Guide covering all aspects of the project. Until then, you can visit our [Getting Started](user-guide/getting-started.html) section. You can find all our latest policy documents in our [Policies](user-guide/policies.html) section.
+The Databrary User Guide helps to explain how to collect data that can be shared, upload and manage your own data, become an authorized user, and explore the data shared in Databrary. 
+
+You can find all our latest policy documents in our [Policies](user-guide/policies.html) section.
 
 
