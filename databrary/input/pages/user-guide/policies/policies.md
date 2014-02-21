@@ -15,8 +15,8 @@ Databrary is governed by a set of [standard operating procedures](/user-guide/po
 
 Databrary is accepting applications for Investigator or Affiliate Investigator status. The following documents may be useful to researchers considering whether to apply or when preparing an application to a research superivision entity (e.g., IRB) for approval to share with Databrary:
 
-- [Databrary Standard Operating Procedures (SOPs)](/user-guide/policies/standard-operating-procedures.html), [.docx](/policies/standard-operating-proceedures.docx), [.pdf](/policies/standard-operating-proceedures.pdf)
-- [Databrary Investigator Agreement](/user-guide/policies/investigator-agreement.html), [.docx](/policies/investigator-agreement.docx), [.pdf](/policies/investigator-agreement.pdf)
+- [Databrary Standard Operating Procedures (SOPs)](/user-guide/policies/standard-operating-procedures.html), [.pdf](/policies/standard-operating-proceedures.pdf)
+- [Databrary Investigator Agreement](/user-guide/policies/investigator-agreement.html), [.pdf](/policies/investigator-agreement.pdf)
 - Permission to Share Template, [.docx](/policies/release-template.docx), [.pdf](/policies/release-template.pdf)
 
 ----
