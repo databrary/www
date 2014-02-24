@@ -1,6 +1,6 @@
 Title: Grandfathering Data
 Brief: Grandfathering Data
-Slug: user-guide/collecting-data/grandfathering-data
+Slug: user-guide/collecting-shareable-data/grandfathering-data
 Order: 3310
 
 # Rationale
