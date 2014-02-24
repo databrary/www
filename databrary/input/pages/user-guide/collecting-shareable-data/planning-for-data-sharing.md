@@ -1,7 +1,7 @@
 Title: Planning for Data Sharing
 Brief: Planning for Data Sharing
 Slug: user-guide/collecting-shareable-data/planning-for-data-sharing
-Order: 3370
+Order: 3390
 
 Summary here about things a researcher can do while collecting data to make it easier to share on databrary
 
