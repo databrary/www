@@ -25,51 +25,63 @@ help:
 	@echo '   make regenerate          regenerate files upon modification '
 	@echo '   make stanging            publish to $(WWW)/staging'
 	@echo '   make production          publish to $(WWW)'
+	@echo '   make deploy              update and publish to $(WWW)'
 	@echo '   make start [SITE=]       start/restart develop_server.sh    '
 	@echo '   make stop                stop local server                  '
 	@echo '                                                                       '
 	@echo 'Set the DEBUG variable to 1 to enable debugging, e.g. make DEBUG=1 html'
 	@echo '                                                                       '
 
-OUTDIR=$*/output
 regenerate: PELICANOPTS+=-r
 publish: CONF=publishconf.py
-staging: OUTDIR=$(WWW)/staging/$*
-production: OUTDIR=$(WWW)/$*
+
+ifneq ($(filter staging,$(MAKECMDGOALS)),)
+OUTDIR=$(WWW)/staging
+else ifneq ($(filter production deploy,$(MAKECMDGOALS)),)
+OUTDIR=$(WWW)
+else
+OUTDIR=output
+endif
+ifneq ($(filter deploy,$(MAKECMDGOALS)),)
+UPDATE:=FORCE
+else
+REGEN:=FORCE
+endif
 
 html: generate
 regenerate: generate
 publish: generate
 staging: publish
-production: update publish
+production: publish
+deploy: production
 	@diff etc/apache.conf $(APACHE) || echo "Apache config (above) needs updating."
 
-update-%:
+generate: $(SITE:%=$(OUTDIR)/%/index.html)
+$(OUTDIR)/%/index.html: ../www/.git/refs/heads/master $(REGEN)
+	$(PELICAN) -o $(OUTDIR)/$* -s $*/$(CONF) $(PELICANOPTS)
+
+datavyu_files:=$(addprefix ../datavyu/,version.txt pre_version.txt RELEASE-NOTES.md)
+$(OUTDIR)/datavyu/index.html: datavyu/input/pages/user-guide/index.html datavyu/input/docs/user-guide.pdf $(datavyu_files)
+$(OUTDIR)/databrary/index.html: databrary/input/policies
+
+../%/.git/refs/heads/master: $(UPDATE)
 	cd ../$* && [[ `git symbolic-ref HEAD` = refs/heads/master ]] && git pull
-update: $(addprefix update-,datavyu datavyu-docs policies www)
 
-datavyu-docs:
-	$(MAKE) -C ../datavyu-docs html-pelican latexpdf
-	mkdir -p datavyu/input/docs
-	ln -f ../datavyu-docs/build/latex/DatavyuManual.pdf datavyu/input/docs/user-guide.pdf
-
-policies:
+datavyu/input/pages/user-guide/index.html: ../datavyu-docs/.git/refs/heads/master $(REGEN)
+	$(MAKE) -C ../datavyu-docs html-pelican
+datavyu/input/docs/user-guide.pdf: ../datavyu-docs/.git/refs/heads/master
+	$(MAKE) -C ../datavyu-docs latexpdf
+	mkdir -p $(dir $@)
+	ln -f ../datavyu-docs/build/latex/DatavyuManual.pdf $@
+$(datavyu_files): ../datavyu/.git/refs/heads/master
+databrary/input/policies: ../policies/.git/refs/heads/master
 	$(MAKE) -C ../policies all
-	ln -sfT ../../../policies/doc databrary/input/policies
-
-generate-databrary: policies
-generate-datavyu: datavyu-docs
-
-generate: $(addprefix generate-,$(SITE))
-generate-%:
-	$(PELICAN) -o $(OUTDIR) -s $*/$(CONF) $(PELICANOPTS)
+	ln -sfT ../../../policies/doc $@
 
 clean:
-	rm -rf */output
+	rm -rf output
 
-start-datavyu: datavyu-docs
-
-start: $(addprefix start-,$(SITE))
+start: generate $(addprefix start-,$(SITE))
 start-%:
 	./devserver.sh restart $(PORT_$*) $* &
 
@@ -78,4 +90,4 @@ stop-%:
 	./devserver.sh stop $(PORT_$*) $*
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-.PHONY: html help clean generate regenerate start stop publish staging production
+.PHONY: FORCE html help clean generate regenerate start stop publish staging production deploy
