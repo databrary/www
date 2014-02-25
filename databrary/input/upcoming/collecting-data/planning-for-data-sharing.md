@@ -21,7 +21,7 @@ There may very well be other information you collect that isn't included here th
 
 # Files
 
-Besides video files, we also collect other data or analysis files that supplement your data. These could be images, graphs, stimuli, protocols, blank questionnaires, blank consent forms or any other files you might have that you are willing to share. Please note if any of your files have subject data, and if it's identified or deidentifed information. Identified information can be any dates, voices, faces, location information that more specific than a state. Names and other contact information should never be included. 
+Besides video files, we also collect other data or analysis files that supplement your data. These could be images, graphs, stimuli, protocols, blank questionnaires, blank consent forms or any other files you might have that you are willing to share. Please note if any of your files have subject data, and if it's identified or deidentifed information. Identified information can be any dates, voices, faces, location information more specific than a state. Names and other contact information should never be included. 
 
 
 * ## File Names
