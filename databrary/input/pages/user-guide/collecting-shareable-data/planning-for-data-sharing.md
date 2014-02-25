@@ -3,89 +3,40 @@ Brief: Planning for Data Sharing
 Slug: user-guide/collecting-shareable-data/planning-for-data-sharing
 Order: 3390
 
-Summary here about things a researcher can do while collecting data to make it easier to share on databrary
+We are so happy you decided to share your data with the Databrary community. There are a few practices we suggest you adopt going forward  with sharing on Databrary in mind. Our wish is to make this process as easy for you as possible. We've determined the best way to do this is by enumerating what we need from you.
 
-## Digitization
-###* If you collect data digitally
-* Be aware of what format you shoot video in. We can find a way convert mostly anything, but it's a good thing to know
-* File names
-	* Use alphanumeric filenames. Underscores, hyphens and periods are okay
-	* Do not use spaces or punctuation that is not a hyphen, underscore or period.
-	* Make sure your file name as an extension ().mov .mp4 )
+We know data sharing is new and it can be hard to keep everything organized. We expect that that not everything we ask for is collated, organized or digitized, but we want you to start thinking about the logistics of sharing your data.  
 
-###* If your data in not available digitally
-* If you only collect data on tape, or have older data that needs to be converted or your files are corrupted, contact us. We can find a vendor for you to encode your tapes
 
-###* Where are your files stored?
-* Are they all in one place? On a hard drive? On a server? 
 
-## Collecting metadata
-There is information we would like to have about your data that you probably already collect in your lab. To make the sharing process easier for you, you can combine all the information in one document and you conduct your research. We can help you create a template you can use in your lab to help you manage your data
 
-There may very well be other information you collect that isn't included here that would be valuable for understanding your data. Let us know what information you collect, and we can include that information in databrary
+# Collecting metadata
 
-### Information about the session
-A session refers to a single visit or observation period. Participants may be observed at multiple sessions (e.g., longitudinal studies) and you should provide information for each session. Multiple participants may be observed at a single session (two siblings observed playing together) and you should provide information for each participant.
-	
-#### Information we must have
-* subject ID
-	* Use a non-identifying ID
-* dataset name
-	* Use descriptive, non-idiosyncratic words to name the the dataset
-* test date
-	*YYYY-MM-DD
-* release level
-	* private - The participant(s) did not consent to share their data
-	* shared - The participant(s) consented to share their data with the databrary community
-	* excerpts - The participant(s) consented to have their data shared with the databrary community and to having excerpts shown to the public for educational and research purposes
-	* public - The participant(s) consented to have their data shared with the world at large
-	* no consent information - The default if no consent level information is provided will be private.
-	
-#### Other information you may already collect 
-* exclusion
-	* Was this session excluded from the final study? Why? 
-* setting
-	* In what kind of environment did the session take place?
-* country
-	* In what country did the session take place?
-* state
-	* In what state did the session take place
-* condition
-	* Did the dataset have between-subject conditions that hold for the entire data set? Please use descriptive labels
-* group
-	* Did the dataset have between-subject groups that hold for the entire dataset? Please use descriptive labels
-	
-### Information about the participant
-A participant refers to a single person contributing data to a single dataset. Participants can be in multiple sessions (longitudinal datasets). But if the participant is in a different dataset, then he/she should be identified with a new participant id associated with that 
-dataset.
+We know you already collect a lot of information about your data in your lab, but maybe you don't keep all that information in one place. Think about what kind of information you collect and where you currently record that information. We want you to collect all your session and participant information together in a spreadsheet. There are a few pieces of information that are the most critical for us to have: **test date**, **birth date** and **what level of sharing the participant consented to**. We do collect any information that you are willing to share with us. Please refer to our [Definitions of Suggested Field](definitions_of_suggested_fields.md) to see the kinds of information we want to have and how we want you to report it. 
 
-#### Information we must have
-* birthday
-	*YYYY-MM-DD
+Right now, you may collect some of your information only on paper. Going forward for sharing, it is useful to combine your information about sessions and participants electronically in one spreadsheet. It will make it easier to upload your data if all information about your sessions and participants is in one place. 
 
-#### Other information you may already collect
-* gender
-	* male
-	* female
-* race
-	* White
-	* Asian
-	* Black
-	* Multiple
-	* Pacific Islander
-	* Native American
-* ethnicity
-	* Not Hispanic or Latino
-	* Hispanic or Latino
-* typical development/disability
-	* typical
-	* disability. Please define.
-* SES
-	* high
-	* middle
-	* low
-* language
-* term (gestation) for infants
-	* Numeric in weeks from last menstrual period
-* experience with target behavior
-	* onset date in YYYY-MM-DD
+There may very well be other information you collect that isn't included here that would be valuable for understanding your data. Let us know what other types of information you collect, and we can include that information in Databrary.
+
+
+# Files
+
+Besides video files, we also collect other data or analysis files that supplement your data. These could be images, graphs, stimuli, protocols, blank questionnaires, blank consent forms or any other files you might have that you are willing to share. Please note if any of your files have subject data, and if it's identified or deidentifed information. Identified information can be any dates, voices, faces, location information more specific than a state. Names and other contact information should never be included. 
+
+
+# File Names
+
+To make the ingest process smoother, we have a few suggestions for file names that you can adopt for data collection in your lab.
+
+ * Use alphanumeric filenames. Letters, numbers, underscores and hyphens are okay.
+  * Please remove any spaces or punctuation that is not a hyphen or underscore.
+  * Make sure your file names all have extensions (.mp4, .mov, etc.). 
+
+Note that these rules apply to video files as well as other files.
+
+Please keep your file names consistent, so it is easier for you to match up what sessions go with what files. To ensure that your data is entered into databrary correctly, think about putting together a spreadsheet matching up file names with sessions.  
+
+# What else should I know?
+* How to [organize and name your data](http://staging.databrary.org/user-guide/contributing-data/organizing-your-data.html) within the Databrary structure.
+* What level of [access](http://staging.databrary.org/user-guide/contributing-data/sharing-your-data.html) you want to grant the Databrary community and other people in your lab.
+* How to [share data you collected in the past](grandfathering-data.md)
