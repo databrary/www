@@ -1,5 +1,5 @@
-Title: Planning for Data Sharing 
-Brief: Planning for Data Sharing 
+Title: Definition of Suggested Fields
+Brief: Definitions
 Slug: user-guide/collecting-shareable-data/planning-for-data-sharing/definitions
 Order: 3395
 
