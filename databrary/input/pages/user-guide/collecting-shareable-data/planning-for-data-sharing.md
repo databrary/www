@@ -1,6 +1,6 @@
 Title: Planning for Data Sharing
 Brief: Planning for Data Sharing
-Slug: user-guide/collecting-data/planning-for-data-sharing
+Slug: user-guide/collecting-shareable-data/planning-for-data-sharing
 Order: 3390
 
 We are so happy you decided to share your data with the Databrary community. There are a few practices we suggest you adopt going forward  with sharing on Databrary in mind. Our wish is to make this process as easy for you as possible. We've determined the best way to do this is by enumerating what we need from you.

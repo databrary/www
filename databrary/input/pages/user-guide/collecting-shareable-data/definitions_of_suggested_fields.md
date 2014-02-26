@@ -1,6 +1,6 @@
 Title: Planning for Data Sharing 
 Brief: Planning for Data Sharing 
-Slug: user-guide/collecting-data/planning-for-data-sharing/definitions
+Slug: user-guide/collecting-shareable-data/planning-for-data-sharing/definitions
 Order: 3395
 
 
