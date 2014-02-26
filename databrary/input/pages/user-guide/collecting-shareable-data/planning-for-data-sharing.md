@@ -1,7 +1,7 @@
 Title: Planning for Data Sharing
 Brief: Planning for Data Sharing
 Slug: user-guide/collecting-data/planning-for-data-sharing
-Order: 3370
+Order: 3390
 
 We are so happy you decided to share your data with the Databrary community. There are a few practices we suggest you adopt going forward  with sharing on Databrary in mind. Our wish is to make this process as easy for you as possible. We've determined the best way to do this is by enumerating what we need from you.
 
@@ -37,6 +37,6 @@ Note that these rules apply to video files as well as other files.
 Please keep your file names consistent, so it is easier for you to match up what sessions go with what files. To ensure that your data is entered into databrary correctly, think about putting together a spreadsheet matching up file names with sessions.  
 
 # What else should I know?
-* How to [organize and name your data](http://staging.databrary.org/user-guide/contributing-data/organizing-your-data.html) within the Databrary structure.
-* What level of [access](http://staging.databrary.org/user-guide/contributing-data/sharing-your-data.html) you want to grant the Databrary community and other people in your lab.
+* How to [organize and name your data](../contributing-data/organizing-your-data.md) within the Databrary structure.
+* What level of [access](../contributing-data/sharing-your-data.md) you want to grant the Databrary community and other people in your lab.
 * How to [share data you collected in the past](grandfathering-data.md)
