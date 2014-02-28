@@ -10,7 +10,7 @@ Not only must the investigator's IRB approve plans to share with Databrary, but 
 Since video and audio recordings and photographs contain personally identifying information (PII), Databrary requires investigators to get permission from the people depicted in these recordings or images before sharing.
 
 Many PIs already have a separate release form used for getting permission to play recordings or show images.
-The [Databrary Release Template](http://databrary.org/user-guide/policies/release-template.html) is similar.
+The [Databrary Release Template](../policies/release-template.html) is similar.
 It's designed to let the people depicted in recordings or photographs give informed permission to allow their data to be shared.
 
 Since most PIs *do not* have authorization from their IRBs to share with Databrary or to ask participants for permission to share, PIs must seek IRB approval before sharing.
@@ -18,11 +18,11 @@ PIs may either submit a new research protocol or revise an existing protocol.
 
 # New protocol submission
 
-New protocol submissions should include the [Databrary Release Template](http://databrary.org/user-guide/policies/release-template.html) adapted for use at the PI's institution.
+New protocol submissions should include the [Databrary Release Template](../policies/release-template.html) adapted for use at the PI's institution.
 
 # Protocol modification
 
-Modified protocols should include the [Databrary Release Template](http://databrary.org/user-guide/policies/release-template.html) and possibly revisions to Informed Consent/Assent documents.
+Modified protocols should include the [Databrary Release Template](../policies/release-template.html) and possibly revisions to Informed Consent/Assent documents.
 
 # Data destruction
 
@@ -43,7 +43,7 @@ PIs must make sure that they faithfully record the level of permission granted a
 Some PIs might be using a video, audio or photograph release form that is similar to Databrary's.
 In that case, the PI may apply for permission to share with Databrary if the PI's IRB determines that the existing release provides equivalent protections.
 In this case, some recordings that have already been collected might be shared with Databrary.
-See [Grandfathering Data](grandfathering-data.md) for more information.
+See [Grandfathering Data](grandfathering-data.html) for more information.
 
 # Technical assistance
 
