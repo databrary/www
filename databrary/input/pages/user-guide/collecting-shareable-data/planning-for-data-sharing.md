@@ -8,7 +8,7 @@ We know data sharing is new and it can be hard to keep everything organized. We 
 
 # Collecting metadata
 
-We know you already collect a lot of information about your data in your lab, but you might not keep it all in one place. Think about what kind of information you collect and where you currently record that information. There are a few pieces of information that are the most critical for us to have: **test date**, **birth date** and **what level of sharing the participant consented to**. Please refer to our [Definitions of Suggested Fields](planning-for-data-sharing/definitions_of_suggested_fields.md) to see the other kinds of information we'd like and how to best report it. 
+We know you already collect a lot of information about your data in your lab, but you might not keep it all in one place. Think about what kind of information you collect and where you currently record that information. There are a few pieces of information that are the most critical for us to have: **test date**, **birth date** and **what level of sharing the participant consented to**. Please refer to our [Definitions of Suggested Fields](planning-for-data-sharing/definitions.html) to see the other kinds of information we'd like and how to best report it. 
 
 Right now, you may collect some of your information only on paper. Going forward for sharing, it will be useful to combine your information about sessions and participants electronically in one place.
 
@@ -23,6 +23,6 @@ You may also want to review your file naming conventions, so that it is easy to 
 
 # What else should I know?
 
-* How to [organize and name your data](../contributing-data/organizing-your-data.md) within the Databrary structure.
-* What level of [access](../contributing-data/sharing-your-data.md) you want to grant the Databrary community and other people in your lab.
-* How to [share data you collected in the past](grandfathering-data.md)
+* How to [organize and name your data](../contributing-data/organizing-your-data.html) within the Databrary structure.
+* What level of [access](../contributing-data/sharing-your-data.html) you want to grant the Databrary community and other people in your lab.
+* How to [share data you collected in the past](grandfathering-data.html)

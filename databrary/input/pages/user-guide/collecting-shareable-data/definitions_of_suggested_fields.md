@@ -13,7 +13,7 @@ A session refers to a single visit or observation period. Participants may be ob
 
 ### Dataset and study names
 
-See [Preparing for Upload](../../contributing-data/preparing-for-upload.md).
+See [Preparing for Upload](../../contributing-data/preparing-for-upload.html).
 
 ### Test date
 
