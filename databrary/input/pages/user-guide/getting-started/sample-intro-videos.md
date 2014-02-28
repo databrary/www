@@ -3,7 +3,7 @@ Brief: Example Databrary Release Introduction
 Slug:user-guide/getting-started/release-script/example-videos
 Order: 3210
 
-##Below are a some examples of researchers introducing the Databrary Release Form to participants.
+##Below are some examples of researchers introducing the Databrary Release Form to participants.
 
 ###Example 1
 <video controls>
