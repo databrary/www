@@ -7,7 +7,9 @@ The following describes information we would like you to include with the video 
 
 # Information about the session
 
-A session refers to a single visit or observation period. Participants may be observed at multiple sessions (e.g., longitudinal studies) and you should provide information for each session. Multiple participants may be observed at a single session (e.g., two siblings observed playing together) and you should provide information for each participant.
+A session refers to a single visit or observation period.
+Participants may be observed at multiple sessions (e.g., longitudinal studies) and you should provide information for each session.
+Multiple participants may be observed at a single session (e.g., two siblings observed playing together) and you should provide information for each participant.
 
 ## Required or strongly recommended fields
 
@@ -24,7 +26,8 @@ However, it is used to compute age, which is public information.
 
 ### Release level - must have
 
-Every session must be tagged with a release level. If you have more than one release level for multiple participants or for multiple people visible on the videos, you should use the lowest level of release (e.g., if one person says private and another says shared, use private).
+Every session must be tagged with a release level.
+If you have more than one release level for multiple participants or for multiple people visible on the videos, you should use the lowest level of release (e.g., if one person says private and another says shared, use private).
 
 See [Databrary Sharing Levels](../sharing-levels.html) for more information on these options:
   * private: The participant(s) did not consent to share their data
@@ -34,10 +37,11 @@ See [Databrary Sharing Levels](../sharing-levels.html) for more information on t
   * missing: Releases were not obtained or are not otherwise available. This is the default, and is effectively equivalent to private.
 
 ## Suggested fields
- 
+
 ### Subject ID
 
-If you identify participants as distinct entities, then you should include their subject ID. List each participant in a single session with a non-identifying subject ID (does not contain participant’s name, initials, birth date, or test date) that is unique from all other subject IDs for that dataset.
+If you identify participants as distinct entities, then you should include their subject ID.
+List each participant in a single session with a non-identifying subject ID (does not contain participant’s name, initials, birth date, or test date) that is unique from all other subject IDs for that dataset.
 
 ### Pilot
 
@@ -54,7 +58,7 @@ If this session was excluded from a final study or analysis, you can indicate th
 	
 ### Setting
 
-In what kind of environment did the session take place? 
+In what kind of environment did the session take place?
   * lab
   * home
   * museum
@@ -69,24 +73,27 @@ In what country did the session take place?
 
 ### State
 
-In what state did the session take place? 
+In what state did the session take place?
 
-### Conditions 
+### Conditions
 
-Conditions are levels, tasks, or interventions manipulated or designed by the researcher. Both between- and within-subject conditions may be specified, but only between-subject conditions will be associated with an entire session.
- 
+Conditions are levels, tasks, or interventions manipulated or designed by the researcher.
+Both between- and within-subject conditions may be specified, but only between-subject conditions will be associated with an entire session.
+
 ### Group
 
-Groups reflect inherent characteristics of the participant. If the dataset has between-subject groups that hold for the entire dataset (e.g., crawler/walker, no-words/1st-words, longitudinal visits) these should be specified unless the relevant distinction is captured by other fields (e.g., boy/girl, typical-development/autism, high-SES/low-SES).
+Groups reflect inherent characteristics of the participant.
+If the dataset has between-subject groups that hold for the entire dataset (e.g., crawler/walker, no-words/1st-words, longitudinal visits) these should be specified unless the relevant distinction is captured by other fields (e.g., boy/girl, typical-development/autism, high-SES/low-SES).
 	
 ### Study Language
 
-In what language was the study conducted? 
-  
+In what language was the study conducted?
+
 
 # Information about the participant
 
-A participant refers to a single person contributing data to a single dataset. Participants can be associated with multiple sessions (longitudinal datasets).
+A participant refers to a single person contributing data to a single dataset.
+Participants can be associated with multiple sessions (longitudinal datasets).
 
 ## Required or strongly recommended fields
 
@@ -95,12 +102,12 @@ A participant refers to a single person contributing data to a single dataset. P
 Should preferably be specified in the same format as test date.
 This is considered a "restricted" (identifying) field, and is not available to the public.
 However, it is used to compute age, which is public information.
- 
-### Gender 
+
+### Gender
 
  * male
  * female
- 
+
 ## Suggested fields
 
 ### Race
@@ -111,12 +118,12 @@ However, it is used to compute age, which is public information.
  * Multiple
  * Pacific Islander
  * Native American
- 
+
 ### Ethnicity
 
  * Not Hispanic or Latino
  * Hispanic or Latino
- 
+
 ### Disability
 
 If the participant is not typically developing, this may be indicated.
@@ -132,12 +139,12 @@ What is the participant's primary language?
 ### Secondary Language
 
 What is the participant's secondary language, if any?
- 
+
 ### Term (gestation) for infants
 
 Numeric in weeks from last menstrual period
- 
-### Experience with target behavior 
+
+### Experience with target behavior
 
 Onset date of a target behavior.
 You should also describe the target behavior and how it is measured.
