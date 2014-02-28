@@ -30,6 +30,7 @@ Every session must be tagged with a release level.
 If you have more than one release level for multiple participants or for multiple people visible on the videos, you should use the lowest level of release (e.g., if one person says private and another says shared, use private).
 
 See [Databrary Sharing Levels](../sharing-levels.html) for more information on these options:
+
   * private: The participant(s) did not consent to share their data
   * shared: The participant(s) consented to share their data with the Databrary community
   * excerpts: The participant(s) consented to have their data be shared with the Databrary community and excerpts shown to the public.
@@ -50,6 +51,7 @@ If this session or entire dataset was part of a preliminary data collection that
 ### Excluded session
 
 If this session was excluded from a final study or analysis, you can indicate that:
+
   * inclusion criteria: participant did not meet the criteria for inclusion in the study but some data were collected nonetheless
   * procedural: experimenter error/equipment failure
   * withdrew: participant became fussy, tired, or withdrew from session for other participant-related reasons
@@ -59,6 +61,7 @@ If this session was excluded from a final study or analysis, you can indicate th
 ### Setting
 
 In what kind of environment did the session take place?
+
   * lab
   * home
   * museum
@@ -97,7 +100,7 @@ Participants can be associated with multiple sessions (longitudinal datasets).
 
 ## Required or strongly recommended fields
 
-### Birthday
+### Birthdate
 
 Should preferably be specified in the same format as test date.
 This is considered a "restricted" (identifying) field, and is not available to the public.

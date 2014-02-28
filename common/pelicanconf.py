@@ -31,7 +31,7 @@ PAGINATION_PATTERNS = (
 
 PLUGIN_PATH = '../common/plugins'
 PLUGINS = ['sitemap', 'mdimport', 'vyu_releases']
-MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'admonition', 'headerid(level=2)', 'sane_lists']
+MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'admonition', 'headerid(level=2)']
 
 SITEMAP = {
 	'format': 'xml',

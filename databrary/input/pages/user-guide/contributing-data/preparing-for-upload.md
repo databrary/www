@@ -27,6 +27,7 @@ We’ll need you to summarize your dataset in a short paragraph that describes t
 You do not need to describe the motivation or rationale for collecting the data because this information will be attached to your studies in the form of the (un)published abstract.
 
 Some questions to help you write your summary:
+
 * Was there a specific population you were studying?
 * What did your participants do?
 * Did they come in multiple times?
