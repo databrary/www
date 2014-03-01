@@ -15,7 +15,7 @@ Achieving these goals requires that we create and maintain a community that embo
 # Procedures
 
 Databrary is governed by a set of [standard operating procedures](|filename|standard-operating-procedures.mdi) (SOPs). Individuals who wish to have full access must apply for authorized Investigator or Affiliate Investigator status.
-Only researchers who demonstrate knowledge of the principles of research ethics with human participants and who agree to the provisions of Databrary's <a href="/user-guide/policies/investigator-agreement.html">Investigator Agreement</a> will be granted access.
+Only researchers who demonstrate knowledge of the principles of research ethics with human participants and who agree to the provisions of Databrary's [Investigator Agreement](|filename|investigator-agreement.mdi) will be granted access.
 
 Databrary is accepting applications for Investigator or Affiliate Investigator status.
 The following documents may be useful to researchers considering whether to apply or when preparing an application to a research superivision entity (e.g., IRB) for approval to share with Databrary:
