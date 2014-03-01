@@ -47,15 +47,3 @@ Even if you aren't sure you want to share data now, you may want to be ready to 
 Some investigators already ask research participants for permission to share [recordings](../policies/definitions.html#recordings) with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of media release language that is sometimes part of the consent process or is separate from the consent to participate in research. 
 
 If you have language that gives you permission to share or show recordings, you may be able to share these with Databrary if your IRB rules that your release language is equivalent to Databrary's or that you require no such release to share. 
-
-Here's what you should do:
-
-- Ask your IRB for permission to share recordings with Databrary under the provisions of your current (IRB-approved) video/audio/photo release form. You will want to provide your IRB copies of your current release form and the [Databrary Template Release](../policies/release-template.html). NIH and NSF do not require data destruction clauses.
-
-- Make sure that your informed consent documents **do not** contain data destruction clauses. If they do, you cannot share your recordings with Databrary. Databrary intends to store recordings and other data indefinitely. So, check your consent form and release form language to see whether you have promised to destroy data after a certain date. 
-
-- If you have informed consent documents that contain data destruction clauses, you may still be able to share [de-identified data](../policies/definitions.html#de-identified-data) or [metadata](../policies/definitions.html#metadata) about your study with Databrary.
-
-- Once you have permission from your IRB to share data, you may contact Databrary for help uploading and sharing your data or you may choose to upload and share the data yourself.
-
-
