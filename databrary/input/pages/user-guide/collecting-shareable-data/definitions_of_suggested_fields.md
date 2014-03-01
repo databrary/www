@@ -3,39 +3,35 @@ Brief: Definitions
 Slug: user-guide/collecting-shareable-data/planning-for-data-sharing/definitions
 Order: 3395
 
-The following describes information we would like you to include with the video files you plan to share in Databrary.
+This section describes session-level and participant information that is helpful to include with the video files you plan to share in Databrary.
+Any fields may be left blank to mean the information is unknown, not reported, or unavailable.
 
-# Information about the session
+# **Session-level information**
 
-A session refers to a single visit or observation period.
+*A session refers to a single visit or observation period.*
 Participants may be observed at multiple sessions (e.g., longitudinal studies) and you should provide information for each session.
 Multiple participants may be observed at a single session (e.g., two siblings observed playing together) and you should provide information for each participant.
 
 ## Required or strongly recommended fields
 
-### Dataset and study names
+<!-- ### Dataset and study names
 
 See [Preparing for Upload](../../contributing-data/preparing-for-upload.html).
-
+ -->
 ### Test date
 
 The date on which the session occurred.
 You should try to use unambiguous formats such as "2014-Feb-28".
 This is considered a "restricted" (identifying) field, and is not available to the public.
-However, it is used to compute age, which is public information.
+However, <!-- along with birth date, --> it is used to compute age, which is public information.
 
-### Release level - must have
+### Release level
 
-Every session must be tagged with a release level.
+The release level is the level of sharing that the participant(s) agreed to and that the PI (or data contributor) has warranted. 
+For the definition of the levels, see [Databrary Release Levels](databrary-release-levels.md)
+Every session must be tagged with a release level. 
+If there is no release level marked, it will not be shared. 
 If you have more than one release level for multiple participants or for multiple people visible on the videos, you should use the lowest level of release (e.g., if one person says private and another says shared, use private).
-
-See [Databrary Sharing Levels](../sharing-levels.html) for more information on these options:
-
-  * private: The participant(s) did not consent to share their data
-  * shared: The participant(s) consented to share their data with the Databrary community
-  * excerpts: The participant(s) consented to have their data be shared with the Databrary community and excerpts shown to the public.
-  * public: The participant(s) consented to have their data shared with the world at large
-  * missing: Releases were not obtained or are not otherwise available. This is the default, and is effectively equivalent to private.
 
 ## Suggested fields
 
@@ -93,9 +89,9 @@ If the dataset has between-subject groups that hold for the entire dataset (e.g.
 In what language was the study conducted?
 
 
-# Information about the participant
+# **Information about the participant**
 
-A participant refers to a single person contributing data to a single dataset.
+*A participant refers to a single person contributing data to a single dataset.*
 Participants can be associated with multiple sessions (longitudinal datasets).
 
 ## Required or strongly recommended fields
