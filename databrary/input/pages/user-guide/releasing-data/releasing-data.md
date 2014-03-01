@@ -1,6 +1,6 @@
 Title: Collecting Shareable Data
 Brief: Collecting Shareable Data
-Slug: user-guide/collecting-shareable-data
+Slug: user-guide/releasing-data
 Order: 3300
 
 #Getting Started

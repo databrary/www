@@ -1,6 +1,6 @@
 Title: Definitions of Suggested Fields
 Brief: Definitions
-Slug: user-guide/collecting-shareable-data/planning-for-data-sharing/definitions
+Slug: user-guide/releasing-data/planning-for-data-sharing/definitions
 Order: 3395
 
 This section describes session-level and participant information that is helpful to include with the video files you plan to share in Databrary.

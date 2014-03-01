@@ -1,6 +1,6 @@
 Title: Adding the Databrary Release to Your IRB Protocol
 Brief: The Databrary Release
-Slug: user-guide/collecting-shareable-data/adding-databrary-release
+Slug: user-guide/releasing-data/adding-databrary-release
 Order: 3330
 
 # Rationale

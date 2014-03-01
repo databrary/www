@@ -1,6 +1,6 @@
 Title: Grandfathering Data
 Brief: Grandfathering Data
-Slug: user-guide/collecting-shareable-data/grandfathering-data
+Slug: user-guide/releasing-data/grandfathering-data
 Order: 3310
 
 Many researchers already seek permission from participants to show clips from recordings for educational and scientific purposes.
