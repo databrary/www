@@ -4,7 +4,7 @@ Slug: user-guide/releasing-data/grandfathering-data
 Order: 3310
 
 Many researchers already seek permission from participants to show clips from recordings for educational and scientific purposes.
-Some IRBs have determined that the language used in these permission or release forms is equivalent to [Databrary's Release Template](http://databrary.org/user-guide/policies/release-template.html). This means that some data researchers have already collected may be eligible for sharing with Databrary.
+Some IRBs have determined that the language used in these permission or release forms is equivalent to [Databrary's Release Template](|filename|../policies/release-template.mdi). This means that some data researchers have already collected may be eligible for sharing with Databrary.
 
 
 ## Is your current release "Databrary-equivalent"?

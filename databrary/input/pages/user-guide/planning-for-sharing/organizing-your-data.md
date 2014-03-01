@@ -34,7 +34,7 @@ Maybe you were trying to determine how to run an session with pilot participants
 You are encouraged to share these sessions with Databrary, but you will want to make it clear that these sessions were not included in a final research project.
 
 Accordingly, you can mark the sessions that were not included in a study and note why.
-Refer to [Definitions of Suggested Fields](../releasing-data/planning-for-data-sharing/definitions.html) for more information.
+Refer to [Definitions of Suggested Fields](|filename|definitions.md) for more information.
 
 # Longitudinal Studies
 
