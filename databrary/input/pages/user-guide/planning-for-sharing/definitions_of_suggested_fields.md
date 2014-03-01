@@ -1,7 +1,7 @@
 Title: Definitions of Suggested Fields
 Brief: Definitions
 Slug: user-guide/planning-for-data-sharing/definitions
-Order: 3410
+Order: 3430
 
 This section describes session-level and participant information that is helpful to include with the video files you plan to share in Databrary.
 Any fields may be left blank to mean the information is unknown, not reported, or unavailable.

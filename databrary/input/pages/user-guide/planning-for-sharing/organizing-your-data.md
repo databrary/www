@@ -1,7 +1,7 @@
 Title: Organizing Your Data
 Brief: Organizing Your Data
 Slug: user-guide/planning-for-data-sharing/organizing-your-data
-Order: 3430
+Order: 3410
 
 # Levels of Organization
 
