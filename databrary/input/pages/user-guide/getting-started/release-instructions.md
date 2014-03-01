@@ -10,7 +10,7 @@ Slug: user-guide/getting-started/release-instructions
 Here's what you should do:
 
 - Modify your existing IRB protocol(s) to enable sharing with Databrary. 
-	- We recommend using the [Databrary Template Release](../policies/release-template.html).
+	- We recommend using the [Databrary Release Template](../policies/release-template.html).
 - Double-check your existing protocol for data destruction clauses.
 	- You will  want to review your informed consent documents and remove any data destruction clauses as these inherently conflict with the ability to store and share data. Instead, we recommend saying "Data will be stored indefinitely in a secure library on the internet." 
 	- NIH and NSF **do not** require data destruction clauses.
@@ -30,9 +30,9 @@ The language in the [Databrary Release](../policies/release-template.html) is on
 
 Data can only be shared with other Databrary authorized users if (i) the data are [de-identified](../policies/definitions.html#de-identified-data), or (ii) the data are video or audio recordings or photographs in which the people depicted have given permission for their data to  be shared. 
 
-Many flat-file data sets can be easily de-identified, but de-identifying recordings is complicated, expensive, and diminishes their value to other researchers. So, to share recordings without removing personal identifiers, Databrary asks researchers to get permission to share from those people who are depicted in recordings. To standardize the process and make it as simple as possible for researchers, we have developed a [Databrary Release Template](../policies/release-template.html) that can be added to IRB protocols and used with participants.
+Many flat-file data sets can be easily de-identified, but de-identifying recordings is complicated, expensive, and diminishes their value to other researchers. So, to share recordings without removing personal identifiers, Databrary asks researchers to get permission to share from those people who are depicted in recordings. To standardize the process and make it as simple as possible for researchers, we have developed the [Databrary Release Template](../policies/release-template.html) that can be added to IRB protocols and used with participants.
 
-The [Databrary Release Template](../policies/release-template.html) was developed and refined in close consultation with the IRB office at NYU to give Databrary Investigators a standardized way to obtain the necessary permissions to be shared in Databrary. The template form is designed to make it as clear and unambiguous as possible to participants about what agreeing to share their data in Databrary will mean.
+The Databrary Release Template was developed and refined in close consultation with the IRB office at NYU to give Databrary Investigators a standardized way to obtain the necessary permissions to be shared in Databrary. The template form is designed to make it as clear and unambiguous as possible to participants about what agreeing to share their data in Databrary will mean.
 
 ## When should I share data?
 
