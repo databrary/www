@@ -24,7 +24,7 @@ You should try to use unambiguous formats such as "2014-Feb-28".
 This is considered a "restricted" (identifying) field, and is not available to the public.
 However, it is used to compute age, which is public information.
 
-### Release level - must have
+### Release level
 
 Every session must be tagged with a release level.
 If you have more than one release level for multiple participants or for multiple people visible on the videos, you should use the lowest level of release (e.g., if one person says private and another says shared, use private).
@@ -108,19 +108,19 @@ However, it is used to compute age, which is public information.
 
 ### Gender
 
- * male
- * female
+ * Male
+ * Female
 
 ## Suggested fields
 
 ### Race
 
- * White
+ * American Indian or Alaska Native
  * Asian
- * Black
+ * Native Hawaiian or Other Pacific Islander
+ * Black or African American
+ * White
  * Multiple
- * Pacific Islander
- * Native American
 
 ### Ethnicity
 
