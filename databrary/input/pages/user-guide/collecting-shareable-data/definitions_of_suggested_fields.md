@@ -104,19 +104,19 @@ However, it is used to compute age, which is public information.
 
 ### Gender
 
- * male
- * female
+ * Male
+ * Female
 
 ## Suggested fields
 
 ### Race
 
- * White
+ * American Indian or Alaska Native
  * Asian
- * Black
+ * Native Hawaiian or Other Pacific Islander
+ * Black or African American
+ * White
  * Multiple
- * Pacific Islander
- * Native American
 
 ### Ethnicity
 
