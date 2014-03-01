@@ -1,9 +1,9 @@
 Title: Example Databrary Release Introduction
 Brief: Example Databrary Release Introduction
-Slug:user-guide/getting-started/release-script/example-videos
-Order: 3210
+Slug:user-guide/collecting-shareable-data/obtaining-participant-permissions/release-script-examples
+Order: 3352
 
-##Below are a some examples of researchers introducing the Databrary Release Form to participants.
+##Below are some examples of researchers introducing the Databrary Release Form to participants.
 
 ###Example 1
 <video controls>
