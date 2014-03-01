@@ -43,7 +43,7 @@ class MarkdownImportReader(MarkdownReader):
 
 		with pelican_open(filename) as mdi:
 			with pelican_open(re.search(r"Source: ([\w/\\\.-]*)", mdi).group(1)) as md:
-				md = re.sub(r'\((.*).md((?:#[-a-z]*)?)\)', r'(\1.html\2)', md)
+				md = re.sub(r'\(([^/()]*).md((?:#[-a-z]*)?)\)', r'(\1.html\2)', md)
 				content = self._md.convert(mdi+"Display: mdimport\n"+md)
 
 		metadata = self._parse_metadata(self._md.Meta)
