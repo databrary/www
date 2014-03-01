@@ -28,7 +28,7 @@ However, <!-- along with birth date, --> it is used to compute age, which is pub
 ### Release level
 
 The release level is the level of sharing that the participant(s) agreed to and that the PI (or data contributor) has warranted. 
-For the definition of the levels, see [Databrary Release Levels](../databrary-release-levels.html)
+For the definition of the levels, see [Databrary Release Levels](../release-levels.html)
 Every session must be tagged with a release level. 
 If there is no release level marked, it will not be shared. 
 If you have more than one release level for multiple participants or for multiple people visible on the videos, you should use the lowest level of release (e.g., if one person says private and another says shared, use private).
