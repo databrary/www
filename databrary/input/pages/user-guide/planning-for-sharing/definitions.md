@@ -3,7 +3,7 @@ Brief: Definitions
 Slug: user-guide/planning-for-data-sharing/definitions
 Order: 3430
 
-This section describes session-level and participant information that is helpful to include with the video files you plan to share in Databrary.
+This section describes the session-level and participant information that is helpful to include with the video files you plan to share in Databrary.
 Any fields may be left blank to mean the information is unknown, not reported, or unavailable.
 
 # **Session-level information**
@@ -14,16 +14,16 @@ Multiple participants may be observed at a single session (e.g., two siblings ob
 
 ## Required or strongly recommended fields
 
-<!-- ### Dataset and study names
+### Dataset and study names
 
-See [Preparing for Upload](|filename|../contributing-data/preparing-for-upload.md).
- -->
+See [Preparing for Upload](|filename|../contributing-data/preparing-for-upload.md) for more information on the differences between datasets and studies.
+
 ### Test date
 
 The date on which the session occurred.
 You should try to use unambiguous formats such as "2014-Feb-28".
 This is considered a "restricted" (identifying) field, and is not available to the public.
-However, <!-- along with birth date, --> it is used to compute age, which is public information.
+However, along with birth date, it is used to compute age, which is public information.
 
 ### Release level
 
