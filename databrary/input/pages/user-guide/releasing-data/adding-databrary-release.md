@@ -1,51 +1,33 @@
 Title: Adding the Databrary Release to Your IRB Protocol
 Brief: The Databrary Release
 Slug: user-guide/releasing-data/adding-databrary-release
-Order: 3330
-
-# Rationale
+Order: 3320
 
 Databrary requires that investigators have approval before sharing data.
 Not only must the investigator's IRB approve plans to share with Databrary, but so must research participants, at least in most cases.
 Since video and audio recordings and photographs contain personally identifying information (PII), Databrary requires investigators to get permission from the people depicted in these recordings or images before sharing.
+The Databrary Release Template is designed to let the people depicted in recordings or photographs give informed consent to release their data for sharing it.
 
-Many PIs already have a separate release form used for getting permission to play recordings or show images.
-The [Databrary Release Template](|filename|../policies/release-template.mdi) is similar.
-It's designed to let the people depicted in recordings or photographs give informed permission to allow their data to be shared.
+#Using the Databrary Release
 
-Since most PIs *do not* have authorization from their IRBs to share with Databrary or to ask participants for permission to share, PIs must seek IRB approval before sharing.
-PIs may either submit a new research protocol or revise an existing protocol.
+## How do I prepare to share with Databrary?
 
-# New protocol submission
+Here's what you should do:
 
-New protocol submissions should include the [Databrary Release Template](|filename|../policies/release-template.mdi) adapted for use at the PI's institution.
+1. Ensure that your IRB protocol(s) enable sharing with Databrary. 	
+	- We recommend adapting the [Databrary Release Template](|filename|../policies/release-template.mdi) for use at the local institution. 
+	- The language in the Databrary Release is only a template and can be adapted to suit the unique needs of each investigator and/or project, as well as the local IRB policies that govern an investigator’s research.
+1. Double-check your existing protocol and informed consent/assent documents for data destruction clauses.
+	- You will  want to review your informed consent documents and remove any data destruction clauses as these inherently conflict with the ability to store and share data. Instead, we recommend saying "Data will be stored indefinitely in a secure library on the internet." 
+	- NIH and NSF **do not** require data destruction clauses.
+1. Once you have modified your IRB protocol(s), start securing and recording those permissions from participants. 
+	- We advise researchers to ask participants for permission to share at the **end** of data collection so that participants have acquired first hand knowledge about the study. This ensures that consent to participate is completely separate from permission to share and eliminates any risk that asking about sharing will affect participation in studies.
+1. Prepare recordings for sharing with Databrary, including tagging files with the level of permission for each session. Remove personally identifying information from other data and metadata.
+	- You may decide to upload data to Databrary *prior* to sharing it with anyone. In this way, Databrary can act like a lab file server. You can decide later whether you want to share data with researchers who are not part of your approved IRB protocol.
+1. Apply for and be granted Principal Investigator or Affiliate Investigator status with Databrary.
 
-# Protocol modification
-
-Modified protocols should include the [Databrary Release Template](|filename|../policies/release-template.mdi) and possibly revisions to Informed Consent/Assent documents.
-
-# Data destruction
-
-Some IRBs suggest or encourage PIs to destroy data after some period of time.
-Plans for how long data will be kept and when data will be destroyed are contained within Informed Consent/Assent documents.
-
-Data destruction is not required by NIH guidelines.
-PIs should not promise to destroy data since this limits how data might be shared and re-used.
-Instead, PIs should indicate in IRB applications and Informed Consent/Assent documents that "data will be stored indefinitely in a secure digital data library."
-
-# After IRB approval
-
-Once a PI has official approval to share with Databrary, she may begin asking research participants for their permission to share.
-PIs must make sure that they faithfully record the level of permission granted and accurately convey that information to Databrary.
-
-# Grandfathering data
-
-Some PIs might be using a video, audio or photograph release form that is similar to Databrary's.
-In that case, the PI may apply for permission to share with Databrary if the PI's IRB determines that the existing release provides equivalent protections.
-In this case, some recordings that have already been collected might be shared with Databrary.
-See [Grandfathering Data](|filename|grandfathering-data.md) for more information.
-
-# Technical assistance
+## Technical assistance
 
 Local, state, and national regulations and laws differ, as do the practices of IRBs and their equivalents.
 If you need help seeking IRB approval to share with Databrary, please contact help@databrary.org.
+

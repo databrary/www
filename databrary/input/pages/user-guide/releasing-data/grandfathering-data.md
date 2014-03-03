@@ -1,10 +1,11 @@
 Title: Grandfathering Data
 Brief: Grandfathering Data
 Slug: user-guide/releasing-data/grandfathering-data
-Order: 3310
+Order: 3330
 
 Many researchers already seek permission from participants to show clips from recordings for educational and scientific purposes.
-Some IRBs have determined that the language used in these permission or release forms is equivalent to [Databrary's Release Template](|filename|../policies/release-template.mdi). This means that some data researchers have already collected may be eligible for sharing with Databrary.
+Some IRBs have determined that the language used in these permission or release forms is equivalent to [Databrary's Release Template](|filename|../policies/release-template.mdi). 
+This means that some data researchers have already collected may be eligible for sharing with Databrary.
 
 
 ## Is your current release "Databrary-equivalent"?
@@ -19,7 +20,7 @@ If you already use a video/audio or photo release form and want to find out whet
 	- You will have to determine whether your current release means that recordings can be shared only for research use by other Databrary Investigators or whether excerpts can be shown in educational and scientific contexts.
 1. Share data with Databrary
 	- You may create a new dataset or study yourself or contact Databrary (help@databrary.org) for help in doing so.
-Make sure to identify which files participants have given permission to share and whether the level of permission permits excerpts.
+	- Make sure to identify which files participants have given permission to share and whether the level of permission permits excerpts.
 
 
 
