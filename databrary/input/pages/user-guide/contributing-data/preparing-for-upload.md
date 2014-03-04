@@ -6,24 +6,40 @@ Order: 3550
 # Descriptive Information
 
 Before your data are made available for sharing, it's important to have descriptive information about your dataset or study.
-This helps to ensure that your work is summarized and represented in a way that accurately portrays your work and helps it makes sense to others.
-
-Usually it makes sense to name a Databrary study with the same title as any published material.
-However, other organizational units that are unique to Databrary will require you to provide new names and descriptions.
-
-## Names of Datasets
-
-The title of your dataset should reflect the procedures and participants involved in the study.
-We prefer that you use descriptive names rather than idiosyncratic names.
-Think of the most important components of your data.
-It could include aspects of your dataset like the what the participants were doing, or the population you were working with.
+This includes a title and a summary for each.
+This helps to ensure that your work is summarized and represented in a way that helps it makes sense to others.
 
 You may also optionally provide an "alias" for each dataset or study, which can be any short name you use internally within your lab to refer to the research.
 This name will not be shown to other users on Databrary, so here you can use any idiosyncratic or temporary descriptions you wish.
 
-## Summaries of Datasets
+# Titles
+
+## Studies
+
+Usually it makes sense to name a Databrary study with the same title as any published material.
+
+## Datasets
+
+The title of your dataset should reflect the procedures and participants involved in the study.
+We prefer that you use descriptive rather than idiosyncratic names.
+Think of the most important components of your data, such as procedures, populations, or behaviors of interest.
+
+# Tasks, Conditions, and Groups
+
+We'll also need you to name the particular activities or conditions involved in your sessions.
+Like the dataset names, we want these to be descriptive.
+
+# Summaries
+
+## Studies
+
+The summary for a study may be similar to an abstract in a published paper, or the actual abstract. 
+
+## Datasets
 
 We’ll need you to summarize your dataset in a short paragraph that describes the participants, procedures, a physical description of the critical activities, and the setting in which it took place.
+This summary may be similar to the methods section in a published paper.
+You may want to describe the methods, stimuli, participants, conditions, tasks, etc.
 You do not need to describe the motivation or rationale for collecting the data because this information will be attached to your studies in the form of the (un)published abstract.
 
 Some questions to help you write your summary:
@@ -34,14 +50,10 @@ Some questions to help you write your summary:
 * Over what time period did you collect these data?
 * Where did you collect these data?
 
-## Tasks
-
-We'll need you to name the particular activities participants attempted in your sessions.
-Like the dataset names, we want these names to be descriptive.
-You can further define these tasks by attaching any sort of  documentation you may have explaining your protocols or methodology.
+You can further refine these by attaching any sort of documents you have explaining your protocols or methodology.
 This could include instructions given to a participant.
 
-## Funding and Citations
+# Funding sources and Citations
 
 How was this work funded? Your funding agency may require you to acknowledge the support received for your work.
 
