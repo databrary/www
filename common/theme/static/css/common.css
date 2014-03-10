@@ -101,6 +101,10 @@ body {
 	line-height: 1.4;
 }
 
+b, strong {
+	font-family: 'SofiaProMedium', Helvetica, Verdana, sans-serif;
+}
+
 p, ul, ol, dl, figure, table {
 	margin-top: 0;
 	margin-bottom: 28px;
