@@ -22,3 +22,7 @@ Most people should use the latest stable release, but you can also download [old
 # Plugins
 
 You will soon be able to install additional plugins to customize Datavyu and make it yours. Stay tuned for greater functionality that addresses your different needs!
+
+# Fork Us on Github!
+
+Contribute to the project or build directly from the Datavyu [source code](https://github.com/databrary/datavyu). 
