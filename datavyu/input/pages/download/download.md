@@ -23,7 +23,7 @@ Most people should use the latest stable release, but you can also download [old
 
 You will soon be able to install additional plugins to customize Datavyu and make it yours. Stay tuned for greater functionality that addresses your different needs!
 
-Attention Windows users: Please pay careful attention to the Quicktime [software requirements](/user-guide/guide/install.html) detailed in the [User Guide](/user-guide/guide.html).
+Attention Windows users: Please pay careful attention to the Quicktime [software requirements](/user-guide/guide/install.html#software-requirements) detailed in the [User Guide](/user-guide/guide.html).
 
 # Source
 
