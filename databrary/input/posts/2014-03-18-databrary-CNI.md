@@ -1,4 +1,4 @@
-Title: Databrary presenting at CNI Conference
+Title: Databrary presentation on YouTube
 Category: Databrary
 
 Rick Gilmore, David Millman and Dylan Simon presenting the Databrary project at CNI conference in Washington DC. 
