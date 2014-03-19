@@ -1,6 +1,6 @@
 Title: Sample Release Script
 Brief: Sample Release Script
-Order: 3200
+Order: 3300
 Slug: user-guide/getting-started/release-script
 
 ## Sample script for introducing the Databrary Release Form to participants

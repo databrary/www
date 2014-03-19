@@ -1,6 +1,6 @@
 Title: Release Instructions
 Brief: Release Instructions
-Order: 3100
+Order: 3200
 Slug: user-guide/getting-started/release-instructions
 
 #Using the Databrary Release
