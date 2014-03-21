@@ -1242,6 +1242,13 @@ nav.page_sidebar a.parent:hover {
 	text-align: left;
 }
 
+/* SPECIAL */
+.page_user-guide_policies_definitions h3 {
+	font-weight: bold;
+	margin-top: 14px;
+	font-size: 1.25em;
+}
+
 /* PROBABLY GARBAGE! */
 .feature {
 	width: 30%;
