@@ -3,16 +3,16 @@ Brief: Contact
 Slug: contact
 Order: 4000
 
-# Via Email
+## Email
 
 Contact us at [contact@databrary.org](mailto:contact@databrary.org "Email Databrary"), or email members of [our team](/community/team.html "Our Team") directly.
 
-# Office Location
+## Mailing address 
 
-Attn: Databrary
-
-196 Mercer St., 8th Floor, Suite 807
-
+Attn: Databrary<br/>
+196 Mercer St., 8th Floor, Suite 807<br/>
 New York, NY 10012
 
-(212)998-5536
+## Phone number
+
+212-998-5800
