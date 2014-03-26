@@ -1,4 +1,4 @@
-Title: Sample Release Script
+Title: Sample Participant Release Script
 Brief: Sample Release Script
 Order: 3300
 Slug: user-guide/getting-started/release-script

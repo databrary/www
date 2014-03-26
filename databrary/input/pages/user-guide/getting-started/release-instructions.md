@@ -1,4 +1,4 @@
-Title: Release Instructions
+Title: Participant Release Instructions
 Brief: Release Instructions
 Order: 3200
 Slug: user-guide/getting-started/release-instructions

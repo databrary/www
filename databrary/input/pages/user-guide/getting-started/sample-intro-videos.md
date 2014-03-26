@@ -1,4 +1,4 @@
-Title: Example Databrary Release Introduction
+Title: Video Example of Obtaining Databrary Release from Participants
 Brief: Example Databrary Release Introduction
 Slug:user-guide/getting-started/release-script/example-videos
 Order: 3310
