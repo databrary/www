@@ -10,6 +10,9 @@ Contact us at [contact@databrary.org](mailto:contact@databrary.org "Email Databr
 # Office Location
 
 Attn: Databrary
-196 Mercer St., 8th Floor, Room 807
+
+196 Mercer St., 8th Floor, Suite 807
+
 New York, NY 10012
+
 (212)998-5536
