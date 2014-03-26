@@ -6,7 +6,7 @@ Order: 3100
 # Introducing Databrary
 ## A Guide for Institutions
 
-Terms in *italics* are defined [here](|filename|../policies/definitions.mdi).
+Terms in *italics* are defined [here](http://databrary.org/user-guide/policies/definitions.html).
 
 ### What is Databrary?
 
@@ -32,7 +32,7 @@ Applicants must provide Databrary information about their professional appointme
 
 #### Investigator Agreement
 
-Applicants must sign and date the [Databrary Investigator Agreement](|filename|../policies/investigator-agreement.mdi). Applicants for affiliate status must provide the name of the *Databrary Principal Investigator* who will oversees the affiliate's research or who will write a letter of recommendation. 
+Applicants must sign and date the [Databrary Investigator Agreement](http://databrary.org/user-guide/policies/investigator-agreement.html). Applicants for affiliate status must provide the name of the *Databrary Principal Investigator* who will oversees the affiliate's research or who will write a letter of recommendation. 
 
 The application should be signed and dated by an Authorizing Official at the applicant's *Institution*. Once the application is returned to Databrary, staff will make a final determination about an applicant's status and either grant or deny access.
 
