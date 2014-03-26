@@ -78,8 +78,8 @@ Carol Mandel
 :	New York University
 
 Peter Molenaar
-:	Distinguished Professor of Human Development and Psychology
-:	The Pennsylvania State University
+: Distinguished Professor of Human Development and Psychology
+: The Pennsylvania State University
 
 Sarah Morrow
 :	Privacy Manager, Office of Risk Management
@@ -102,10 +102,6 @@ Jan Plass
 Nilam Ram
 :	Assistant Professor of Human Development and Psychology
 :	The Pennsylvania State University
-
-Deb Roy
-:	Associate Professor of Media Arts and Sciences
-:	MIT
 
 Linda Smith
 :	Distinguished Professor and Chancellor's Professor of Psychological and Brain Sciences
