@@ -3,7 +3,7 @@ Brief: Introductions
 Slug: user-guide/getting-started/introduction
 Order: 3100
 
-# An Introduction to Databrary for Institutions
+# Introducing Databrary
 
 Terms in *italics* are defined [here](http://databrary.org/user-guide/policies/definitions.html).
 
