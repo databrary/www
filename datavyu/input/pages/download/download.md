@@ -22,3 +22,10 @@ Most people should use the latest stable release, but you can also download [old
 # Plugins
 
 You will soon be able to install additional plugins to customize Datavyu and make it yours. Stay tuned for greater functionality that addresses your different needs!
+
+Attention Windows users: Please pay careful attention to the Quicktime [software requirements](/user-guide/guide/install.html#software-requirements) detailed in the [User Guide](/user-guide/guide.html).
+
+# Source
+
+Datavyu is open source software under a [GPL3](https://github.com/databrary/datavyu/blob/master/GPL-LICENSE.txt) license.
+Contribute to or download our [source code](https://github.com/databrary/datavyu). 

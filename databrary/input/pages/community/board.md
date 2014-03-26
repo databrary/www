@@ -119,6 +119,10 @@ Peter Vishton
 :	Associate Professor of Psychology
 :	College of William and Mary
 
+Tal Yarkoni
+: Director of the Psychoinformatics Lab
+: University of Texas at Austin
+
 Luke Zhang
 :	Associate Professor of Information Sciences and Technology
 :	The Pennsylvania State University
