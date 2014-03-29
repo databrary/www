@@ -1,13 +1,17 @@
 <section id="site_toolbar" class="site_toolbar">
 	<div class="wrap">
+		<nav class="toolbar_user">
+			<a href="https://nyu.databrary.org/login">login</a>
+		</nav>
+
 		<h1>
-			<a href="http://databrary.org/about.html" title="About the Databrary Project"><span>THE </span>DATABRARY<span> PROJECT</span></a>
+			<a href="{{ SITEURL }}" title="Databrary: An Open Data Library"><img src="{{ SITEURL }}/theme/img/logo/{{ SITESLUG }}-nav.png" alt="{{ SITENAME }}"><span>{{ SITESLUG | capitalize  }}</span></a>
 		</h1>
 
-		<nav>
-			{% for title, link in PROJECTS %}
-				<a href="{{ link }}"><img src="{{ SITEURL }}/theme/img/logo/{{ title|lower }}-nav.png" alt="{{ title }}"><span>{{ title }}</span></a>
-			{% endfor %}
-		</nav>
+		<ul class="toolbar_nav cf">
+			<li><a href="https://nyu.databrary.org/search">explore</a></li>
+			<li><a href="http://databrary.org/user-guide/getting-started/release-instructions.html">share</a></li>
+			<li><a href="http://datavyu.org">discover</a></li>
+		</ul>
 	</div>
 </section>
