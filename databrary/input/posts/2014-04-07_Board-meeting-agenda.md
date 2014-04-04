@@ -1,5 +1,5 @@
-Titel:Databrary Advisory Board meeting agenda
-Event:April
+Title: Databrary Advisory Board Meeting Agenda
+Category: Advisory Board
 
 See a pdf of this file [here](/files/agenda.pdf)
 
