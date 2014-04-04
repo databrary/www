@@ -23,7 +23,7 @@ help:
 	@echo '   make html [SITE=all]     (re)generate the web site          '
 	@echo '   make clean               remove the generated files         '
 	@echo '   make regenerate          regenerate files upon modification '
-	@echo '   make stanging            publish to $(WWW)/staging'
+	@echo '   make staging             publish to $(WWW)/staging'
 	@echo '   make production          publish to $(WWW)'
 	@echo '   make deploy              update and publish to $(WWW)'
 	@echo '   make start [SITE=]       start/restart develop_server.sh    '
