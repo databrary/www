@@ -1,7 +1,7 @@
 Title: Databrary Advisory Board Meeting Agenda
 Category: Advisory Board
 
-See a pdf of this file [here](/files/agenda.pdf)
+See a pdf of this file [here.](/files/agenda.pdf)
 
 Advisory Board Meeting, Spring 2014  
 Monday, April 7, 2014
