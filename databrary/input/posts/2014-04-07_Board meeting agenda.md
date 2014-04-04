@@ -1,6 +1,8 @@
 Titel:Databrary Advisory Board meeting agenda
 Event:April
 
+See a pdf of this file [here](/files/agenda.pdf)
+
 Advisory Board Meeting, Spring 2014  
 Monday, April 7, 2014
 1:00-5:30pm EST
