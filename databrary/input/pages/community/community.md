@@ -15,4 +15,4 @@ Learn more about [our advisory board](/community/board.html).
 
 # Committed Contributors
 
-Learn more about [commited contributors](/community/contributors.html).
+Learn more about [committed contributors](/community/contributors.html).

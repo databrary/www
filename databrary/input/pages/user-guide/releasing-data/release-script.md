@@ -1,4 +1,4 @@
-Title: Sample Release Script
+Title: Sample Participant Release Script
 Brief: Sample Release Script
 Order: 3351
 Slug: user-guide/releasing-data/obtaining-participant-permissions/release-script

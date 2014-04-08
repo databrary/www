@@ -11,14 +11,14 @@ fi
 ##
 # This section should match your Makefile
 ##
-BASEDIR=$PWD/$subdir
+BASEDIR=$(pwd)/$subdir
 
 PY=python3
 PELICAN="$PY `which pelican`"
 PELICANOPTS=
 
 INPUTDIR=$BASEDIR/input
-OUTPUTDIR=$PWD/output/$BASEDIR
+OUTPUTDIR=$BASEDIR/output
 CONFFILE=$BASEDIR/pelicanconf.py
 
 ###

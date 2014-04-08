@@ -18,11 +18,11 @@
 	<link rel="sitemap" type="application/xml" title="sitemap" href="/sitemap.xml">
 
 	<!-- feeds -->    {% if FEED_ALL_RSS %}
-	<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed" />
+	<link href="{{ FEED_DOMAIN }}/{{ FEED_ALL_RSS }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Full RSS Feed"/>
 	{% endif %}
 
 	{% if CATEGORY_FEED_RSS and category %}
-	<link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Category RSS Feed" />
+	<link href="{{ FEED_DOMAIN }}/{{ CATEGORY_FEED_RSS|format(category.slug) }}" type="application/rss+xml" rel="alternate" title="{{ SITENAME }} Category RSS Feed"/>
 	{% endif %}
 
 	<!-- icons -->
@@ -33,9 +33,7 @@
 
 	<!-- css -->
 	<link rel="stylesheet" href="/theme/css/normalize.css">
-
 	<link rel="stylesheet" href="/theme/css/common.css">
-	<link rel="stylesheet" href="/css/local.css">
 
 	<!-- js -->
 	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
@@ -46,7 +44,6 @@
 	</script>
 
 	<script src="/theme/js/common.js"></script>
-	<script src="/js/local.js"></script>
 </head>
 
 <body>

@@ -32,5 +32,4 @@ Contribute to or download our [source code](https://github.com/databrary/datavyu
 
 # Citation
 
-If you are use Datavyu for your research please cite it in your paper. Our citation can be found on our
-[frequently asked questions](/user-guide/faq.html#what-is-datavyu-s-citation) page.
+For information on how to cite Datavyu, see our [FAQs](http://datavyu.org/user-guide/faq.html#what-is-datavyu-s-citation).
