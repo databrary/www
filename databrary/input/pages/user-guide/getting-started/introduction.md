@@ -1,4 +1,4 @@
-Title: Introduction for Institutions
+Title: Introduction
 Brief: Introductions
 Slug: user-guide/getting-started/introduction
 Order: 3100
@@ -9,13 +9,18 @@ Terms in *italics* are defined [here](|filename|../policies/definitions.mdi).
 
 ## What is Databrary?
 
-Databrary is a data library intended to foster sharing of information among researchers. Databrary contains *De-Identified Data, Non-Identifiable Data*, and *Metadata*. Databrary also contains *Identifiable Data* – video/audio recordings and photographic images Databrary calls *Recordings* – and other sensitive materials, such as *Self-Reported Health-Related Information*, only some of which are open to the public. *Data* in the library might be used to determine the identity of research participants who have been promised confidentiality. *Data* might also be used to harm or embarrass *Research Participants* or other *Depicted Individuals*. Accordingly, Databrary requires prior authorization for full access and requires those granted access to uphold the highest ethical standards. Individuals with authorized access to Databrary are called *Investigators*.
+Databrary is a data library intended to foster sharing of information among researchers.
+Databrary's focus is video *recordings* of human collected for psychological research, but also stores many other types of data which include *identifiable data*, *de-identified data*, and *non-identifiable data*, only some of which are open to the public.
+Since data in the library, such as images of people's faces, is of a sensitive nature and might be used to determine the identity of research participants who have been promised confidentiality, Databrary requires prior authorization for full access and that those granted access to uphold the highest ethical standards.
+Individuals with authorized access to Databrary are called *Investigators*.
 
 Databrary is supported by awards from the U.S. National Science Foundation and Eunice Kennedy Shriver National Institute of Child Health and Human Development.
 
 ## Who can access Databrary?
 
-Access to most of Databrary's resources is restricted to people who have prior authorization. To receive authorization a person must apply to Databrary and receive approval. 
+Anyone collecting [sharable research data](|filename|release-instructions.md) will be able to store and organize their data within Databrary.
+However, access to many of Databrary's shared resources is restricted to people who have prior authorization.
+To receive authorization a person must apply and receive approval, usually through their university.
 
 ### Who qualifies for access?
 
