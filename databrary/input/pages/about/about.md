@@ -17,4 +17,4 @@ The Databrary project is dedicated to transforming the culture of developmental 
 
 Read more about our mission in [Psychological Inquiry](http://www.tandfonline.com/doi/abs/10.1080/1047840X.2012.705133#.UoUGM_mfhtE "Towards Open Behavioral Science").
 
-Our previous board meeting was April 7th, 2014. See the slides[here](/files/Databrary-advisory-slides-2014-04-07.pdf).
+Our previous board meeting was April 7th, 2014. See the slides [here](/files/Databrary-advisory-slides-2014-04-07.pdf).
