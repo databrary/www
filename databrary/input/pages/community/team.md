@@ -120,7 +120,7 @@ Andrea Byrne
  <ul class="info">
 
                 <li>
-                    <div class="title">Curator</div>
+                    <div class="title">Data Curator</div>
 
 Jon Coe
 :	<img src="/theme/img/social/email.png"> [jon@databrary.org](mailto:jon@databrary.org "Email Jon Coe")
