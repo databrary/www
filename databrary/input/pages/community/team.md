@@ -151,6 +151,4 @@ Lina Wictoren Roy
 <dt>John Franchak</dt>
 <dt>Clinton Freeman</dt>
 <dt>Jesse Lingeman</dt>
-<dt>Eric Montellese</dt>
-<dt>Allison Moore</dt>
 </dl>
