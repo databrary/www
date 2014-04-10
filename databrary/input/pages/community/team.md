@@ -116,6 +116,11 @@ Order: 2300
 
 Andrea Byrne
 :	<img src="/theme/img/social/email.png"> [andrea@databrary.org](mailto:andrea@databrary.org "Email Andrea Byrne")
+ 
+ <ul class="info">
+
+                <li>
+                    <div class="title">Curator</div>
 
 Jon Coe
 :	<img src="/theme/img/social/email.png"> [jon@databrary.org](mailto:jon@databrary.org "Email Jon Coe")
