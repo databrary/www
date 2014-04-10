@@ -115,28 +115,32 @@ Order: 2300
 # Staff
 
 Andrea Byrne
-                <li>
-                    <div class="title">Data Curator</div>
-                </li>
+: Data Curator
 :	<img src="/theme/img/social/email.png"> [andrea@databrary.org](mailto:andrea@databrary.org "Email Andrea Byrne")
  
 Jon Coe
+: Web Developer
 :	<img src="/theme/img/social/email.png"> [jon@databrary.org](mailto:jon@databrary.org "Email Jon Coe")
 
 Michael Continues
+: UI/UX Developer
 :	<img src="/theme/img/social/email.png"> [mike@databrary.org](mailto:mike@databrary.org "Email Michael Continues")
 
 Vicky Foo
+: Databrary and Datavyu Quality Assurance
 :	<img src="/theme/img/social/email.png"> [vicky@databrary.org](mailto:vicky@databrary.org "Email Vicky Foo")
 
 Dylan Simon
+: Systems Architect 
 :	<img src="/theme/img/social/email.png"> [dylan@databrary.org](mailto:dylan@databrary.org "Email Dylan Simon")
 
 Lisa Steiger
+: Community Liaison and Project Manager
 :	<img src="/theme/img/social/email.png"> [lisa@databrary.org](mailto:lisa@databrary.org "Email Lisa Steiger")
 :	212-998-5536
 
 Lina Wictoren Roy
+: Project Coordinator
 :	<img src="/theme/img/social/email.png"> [lina@databrary.org](mailto:lina@databrary.org "Email Lina Wictoren Roy")
 :   212-998-5800
 
