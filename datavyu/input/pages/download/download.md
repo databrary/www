@@ -29,3 +29,6 @@ Attention Windows users: Please pay careful attention to the Quicktime [software
 
 Datavyu is open source software under a [GPL3](https://github.com/databrary/datavyu/blob/master/GPL-LICENSE.txt) license.
 Contribute to or download our [source code](https://github.com/databrary/datavyu). 
+
+# Citation
+For information on how to cite Datavyu, see our [FAQs](http://datavyu.org/user-guide/faq.html#what-is-datavyu-s-citation).

@@ -42,7 +42,7 @@ Order: 2700
 [Clancy Blair](http://steinhardt.nyu.edu/appsych/faculty_bios/view/Clancy_Blair "Clancy Blair on the web")
 :	New York University
 
-[Mark GBlumberg](http://www.psychology.uiowa.edu/faculty/blumberg/blumberg.html "Mark Blumberg on the web")
+[Mark Blumberg](http://www.psychology.uiowa.edu/faculty/blumberg/blumberg.html "Mark Blumberg on the web")
 :	University of Iowa
 
 [Jean-Paul Boudreau](http://www.ryerson.ca/psychology/faculty/boudreau/ "Jean-Paul Boudreau on the web")
@@ -195,7 +195,7 @@ Order: 2700
 [Jodie Plumert](http://www.psychology.uiowa.edu/Faculty/Plumert/plumert.html "Jodie Plumert on the web")
 :	University of Iowa
 
-[Seth Pollack](http://www.waisman.wisc.edu/childemotion/seth.html` "Seth Pollack on the web")
+[Seth Pollak](http://www.waisman.wisc.edu/childemotion/seth.html` "Seth Pollak on the web")
 :	University of Wisconsin, Madison
 
 [David Rakison](http://www.psy.cmu.edu/~rakison/ "David Rakison on the web")
@@ -222,10 +222,10 @@ Order: 2700
 [Diane Ruble](http://www.psych.nyu.edu/ruble/ "Diane Ruble on the web")
 :	New York University
 
-[Jenny Saffron](http://glial.psych.wisc.edu/index.php/psychsplashfacstaff/121 "Jenny Saffron on the web")
+[Jenny Saffran](http://glial.psych.wisc.edu/index.php/psychsplashfacstaff/121 "Jenny Saffran on the web")
 :	University of Wisconsin, Madison
 
-[Larisa Samuelson](http://www.psychology.uiowa.edu/people/larissa_samuelson "Larisa Samuelson on the web")
+[Larissa Samuelson](http://www.psychology.uiowa.edu/people/larissa_samuelson "Larissa Samuelson on the web")
 :	University of Iowa
 
 [Laurie Santos](http://www.yale.edu/caplab/Main/Home.html "Laurie Santos on the web")
