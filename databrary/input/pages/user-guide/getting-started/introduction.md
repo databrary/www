@@ -31,7 +31,7 @@ Applicants must provide Databrary information about their professional appointme
 
 ### Investigator Agreement
 
-Applicants must sign and date the [Databrary Investigator Agreement](|filename|../policies/investigator-agreement.mdi). Applicants for affiliate status must provide the name of the *Databrary Principal Investigator* who will oversees the affiliate's research or who will write a letter of recommendation. 
+Applicants must sign and date the [Databrary Investigator Agreement](|filename|../policies/investigator-agreement.mdi). Applicants for affiliate status must provide the name of the *Databrary Principal Investigator* who will oversee the affiliate's research or who will write a letter of recommendation. 
 
 The application should be signed and dated by an Authorizing Official at the applicant's *Institution*. Once the application is returned to Databrary, staff will make a final determination about an applicant's status and either grant or deny access.
 
