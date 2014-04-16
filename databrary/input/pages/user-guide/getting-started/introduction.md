@@ -43,15 +43,11 @@ To share and access to Databrary data, the applicant must also gain authorizatio
 - *Affiliate Invistigators* must obtain approval from the *Databrary Principal Investigator* who oversees their research and who has already completed the authorization process.
 - *Principle Investigators* must obtain approval from an Authorizing Official at their *Institution* (usually from Grants and Contracts or the Sponsored Programs Office).
 
-<<<<<<< HEAD
 ### Investigator Agreement
 
 Applicants must sign and date the [Databrary Investigator Agreement](|filename|../policies/investigator-agreement.mdi). Applicants for affiliate status must provide the name of the *Databrary Principal Investigator* who will oversee the affiliate's research or who will write a letter of recommendation. 
 
-The application should be signed and dated by an Authorizing Official at the applicant's *Institution*. Once the application is returned to Databrary, staff will make a final determination about an applicant's status and either grant or deny access.
-=======
 To complete this process, the applicant's sponsoring investigator (in the case of an *Affiliate Investigator*), institutional official (in the case of a *Databrary Principal Investigator*), or Databrary staff (on the institution's behalf) will verify the applicants identity and approve their authorization.
->>>>>>> FETCH_HEAD
 
 ## How is Databrary different from other data archives or repositories?
 
