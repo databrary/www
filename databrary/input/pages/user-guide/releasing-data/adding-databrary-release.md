@@ -1,7 +1,7 @@
 Title: Adding the Databrary Release to Your IRB Protocol
 Brief: The Databrary Release
 Slug: user-guide/releasing-data/adding-databrary-release
-Order: 3320
+Order: 3310
 
 Databrary requires that investigators have approval before sharing data.
 Not only must the investigator's IRB approve plans to share with Databrary, but so must research participants, at least in most cases.

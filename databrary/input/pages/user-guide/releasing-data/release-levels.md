@@ -1,7 +1,7 @@
 Title: Databrary Release Levels
 Brief: Databrary Release Levels
 Slug: user-guide/releasing-data/release-levels
-Order: 3370
+Order: 3330
 
 Below are the release levels that determine if identifiable data can be made visible to anyone outside of the individuals named on the IRB protocol.
 
