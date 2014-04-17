@@ -22,7 +22,8 @@ Here's what you should do:
 
 ## Adapting the Databrary Release Template 
 
-The language in the [Databrary Release](../policies/release-template.html) is only a template and can be adapted to suit the unique needs of each investigator and/or project, as well as the local IRB policies that govern an investigator’s research. If you need any help using the Databrary Release form for sharing data, or if you have helpful feedback about using the forms, please contact Lisa Steiger at <lisa@databrary.org>. 
+The language in the [Databrary Release](../policies/release-template.html) is only a template and can be adapted to suit the unique needs of each investigator and/or project, as well as the local IRB policies that govern an investigator’s research. If you have any questions about sharing data or using the Databrary Release template, please contact us at help@databrary.org.
+
 
 #Common Questions about Sharing Video Data
 
