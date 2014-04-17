@@ -3,8 +3,6 @@ Brief: Managing Affiliates
 Slug: user-guide/getting-authorized/managing-affiliates
 Order: 3150
 
-# Managing Affiliates
-
 ## Authorization Levels
 
 Databrary Principal Investigators may authorize their staff, students, or collaborators to access data on Databrary.
@@ -14,6 +12,7 @@ An Investigator can grant access independently to each of these types of data.
 ### Investigator's Personal (Lab) Data
 
 For an Investigator's own data (which includes all datasets and studies on which they are explicitly listed as the data owner or a contributor, whether or not they have been shared with Databrary), the Investigator can grant:
+
 - No access
 - Read-only access to deidentified information: the affiliate may view metadata and download deidentified files and documents
 - Read-only access to released data: the affiliate may additionally view and download videos and other identifying information from sessions that have been released for sharing
@@ -28,6 +27,7 @@ Note that even if the Investigator chooses not to grant any of these permissions
 ### Databrary (Group) Data
 
 An Investigator may also grant an affiliate the following levels of access to Databrary data that has been shared by other researchers:
+
 - No access
 - Access to deidentified information (Restricted Affiliate): the affiliate may view metadata and download deidentified files and documents
 - Access to released data (Affiliate Investigator): the affiliate may additionally view and download videos and other identifying information from sessions that have been released for sharing
@@ -37,6 +37,7 @@ In this case, the Investigator is taking responsibility for the affiliate's acce
 ### Additional (Administrative Proxy) Permissions
 
 If an Investigator has granted both edit access to their own data and Affiliate Investigator status, they may additionally grant the following special permissions:
+
 - Creation: the affiliate may additionally create new datasets owned by the Investigator
 - Proxy delegate: the affiliate may manage the Investigator's authorizations and access controls, including granting and revoking authorizations to other affiliates
 
@@ -44,7 +45,7 @@ These permissions should be granted with care, as they enable the affiliate to p
 
 ## Advanced Scenarios
 
-In some cases, an Investigator may wish to share a selected pool of data among a select "group", for example across multiple labs or within a subset of their own lab.
-In this case, it may make sense to create a "group" and add affiliates to this group.
+In some cases, an Investigator may wish to share a selected pool of data among a select *group*, for example across multiple labs or within a subset of their own lab.
+In this case, it may make sense to create a *group* and add affiliates to this group.
 Here, the same levels of access as to an Investigator's own data apply, but affiliates and datasets must be added to this group explicitly.
 Please contact us for help if you have such a situation or other needs not covered in the sections above.
