@@ -1,7 +1,7 @@
 Title: Policies
 Brief: Policies
 Slug: user-guide/policies
-Order: 3900
+Order: 4000
 
 # Values
 

@@ -1,7 +1,7 @@
 Title: Guidance for Institutions
 Brief: Guidance for Institutions
 Slug: user-guide/institutional-resources
-Order: 4000
+Order: 3900
 
 ## How is Databrary different from other data archives or repositories?
 
