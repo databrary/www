@@ -3,10 +3,48 @@ Brief: Managing Affiliates
 Slug: user-guide/getting-authorized/managing-affiliates
 Order: 3150
 
-Databrary Principal Investigators may authorize their staff, students, or collaborators to allow them to have access to shared Databrary data. 
+# Managing Affiliates
 
-There are different levels of access a data owner can grant to their own data. 
-[spell those out here: view only deidentified information, view only databrary shared data, download and edit all private data, manage sharing levels on all studies and datasets]
+## Authorization Levels
 
-There are also different levels of access and delegated permissions that a Databrary Principal Investigator may grant to their affiliates.
-[also spell these out in some way...]
+Databrary Principal Investigators may authorize their staff, students, or collaborators to access data on Databrary.
+In doing so, there are two classes of data to consider: data belonging to the Investigator, and data belonging to others that has been shared with Databrary.
+An Investigator can grant access independently to each of these types of data.
+
+### Investigator's Personal (Lab) Data
+
+For an Investigator's own data (which includes all datasets and studies on which they are explicitly listed as the data owner or a contributor, whether or not they have been shared with Databrary), the Investigator can grant:
+- No access
+- Read-only access to deidentified information: the affiliate may view metadata and download deidentified files and documents
+- Read-only access to released data: the affiliate may additionally view and download videos and other identifying information from sessions that have been released for sharing
+- Full edit access to all data: the affiliate may view, download, add, change, and remove data as the Investigator without restriction
+- Administrative access: the affiliate may additionally change the access controls and sharing levels of the Investigator's data
+
+These permissions are designed to allow lab-level access, and may be thought of as granting access to the Investigator's lab server.
+As such, the Investigator is trusting the affiliate with this access, and care must be taken, especially at the editor level and above.
+
+Note that even if the Investigator chooses not to grant any of these permissions to an affiliate, they may still selectively grant access to individual datasets or studies by changing the access controls on each.
+
+### Databrary (Group) Data
+
+An Investigator may also grant an affiliate the following levels of access to Databrary data that has been shared by other researchers:
+- No access
+- Access to deidentified information (Restricted Affiliate): the affiliate may view metadata and download deidentified files and documents
+- Access to released data (Affiliate Investigator): the affiliate may additionally view and download videos and other identifying information from sessions that have been released for sharing
+
+In this case, the Investigator is taking responsibility for the affiliate's access to Databrary as laid out in the [Databrary Investigator Agreement](|filename|../policies/investigator-agreement.mdi).
+
+### Additional (Administrative Proxy) Permissions
+
+If an Investigator has granted both edit access to their own data and Affiliate Investigator status, they may additionally grant the following special permissions:
+- Creation: the affiliate may additionally create new datasets owned by the Investigator
+- Proxy delegate: the affiliate may manage the Investigator's authorizations and access controls, including granting and revoking authorizations to other affiliates
+
+These permissions should be granted with care, as they enable the affiliate to perform tasks on the Investigator's behalf.
+
+## Advanced Scenarios
+
+In some cases, an Investigator may wish to share a selected pool of data among a select "group", for example across multiple labs or within a subset of their own lab.
+In this case, it may make sense to create a "group" and add affiliates to this group.
+Here, the same levels of access as to an Investigator's own data apply, but affiliates and datasets must be added to this group explicitly.
+Please contact us for help if you have such a situation or other needs not covered in the sections above.
