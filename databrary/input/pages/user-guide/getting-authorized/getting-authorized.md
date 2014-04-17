@@ -6,7 +6,7 @@ Order: 3100
 
 ## Who can access Databrary?
 
-Anyone collecting [sharable research data](|filename|release-instructions.md) will be able to store and organize their data within Databrary after completing the registration process. 
+Anyone collecting [sharable research data](|filename|../getting-started/release-instructions.md) will be able to store and organize their data within Databrary after completing the registration process. 
 However, access to many of Databrary's shared resources is restricted to people who have authorization.
 To receive authorization a person must apply and receive approval, usually through their university's Grants and Contracts or Sponsored Programs Office.
 
