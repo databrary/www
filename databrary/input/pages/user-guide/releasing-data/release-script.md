@@ -3,6 +3,7 @@ Brief: Sample Release Script
 Order: 3331
 Slug: user-guide/releasing-data/obtaining-participant-permissions/release-script
 
+Below is a sample script that can be used to introduce the Databrary Release. 
 ## Sample script for introducing the Databrary Release Form to participants
 
 *Now that you have finished this session, there's one more thing we want to ask you. The data that researchers collect from babies and families are incredibly valuable for helping scientists to understand how children develop.* 
