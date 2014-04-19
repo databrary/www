@@ -10,7 +10,7 @@ Sharing identifiable data is allowable as long as you tell the people depicted i
 
 Here's what you should do:
 
-1. [Ensure that your IRB protocol(s) enable sharing with Databrary](|filename|adding-databrary-release.md).
+1. Ensure that your [IRB protocol(s) enable sharing with Databrary](releasing-data/adding-release.html).
 	- We recommend adapting the [Databrary Release Template](|filename|../policies/release-template.mdi) and getting IRB approval to give the form to participants. 
 	- However, any language that your [IRB deems equivalent](|filename|grandfathering-data.md) for sharing in Databrary is acceptable. The contributor must warrant they have IRB approval to share their data.
 1. Double-check your existing protocol and informed consent/assent documents for data destruction clauses.
