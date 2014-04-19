@@ -9,6 +9,5 @@ Below are the release levels that determine if identifiable data can be made vis
 - **Private**: The participant(s) did not agree to share their data.
 - **Shared**: The participant(s) agreed to have their data shared with the Databrary community.
 - **Excerpts**: The participant(s) agreed to have their data shared with the Databrary community and allowed for excerpts to be shown to the public.
-- **Public**: The participant(s) agreed to have their data shared with the world at large.
-
+- **Public**: The participant(s) agreed to have their data shared with the world at large (not currently on [template](|filename|../policies/release-template.mdi)).
 

@@ -12,5 +12,4 @@ Data are only visible if they have been: (a) released by the participants for sh
 The Databrary User Guide helps to explain how to collect data that can be shared, upload and manage your own data, become an authorized user, and explore the data shared in Databrary.
 
 You can find all our latest policy documents in our [Policies](|filename|policies/policies.md) section.
-
-
+Terms in *italics* are defined [here](|filename|../policies/definitions.mdi).

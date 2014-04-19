@@ -5,9 +5,9 @@ Order: 3100
 
 ## Who can access Databrary?
 
-Anyone collecting [sharable research data](|filename|../releasing-data/adding-databrary-release.md) will be able to store and organize their data within Databrary after completing the registration process. 
+Anyone collecting [sharable research data](|filename|../releasing-data/releasing-data.md) will be able to store and organize their data within Databrary after completing the registration process. 
 However, access to many of Databrary's shared resources is restricted to people who have authorization.
-To receive authorization a person must apply and receive approval, usually through their university's Grants and Contracts or Sponsored Programs Office.
+To receive authorization a person must [apply and receive approval](|filename|signing-agreement.md), usually through their university's Grants and Contracts or Sponsored Programs Office.
 
 ### Who qualifies for access?
 
@@ -19,5 +19,3 @@ The *Databrary Principal Investigator* must verify that the applicant's use of *
 All applicants must demonstrate that they have passed a human participants ethics training class and remain in good standing with the *Institution* that supervises their ethics training.
 Databrary does **not** require applicants to take ethics training again if they have taken it in the past or to pass training at regular intervals unless required to do so by their *Institution*.
 If an applicant is authorized to conduct research with human participants at an *Institution*, that satisfies the Databrary requirement.
-
-Terms in *italics* are defined [here](|filename|../policies/definitions.mdi).
