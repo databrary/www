@@ -12,7 +12,9 @@ Here's what you should do:
 
 1. Ensure that your [IRB protocol(s) enable sharing with Databrary](releasing-data/adding-release.html).
 	- We recommend adapting the [Databrary Release Template](|filename|../policies/release-template.mdi) and getting IRB approval to give the form to participants. 
-	- However, any language that your [IRB deems equivalent](|filename|grandfathering-data.md) for sharing in Databrary is acceptable. The contributor must warrant they have IRB approval to share their data.
+	- The Databrary Release is not required. Only the local IRB must approve of the language for sharing in Databrary.
+	- In some cases, local IRBs have deemed that certain release language in consents from [previously collected data covers sharing in Databrary](|filename|grandfathering-data.md). 
+	- In any case, the contributor must warrant that they have the necessary IRB approvals (or waivers) to share their data.
 1. Double-check your existing protocol and informed consent/assent documents for data destruction clauses.
 	- Data destruction clauses inherently conflict with the ability to store and share data. Instead, we recommend saying, "data will be stored indefinitely in a secure library on the internet."
 	- There are often misconceptions about the regulations around data destruction. NIH and NSF **do not** require data destruction clauses.
