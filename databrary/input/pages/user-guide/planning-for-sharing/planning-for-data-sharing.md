@@ -33,5 +33,5 @@ First or last names, location information more specific than state, or any conta
 # What else should I know?
 
 * How to [organize and name your data](|filename|organizing-your-data.md) within the Databrary structure.
-* What level of [access](|filename|../contributing-data/sharing-your-data.md) you want to grant the Databrary community and other people in your lab.
+* What level of access you want to grant the Databrary community and other people in your lab.
 * How to [share data you collected in the past](|filename|../releasing-data/grandfathering-data.md)

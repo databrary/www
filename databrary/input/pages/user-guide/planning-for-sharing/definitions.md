@@ -14,10 +14,6 @@ Multiple participants may be observed at a single session (e.g., two siblings ob
 
 ## Required or strongly recommended fields
 
-### Dataset and study names
-
-See [Preparing for Upload](|filename|../contributing-data/preparing-for-upload.md) for more information on the differences between datasets and studies.
-
 ### Test date
 
 The date on which the session occurred.
