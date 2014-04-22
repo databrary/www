@@ -979,7 +979,7 @@ nav.page_sidebar a.parent:hover {
 .carousel .text h1 {
 	display: inline;
 	margin: 0;
-	font-size: 1.4em;
+	font-size: 1.35em;
 }
 
 .carousel .text span {
@@ -1052,6 +1052,10 @@ nav.page_sidebar a.parent:hover {
 	height: auto;
 }
 
+.info_block p {
+	font-size: 0.9em;
+}
+
 /* BLOG */
 
 .articles {
@@ -1071,6 +1075,19 @@ nav.page_sidebar a.parent:hover {
 	font-size: 0.8em;
 	font-style: italic;
 	color: #999;
+}
+
+.article .entry-content {
+	font-size: 0.9em;
+}
+
+.article .entry-content h1,
+.article .entry-content h2,
+.article .entry-content h3,
+.article .entry-content h4,
+.article .entry-content h5,
+.article .entry-content h6 {
+	font-weight: bold;
 }
 
 .article .post-info p {
