@@ -12,15 +12,10 @@ from __future__ import unicode_literals
 import re
 import itertools
 
-try:
-	from markdown import Markdown
-except ImportError:
-	Markdown = False
-
+from markdown import Markdown
 from pelican import signals
 from pelican.readers import MarkdownReader
 from pelican.utils import pelican_open
-
 
 class MarkdownImportReader(MarkdownReader):
 	"""Reader for Markdown Import Files.
