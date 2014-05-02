@@ -1078,7 +1078,7 @@ nav.page_sidebar a.parent:hover {
 }
 
 .hentry .entry-content {
-	font-size: 0.9em;
+	font-size: 0.8em;
 }
 
 .hentry .entry-content h1,
@@ -1194,7 +1194,7 @@ nav.page_sidebar a.parent:hover {
 }
 
 /* TEAM */
-.page_community_team .entry-content h2 {
+.page_about_team .entry-content h2 {
 	margin: 56px 0;
 	border-top: 1px solid #d1cac4;
 	border-bottom: 1px solid #d1cac4;
@@ -1207,15 +1207,15 @@ nav.page_sidebar a.parent:hover {
 	text-align: center;
 }
 
-.page_community_team .entry-content h2:first-of-type {
+.page_about_team .entry-content h2:first-of-type {
 	margin-top: 0;
 }
 
-.page_community_team .entry-content .profile {
+.page_about_team .entry-content .profile {
 	margin-bottom: 28px;
 }
 
-.page_community_team .entry-content .profile .avatar {
+.page_about_team .entry-content .profile .avatar {
 	padding: 7px;
 	border: 1px solid #d1cac4;
 	-webkit-border-radius: 7px;
@@ -1223,7 +1223,7 @@ nav.page_sidebar a.parent:hover {
 	border-radius: 7px;
 }
 
-.page_community_team .entry-content .profile h1 {
+.page_about_team .entry-content .profile h1 {
 	font-size: 1.2em;
 	color: #3ea938;
 	border-bottom: 0;
@@ -1231,13 +1231,13 @@ nav.page_sidebar a.parent:hover {
 	margin: 0;
 }
 
-.page_community_team .entry-content .profile .position {
+.page_about_team .entry-content .profile .position {
 	font-family: 'SofiaProMedium', Helvetica, Verdana, sans-serif;
 	text-transform: uppercase;
 	font-size: 0.9em;
 }
 
-.page_community_team .entry-content .profile ul.info {
+.page_about_team .entry-content .profile ul.info {
 	font-size: 0.9em;
 	line-height: 1.2;
 	list-style: none;
@@ -1245,33 +1245,33 @@ nav.page_sidebar a.parent:hover {
 	margin: 7px 0 0;
 }
 
-.page_community_team .entry-content .profile ul.info li {
+.page_about_team .entry-content .profile ul.info li {
 	margin-bottom: 7px;
 }
 
-.page_community_team .entry-content .profile ul.info img {
+.page_about_team .entry-content .profile ul.info img {
 	vertical-align: bottom;
 	position: relative;
 	top: -2px;
 	margin-right: 5px;
 }
 
-.page_community_team .entry-content .profile ul.email a {
+.page_about_team .entry-content .profile ul.email a {
 	color: #ccc;
 }
 
-.page_community_team .entry-content .column_mini {
+.page_about_team .entry-content .column_mini {
 	float: left;
 	width: 200px;
 	margin-right: 16px;
 }
 
-.page_community_team .entry-content .column_small {
+.page_about_team .entry-content .column_small {
 	float: left;
 }
 
 /* TEAM STAFF */
-.page_community_team .entry-content dl dt {
+.page_about_team .entry-content dl dt {
 	font-weight: bold;
 	font-size: 1.2em;
 	color: #70A960;
@@ -1280,11 +1280,11 @@ nav.page_sidebar a.parent:hover {
 	margin: 14px 0 0;
 }
 
-.page_community_team .entry-content dl dt:first-of-type {
+.page_about_team .entry-content dl dt:first-of-type {
 	margin-top: 0;
 }
 
-.page_community_team .entry-content dl dd {
+.page_about_team .entry-content dl dd {
 	font-size: 0.9em;
 	margin-bottom: 0;
 	margin-left: 0;
@@ -2019,14 +2019,14 @@ body {
 	color: #999;
 }
 
-.page_community_team .entry-content .profile ul.email a {
+.page_about_team .entry-content .profile ul.email a {
 	color: #ccc;
 }
 
 .site_main a,
 .article .event-date time,
 .carousel .text span,
-.page_community_team .entry-content h2 {
+.page_about_team .entry-content h2 {
 	color: #D68D5C;
 }
 
@@ -2034,8 +2034,8 @@ body {
 	color: #EBC6AD;
 }
 
-.page_community_team .entry-content .profile h1,
-.page_community_team .entry-content dl dt,
+.page_about_team .entry-content .profile h1,
+.page_about_team .entry-content dl dt,
 .event h3 a,
 .info_block h2 a,
 .info_block h3 a {
@@ -2128,7 +2128,7 @@ code {
 	border-bottom-color: #333;
 }
 
-.page_community_team .entry-content .profile .avatar,
+.page_about_team .entry-content .profile .avatar,
 div.note,
 .site_header li ul,
 .getit,
@@ -2141,14 +2141,14 @@ textarea {
 }
 
 .site_main .trail,
-.page_community_team .entry-content h2,
+.page_about_team .entry-content h2,
 div.admonition,
 .site_main h2.special_head,
 .site_footer {
 	border-top-color: #ccc;
 }
 
-.page_community_team .entry-content h2,
+.page_about_team .entry-content h2,
 div.admonition,
 .site_header,
 .site_main h2.special_head,

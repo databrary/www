@@ -113,7 +113,7 @@ Order: 1200
 </article>
 
 # Staff
- 
+
 Jon Coe
 : Web Developer
 :	<img src="/theme/img/social/email.png"> [jon@databrary.org](mailto:jon@databrary.org "Email Jon Coe")
@@ -125,12 +125,12 @@ Michael Continues
 Vicky Foo
 : Databrary and Datavyu Quality Assurance
 :	<img src="/theme/img/social/email.png"> [vicky@databrary.org](mailto:vicky@databrary.org "Email Vicky Foo")
-: 212-998-6101
+:  212-998-6101
 
 Dylan Simon
 : Systems Architect 
 :	<img src="/theme/img/social/email.png"> [dylan@databrary.org](mailto:dylan@databrary.org "Email Dylan Simon")
-:  212-998-7605
+:  212-998-5417
 
 Lisa Steiger
 : Community Liaison and Project Manager
