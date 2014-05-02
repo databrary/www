@@ -1,7 +1,7 @@
 Title: Our Team
 Brief: Team
-Slug: community/team
-Order: 2300
+Slug: about/team
+Order: 1200
 
 # Principal Investigators
 
@@ -113,10 +113,6 @@ Order: 2300
 </article>
 
 # Staff
-
-Andrea Byrne
-: Data Curator
-:	<img src="/theme/img/social/email.png"> [andrea@databrary.org](mailto:andrea@databrary.org "Email Andrea Byrne")
  
 Jon Coe
 : Web Developer
@@ -129,6 +125,7 @@ Michael Continues
 Vicky Foo
 : Databrary and Datavyu Quality Assurance
 :	<img src="/theme/img/social/email.png"> [vicky@databrary.org](mailto:vicky@databrary.org "Email Vicky Foo")
+: 212-998-6101
 
 Dylan Simon
 : Systems Architect 

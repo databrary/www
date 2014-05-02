@@ -1,5 +1,5 @@
 Title: User Guide
-Brief: User Guide
+Brief: Resources
 Slug: user-guide
 Order: 3000
 
