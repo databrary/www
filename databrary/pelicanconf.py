@@ -19,4 +19,5 @@ OUTPUT_RETENTION = ('irclogs', 'policies', 'awstats', 'awstats.cgi', 'bugs')
 
 STATIC_PATHS.extend([
 	'policies',
+	'internal'
 ])
