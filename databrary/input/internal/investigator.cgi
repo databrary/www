@@ -24,7 +24,7 @@ def fail(msg="", status=400):
     sys.exit(1)
 
 with open(path.expanduser("~/.fillin.key"), "rb") as f:
-    check = hmac.new(f.read(), digestmod=hashlib.sha224)
+    check = hmac.new(f.read(), digestmod=hashlib.sha256)
 
 form = cgi.FieldStorage()
 def field(k):
