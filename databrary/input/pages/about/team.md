@@ -130,7 +130,7 @@ Vicky Foo
 Dylan Simon
 : Systems Architect 
 :	<img src="/theme/img/social/email.png"> [dylan@databrary.org](mailto:dylan@databrary.org "Email Dylan Simon")
-:   212-998-6101
+:   212-992-6101
 
 Lisa Steiger
 : Community Liaison and Project Manager
