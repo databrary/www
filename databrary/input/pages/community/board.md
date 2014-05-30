@@ -85,10 +85,6 @@ Peter Molenaar
 : Distinguished Professor of Human Development and Psychology
 : The Pennsylvania State University
 
-Sarah Morrow
-:	Privacy Manager, Office of Risk Management
-:	The Pennsylvania State University
-
 Brian Nosek
 : Associate Professor of Psychology
 : University of Virgina 
