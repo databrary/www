@@ -3,6 +3,9 @@ Brief: About
 Slug: about
 Order: 1000
 
+
+Databrary is federally funded by the NSF and the NIH to create a library for sharing video and metadata for developmental and behavioral research.
+
 Most developmental scientists rely on video recordings to capture the complexity and richness of behavior. However, researchers rarely share video data, and this has impeded scientific progress. By creating the cyber-infrastructure and community to enable open video sharing, the Databrary project aims to facilitate deeper, richer, and broader understanding of behavior.
 
 The Databrary project includes:
