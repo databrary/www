@@ -12,4 +12,4 @@ Users must agree to the provisions of  the [Databrary Investigator Agreement](|f
 Data can only be shared if they have been: (a) released by the participants for sharing in Databrary and (b) made available for sharing by the contributing researcher.
 
 
-Databrary is governed by a set of [standard operating procedures](|filename|../policies/standard-operating-procedures.mdi) (SOPs). You can find all our policy documents in our [Policies](|filename|policies/policies.md) section.
+Databrary is governed by a set of [standard operating procedures](|filename|policies/standard-operating-procedures.mdi) (SOPs). You can find all our policy documents in our [Policies](|filename|policies/policies.md) section.
