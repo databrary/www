@@ -76,7 +76,8 @@ datavyu/input/docs/user-guide.pdf: ../datavyu-docs/.git/refs/heads/master
 $(datavyu_files): ../datavyu/.git/refs/heads/master
 databrary/input/policies: ../policies/.git/refs/heads/master
 	$(MAKE) -C ../policies all
-	ln -sfT ../../../policies/doc $@
+	rm -f $@
+	ln -sf ../../../policies/doc $@
 
 clean:
 	rm -rf output
