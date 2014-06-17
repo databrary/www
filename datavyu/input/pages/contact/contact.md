@@ -10,6 +10,7 @@ For troubleshooting and technical assistance, please visit the [support forum](/
 # General inquiries
 
 Contact us at info@datavyu.org or 212-998-5417 for more information about Datavyu.
+Email and the support forum are the best ways to reach us. 
 
 # Databrary
 
