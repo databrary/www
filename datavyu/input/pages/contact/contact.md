@@ -7,9 +7,10 @@ Order: 5000
 
 For troubleshooting and technical assistance, please visit the [support forum](/support/).
 
-# Email
-Contact us at info@datavyu.org for more information about Datavyu.
+# General inquiries
 
-# Contact Databrary
+Contact us at info@datavyu.org or 212-998-5417 for more information about Datavyu.
+
+# Databrary
 
 For other inquiries, [contact the Databrary project](http://databrary.org/contact.html).
