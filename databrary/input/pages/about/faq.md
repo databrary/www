@@ -1,7 +1,7 @@
 Title: Frequently Asked Questions
 Brief: F.A.Q.
 Slug: about/faq
-Order: 1300
+Order: 1600
 
 <section class="question">
 	<h2>What is Databrary?</h2>

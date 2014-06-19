@@ -17,12 +17,15 @@ Achieving these goals requires that we create and maintain a community that embo
 Databrary is governed by a set of [standard operating procedures](|filename|standard-operating-procedures.mdi) (SOPs). Individuals who wish to have full access must apply for authorized Investigator or Affiliate Investigator status.
 Only researchers who demonstrate knowledge of the principles of research ethics with human participants and who agree to the provisions of Databrary's [Investigator Agreement](|filename|investigator-agreement.mdi) will be granted access.
 
-Databrary is accepting applications for Investigator or Affiliate Investigator status.
-The following documents may be useful to researchers considering whether to apply or when preparing an application to a research superivision entity (e.g., IRB) for approval to share with Databrary:
+The following documents may be useful to researchers considering whether to apply or when preparing an application for funding or an IRB for approval to share with Databrary:
 
-- [Databrary Standard Operating Procedures (SOPs)](|filename|standard-operating-procedures.mdi), [.pdf](/policies/standard-operating-proceedures.pdf)
-- [Databrary Investigator Agreement](|filename|investigator-agreement.mdi), [.pdf](/policies/investigator-agreement.pdf)
-- Permission to Share Template, [.docx](/policies/release-template.docx), [.pdf](/policies/release-template.pdf)
+Template [Data Management Plan](|filename|dmp-template.mdi)
+
+Databrary [Standard Operating Procedures (SOPs)](|filename|standard-operating-procedures.mdi), [.pdf](/policies/standard-operating-proceedures.pdf)
+
+Databrary [Investigator Agreement](|filename|investigator-agreement.mdi), [.pdf](/policies/investigator-agreement.pdf)
+
+Databrary Release Template, [.docx](/policies/release-template.docx), [.pdf](/policies/release-template.pdf)
 
 ----
 

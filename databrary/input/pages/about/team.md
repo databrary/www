@@ -1,7 +1,7 @@
 Title: Our Team
 Brief: Team
-Slug: community/team
-Order: 2300
+Slug: about/team
+Order: 1200
 
 # Principal Investigators
 
@@ -125,12 +125,12 @@ Michael Continues
 Vicky Foo
 : Databrary and Datavyu Quality Assurance
 :	<img src="/theme/img/social/email.png"> [vicky@databrary.org](mailto:vicky@databrary.org "Email Vicky Foo")
-:  212-992-6101
+:  212-998-5417
 
 Dylan Simon
 : Systems Architect 
 :	<img src="/theme/img/social/email.png"> [dylan@databrary.org](mailto:dylan@databrary.org "Email Dylan Simon")
-:  212-998-5417
+:   212-992-6101
 
 Lisa Steiger
 : Community Liaison and Project Manager

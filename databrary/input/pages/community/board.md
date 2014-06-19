@@ -1,7 +1,7 @@
 Title: Advisory Board
 Brief: Board
 Slug: community/board
-Order: 2500
+Order: 4100
 
 David Ackerman
 :	Executive Director of Digital Library Technology Services
@@ -84,10 +84,6 @@ Dan Messinger
 Peter Molenaar
 : Distinguished Professor of Human Development and Psychology
 : The Pennsylvania State University
-
-Sarah Morrow
-:	Privacy Manager, Office of Risk Management
-:	The Pennsylvania State University
 
 Brian Nosek
 : Associate Professor of Psychology
