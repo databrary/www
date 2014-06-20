@@ -8,9 +8,10 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * New York University
 * Penn State University
 * University of Rochester
-* Rutgers
+* Rutgers University
 * Indiana University
 * University of Virginia
 * University of Winsconsin-Madison
 * College of William and Mary
 * University of Michigan 
+* University of Chicago
