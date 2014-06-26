@@ -597,38 +597,6 @@ ul.inline li {
 	}
 }
 
-
-
-/*@media (max-width: 920px) {*/
-	/*.carousel .text {*/
-		/*padding: 14px 21px;*/
-	/*}*/
-
-	/*.carousel .text h1 {*/
-		/*font-size: 1.2em;*/
-	/*}*/
-/*}*/
-
-/*@media (max-width: 800px) {*/
-	/*.carousel .text {*/
-		/*padding: 7px 14px;*/
-	/*}*/
-
-	/*.carousel .text h1 {*/
-		/*font-size: 1em;*/
-	/*}*/
-/*}*/
-
-/*@media (max-width: 680px) {*/
-	/*.carousel .text {*/
-		/*padding: 4px 7px;*/
-	/*}*/
-
-	/*.carousel .text h1 {*/
-		/*font-size: .8em;*/
-	/*}*/
-/*}*/
-
 /* SITE HEADER */
 .site_header {
 	border-bottom: 1px solid #ccc;
@@ -950,7 +918,7 @@ nav.page_sidebar a.parent:hover {
 	width: 100%;
 	height: 477px;
 	overflow: hidden;
-	margin-bottom: 56px;
+	margin-bottom: 42px;
 }
 
 .carousel .panels {
