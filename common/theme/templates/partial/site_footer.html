@@ -8,7 +8,9 @@
 					<li>Stay informed with <a href="http://databrary.org/contact/newsletter.html">our newsletter</a>!</li>
 				</ul>
 			</nav>
-
+			{% if not SITEURL.count("datavyu") %}
+			<p>See our project <a href="http://www.datavyu.org">Datavyu</a></p>
+			{% endif %}
 			<aside class="footer_social half">
 				<p>Find us on
 					<a href="https://www.facebook.com/pages/Databrary/185349568273416" target="_blank" class="img"><img id="facebook" src="http://databrary.org/theme/img/social/facebook.png" alt="Facebook"></a>,
