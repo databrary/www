@@ -1,11 +1,13 @@
 <section id="site_toolbar" class="site_toolbar">
 	<div class="wrap">
+		{% if TOPRIGHT_TEXT %}
 		<nav class="toolbar_user">
-			<a href="{{ TOPRIGHT_TARGET}} ">{{ TOPRIGHT_TEXT }}</a>
+			<a href="{{TOPRIGHT_TARGET}} ">{{TOPRIGHT_TEXT}}</a>
 		</nav>
+		{% endif %}
 
 		<h1>
-			<a href="https://www.databrary.org" title="Databrary: An Open Data Library"><img src="https://www.databrary.org/theme/img/logo/databrary-nav.png" alt"Databrary: An Open Data Library for Developmental Science"></a>
+			<a href="https://www.databrary.org" title="Databrary: An Open Data Library"><img src="https://www.databrary.org/theme/img/logo/databrary-nav.png" alt="Databrary: An Open Data Library for Developmental Science"></a>
 		</h1>
 	</div>
 </section>
