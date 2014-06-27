@@ -8,9 +8,9 @@
 					<li>Stay informed with <a href="http://databrary.org/contact/newsletter.html">our newsletter</a>!</li>
 				</ul>
 				{% if SITESLUG != 'datavyu' %}
-				<figure class="footer_fig"><a href="http://www.datavyu.org" title="Datavyu: Data coding and visualization tool"><img src="http://www.datavyu.org/theme/img/logo/datavyu-nav.png" alt="Datavyu" /></a><figcaption>Video coding and data visualization tool</figcaption></figure>
+				<figure class="footer_fig"><a href="{{PROJECTS[1][1]}}" title="Datavyu: Data coding and visualization tool"><img src="http://datavyu.org/theme/img/logo/datavyu-nav.png" alt="Datavyu" /></a><figcaption>Video coding and data visualization tool</figcaption></figure>
 				{% else %}
-				<figure class="footer_fig"><a href="https://www.databrary.org" title="Databrary: An Open Data Library for Developmental Science"><img src="https://www.databrary.org/theme/img/logo/databrary-nav.png" alt="Databrary" /></a><figcaption>An Open Data Library for Developmental Science</figcaption></figure>
+				<figure class="footer_fig"><a href="{{PROJECTS[0][1]}}" title="Databrary: An Open Data Library for Developmental Science"><img src="http://databrary.org/theme/img/logo/databrary-nav.png" alt="Databrary" /></a><figcaption>An Open Data Library for Developmental Science</figcaption></figure>
 				{% endif %}
 			</nav>
 			<aside class="footer_social half">
