@@ -116,15 +116,12 @@ Order: 1200
 
 Jon Coe
 : Web Developer
-:	<img src="/theme/img/social/email.png"> [jon@databrary.org](mailto:jon@databrary.org "Email Jon Coe")
 
 Michael Continues
 : UI/UX Developer
-:	<img src="/theme/img/social/email.png"> [mike@databrary.org](mailto:mike@databrary.org "Email Michael Continues")
 
 Vicky Foo
 : Databrary and Datavyu Quality Assurance
-:	<img src="/theme/img/social/email.png"> [vicky@databrary.org](mailto:vicky@databrary.org "Email Vicky Foo")
 :  212-998-5417
 
 Dylan Simon
