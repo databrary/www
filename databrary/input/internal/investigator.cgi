@@ -55,6 +55,7 @@ pd.close()
 
 msg["To"] = fields['mail']
 msg["Subject"] = "Databrary investigator agreement for " + fields['name']
+msg.add_header('content-disposition', 'attachment', filename=fields['name']+'.pdf')
 
 mail = subprocess.Popen(['sendmail','-i',fields['mail']], stdin=subprocess.PIPE)
 BytesGenerator(mail.stdin, False).flatten(msg)
