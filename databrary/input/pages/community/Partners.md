@@ -5,13 +5,14 @@ Order: 4300
 
 The following Institutions have signed the Databrary Investigator agreement and are now our partner institutions:
 
+* College of William and Mary
+* Indiana University
 * New York University
 * Penn State University
-* University of Rochester
 * Rutgers University
-* Indiana University
+* University of Chicago
+* University of Michigan 
+* University of Rochester
+* University of Texas at Austin
 * University of Virginia
 * University of Wisconsin-Madison
-* College of William and Mary
-* University of Michigan 
-* University of Chicago
