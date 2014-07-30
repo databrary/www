@@ -5,12 +5,14 @@ Order: 4300
 
 The following Institutions have signed the Databrary Investigator agreement and are now our partner institutions:
 
+* Birkbeck, University of London
 * College of William and Mary
 * Indiana University
 * New York University
 * Penn State University
 * Rutgers University
 * University of Chicago
+* University of Georgia
 * University of Michigan 
 * University of Rochester
 * University of Texas at Austin
