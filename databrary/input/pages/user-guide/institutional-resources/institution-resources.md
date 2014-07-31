@@ -5,17 +5,27 @@ Order: 3900
 
 Databrary is a data library intended to foster sharing of data, specifically video, within developmental science. We are jointly-funded by NSF and NIH. Since video data is inherently identifiable, we require that all users get authorized by their institution to access any of the shared data on Databrary. 
 
-In short, our three guiding principles for Databrary investigators are as follows:
+Our three guiding principles for Databrary investigators are as follows:
 
 1. Databrary investigators are responsible for getting participant permission levels correct. They must ensure that participants' wishes are respected in the data they contribute.
 2. Databrary investigators must treat other researchers' data with the same respect, security, and ethical commitment as their own.
 3. Databrary investigators must take care in authorizing other people (affiliates and collaborators) and are responsible for their conduct and use of Databrary data, just as they are in their own labs.
+
 
 ## How is Databrary different from other data archives or repositories?
 
 ### The Databrary Investigator Agreement combines data use and data contribution
 
 Many data repositories require that data use agreements be signed prior to access. Most data repositories have a separate agreement associated with data contribution. Databrary has combined these into one agreement. Most behavioral scientists do not currently share data. Databrary seeks to reduce barriers to data sharing to make it the norm, not the exception. Combining data use and contribution into one agreement reduces procedural or administrative barriers to data sharing. This is in keeping with Federal mandates to share research data and emerging practices related to openness in scientific research.
+
+A few things to keep in mind about the Databrary Investigator Agreement:
+
+1. The Databrary agreement is new and perhaps unique in combining both data use and contribution provisions. That is by design, as we have been charged to lower barriers to data sharing, and we think that combining the agreements helps achieve that end.
+
+2. Databrary contains metadata that are not sensitive, de-identified data, and identifiable data (e.g. videos with faces). All identifiable data in the library have been shared with the explicit permission of the people depicted. The Databrary agreement is intended to formalize the obligations by the scientists who will view, browse, download, analyze, or contribute data. Those obligations include not to misuse the information, not to identify the participants, and to seek approval when a specific use case requires it.
+
+3. What kinds of Databrary use cases require a specific IRB protocol is really a local decision. There are many "pre-research" and teaching use cases that may not require IRB approval. 
+
 
 ### Video enables use cases that extend beyond research
 
