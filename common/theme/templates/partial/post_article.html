@@ -22,8 +22,9 @@
 			<footer class="post-info">
 				<p>{{ article.category|capitalize }}, posted <time class="published" pubdate="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>. 
 				{% if output_file.find('post/') != 0 %}
-					<a href="{{ SITEURL }}/{{ article.url }}">Read more...</a></p>
+					<a href="{{ SITEURL }}/{{ article.url }}">Read more...</a>
 				{% endif %}
+				</p>
 			</footer>
 		</div>
 
