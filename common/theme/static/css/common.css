@@ -1585,8 +1585,8 @@ em.xref {
 }
 
 .getit {
-	margin: 28px 56px;
-	padding: 14px 21px;
+	margin: 28px 20px;
+	padding: 9px 21px;
 	border: 1px solid #ddd;
 	font-size: 0.8em;
 	-moz-box-shadow: 2px 2px 4px #F6F6F6;
