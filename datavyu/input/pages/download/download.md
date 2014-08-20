@@ -21,8 +21,8 @@ Most people should use the latest stable release, but you can also download [old
 
 # Tools
 
-We suggest coding with a keyboard or a USB keypad to take advantage of Datavyu's Data Viewer Controller. The Controller
-maps onto the keyboard and allows users to navigate swiftly and easily through a data source. 
+We suggest coding with an extended keyboard or a USB numpad to take advantage of Datavyu's Data Viewer Controller. The Controller
+maps onto the numpad and allows users to navigate swiftly and easily through a data source. 
 
 # Plugins
 
