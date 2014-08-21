@@ -54,7 +54,7 @@
 
 <div id="posts" class="cf posts">
     <section id="articles" class="col_with_nav articles">
-        {% for article in articles_page.object_list if not article.event %}
+        {% for article in articles_page.object_list if article.category != 'event' %}
         	{% include 'partial/post_article.html' %}
         {% endfor %}
 
