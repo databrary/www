@@ -1,4 +1,4 @@
-Title: Databrary Advisory Board meeting Fall 2014 
+Title: Fall Advisory Board Meeting 
 Category: event
 Event: October 17, 2014
 
