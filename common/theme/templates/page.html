@@ -16,7 +16,7 @@
 				</div>
 			{% endif %}
 
-            {%if 'sphinx' not in page.display %}
+            {% if 'sphinx' not in page.display %}
 				{{ page.content }}
             {% else %}
 				{{ page.content|sphinx('content')|replace('tt>', 'code>')|replace('<tt', '<code') }}
