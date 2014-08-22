@@ -22,15 +22,14 @@ Are you a passionate UX guru who dreams of designing a fresh and usable interfac
 - Understanding of relational data, and ethical concerns around sensitive information
 - Experience with scientific practices and research data in any empirical field
 
-### Preferred
+## Preferred
 
 - Familiarity with git and standard UNIX development tools
 - Experience with JavaScript (jQuery), and perhaps AngularJS or related MVC framework
 - History with research tools such as Matlab, SPSS, or R
 
-## To apply
-
-Send the following to jobs@databrary.org:
+# To apply
+## Send the following to jobs@databrary.org:
 
 - One page cover letter (PDF)
 - Resume (PDF)

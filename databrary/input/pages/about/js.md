@@ -24,7 +24,7 @@ Databrary seeks flexible and motivated JavaScript superhero to take ownership of
 - Understanding of security and ethical concerns around sensitive data
 - 3+ years of programming experience
 
-### Preferred
+## Preferred
 
 - History of contributions to open source projects
 - Comfortable with discussing and addressing UX/UI design issues 
@@ -32,9 +32,8 @@ Databrary seeks flexible and motivated JavaScript superhero to take ownership of
 - Familiarity with scientific practices and research tools, such as Matlab, SPSS, or R
 - Background in CS or other relevant field
 
-## To apply
-
-Send the following to jobs@databrary.org:
+# To apply
+## Send the following to jobs@databrary.org:
 
 - One page cover letter (PDF)
 - Resume (PDF)
