@@ -1,4 +1,4 @@
-Title: Databrary at Michigan University
+Title: Databrary at Michigan
 Category: event
 Event: November 20-21, 2014
 
