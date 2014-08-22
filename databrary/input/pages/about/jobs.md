@@ -10,35 +10,13 @@ The overall goal is to accelerate the pace of discovery, improve scientific tran
 
 We are growing a team to design and build new open source solutions for science using the latest technologies.
 
-# Web Developer
+If you relish the challenge of building a uniquely powerful set of [open-source](https://github.com/databrary) research tools with a tight-knit team in a diverse and intellectually stimulating environment, contact us immediately!
 
-The Databrary project seeks a motivated and flexible developer to help build a unique web-based data library.
-You will work with users and a small group of developers to design and build the front end UI and back end tools to enable behavioral researchers to collaborate, store, explore, and access research datasets in ways not possible with any existing tool.
+Current openings:
 
-The ideal candidate will relish the challenge of building a uniquely powerful set of research tools while working on a small team in a diverse and intellectually stimulating academic environment.
+[Front-end web developer](|filename|js.md)
 
-## Responsibilities
-
-- Implement dynamic, modular, and responsive web interfaces to organize, present, and manipulate research materials.
-- Design, implement, test, and validate JavaScript across browsers and platforms.
-- Integrate feedback from UI experts and researchers (users) to identify and prioritize new features.
-- Learn, understand, and reorganize research data as needed for better integration with the site.
-
-## Qualifications
-
-- Background in CS or other relevant field and 3+ years programming experience
-- Knowledge of AngularJS or other modern web application frameworks
-- Extensive experience with jQuery, JSON, HTML5, and CSS3
-- Familiarity with standard UNIX development tools such as git
-- Understanding of security and ethical concerns around sensitive data
-
-### Preferred
-
-- History of contributions to open source projects
-- Comfortable with discussing and addressing UX/UI design issues
-- Experience using RESTful interfaces for structured data
-- Sensitive to performance considerations building big data interfaces
-- Basic understanding of scientific practices and research tools, such as Matlab, SPSS, or R
+[UX/UI designer](|filename|ux.md)
 
 # To apply
 
