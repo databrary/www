@@ -24,7 +24,7 @@ Most people should use the latest stable release, but you can also download [old
 We suggest coding with an extended keyboard or a USB numpad to take advantage of Datavyu's Data Viewer Controller.
 The Controller maps onto the numpad and allows users to navigate swiftly and easily through a data source. 
 
-Please feel free to use our [coding example](http://datavyu.org/user-guide/_downloads/DatavyuSample.zip) to practice coding with a sample video and corresponding spreadsheet.
+Please feel free to use our [coding example](/user-guide/_downloads/DatavyuSample.zip) to practice coding with a sample video and corresponding spreadsheet.
 See how to observe specific behaviors and mark them in Datavyu.
 
 # Plugins
