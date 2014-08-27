@@ -14,7 +14,6 @@ If you relish the challenge of building a uniquely powerful set of [open-source]
 
 # Current openings:
 # [Front-end web developer](|filename|js.md)
-# [UX/UI designer](|filename|ux.md)
 
 # To apply
 ### Send the following to jobs@databrary.org:
