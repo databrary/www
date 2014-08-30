@@ -13,6 +13,7 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * Penn State University
 * Rutgers University
 * Temple University
+* Tulane University
 * University of Chicago
 * University of Georgia
 * University of Michigan 
