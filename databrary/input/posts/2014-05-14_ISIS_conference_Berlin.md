@@ -1,4 +1,4 @@
-Title:ISIS conference in Berlin 
+Title: ISIS conference in Berlin 
 Category: Conferences
 
 Databrary will be hosting an exhibit booth at the International Society on Infant Studies in Berlin 
