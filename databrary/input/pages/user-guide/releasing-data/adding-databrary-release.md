@@ -10,7 +10,7 @@ It clearly explains to people depicted in recordings or photographs what it woul
 
 The template is **completely** adaptable. Researchers may modify it as appropriate to suit the needs of their project. 
 Databrary does not need to approve changes to the template: only the home IRB must approve the version that is given to participants.
-You can read more about the [release process](|filaname|obtaining-participant-permissions.md) in order to inform your decisions about how to adapt the template to your needs.
+You can read more about the [release process](|filename|obtaining-participant-permissions.md) in order to inform your decisions about how to adapt the template to your needs.
 
 ## Technical assistance
 

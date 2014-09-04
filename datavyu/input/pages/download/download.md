@@ -7,17 +7,25 @@ Order: 2000
 
 - [Windows](/releases/Datavyu-Windows-latest.zip)
 - [Mac OS X](/releases/Datavyu-OSX-latest.zip)
-- System requirements: Java 1.6 or higher, at least 1GB RAM, 1.2 GHz processor.
+- System requirements: Java 1.6 or higher, at least 1GB RAM, 1.2 GHz processor for Macs and 2.67 GHz for Windows.
 
 # Development Release: %%datavyu-version-pre%%
 
 - [Windows](/releases_pre/Datavyu-Windows-latest.zip)
 - [Mac OS X](/releases_pre/Datavyu-OSX-latest.zip)
-- System requirements: Java 1.6 or higher, at least 1GB RAM, 1.2 GHz processor.
+- System requirements: Java 1.6 or higher, at least 1GB RAM, 1.2 GHz processor for Macs and 2.67 GHz for Windows.
 
 # Older Releases
 
 Most people should use the latest stable release, but you can also download [older releases](/releases/) or [unstable versions](/releases_pre/).
+
+# Tools
+
+We suggest coding with an extended keyboard or a USB numpad to take advantage of Datavyu's Data Viewer Controller.
+The Controller maps onto the numpad and allows users to navigate swiftly and easily through a data source. 
+
+Please feel free to use our [coding example](/user-guide/_downloads/DatavyuSample.zip) to practice coding with a sample video and corresponding spreadsheet.
+See how to observe specific behaviors and mark them in Datavyu.
 
 # Plugins
 

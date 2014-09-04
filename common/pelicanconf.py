@@ -22,8 +22,8 @@ DEFAULT_DATE_FORMAT = '%B %d, %Y'
 DEFAULT_METADATA = (('order', '10000'),)
 
 SUMMARY_MAX_LENGTH = 50
-DEFAULT_PAGINATION = 5
-DEFAULT_ORPHANS = 1
+DEFAULT_PAGINATION = 5 
+DEFAULT_ORPHANS = 0
 PAGINATION_PATTERNS = (
 	(1, '{base_name}/', '{base_name}/index.html'),
 	(2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),

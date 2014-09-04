@@ -10,7 +10,7 @@
 	<div class="cf">
 		<div class="entry-content {% if 'wide' not in article.display and output_file.find('post/') == 0 %}col_with_nav{% endif %}">
             {% if article.category == 'event' %}
-                <div class="event-date"><span>Event Date</span>: <time class="published" pubdate="{{ article.date.isoformat() }}">{{ article.locale_date }}</time></div>
+                <div class="event-date"><span>Event Date</span>: <time>{% if article.event %}{{ article.event }}{% else %}{{ article.locale_date }}{% endif %}</time></div>
             {% endif %}
 
 			{% if output_file.find('post/') == 0 %}
@@ -20,7 +20,11 @@
 			{% endif %}
 
 			<footer class="post-info">
-				<p>{{ article.category|capitalize }}, posted <time class="published" pubdate="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>. <a href="{{ SITEURL }}/{{ article.url }}">Read more...</a></p>
+				<p>{{ article.category|capitalize }}, posted <time class="published" pubdate="{{ article.date.isoformat() }}">{{ article.locale_date }}</time>. 
+				{% if output_file.find('post/') != 0 %}
+					<a href="{{ SITEURL }}/{{ article.url }}">Read more...</a>
+				{% endif %}
+				</p>
 			</footer>
 		</div>
 

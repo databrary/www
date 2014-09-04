@@ -7,7 +7,7 @@ Order: 1300
 212-998-5800
 
 # Email:
-Contact us at [contact@databrary.org](mailto:contact@databrary.org "Email Databrary"), or email members of [our team](/community/team.html "Our Team") directly.
+Contact us at [contact@databrary.org](mailto:contact@databrary.org "Email Databrary"), or email members of [our team](/about/team.html "Our Team") directly.
 
 # Mailing address:
 **Databrary**<br/>

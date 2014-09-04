@@ -114,11 +114,11 @@ Order: 1200
 
 # Staff
 
+Gladys Chan
+: UI/UX Designer
+
 Jon Coe
 : Web Developer
-
-Michael Continues
-: UI/UX Developer
 
 Vicky Foo
 : Databrary and Datavyu Quality Assurance
@@ -142,7 +142,6 @@ Lina Wictoren Roy
 ----
 
 <dl>
-<dt>Gladys Chan</dt>
 <dt>John Franchak</dt>
 <dt>Clinton Freeman</dt>
 <dt>Jesse Lingeman</dt>
