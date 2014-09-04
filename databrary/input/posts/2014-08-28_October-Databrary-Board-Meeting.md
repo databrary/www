@@ -1,5 +1,5 @@
 Title: Databrary Fall Advisory Board Meeting 
-Category: Databrary
+Category: Advisory board
 
 The Databrary Fall Advisory Board meeting will be held on October 17th at New York University. The Databrary project will announce new features for the website and exciting news about the plans for the project's future development.
 
