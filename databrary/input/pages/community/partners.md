@@ -9,6 +9,7 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * College of Staten Island, City University of New York
 * College of William and Mary
 * Indiana University
+* McMaster University
 * New York University
 * Penn State University
 * Rutgers University

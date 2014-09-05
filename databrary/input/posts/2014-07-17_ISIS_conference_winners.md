@@ -1,5 +1,5 @@
-Title: ISIS contest winners
-Category: events
+Title: ICIS Berlin contest winners
+Category: conferences
 
 Databrary had a fantastic time at the ICIS conference in Berlin. We are very happy to have met and talked to many of our users and for their great support. We also enjoyed the many interesting and evolving discussions of the project’s future.
 
