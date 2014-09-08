@@ -10,12 +10,21 @@ To choose to share, click on the "edit study" button at the top of the study pag
 
 The two options you will see are: 
 
-**Private**: Share only with collaborators selected below.
+- **Private**: Share only with collaborators selected below.
 
-**Shared**: Share with authorized researchers and selected information with the public.
+- **Shared**: Share with authorized researchers and selected information with the public.
 
-If you keep the data as private, only you and 'collaborators' or people that you've sepcifically granted access to the study will be allowed to access the data.
-Collaborators may be people that work in your lab or colleagues that you are conducting a study with.
-In any case, a collaborator should be someone that would be on your IRB protocol and would be allowed to access the private data.
+If you keep the data as private, only you and and 'collaborators' that you add can view or access the data. 
+A collaborator is someone that has sufficient privileges to access all private data.
+
+You can choose between three levels of access for collaborators:
+ 
+- **Read-only**:
+
+- **Read/write**:
+
+- **Investigator**: 
+
 Note that you can only grant collaborator-type access to the full dataset, including 'private' or unshared data.
-You cannot grant access to only the Databrary-released data through peer-to-peer sharing.
+You cannot grant access to only the Databrary-released data to collaborators through peer-to-peer sharing.
+
