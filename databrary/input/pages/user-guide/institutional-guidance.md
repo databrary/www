@@ -1,16 +1,9 @@
 Title: Guidance for Institutions
 Brief: Guidance for Institutions
-Slug: user-guide/institutional-resources
-Order: 3900
+Slug: user-guide/institutional-guidance
+Order: 2900
 
 Databrary is a data library intended to foster sharing of data, specifically video, within developmental science. We are jointly-funded by NSF and NIH. Since video data is inherently identifiable, we require that all users get authorized by their institution to access any of the shared data on Databrary. 
-
-Our three guiding principles for Databrary investigators are as follows:
-
-1. Databrary investigators are responsible for getting participant permission levels correct. They must ensure that participants' wishes are respected in the data they contribute.
-2. Databrary investigators must treat other researchers' data with the same respect, security, and ethical commitment as their own.
-3. Databrary investigators must take care in authorizing other people (affiliates and collaborators) and are responsible for their conduct and use of Databrary data, just as they are in their own labs.
-
 
 ## How is Databrary different from other data archives or repositories?
 

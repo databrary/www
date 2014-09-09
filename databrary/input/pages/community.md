@@ -3,7 +3,7 @@ Brief: Community
 Slug: community
 Order: 4000
 
-Databrary is not just an archive of developmental science research. It's a community of researchers, developers, and advisors whose aim is to ensure Databrary's efficacy, usability, and endurability.
+Databrary is not just an archive of developmental science research. It's an active community of researchers, developers, and advisors whose aim is to ensure Databrary's efficacy, usability, and endurability.
 
 # Advisory Board
 

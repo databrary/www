@@ -1,7 +1,7 @@
 Title: Join Our Team
 Brief: Jobs
 Slug: about/jobs
-Order: 2000
+Order: 1700
 
 Databrary is a first-of-its-kind web-based data library where scientists who collect and analyze video can store and share their data openly with other researchers.
 The project is based at New York University and Penn State.
