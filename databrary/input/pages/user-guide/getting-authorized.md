@@ -1,7 +1,7 @@
 Title: Getting Authorized
 Brief: Getting Authorized
 Slug: user-guide/getting-authorized
-Order: 3100
+Order: 3300
 
 ## Who can access Databrary?
 

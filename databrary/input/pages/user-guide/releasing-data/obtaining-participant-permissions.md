@@ -1,7 +1,7 @@
 Title: Obtaining Participant Permissions
 Brief: Obtaining Participant Permissions
 Slug: user-guide/releasing-data/obtaining-participant-permissions
-Order: 3330
+Order: 3430
 
 ## Consenting is not releasing 
 
