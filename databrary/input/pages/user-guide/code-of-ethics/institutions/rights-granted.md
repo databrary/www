@@ -1,6 +1,6 @@
-Title: Rights granted to Databrary
-Brief: Rights granted to Databrary
-Order: 2110
+Title: Rights Granted to Databrary
+Brief: Rights Granted to Databrary
+Order: 2120
 
 Institution grants Databrary permission to:
 

@@ -1,6 +1,6 @@
-Title: Responsibilities of Investigators
-Brief: Responsibilities of Investigators
-Order: 2210
+Title: Respecting Participant Release Levels
+Brief: Respecting Release Levels
+Order: 2230
 
 #Abiding by Participant Release Levels
 

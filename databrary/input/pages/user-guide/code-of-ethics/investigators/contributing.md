@@ -1,6 +1,6 @@
-Title: Rights and responsibilities when Contributing Data 
+Title: Rights and Responsibilities when Contributing Data 
 Brief: Contributing
-Order: 2230
+Order: 2210
 
 # Responsibilities of Data Contributors
 
