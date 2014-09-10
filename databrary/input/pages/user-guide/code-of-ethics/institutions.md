@@ -4,9 +4,9 @@ Order: 2100
 
 # Responsibilities of Institutions
 
-Investigators and their Institutions have specific responsibilities in association with Databrary. Additional guidance for Institutions may be found [here](|filename|institutional-guidance.md).
+Investigators and their Institutions have specific responsibilities in association with Databrary. Additional guidance for Institutions may be found [here](|filename|../institutional-guidance.md).
 
-Databrary requires that an applicant for Authorized Investigator status be associated with an Institution. An official with authority to sign on behalf of the Institution must co-sign the [Databrary Access Agreement](|filename|user-guide/policies/investigator-agreement.mdi). In co-signing the Databrary Access Agreement, an Institution agrees to the following:
+Databrary requires that an applicant for Authorized Investigator status be associated with an Institution. An official with authority to sign on behalf of the Institution must co-sign the [Databrary Access Agreement](|filename|../policies/investigator-agreement.mdi). In co-signing the Databrary Access Agreement, an Institution agrees to the following:
 
 ## Qualifications of Authorized Investigators
 
