@@ -27,7 +27,7 @@ In signing the agreement, all *Investigators* promise to seek IRB approval whene
 
 ### Databrary contains *Identifiable Data* for which participants have given permission to share
 
-In order to contribute and share *Identifiable Data* with Databrary, *Investigators* must [get approval](|filename|../releasing-data/releasing-data.md) from the people from whom the *Data* were collected. Databrary has developed a [Release Template](|filename|../policies/release-template.mdi) and recommends it be included in any IRB protocol. But, a given *Institution* may deem other release language to provide equivalent protections. 
+In order to contribute and share *Identifiable Data* with Databrary, *Investigators* must [get approval](|filename|../releasing-data/releasing-data.md) from the people from whom the *Data* were collected. Databrary has developed a [Release Template](|filename|policies/release-template.mdi) and recommends it be included in any IRB protocol. But, a given *Institution* may deem other release language to provide equivalent protections. 
 
 Importantly, people whose identities might be discovered must have given informed consent in order for their data to be shared with other researchers on Databrary.
 
