@@ -2,7 +2,6 @@ Title: Responsibilities of Institutions
 Brief: Responsibilities of Institutions
 Order: 2100
 
-# Responsibilities of Institutions
 
 Databrary requires that an applicant for Authorized Investigator status be associated with an Institution. An official with authority to sign on behalf of the Institution must co-sign the [Databrary Access Agreement](|filename|../policies/investigator-agreement.mdi). In co-signing the Databrary Access Agreement, an Institution agrees to the following:
 

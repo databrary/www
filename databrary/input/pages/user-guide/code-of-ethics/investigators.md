@@ -2,7 +2,6 @@ Title: Responsibilities of Investigators
 Brief: Responsibilities of Investigators
 Order: 2200
 
-
 #Responsibilities of Authorized and Affiliate Investigators
 
 As an Authorized Investigator, I agree to abide by Databrary’s three key ethical principles, which are as follows:
@@ -35,5 +34,3 @@ Identification of other individuals depicted in Recordings violates their privac
 De-Identified Data, Non-Identifiable Data, and Metadata may be combined to identify research participants. De-Identified Data, Non-Identifiable Data, and Metadata may be combined with Recordings to identify individuals or cause them harm or embarrassment. These represent significant risks. 
 
 Accordingly, in order to avoid risks associated with the identification of individuals depicted in recordings, which could potentially cause harm or embarrassment, Authorized Investigators promise to adhere to the following procedures for browsing and downloading, contributing data, and recording sharing permission levels as described below.
-
-[ADD LINKS IN HERE WHEN PAGES ARE COMPLETE]
