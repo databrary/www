@@ -1,6 +1,5 @@
 Title: Common Questions about Sharing Video Data
 Brief: Common Questions
-Slug: user-guide/releasing-data/common-questions
 Order: 3360
 
 ## How can identifiable data that I collect be shared outside of my lab?

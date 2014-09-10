@@ -1,6 +1,5 @@
 Title: Organizing Your Data
 Brief: Organizing Your Data
-Slug: user-guide/contributing/organizing-your-data
 Order: 3430
 
 # Levels of Organization

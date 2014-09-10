@@ -21,6 +21,9 @@ DEFAULT_CATEGORY = 'news'
 DEFAULT_DATE_FORMAT = '%B %d, %Y'
 DEFAULT_METADATA = (('order', '10000'),)
 
+FILENAME_METADATA = '^(?P<date>\d{4}-\d{2}-\d{2})[-_](?P<slug>.*)$'
+PATH_METADATA = '^pages/(?P<slug>.*)\.[a-z]*$'
+
 SUMMARY_MAX_LENGTH = 50
 DEFAULT_PAGINATION = 5 
 DEFAULT_ORPHANS = 0

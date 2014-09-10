@@ -8,7 +8,7 @@ PORT_datavyu=8002
 
 PY=python3
 PELICAN=$(PY) $(shell which pelican)
-PELICANOPTS=
+PELICANOPTS=-v
 
 CONF=pelicanconf.py
 

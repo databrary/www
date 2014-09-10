@@ -1,6 +1,5 @@
 Title: Frequently Asked Questions
 Brief: F.A.Q.
-Slug: about/faq
 Order: 1600
 
 <section class="question">

@@ -1,6 +1,5 @@
 Title: Definitions of Suggested Fields
 Brief: Definitions
-Slug: user-guide/contributing/definitions
 Order: 3450
 
 This section describes the session-level and participant information that is helpful to include with the video files you plan to share in Databrary.
