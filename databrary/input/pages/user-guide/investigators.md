@@ -1,6 +1,6 @@
 Title: Responsibilities of Investigators
 Brief: Responsibilities of Investigators
-Order: 2500
+Order: 2200
 
 
 #Responsibilities of Authorized and Affiliate Investigators
@@ -22,9 +22,9 @@ Furthermore, I acknowledge that my use of the Databrary is contingent on the fol
 - I have read and understand the Databrary Data Sharing Manifesto.
 - I will cite all Databrary resources I use in my scholarly work. Databrary will provide a recommended citation format.
 - I will manage the privileges of Authorized Affiliates whose research I oversee. If I am not eligible to be named or not approved as an Authorized Investigator, I understand that my access privileges may be managed or restricted by the Authorized Investigator who oversees my research.
+- I will use Data exclusively for the purpose of scientific research or education under the auspices of either an academic, research, government, health, or a commercial entity (but in the last case, solely for non-commercial purposes
 
-Authorized Investigators acknowledge that
-Recordings may contain Personally Identifying Information about Depicted Individuals. these may be Research Participants as well as other individuals who are incidentally recorded or photographed. 
+Authorized Investigators acknowledge that Recordings may contain Personally Identifying Information about Depicted Individuals. these may be Research Participants as well as other individuals who are incidentally recorded or photographed. 
 Images and/or voices may be visible or heard and names may be spoken out loud. 
 Images and voices of visitors or other people who are not research participants may be recorded. 
 If a study takes place in a home or other setting, aspects of that home or setting may be recorded. 

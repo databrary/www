@@ -1,11 +1,6 @@
 Title: Definitions of Suggested Fields
 Brief: Definitions
-<<<<<<< HEAD:databrary/input/pages/user-guide/guidance/contributing/definitions.md
-Slug: user-guide/contributing/definitions
 Order: 3550
-=======
-Order: 3450
->>>>>>> staging:databrary/input/pages/user-guide/contributing/definitions.md
 
 This section describes the session-level and participant information that is helpful to include with the video files you plan to share in Databrary.
 Any fields may be left blank to mean the information is unknown, not reported, or unavailable.

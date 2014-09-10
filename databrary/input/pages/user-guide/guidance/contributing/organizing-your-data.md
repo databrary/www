@@ -1,12 +1,6 @@
 Title: Organizing Your Data
 Brief: Organizing Your Data
-<<<<<<< HEAD:databrary/input/pages/user-guide/guidance/contributing/organizing-your-data.md
-Slug: user-guide/contributing/organizing-your-data
 Order: 3530
-=======
-Order: 3430
->>>>>>> staging:databrary/input/pages/user-guide/contributing/organizing-your-data.md
-
 # Levels of Organization
 
 We organize data in terms of what we call **sessions**, **datasets**, and **studies**. You will need to consider how to organize your data within this structure.

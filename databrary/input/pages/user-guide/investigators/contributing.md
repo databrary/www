@@ -1,7 +1,7 @@
 Title: Rights and responsibilities when Contributing Data 
 Brief: Res
 Slug: user-guide/investigators/contributing
-Order: 2720
+Order: 2230
 
 # Responsibilities of Data Contributors
 
