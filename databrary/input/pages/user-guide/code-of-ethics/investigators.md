@@ -2,8 +2,6 @@ Title: Responsibilities of Investigators
 Brief: Responsibilities of Investigators
 Order: 2200
 
-# Responsibilities of Authorized and Affiliate Investigators
-
 Authorized and Affiliate Investigators and their [Institutions](|filename|institutional-guidance.md) have specific responsibilities in association with Databrary. This page describes them.
 
 ## Motivation
@@ -41,41 +39,3 @@ Authorized Investigators agree to complete research ethics training that meets t
 Investigators agree to follow Databrary's Best Practices in Data Security for any information they draw from Databrary or collect to contribute to Databrary.
 
 Investigators agree that they have read and understood the Databrary Bill of Rights, the Databrary Data Sharing Manifesto, and other Databrary policies.
-
-## Affiliate Investigators
-
-Researchers who are not eligible to be named as Authorized Investigators may be granted access privileges as an Affiliate Investigator. Access by Affiliate Investigators is managed or restricted by an Authorized Investigator.
-
-Authorized Investigators assume the responsibility for choosing Affiliate Investigators who meet Databrary's qualifications and who agree to follow Databrary's ethical principles. Authorized Investigators agree to be responsible for the conduct of Affiliate Investigators they select. 
-
-Databrary may deem a researcher qualified for Affiliate Investigator status based on an applicant's track record of scientific accomplishment or on the basis of a written reference from an Authorized Investigator who verifies that an applicant's use of Data will be strictly for the purpose of legitimate scientific research.
-
-## Data use
-
-Investigators agree to use Data exclusively for the purpose of scientific research or education under the auspices of either an academic, research, government, health, or a commercial entity (but in the last case, solely for non-commercial purposes).
-
-Investigators agree to cite all Databrary resources they use in their scholarly work. Databrary will provide a recommended citation format.
-
-## Data contribution
-
-Investigators understand that Databrary encourages them to share as broadly as possible the products of their scientific work, including Metadata, links to publications resulting from Data, coding manuals, coding spreadsheets, lab notebooks, analysis code, figures, manuscripts that are not copyrighted, and other materials. 
-
-Investigators agree to exercise professional judgment in determining what Data to share.
-
-Investigators agree that they have rights to share with Databrary any Data they contribute; no other entity or individual has ownership rights that prevent an Investigator from contributing Data to Databrary.
-
-Investigators agree to grant Databrary rights with respect to Data an Investigator contributes. These rights include redistribute the Data in Databrary in accordance with an Investigator's wishes and the permissions chosen by Depicted Individuals; promote and advertise the Data; describe, catalog, validate and document Data; store, translate, copy or re-format the Data in any way to ensure its future preservation and accessibility; incorporate Metadata or documentation; and assist others with questions about the Data.
-
-Investigators may, but are not required to contribute Data to Databrary. Investigators may decide whether to share, when to share, and with whom they want to share within the parameters defined by Databrary. Investigators may share only among members of an approved research protocol, with selected Databrary Investigators, with all authorized Databrary Investigators, or with the public.
-
-Databrary will store an Investigator's Data regardless of what an Investigator decides about sharing, and Databrary will make the Data available according to the designations the Investigator has elected pursuant to Databrary's polices and procedures and the Sharing Permission Level granted by Depicted Individuals or Research Participants. However, Databrary reserves the right to limit the amount or kind of Data stored without charge and the level of service provided. Data that can be and are shared with all Databrary Investigators will have priority for storage and processing resources.
-
-Investigators may change or revoke at any time the rights other Databrary Investigators have to access Data the Investigator has contributed. Investigators understand that Databrary cannot guarantee that Data previously shared can be retrieved.
-
-## Violations
-
-Investigators agree that Databrary may revoke access to Data that pose a risk of violating confidentiality, harm or embarrass individuals, or create other ethical problems. Databrary may also revoke access to Databrary for ethics violations by any person.
-
-## Disclaimer
-
-Investigators understand that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it. Investigators indemnify and render harmless Databrary, New York University, and The Pennsylvania State University against any actions at law or in equity or in similar courts of any jurisdictions arising from violations of any of these points.

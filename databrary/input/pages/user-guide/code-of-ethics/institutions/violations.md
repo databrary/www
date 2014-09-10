@@ -9,3 +9,7 @@ The Institution agrees to inform Databrary of any suspected violation of confide
 Any violation may be reported to the Institution's Research Integrity Officer, ethics, Institutional Review Board, or Human Subjects Review Committee. 
 
 If denied access to Databrary, Authorized Investigators or the Institution may request a review by the Databrary Ethics Committee.
+
+## Disclaimer
+
+Investigators understand that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it. Investigators indemnify and render harmless Databrary, New York University, and The Pennsylvania State University against any actions at law or in equity or in similar courts of any jurisdictions arising from violations of any of these points.
