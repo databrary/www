@@ -2,6 +2,8 @@ Title: User Guide
 Brief: Resources
 Order: 2000
 
+# Databrary User Guide
+
 The Databrary User Guide explains the rights and responsibilities of researchers (Authorized Investigators and Affiliate Investigators) and their Institutions. The guide also explains how researchers may apply for authorization, how Authorized Investigators should manage Affiliate Investigators, how Authorized Investigators and Affiliate Investigators may collect data to share, how Authorized Investigators may upload and manage datasets and studies, and how Authorized Investigators and Affiliates may explore, re-use, and extend the resources shared with Databrary.
 
 ## What is shared
