@@ -1,6 +1,5 @@
 Title: Responsibilities of Investigators
 Brief: Responsibilities of Investigators
-Slug: user-guide/investigators/sharing-principles
 Order: 2210
 
 #Abiding by Participant Release Levels
