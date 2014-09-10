@@ -1,7 +1,11 @@
 Title: Grandfathering Already Collected Data 
 Brief: Grandfathering Data
+<<<<<<< HEAD:databrary/input/pages/user-guide/guidance/releasing-data/grandfathering-data.md
 Slug: user-guide/releasing-data/grandfathering-data
 Order: 3450
+=======
+Order: 3350
+>>>>>>> staging:databrary/input/pages/user-guide/releasing-data/grandfathering-data.md
 
 Many researchers already seek permission from participants to show clips from recordings for educational and scientific purposes.
 Some IRBs have determined that the language used in these permission or release forms is equivalent to [Databrary's Release Template](|filename|../policies/release-template.mdi). 

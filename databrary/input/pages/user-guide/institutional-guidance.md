@@ -1,6 +1,5 @@
 Title: Guidance for Institutions
 Brief: Guidance for Institutions
-Slug: user-guide/institutional-guidance
 Order: 2900
 
 Databrary is a data library intended to foster sharing of data, specifically video, within developmental science. We are jointly-funded by NSF and NIH. Since video data is inherently identifiable, we require that all users get authorized by their institution to access any of the shared data on Databrary. 

@@ -1,6 +1,5 @@
 Title: Our Team
 Brief: Team
-Slug: about/team
 Order: 1200
 
 # Principal Investigators

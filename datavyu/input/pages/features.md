@@ -1,7 +1,5 @@
 Title: Discover Datavyu
 Brief: Features
-Slug: features
-Order: 1000
 Display: wide
 
 <h2 class="special_head">Datavyu is...</h2>

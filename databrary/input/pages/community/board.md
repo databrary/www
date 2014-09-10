@@ -1,6 +1,5 @@
 Title: Advisory Board
 Brief: Board
-Slug: community/board
 Order: 4100
 
 David Ackerman

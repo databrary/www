@@ -1,7 +1,11 @@
 Title: Front-End Web Developer
 Brief: Jobs
+<<<<<<< HEAD:databrary/input/pages/about/js.md
 Slug: about/jobs/front-end
 Order: 1800
+=======
+Order: 2100
+>>>>>>> staging:databrary/input/pages/about/jobs/front-end.md
 
 # Summary
 

@@ -1,6 +1,5 @@
 Title: Partner Institutions
 Brief: Partner Institution
-Slug: community/partners
 Order: 4300
 
 The following Institutions have signed the Databrary Investigator agreement and are now our partner institutions:
