@@ -27,5 +27,5 @@ No matter what form or language is used to gather releases for Databrary sharing
 
 ## Samples and Examples
 
-- [Sample participant release script](|filename|release-script.md)
-- [Example videos of the release process](|filename|sample-intro-videos.md)
+- [Sample participant release script](|filename|obtaining-participant-permissions/release-script.md)
+- [Example videos of the release process](|filename|obtaining-participant-permissions/release-script-examples.md)

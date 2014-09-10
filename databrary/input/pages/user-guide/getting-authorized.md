@@ -1,13 +1,12 @@
 Title: Getting Authorized
 Brief: Getting Authorized
-Slug: user-guide/getting-authorized
 Order: 3100
 
 ## Who can access Databrary?
 
-Anyone collecting [sharable research data](|filename|../releasing-data/releasing-data.md) will be able to store and organize their data within Databrary after completing the registration process. 
+Anyone collecting [sharable research data](|filename|releasing-data.md) will be able to store and organize their data within Databrary after completing the registration process. 
 However, access to many of Databrary's shared resources is restricted to people who have authorization.
-To receive authorization a person must [apply and receive approval](|filename|signing-agreement.md), usually through their university's Grants and Contracts or Sponsored Programs Office.
+To receive authorization a person must [apply and receive approval](|filename|getting-authorized/agreement.md), usually through their university's Grants and Contracts or Sponsored Programs Office.
 
 ### Who qualifies for access?
 

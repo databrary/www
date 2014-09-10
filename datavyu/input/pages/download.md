@@ -1,6 +1,5 @@
 Title: Download Datavyu
 Brief: Download
-Slug: download
 Order: 2000
 
 # Stable Release: %%datavyu-version%%

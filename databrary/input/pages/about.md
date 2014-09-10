@@ -1,6 +1,5 @@
 Title: About the Project
 Brief: About
-Slug: about
 Order: 1000
 
 

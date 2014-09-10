@@ -1,6 +1,5 @@
 Title: Completing the Agreement
 Brief: Completing the Agreement
-Slug: user-guide/getting-authorized/agreement
 Order: 3110
 
 Applicants must first complete the Databrary registration process:

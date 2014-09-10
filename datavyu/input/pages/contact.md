@@ -1,6 +1,5 @@
 Title: Contact Us
 Brief: Contact
-Slug: contact
 Order: 5000
 
 # Technical Support

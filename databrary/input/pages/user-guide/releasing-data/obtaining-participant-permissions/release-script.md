@@ -1,7 +1,6 @@
 Title: Sample Participant Release Script
 Brief: Sample Release Script
 Order: 3331
-Slug: user-guide/releasing-data/obtaining-participant-permissions/release-script
 
 Below is a sample script that can be used to introduce the Databrary Release. 
 ## Sample script for introducing the Databrary Release Form to participants

@@ -1,6 +1,5 @@
 Title: Front-End Web Developer
 Brief: Jobs
-Slug: about/jobs/front-end
 Order: 2100
 
 # Summary
