@@ -2,4 +2,6 @@ Title: Code of Ethics
 Brief: Code of Ethics
 Order: 2000
 
-This is the Databrary Code of Ethics which outlines the rights, responsbilities of Insitutitions and of Authorized Investigators and their Affiliate Investigators.
+Institutions, Authorized Investigators and Affiliate Investigators have specific responsibilities in association with Databrary. The rights and responsibilities of [institutions](|filename|code-of-ethics/institutions.md) and [investigators](|filename|code-of-ethics/investigators.md) are included in the sections below.
+
+Additional guidance for Institutions may be found [here](|filename|../institutional-guidance.md).

@@ -4,8 +4,6 @@ Order: 2100
 
 # Responsibilities of Institutions
 
-Investigators and their Institutions have specific responsibilities in association with Databrary. Additional guidance for Institutions may be found [here](|filename|../institutional-guidance.md).
-
 Databrary requires that an applicant for Authorized Investigator status be associated with an Institution. An official with authority to sign on behalf of the Institution must co-sign the [Databrary Access Agreement](|filename|../policies/investigator-agreement.mdi). In co-signing the Databrary Access Agreement, an Institution agrees to the following:
 
 ## Qualifications of Authorized Investigators
@@ -16,7 +14,7 @@ The Institution validates that any Authorized Investigator affiliated with the I
 
 The Institution maintains an ethics or Institutional Review Board (IRB) or an equivalent entity that oversees the scientific activities of every Authorized Investigator affiliated with the Institution. 
 
-The Institution grants Authorized Investigators the responsibility to choose Affiliate Investigators who meet Databrary's qualifications and who agree to follow Databrary's ethical principles. The Institution holds Authorized Investigators responsible for the conduct of Affiliate Investigators they select.
+The Institution grants Authorized Investigators the responsibility to choose and manage Affiliate Investigators who meet Databrary's qualifications and who agree to follow Databrary's ethical principles. The Institution holds Authorized Investigators responsible for the conduct of Affiliate Investigators they select.
 
 ## Data sharing and use
 
