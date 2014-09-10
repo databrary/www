@@ -1,11 +1,7 @@
 Title: Common Questions about Sharing Video Data
 Brief: Common Questions
-<<<<<<< HEAD:databrary/input/pages/user-guide/guidance/releasing-data/common-questions.md
-Slug: user-guide/releasing-data/common-questions
 Order: 3460
-=======
 Order: 3360
->>>>>>> staging:databrary/input/pages/user-guide/releasing-data/common-questions.md
 
 ## How can identifiable data that I collect be shared outside of my lab?
 

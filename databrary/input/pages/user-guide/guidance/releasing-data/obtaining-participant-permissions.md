@@ -1,11 +1,6 @@
 Title: Obtaining Participant Permissions
 Brief: Obtaining Participant Permissions
-<<<<<<< HEAD:databrary/input/pages/user-guide/guidance/releasing-data/obtaining-participant-permissions.md
-Slug: user-guide/releasing-data/obtaining-participant-permissions
 Order: 3430
-=======
-Order: 3330
->>>>>>> staging:databrary/input/pages/user-guide/releasing-data/obtaining-participant-permissions.md
 
 ## Consenting is not releasing 
 
