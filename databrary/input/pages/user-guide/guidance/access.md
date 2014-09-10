@@ -1,6 +1,5 @@
 Title: Managing Access and Sharing
 Brief: Managing access 
-Slug: user-guide/access
 Order: 3100
 
 By default, all studies are private when they are first created.

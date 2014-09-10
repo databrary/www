@@ -1,11 +1,6 @@
 Title: Managing Affiliates
 Brief: Managing Affiliates
-<<<<<<< HEAD:databrary/input/pages/user-guide/guidance/getting-authorized/managing-affiliates.md
-Slug: user-guide/getting-authorized/managing-affiliates
 Order: 3350
-=======
-Order: 3150
->>>>>>> staging:databrary/input/pages/user-guide/getting-authorized/managing-affiliates.md
 
 ## Authorization Levels
 

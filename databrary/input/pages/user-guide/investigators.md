@@ -1,6 +1,5 @@
 Title: Responsibilities of Investigators
 Brief: Responsibilities of Investigators
-Slug: user-guide/investigators
 Order: 2500
 
 

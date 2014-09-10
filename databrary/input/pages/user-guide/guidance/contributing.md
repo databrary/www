@@ -1,6 +1,5 @@
 Title: Planning for Data Sharing
 Brief: Planning for Data Sharing
-Slug: user-guide/contributing
 Order: 3500
 
 There are a few practices that may make collecting and sharing data with Databrary easier.

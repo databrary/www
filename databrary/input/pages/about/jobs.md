@@ -1,11 +1,6 @@
 Title: Join Our Team
 Brief: Jobs
-<<<<<<< HEAD
-Slug: about/jobs
 Order: 1700
-=======
-Order: 2000
->>>>>>> staging
 
 Databrary is a first-of-its-kind web-based data library where scientists who collect and analyze video can store and share their data openly with other researchers.
 The project is based at New York University and Penn State.
