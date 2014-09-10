@@ -29,13 +29,3 @@ The Institution agrees not to sell or trade Data or use it for other commercial 
 The Institution grants each Authorized Investigator authority to decide when and with whom the Authorized Investigator wishes to share Data, and the Institution holds the Authorized Investigator responsible for the use of shared Data. 
 
 The Institution agrees to follow all relevant national, state, and local laws and regulations that pertain to the use of research Data.
-
-## Violations
-
-The Institution agrees to accept responsibility for the Investigator’s actions related to the use of Databrary. 
-
-The Institution agrees to inform Databrary of any suspected violation of confidentiality or ethics. If Databrary determines that an Authorized Investigator at the Institution has violated the terms of the Databrary Access Agreement or other Databrary policies, Databrary may remove the Data in question and/or deny the Authorized Investigator or the Institution access to Databrary, temporarily or permanently. 
-
-Any violation may be reported to the Institution's Research Integrity Officer, ethics, Institutional Review Board, or Human Subjects Review Committee. 
-
-If denied access to Databrary, Authorized Investigators or the Institution may request a review by the Databrary Ethics Committee.
