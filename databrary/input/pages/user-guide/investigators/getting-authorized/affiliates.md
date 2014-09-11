@@ -1,5 +1,5 @@
-Title: Managing Affiliates
-Brief: Managing Affiliates
+Title: Authorizing and Managing Affiliates
+Brief: Affiliates
 Order: 3350
 
 ## Authorization Levels
