@@ -8,7 +8,8 @@ There are a few practices that may make collecting and sharing data with Databra
 
 Most labs already collect a lot of information about their participants, but may not keep it all in one place.
 
-The most critical pieces of information for Databrary: **test date**, **birth date** and **[release level](|filename|../releasing-data/release-levels.md)**. 
+The most critical pieces of information for Databrary: **test date**, **birth date** and **[release level](|filename|../releasing-data/release-levels.md)**.
+
 See our [Definitions of Suggested Fields](|filename|contributing/definitions.md) for other kinds of information that is helpful to include and suggested ways of reporting.
 The only thing that is required in order to store and share data within Databrary is the release level for each session.
 There may very well be other information you collect that isn't included here that would be valuable for understanding your data.
@@ -17,7 +18,8 @@ Let us know what other types of information you collect, and we can include that
 # Digitizing key metadata
 
 Right now, you may collect some of your information only on paper.
-We've found it to be immensely helpful to encode and store any information about sessions and participants electronically in one place as soon as possible after each session. 
+We've found it to be immensely helpful to encode and store any information about sessions and participants electronically in one place as soon as possible after each session.
+
 
 # Files
 
@@ -27,7 +29,8 @@ Please note if any of your files contain identifiable information.
 Identifiable information includes any dates (birth dates, test dates, etc.), voices, or faces.
 First or last names, location information more specific than state, or any contact information should never be shared in Databrary.
 
-<!-- We should rewrite this but I'm stopping here. You may also want to review your file naming conventions, so that it is easy to identify which files are associated with each session.-->
+<!-- We should rewrite this but I'm stopping here.
+You may also want to review your file naming conventions, so that it is easy to identify which files are associated with each session.-->
 
 # What else should I know?
 

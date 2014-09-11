@@ -3,7 +3,8 @@ Brief: Organizing Your Data
 Order: 3530
 # Levels of Organization
 
-We organize data in terms of what we call **sessions**, **datasets**, and **studies**. You will need to consider how to organize your data within this structure.
+We organize data in terms of what we call **sessions**, **datasets**, and **studies**.
+You will need to consider how to organize your data within this structure.
 
 ## Session
 
@@ -13,7 +14,8 @@ Sessions are like folders that contain all the raw data collected during this vi
 
 ## Dataset
 
-We then collect sessions into a **dataset**. Datasets typically reflect a set of related procedures or data from a group of participants observed longitudinally.
+We then collect sessions into a **dataset**.
+Datasets typically reflect a set of related procedures or data from a group of participants observed longitudinally.
 Datasets can be as big or as small as suits your research design.
 Often a dataset is equivalent to a single research study, but one dataset can also span multiple studies or multiple datasets can be combined into a single study.
 Datasets include everything you did to collect your raw video data, so if available you can include a description of your collection protocol, stimuli or displays shown to participants, blank questionnaires or consent forms used, funding proposals, etc.

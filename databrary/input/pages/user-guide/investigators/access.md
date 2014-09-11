@@ -13,7 +13,8 @@ The two options you will see are:
 
 - **Shared**: Share with authorized researchers and selected information with the public.
 
-If you keep the data as private, only you and and 'collaborators' that you add can view or access the data. 
+If you keep the data as private, only you and and 'collaborators' that you add can view or access the data.
+
 A collaborator is someone that has sufficient privileges to access all private data.
 
 You can choose between three levels of access for collaborators:
