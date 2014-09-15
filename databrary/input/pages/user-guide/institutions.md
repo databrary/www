@@ -7,7 +7,6 @@ We are jointly-funded by NSF and NIH.
 Most behavioral scientists do not currently share data openly.
 Databrary seeks to reduce barriers to data sharing to make it the norm, not the exception.
 
-
 ### Video enables use cases that extend beyond research
 
 Unlike many forms of flat-file, text-based Data, video is, to a large degree, self-documenting.
