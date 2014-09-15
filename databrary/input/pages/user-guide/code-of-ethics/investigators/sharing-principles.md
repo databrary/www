@@ -5,15 +5,14 @@ Order: 2230
 #Abiding by Participant Release Levels
 
 I understand that Depicted Individuals may grant different levels of Release to Share Recordings and Data with Databrary.
-Users must abide by the levels of release that participants granted.
+Investigators must abide by the levels of release that participants granted.
 
-Authorized Investigators must exercise professional judgment and uphold ethical principles in determining which Excerpts to show and to what audiences.
+Investigators must exercise professional judgment and uphold ethical principles in determining which Excerpts to show and to what audiences.
 
-When selecting clips or excerpts, users should be expected to minimize the possibility that a Depicted Individual can be identified, embarrassed, or harmed by the use of an Excerpt.
+When selecting clips or excerpts, Investigators should minimize the possibility that a Depicted Individual can be identified, embarrassed, or harmed by the use of an Excerpt.
+
+Investigators promise to cite all Excerpts following Databrary citation practices.
 
 If there is uncertainty about whether a Depicted Individual has granted Permission To Share or Permission to Excerpt, those Recordings or Data must not be shared, viewed, or distributed.
 
-
 Any problems or questions should be addressed to ethics@databrary.org.
-
-Authorized Investigators also promise to cite all Excerpts following Databrary citation practices.
