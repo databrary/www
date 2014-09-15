@@ -25,7 +25,7 @@ Accordingly, in order to avoid risks associated with the identification of indiv
 
 - To treat data taken from or contributed to Databrary with the same high standards of care that one would treat data collected in an Investigator's own laboratory.
 - To take care in authorizing other people (Affiliates) to access Databrary and to take responsiblility for the use of Databrary by these individuals.
-- To ensure that participants' wishes about whether and how widely identifiable data should be shared are respected; portray accurately and faithfully information about those wishes to Databrary.
+- To ensure that participants' wishes about whether and how widely identifiable data should be shared are respected; to portray accurately and faithfully information about those wishes to Databrary.
 
 ## Contact information and identity
 
@@ -39,12 +39,10 @@ Investigators agree not to share personal login information (user name and passw
 ## Communication with the Institution
 
 Investigators will comply with all relevant rules and regulations imposed by their Institution regarding the use of Databrary.
-Investigators will consult with the appropriate officials at the ethics or Institution’s Institutional Review Board or its equivalent and secure whatever approvals (or waivers) are required for their use of Databrary resources whether for Non-Research or Research purposes.
-Ethics, Institutional Review Boards or their equivalents may permit Non-Research use of Data without requiring formal review or approval.
+Investigators will consult with the appropriate officials at the ethics or Institution’s Institutional Review Board or its equivalent and secure whatever approvals (or waivers) are required for their use of Databrary resources whether for Non-Research or Research purposes. Ethics, Institutional Review Boards or their equivalents may permit Non-Research use of Data without requiring formal review or approval.
  
 Investigators will keep officials at their Institution who supervise research informed about their use of Databrary.
 
- 
 Investigators agree that Databrary may share information about an Investigator's use of Databrary with the Investigator's Institution.
 
 Authorized Investigators agree to complete research ethics training that meets the Institution's standards.
@@ -53,4 +51,4 @@ Authorized Investigators agree to complete research ethics training that meets t
 
 Investigators agree to follow Databrary's Best Practices in Data Security for any information they draw from Databrary or collect to contribute to Databrary.
 
-Investigators agree that they have read and understood the Databrary Bill of Rights, the Databrary Data Sharing Manifesto, and other Databrary policies.
+Investigators acknowledge that they have read and understood the Databrary Bill of Rights, the Databrary Data Sharing Manifesto, and other Databrary policies.
