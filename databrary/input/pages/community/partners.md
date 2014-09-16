@@ -5,14 +5,14 @@ Order: 4300
 
 The following Institutions have signed the Databrary Investigator agreement and are now our partner institutions:
 
-* Birkbeck, University of London
+* Birkbeck College, University of London
 * College of Staten Island, City University of New York
 * College of William and Mary
 * Georgetown University
 * Indiana University
 * McMaster University
 * New York University
-* Penn State University
+* The Pennsylvania State University
 * Rutgers University
 * Stanford Univeristy
 * Temple University
