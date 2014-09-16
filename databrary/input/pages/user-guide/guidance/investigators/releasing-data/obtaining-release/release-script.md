@@ -1,6 +1,6 @@
 Title: Sample Participant Release Script
 Brief: Sample Release Script
-Order: 3431
+Order: 3231
 
 Below is a sample script that can be used to introduce the Databrary Release.
 

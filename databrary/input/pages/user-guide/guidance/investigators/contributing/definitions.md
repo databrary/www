@@ -1,6 +1,6 @@
 Title: Definitions of Suggested Fields
 Brief: Definitions
-Order: 3550
+Order: 3350
 
 This section describes the session-level and participant information that is helpful to include with the video files you plan to share in Databrary.
 Any fields may be left blank to mean the information is unknown, not reported, or unavailable.

@@ -1,6 +1,6 @@
 Title: Adding the Databrary Release to Your IRB Protocol
 Brief: The Databrary Release
-Order: 3420
+Order: 3220
 
 ## Adapting the Databrary Release Template 
 

@@ -1,6 +1,6 @@
-Title: Planning for Data Sharing
-Brief: Planning for Data Sharing
-Order: 3500
+Title: Preparing to Share Data
+Brief: Preparing Data
+Order: 3300
 
 There are a few practices that may make collecting and sharing data with Databrary easier.
 

@@ -1,15 +1,17 @@
-Title: Getting Authorized
-Brief: Getting Authorized
-Order: 3300
+Title: For Investigators
+Brief: For Investigators
+Order: 3000	
 
-## Who can access Databrary?
+This section explains how to apply for authorization, manage Affiliate Investigators, collect data that can be shared, upload and manage datasets and studies, and explore, re-use, and extend the resources shared with Databrary.
 
-Anyone collecting [sharable research data](|filename|releasing-data/releasing-data.md) will be able to store and organize their data within Databrary after completing the registration process.
+# Who can access Databrary?
+
+Anyone collecting [shareable research data](|filename|releasing-data/releasing-data.md) will be able to store and organize their data within Databrary after completing the registration process.
 
 However, access to many of Databrary's shared resources is restricted to people who have authorization.
-To receive authorization a person must [apply and receive approval](|filename|getting-authorized/agreement.md), usually through their university's Grants and Contracts or Sponsored Programs Office.
+To receive authorization a person must [apply and receive approval](|filename|investigators/getting-authorized.md), usually through their university's Grants and Contracts or Sponsored Programs Office.
 
-### Who qualifies for access?
+## Who qualifies for access?
 
 Individuals that are eligible to conduct independent research at their Institution may qualify. Generally, this is someone that has a faculty or tenure-track appointment. In the U.S. context, this is also someone that is considered to have "Principal Investigator (PI) status" or can submit funding proposals as the lead investigator.
 

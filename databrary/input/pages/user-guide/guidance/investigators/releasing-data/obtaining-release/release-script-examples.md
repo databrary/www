@@ -1,6 +1,6 @@
 Title: Video Example of Obtaining Databrary Release
 Brief: Example Databrary Release Introduction
-Order: 3432
+Order: 3232
 
 ##Below are some examples of researchers introducing the Databrary Release Form to participants.
 

@@ -1,6 +1,6 @@
 Title: Databrary Release Levels
 Brief: Databrary Release Levels
-Order: 3440
+Order: 3240
 
 Below are the release levels used within Databrary to determine if identifiable data can be made visible to anyone outside of the individuals named on the original IRB protocol.
 These release levels map directly to the options on the [Databrary Release Template](|filename|../policies/release-template.mdi).

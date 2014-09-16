@@ -1,6 +1,6 @@
 Title: Obtaining Participant Permissions
 Brief: Obtaining Participant Permissions
-Order: 3430
+Order: 3230
 
 ## Consenting is not releasing 
 

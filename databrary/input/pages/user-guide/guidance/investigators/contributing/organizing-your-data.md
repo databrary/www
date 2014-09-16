@@ -1,10 +1,11 @@
 Title: Organizing Your Data
 Brief: Organizing Your Data
-Order: 3530
-# Levels of Organization
+Order: 3330
 
 We organize data in terms of what we call **sessions**, **datasets**, and **studies**.
 You will need to consider how to organize your data within this structure.
+
+# Levels of Organization
 
 ## Session
 

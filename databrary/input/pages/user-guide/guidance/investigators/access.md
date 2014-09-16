@@ -1,6 +1,6 @@
-Title: Managing Access and Sharing
-Brief: Managing access 
-Order: 3100
+Title: Managing Access and Sharing Data
+Brief: Managing Access 
+Order: 3500
 
 By default, all studies are private when they are first created.
 You can create studies and share data peer-to-peer with other users regardless of your authorization status, but you cannot share data openly until you are authorized.

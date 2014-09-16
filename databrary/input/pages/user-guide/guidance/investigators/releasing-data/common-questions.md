@@ -1,6 +1,6 @@
 Title: Common Questions about Sharing Video Data
 Brief: Common Questions
-Order: 3460
+Order: 3260
 
 ## How can identifiable data that I collect be shared outside of my lab?
 

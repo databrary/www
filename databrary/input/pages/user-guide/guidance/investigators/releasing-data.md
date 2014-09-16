@@ -1,6 +1,6 @@
 Title: Collecting Shareable Data
 Brief: Collecting Shareable Data
-Order: 3400
+Order: 3200
 
 Since video and audio recordings and photographs are inherently identifiable, Databrary requires investigators to have IRB approval and to get permission from the people depicted in recordings or images to share their data in Databrary.
 Sharing identifiable data is allowable as long as you tell the people depicted in the recordings what it means to share their data, and they agree to share it.

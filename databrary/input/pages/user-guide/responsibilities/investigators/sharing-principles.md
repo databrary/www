@@ -2,9 +2,7 @@ Title: Respecting Participant Release Levels
 Brief: Respecting Release Levels
 Order: 2230
 
-#Abiding by Participant Release Levels
-
-I understand that Depicted Individuals may grant different levels of Release to Share Recordings and Data with Databrary.
+Investigators understand that Depicted Individuals may grant different levels of Release to share their recordings and data with Databrary.
 Investigators must abide by the levels of release that participants granted.
 
 Investigators must exercise professional judgment and uphold ethical principles in determining which Excerpts to show and to what audiences.
