@@ -25,7 +25,7 @@ Accordingly, in order to avoid risks associated with the identification of indiv
 
 - To treat data taken from or contributed to Databrary with the same high standards of care that one would treat data collected in an Investigator's own laboratory.
 - To take care in authorizing other people (Affiliates) to access Databrary and to take responsiblility for the use of Databrary by these individuals.
-- To ensure that participants' wishes about whether and how widely identifiable data should be shared are respected; to portray accurately and faithfully information about those wishes to Databrary.
+- To ensure that participants' wishes about whether and how widely identifiable data should be shared are respected, and to portray accurately and faithfully information about those wishes to Databrary.
 
 # Contact information and identity
 

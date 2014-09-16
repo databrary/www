@@ -6,6 +6,7 @@ The first section of the User Guide explains the [rights and responsibilities](|
 
 The second section of this guide explains how to apply for authorization, how Authorized Investigators can manage access of their Affiliate Investigators, how Authorized Investigators and Affiliate Investigators may collect data to share, how Authorized Investigators may upload and manage datasets and studies, and how Authorized Investigators and Affiliates may explore, re-use, and extend the resources shared with Databrary.
 
+
 # What is shared
 
 Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to authorized users. 
@@ -22,7 +23,7 @@ All Authorized Investigators and Affiliate Investigators have agreed to follow D
 
 - To treat data taken from or contributed to Databrary with the same high standards of care that one would treat data collected in their own laboratory.
 - To take care in authorizing other people (Affiliates) to access Databrary and to take responsiblility for the use of Databrary by these individuals.
-- To ensure that participants' wishes about whether and how widely identifiable data should be shared are respected; portray accurately and faithfully information about those wishes to Databrary.
+- To ensure that participants' wishes about whether and how widely identifiable data should be shared are respected, and to portray accurately and faithfully information about those wishes to Databrary.
 
 ## Policies
 
