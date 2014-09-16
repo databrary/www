@@ -11,8 +11,5 @@ sys.path.append(os.path.dirname(__file__))
 from pelicanconf import *
 from common.publishconf import *
 
-# SITE
-SITEURL = 'http://datavyu.org'
-
 # FEEDS
-FEED_DOMAIN = SITEURL
+FEED_DOMAIN = 'http://datavyu.org'
