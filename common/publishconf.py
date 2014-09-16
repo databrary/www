@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 # COMPILE
-RELATIVE_URLS = False
+RELATIVE_URLS = True
 
 # FEEDS
 FEED_ALL_RSS = 'feeds/all.xml'
