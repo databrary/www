@@ -1,17 +1,17 @@
-Title: Investigators
+Title: Authorized Investigators
 Brief: Investigators
 Order: 2200
 
-This section describes the specific rights and responsibilities Authorized and Affiliate Investigators have agreed to follow in association with Databrary.
+This section describes the rights and responsibilities associated with the use of Databrary.
 
 ## Ethical principles
 Databrary's three guiding ethical principles embody the committment that is expected of all community members to build a community that follows the highest ethical standards.
 
-Authorized Investigators commit to:
+As an Authorized Investigator you promise to:
 
-1. treat data taken from or contributed to Databrary with the **same high standard of care** that one would treat data collected in an Investigator's own laboratory.
-1. take care in authorizing other Affiliates and collaborators to access Databrary data as well as their own data and to take responsiblility for their use of Databrary.
-1. ensure that participants' wishes about whether and how widely identifiable data should be shared are respected, and to portray accurately and faithfully information about those wishes to Databrary.
+1. treat Databrary data with the **same high standard of care** that you treat data collected in your own laboratory.
+1. take care in authorizing others to access Databrary and take responsiblility for their use of Databrary.
+1. ensure that participants' wishes about sharing their data are respected. 
 
 ## Contact information and identity
 

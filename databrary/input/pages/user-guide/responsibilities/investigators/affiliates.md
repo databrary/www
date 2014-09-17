@@ -1,5 +1,5 @@
 Title: Managing Affiliates 
-Brief: Affiliate 
+Brief: Managing Affiliates
 Order: 2240
 
 Researchers who are not eligible to be named as Authorized Investigators may be granted access privileges as an Affiliate Investigator.
