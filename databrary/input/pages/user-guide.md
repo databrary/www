@@ -2,11 +2,11 @@ Title: User Guide
 Brief: Resources
 Order: 2000
 
-The first section of the User Guide explains the [rights and responsibilities](|filename|user-guide/responsibilities.md) of researchers (Authorized Investigators and their Affiliates) and their Institutions. 
+The first section of the User Guide explains the [rights and responsibilities](|filename|user-guide/responsibilities.md) of researchers (*Authorized Investigators* and their *Affiliates*) and their Institutions. 
 
 The second section provides [guidance](|filename|user-guide/guidance.md) for Institutions and researchers about how to use the site.
 
-Databrary policies are posted in our [Policies](|filename|user-guide/policies.md) section.
+Databrary policies are posted in our [policies](|filename|user-guide/policies.md) section.
 
 Words in blue are defined in our [definitions](|filename|policies/definitions.mdi).
 

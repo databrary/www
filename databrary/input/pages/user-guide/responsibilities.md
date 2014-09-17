@@ -2,7 +2,7 @@ Title: Rights and Responsibilities
 Brief: Rights and Responsibilities
 Order: 2000
 
-[Institutions](|filename|code-of-ethics/institutions.md), [Authorized Investigators](|filename|code-of-ethics/investigators.md), and their Affiliates have specific rights and responsibilities in association with Databrary.
+This section describes the rights and responsibilities of [Institutions](|filename|code-of-ethics/institutions.md) and [Authorized Investigators](|filename|code-of-ethics/investigators.md) in association with Databrary and the [rights granted to Databrary]() by Institutions and Authorized Investigators.
 	
 ## Why Databrary data require special care
 

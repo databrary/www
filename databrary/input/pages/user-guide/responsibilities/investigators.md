@@ -2,12 +2,14 @@ Title: Authorized Investigators
 Brief: Investigators
 Order: 2200
 
-This section describes the rights and responsibilities associated with the use of Databrary.
+This section describes the rights and responsibilities of *Authorized Investigators* associated with their use of Databrary.
+
+*Authorized Investigators* should understand their specific rights and responsibilities when [contributing data](), [using data](), [respecting participant release levels](), and [managing affiliates]().
 
 ## Ethical principles
 Databrary's three guiding ethical principles embody the committment that is expected of all community members to build a community that follows the highest ethical standards.
 
-As an Authorized Investigator you promise to:
+As an *Authorized Investigator* you promise to:
 
 1. treat Databrary data with the **same high standard of care** that you treat data collected in your own laboratory.
 1. take care in authorizing others to access Databrary and take responsiblility for their use of Databrary.
@@ -16,22 +18,22 @@ As an Authorized Investigator you promise to:
 ## Contact information and identity
 
 Investigators will keep current their contact information and other information provided to Databrary.
-Investigators agree to renew their status with Databrary as required by Databrary or whenever they change Institutions.
+Investigators agree to renew their status with Databrary as required by Databrary or whenever they change institutions.
 
-Investigators agree that Databrary will reveal to the public their name, photo, Institutional affiliations, and any other information provided as part of the Investigator's profile.
+Investigators agree that Databrary will reveal to the public their name, photo, institutional affiliations, and any other information provided as part of the Investigator's profile.
 
 Investigators agree not to share personal login information (user name and password) with anyone and will keep it secure.
 
-## Communication with home Institution
+## Communication with home institution
 
-Investigators will comply with all relevant rules and regulations imposed by their Institution regarding the use of Databrary.
-Investigators will consult with the appropriate officials at the ethics or local Institutional Review Board or its equivalent and secure whatever approvals (or waivers) are required for their use of Databrary resources whether for Non-Research or Research purposes. Ethics, Institutional Review Boards or their equivalents may permit Non-Research use of Data without requiring formal review or approval.
+Investigators will comply with all relevant rules and regulations imposed by their institution regarding the use of Databrary.
+Investigators will consult with the appropriate officials at the ethics or local institutional Review Board or its equivalent and secure whatever approvals (or waivers) are required for their use of Databrary resources whether for Non-Research or Research purposes. Ethics, institutional Review Boards or their equivalents may permit Non-Research use of Data without requiring formal review or approval.
  
-Investigators will keep officials at their Institution who supervise research informed about their use of Databrary.
+Investigators will keep officials at their institution who supervise research informed about their use of Databrary.
 
-Investigators agree that Databrary may share information about an Investigator's use of Databrary with the Investigator's Institution.
+Investigators agree that Databrary may share information about an Investigator's use of Databrary with the Investigator's institution.
 
-Authorized Investigators agree to complete research ethics training that meets the Institution's standards.
+*Authorized Investigators* agree to complete research ethics training that meets the institution's standards.
 
 ## Databrary policies
 
