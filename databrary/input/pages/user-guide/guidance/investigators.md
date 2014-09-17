@@ -4,7 +4,7 @@ Order: 3000
 
 This section explains how to apply for authorization, manage Affiliate Investigators, collect data that can be shared, upload and manage datasets and studies, and explore, re-use, and extend the resources shared with Databrary.
 
-# Who can access Databrary?
+## Who can access Databrary?
 
 Anyone collecting [shareable research data](|filename|releasing-data/releasing-data.md) will be able to store and organize their data within Databrary after completing the registration process.
 

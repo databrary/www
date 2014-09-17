@@ -4,7 +4,7 @@ Order: 3300
 
 There are a few practices that may make collecting and sharing data with Databrary easier.
 
-# Collecting metadata
+## Collecting metadata
 
 Most labs already collect a lot of information about their participants, but may not keep it all in one place.
 
@@ -15,13 +15,13 @@ The only thing that is required in order to store and share data within Databrar
 There may very well be other information you collect that isn't included here that would be valuable for understanding your data.
 Let us know what other types of information you collect, and we can include that information in Databrary.
 
-# Digitizing key metadata
+## Digitizing key metadata
 
 Right now, you may collect some of your information only on paper.
 We've found it to be immensely helpful to encode and store any information about sessions and participants electronically in one place as soon as possible after each session.
 
 
-# Files
+## Files
 
 Besides video files, Databrary can store any other data or analysis files related to your data.
 These could be images, graphs, stimuli, protocols, blank questionnaires, blank consent or release forms, or any other files you might have that you wish to share (or to only store and keep private amongst your lab).
@@ -32,7 +32,7 @@ First or last names, location information more specific than state, or any conta
 <!-- We should rewrite this but I'm stopping here.
 You may also want to review your file naming conventions, so that it is easy to identify which files are associated with each session.-->
 
-# What else should I know?
+## What else should I know?
 
 * How to [organize and name your data](|filename|contributing/organizing-your-data.md) within the Databrary structure.
 * What level of access you want to grant the Databrary community and other people in your lab.

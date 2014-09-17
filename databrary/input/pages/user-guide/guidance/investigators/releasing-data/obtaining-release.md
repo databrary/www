@@ -2,15 +2,14 @@ Title: Obtaining Participant Permissions
 Brief: Obtaining Participant Permissions
 Order: 3230
 
-## Consenting is not releasing 
-
 The Databrary Release is unique in one important way: it allows researchers to separate consenting to participate from releasing their data for sharing.
 We advise introducing the Databrary Release at the end of the session, so that participants know what was recorded and what would be shared.
+
+## Consenting is not releasing 
 
 By asking about sharing with Databrary at the end, researchers need not worry that participants will choose not to enter a study because they are uncomfortable with sharing their information.
 
 Participants will also know what was done during the session and thus have a clearer understanding of what they would be agreeing to share.
-
 
 Even this is entirely adaptable, as there may be other reasons that asking at the end is undesirable or infeasible.
 
@@ -27,7 +26,6 @@ In this case, researchers may prefer to adapt the form to indicate that the sens
 in classroom or public settings).
 
 Databrary does **not** require contributors to have used the Databrary Release, or that researchers ask about sharing at the end.
-
 
 ## Correlating with release levels
 

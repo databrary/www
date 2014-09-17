@@ -2,32 +2,18 @@ Title: Investigators
 Brief: Investigators
 Order: 2200
 
-Authorized and Affiliate Investigators have specific responsibilities in association with Databrary.
-This page describes them.
+This section describes the specific rights and responsibilities Authorized and Affiliate Investigators have agreed to follow in association with Databrary.
 
-# Motivation
+## Ethical principles
+Databrary's three guiding ethical principles embody the committment that is expected of all community members to build a community that follows the highest ethical standards.
 
-Recordings may contain Personally Identifying Information about Depicted Individuals.
-These may be Research Participants as well as other individuals who are incidentally recorded or photographed.
-Images and/or voices may be visible or heard and names may be spoken out loud.
-Images and voices of visitors or other people who are not research participants may be recorded.
-If a study takes place in a home or other setting, aspects of that home or setting may be recorded.
-Thus, individuals or locations may be identified from Recordings.
-Any disclosure of the identity of Research Participants violates the Promise of Confidentiality given to them.
-Identification of other individuals depicted in Recordings violates their privacy, as well.
+Authorized Investigators commit to:
 
-De-Identified Data, Non-Identifiable Data, and Metadata may be combined to identify research participants.
-De-Identified Data, Non-Identifiable Data, and Metadata may be combined with Recordings to identify individuals or cause them harm or embarrassment.
-These represent significant risks.
-Accordingly, in order to avoid risks associated with the identification of individuals depicted in Recordings which could potentially cause harm or embarrassment, Investigators seeking access to Databrary promise the following:
+1. treat data taken from or contributed to Databrary with the **same high standard of care** that one would treat data collected in an Investigator's own laboratory.
+1. take care in authorizing other Affiliates and collaborators to access Databrary data as well as their own data and to take responsiblility for their use of Databrary.
+1. ensure that participants' wishes about whether and how widely identifiable data should be shared are respected, and to portray accurately and faithfully information about those wishes to Databrary.
 
-# Ethical principles
-
-- To treat data taken from or contributed to Databrary with the same high standards of care that one would treat data collected in an Investigator's own laboratory.
-- To take care in authorizing other people (Affiliates) to access Databrary and to take responsiblility for the use of Databrary by these individuals.
-- To ensure that participants' wishes about whether and how widely identifiable data should be shared are respected, and to portray accurately and faithfully information about those wishes to Databrary.
-
-# Contact information and identity
+## Contact information and identity
 
 Investigators will keep current their contact information and other information provided to Databrary.
 Investigators agree to renew their status with Databrary as required by Databrary or whenever they change Institutions.
@@ -36,7 +22,7 @@ Investigators agree that Databrary will reveal to the public their name, photo, 
 
 Investigators agree not to share personal login information (user name and password) with anyone and will keep it secure.
 
-# Communication with home Institution
+## Communication with home Institution
 
 Investigators will comply with all relevant rules and regulations imposed by their Institution regarding the use of Databrary.
 Investigators will consult with the appropriate officials at the ethics or local Institutional Review Board or its equivalent and secure whatever approvals (or waivers) are required for their use of Databrary resources whether for Non-Research or Research purposes. Ethics, Institutional Review Boards or their equivalents may permit Non-Research use of Data without requiring formal review or approval.
@@ -48,6 +34,8 @@ Investigators agree that Databrary may share information about an Investigator's
 Authorized Investigators agree to complete research ethics training that meets the Institution's standards.
 
 ## Databrary policies
+
+Investigators agree to use resources from Databrary exclusively for the purpose of scientific research or education under the auspices of either an academic, research, government, health, or a commercial entity (but in the last case, solely for non-commercial purposes).
 
 Investigators agree to follow Databrary's Best Practices in Data Security for any information they draw from Databrary or collect to contribute to Databrary.
 

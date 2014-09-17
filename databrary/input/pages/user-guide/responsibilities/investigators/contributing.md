@@ -1,11 +1,11 @@
-Title: Rights and Responsibilities when Contributing Data 
+Title: Contributing Data 
 Brief: Contributing
 Order: 2210
 
 Investigators understand that Databrary encourages them to share as broadly as possible the products of their scientific work, including Metadata, links to publications resulting from Data, coding manuals, coding spreadsheets, lab notebooks, analysis code, figures, manuscripts that are not copyrighted, and other materials.
 
 
-# Responsibilities of Data Contributors
+## Responsibilities of Data Contributors
 
 Investigators agree to exercise professional judgment in determining what Data to share.
 When Contributing Data, Authorized Investigators agree to:
@@ -20,7 +20,8 @@ When Contributing Data, Authorized Investigators agree to:
 
 Investigators must have the right to share with Databrary any Data they contribute; no other entity or individual should have ownership rights that prevent an Investigator from contributing Data to Databrary.
 
-# Rights of Data Contributors
+## Rights of Data Contributors
+
 Investigators may, but are not required to contribute Data to Databrary.
 
 Investigators may decide whether to share, when to share, and with whom they want to share within the parameters defined by Databrary.

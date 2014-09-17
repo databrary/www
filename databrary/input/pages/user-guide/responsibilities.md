@@ -1,11 +1,12 @@
 Title: Rights and Responsibilities
-Brief: Rights and Resonsibilities
+Brief: Rights and Responsibilities
 Order: 2000
 
-Institutions, Authorized Investigators and Affiliate Investigators have specific responsibilities in association with Databrary.
-The rights and responsibilities of [Institutions](|filename|code-of-ethics/institutions.md) and [Investigators](|filename|code-of-ethics/investigators.md) are described in the sections below.
+Institutions, Authorized Investigators, and Affiliate Investigators have specific responsibilities in association with Databrary.
 
-# Motivation
+The rights and responsibilities of [Institutions](|filename|code-of-ethics/institutions.md) and [Investigators](|filename|code-of-ethics/investigators.md) are described in the sections below.
+	
+## Motivation
 
 Recordings may contain Personally Identifying Information about Depicted Individuals.
 These may be Research Participants as well as other individuals who are incidentally recorded or photographed.
@@ -19,7 +20,5 @@ Identification of other individuals depicted in Recordings violates their privac
 De-Identified Data, Non-Identifiable Data, and Metadata may be combined to identify research participants.
 De-Identified Data, Non-Identifiable Data, and Metadata may be combined with Recordings to identify individuals or cause them harm or embarrassment.
 These represent significant risks.
-Accordingly, in order to avoid risks associated with the identification of individuals depicted in Recordings which could potentially cause harm or embarrassment, Investigators seeking access to Databrary promise the following:
 
-
-Additional guidance for Institutions may be found [here](|filename|../institutional-guidance.md).
+Accordingly, in order to avoid risks associated with the identification of individuals depicted in Recordings which could potentially cause harm or embarrassment, Investigators seeking access to Databrary agree to the following commitments when using Databrary and Institutions agree to take responsibility for the Authorized Investigators whom they authorized.

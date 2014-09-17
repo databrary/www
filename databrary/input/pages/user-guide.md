@@ -4,20 +4,21 @@ Order: 2000
 
 The first section of the User Guide explains the [rights and responsibilities](|filename|user-guide/responsibilities.md) of researchers (Authorized Investigators and Affiliate Investigators) and their Institutions. 
 
-The second section of this guide explains how to apply for authorization, how Authorized Investigators can manage access of their Affiliate Investigators, how Authorized Investigators and Affiliate Investigators may collect data to share, how Authorized Investigators may upload and manage datasets and studies, and how Authorized Investigators and Affiliates may explore, re-use, and extend the resources shared with Databrary.
+The second section provides [guidance](|filename|user-guide/guidance.md) for institutions and investigators about how to use the site.
 
+#Overview
 
-# What is shared
+## What data is shared?
 
 Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to authorized users. 
 Sensitive or identifiable data are only shared with Authorized Investigators and Affiliate Investigators if (i) participants have given permission for the materials to be shared, and (ii) the researcher who contributed the materials has made them available for sharing.
 
-# Applying for access
+## How does one access shared data?
 
 Individuals who wish to access or contribute data must [apply for authorization](|filename|user-guide/investigators/getting-authorized.md) as an Authorized Investigator or Affiliate Investigator. 
 The application must be approved by Databrary and the [Databrary Access Agreement](|filename|user-guide/policies/investigator-agreement.mdi) must be co-signed by the applicant's Institution or sponsoring Authorized Investigator.
 
-# Guiding ethical principles
+## Guiding ethical principles 
 
 All Authorized Investigators and Affiliate Investigators have agreed to follow Databrary's three guiding ethical principles, which are as follows:
 
