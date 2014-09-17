@@ -39,6 +39,21 @@
 																<li>
 				                                                    <a href="{{ SITEURL }}/{{ pg4.url }}" class="{% if page.slug == pg4.slug %}current{% else %}{% if pg4.slug in page.slug %}parent{% endif %}{% endif %}">{{ pg4.title|replace('&nbsp;', ' ') }}</a>
 																</li>
+				                                                  
+				                                                    {% for pg5 in PAGES|sort(attribute='order') if pg5.slug.startswith('/'.join(pg4.slug.split('/')[0:5])) and pg5.slug.count('/') == 5 %}
+																		{% if loop.first %}
+																			<ul>
+																		{% endif %}
+
+																				<li>
+								                                                    <a href="{{ SITEURL }}/{{ pg5.url }}" class="{% if page.slug == pg5.slug %}current{% else %}{% if pg5.slug in page.slug %}parent{% endif %}{% endif %}">{{ pg5.title|replace('&nbsp;', ' ') }}</a>
+																				</li>																	
+																	
+																	{% if loop.last %}
+																			</ul>
+																		{% endif %}
+																	{% endfor %}
+																</li>
 
 														{% if loop.last %}
 															</ul>
