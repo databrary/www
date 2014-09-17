@@ -29,7 +29,21 @@
 										{% endif %}
 
 												<li>
-                                                    <a href="{{ SITEURL }}/{{ pg3.url }}" class="{% if page.slug == pg3.slug %}current{% endif %}">{{ pg3.title|replace('&nbsp;', ' ') }}</a>
+                                                    <a href="{{ SITEURL }}/{{ pg3.url }}" class="{% if page.slug == pg3.slug %}current{% else %}{% if pg3.slug in page.slug %}parent{% endif %}{% endif %}">{{ pg3.title|replace('&nbsp;', ' ') }}</a>
+
+                                                    {% for pg4 in PAGES|sort(attribute='order') if pg4.slug.startswith('/'.join(pg3.slug.split('/')[0:4])) and pg4.slug.count('/') == 4 %}
+														{% if loop.first %}
+															<ul>
+														{% endif %}
+
+																<li>
+				                                                    <a href="{{ SITEURL }}/{{ pg4.url }}" class="{% if page.slug == pg4.slug %}current{% else %}{% if pg4.slug in page.slug %}parent{% endif %}{% endif %}">{{ pg4.title|replace('&nbsp;', ' ') }}</a>
+																</li>
+
+														{% if loop.last %}
+															</ul>
+														{% endif %}
+													{% endfor %}
 												</li>
 
 										{% if loop.last %}
