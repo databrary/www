@@ -58,13 +58,6 @@ Order: 1200
                 </li>
 
 
-                <li>
-                    <div class="title">Director of Human Imaging</div>
-                    <div class="affil"><a href="http://www.imaging.psu.edu"
-                                          title="&lt;abbr title=&quot;Social, Life, &amp;amp; Engineering Sciences Imaging Center&quot;&gt;SLEIC&lt;/abbr&gt;"><abbr
-                            title="Social, Life, &amp; Engineering Sciences Imaging Center">SLEIC</abbr></a></div>
-                </li>
-
 
             </ul>
 
