@@ -1,8 +1,8 @@
-Title: Resources
+Title: What You Need to Know
 Brief: Resources
 Order: 2000
 
-The first section of the User Guide explains the [rights and responsibilities](|filename|user-guide/responsibilities.md) of researchers (*Authorized Investigators* and their *Affiliates*) and their Institutions. 
+The first section of something explains the [rights and responsibilities](|filename|user-guide/responsibilities.md) of researchers (*Authorized Investigators* and their *Affiliates*) and their Institutions. 
 
 The second section provides [guidance](|filename|user-guide/guidance.md) for Institutions and researchers about how to use the site.
 
@@ -20,15 +20,16 @@ Sensitive or identifiable data are only shared if (i) participants have given pe
 ## How does one access shared data?
 
 Individuals who wish to access or contribute data must [apply for authorization](|filename|user-guide/investigators/getting-authorized.md) as an Authorized Investigator or Affiliate. 
-The application must be approved by Databrary and the [Databrary Access Agreement](|filename|user-guide/policies/investigator-agreement.mdi) must be co-signed by the applicant's Institution or sponsoring Authorized Investigator.
+The application must be approved by Databrary. The [Databrary Access Agreement](|filename|user-guide/policies/investigator-agreement.mdi) must be signed by both the Authorized Investigator and the Institution; Affiliates must be sponsored by an Authorized Investigator.
 
 ## Guiding ethical principles
 
 Databrary's three guiding ethical principles embody the committment that is expected of all community members to build a community that follows the highest ethical standards.
 
-As an Authorized Investigator you promise to:
+As a member of the Databrary community you promise to:
 
 1. treat Databrary data with the **same high standard of care** that you treat data collected in your own laboratory.
-1. take care in authorizing others to access Databrary and take responsiblility for their use of Databrary.
+
 1. ensure that participants' wishes about sharing their data are respected. 
 
+1. Authorized Investigators must take care in granting and managing access for Affiliates and take responsiblility for their use of Databrary.

@@ -1,6 +1,6 @@
 Title: Rights Granted to Databrary
 Brief: Rights Granted to Databrary
-Order: 2300
+Order: 2400
 
 Institutions and Investigators agree to grant Databrary rights with respect to any Data an Investigator contributes.
 

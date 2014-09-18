@@ -3,8 +3,8 @@ Brief: Rights and Responsibilities
 Order: 2000
 
 This section describes the rights and responsibilities of [Institutions](|filename|code-of-ethics/institutions.md) and [Authorized Investigators](|filename|code-of-ethics/investigators.md) in association with Databrary and the [rights granted to Databrary]() by Institutions and Authorized Investigators.
-	
-## Why Databrary data require special care
+		
+## Background: Why Databrary data require special care
 
 Video and audio recordings may contain Personally Identifying Information.
 Depicted Individuals may be Research Participants or other individuals who are incidentally recorded.

@@ -2,6 +2,9 @@ Title: Managing Affiliates
 Brief: Managing Affiliates
 Order: 2240
 
+- never share personal login information (user name and password) with anyone and will keep it secure.
+
+
 Researchers who are not eligible to be named as Authorized Investigators may be granted access privileges as an Affiliate Investigator.
 Access by Affiliate Investigators is managed or restricted by an Authorized Investigator.
 
