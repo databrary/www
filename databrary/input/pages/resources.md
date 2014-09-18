@@ -1,4 +1,4 @@
-Title: User Guide
+Title: Resources
 Brief: Resources
 Order: 2000
 
