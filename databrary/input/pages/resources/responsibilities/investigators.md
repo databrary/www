@@ -25,6 +25,5 @@ As an Authorized Investigator you agree to:
 - comply with your institution's policies on the conduct of research.
 - complete research ethics training that meets the institution's standards.
 - keep current your contact information and institutional affiliation on Databrary.
-- allow Databrary to share information about your use of Databrary with their institution.
 
 Investigators acknowledge that they have read and understood the Databrary Bill of Rights, the Databrary Data Sharing Manifesto, and all other Databrary policies.

@@ -1,14 +1,14 @@
-Title: What You Need to Know
-Brief: Resources
+Title: Information
+Brief: Information
 Order: 2000
 
-The first section of something explains the [rights and responsibilities](|filename|user-guide/responsibilities.md) of researchers (*Authorized Investigators* and their *Affiliates*) and their Institutions. 
+The [rights and responsibilities](|filename|user-guide/responsibilities.md) of researchers (*Authorized Investigators* and their *Affiliates*) and their Institutions are detailed below. 
 
-The second section provides [guidance](|filename|user-guide/guidance.md) for Institutions and researchers about how to use the site.
+Read our [guidance](|filename|user-guide/guidance.md) for Institutions and researchers about how to access and use Databrary.
 
 Databrary policies are posted in our [policies](|filename|user-guide/policies.md) section.
 
-Words in blue are defined in our [definitions](|filename|policies/definitions.mdi).
+Words in *italics* are defined in our [definitions](|filename|policies/definitions.mdi).
 
 #Overview
 
