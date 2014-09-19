@@ -1,6 +1,6 @@
 Title: Contact Us
 Brief: Contact
-Order: 1300
+Order: 1500
 
 # Phone number:
 212-998-5800
