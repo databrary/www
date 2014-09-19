@@ -1,12 +1,12 @@
 Title: Frequently Asked Questions
 Brief: F.A.Q.
-Order: 1600
+Order: 1100
 
 <section class="question">
 	<h2>What is Databrary?</h2>
 
 	<div>
-		<p>Databrary is a data library for scientists to share video and audio recordings, research data and analytical tools, and metadata with other investigators. In cases where participants give appropriate permission or there is no concern about violating privacy, the general public may also view information in Databrary.</p>
+		<p>Databrary is a digital data library for scientists to share video and audio recordings, research data and analytical tools, and metadata with other investigators. In cases where participants give appropriate permission or there is no concern about violating privacy, the general public may also view information in Databrary.</p>
 	</div>
 </section>
 

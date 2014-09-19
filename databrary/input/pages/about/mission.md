@@ -1,20 +1,8 @@
 Title: Mission
 Brief: Mission
-Order: 0000
+Order: 1000
 
-# The Databrary Project
-
-The Databrary Project aims to promote data sharing, archiving, and reuse among scientists who study the development of humans and other animals. The project focuses on creating tools for scientists to store, manage, preserve, analyze, and share video and other temporally dense streams of data. The project is based at [New York University](http://www.nyu.edu) and at [Penn State](http://www.psu.edu). The U.S. National Science Foundation (NSF) and the U.S. National Institutes of Health (NIH) have provided funding. 
-
-# Components
-
-The Databrary Project has two main components:
-
-[Databrary](http://databrary.org)
-:   A digital data library specialized for storing, managing, preserving, analyzing, and sharing video and other temporally dense streams of data.
-
-[Datavyu](http://datavyu.org)
-:   A free, open source software tool for coding, exploring, and analyzing video data and other temporally dense data streams.
+Most developmental scientists rely on video recordings to capture the complexity and richness of behavior. However, researchers rarely share video data, and this has impeded scientific progress. By creating the cyber-infrastructure and community to enable open video sharing, the Databrary Project aims to facilitate deeper, richer, and broader understanding of behavior.
 
 # Challenges
 

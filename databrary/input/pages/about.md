@@ -2,19 +2,20 @@ Title: About the Project
 Brief: About
 Order: 1000
 
+# Overview
 
-Databrary is federally funded by the NSF and the NIH to create a library for sharing video and metadata for developmental and behavioral research.
+The Databrary Project aims to promote data sharing, archiving, and reuse among scientists who study the development of humans and other animals. The project focuses on creating tools for scientists to store, manage, preserve, analyze, and share video and other temporally dense streams of data. The project is based at [New York University](http://www.nyu.edu) and at [Penn State](http://www.psu.edu). The U.S. National Science Foundation (NSF) and the U.S. National Institutes of Health (NIH) have provided funding. 
 
-Most developmental scientists rely on video recordings to capture the complexity and richness of behavior. However, researchers rarely share video data, and this has impeded scientific progress. By creating the cyber-infrastructure and community to enable open video sharing, the Databrary project aims to facilitate deeper, richer, and broader understanding of behavior.
+# Components
 
-The Databrary project includes:
+The Databrary Project has two main components:
 
 [Databrary](http://databrary.org)
-:	A web-based repository for data management, collaboration, open sharing, and preservation of videos and associated metadata.
+:   A digital data library specialized for storing, managing, preserving, analyzing, and sharing video and other temporally dense streams of data.
 
 [Datavyu](http://datavyu.org)
-:	A free, open source video-coding software, that enables coding, exploring, and analyzing video data.
+:   A free, open source software tool for coding, exploring, and analyzing video data and other temporally dense data streams.Databrary is federally funded by the NSF and the NIH to create a library for sharing video and metadata for developmental and behavioral research.
 
-The Databrary project is dedicated to transforming the culture of developmental science by building a community of researchers committed to open video data sharing, training a new generation of developmental scientists and empowering them with an unprecedented set of tools for discovery, and raising the profile of behavioral science by  bolstering interest in and support for scientific research among the general public.
+# Learn
 
-See the slides from our April 7th Board Meeting [here](/files/Databrary-advisory-slides-2014-04-07.pdf).
+We invite you to learn more about our [mission](mission.md), find answers to [frequently asked questions](faqs.md), discover [how to use](use-cases.md) Databrary, meet our [team](team.md), get [in touch](contact.md), [subscribe](newsletter.md), or [join our team](jobs.md).
