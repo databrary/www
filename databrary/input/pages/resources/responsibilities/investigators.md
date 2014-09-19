@@ -16,14 +16,15 @@ As a member of the Databrary community you promise to:
 
 1. treat Databrary data with the **same high standard of care** that you treat data collected in your own laboratory.
 1. ensure that participants' wishes about sharing their data are respected. 
-1. Authorized Investigators must take care in granting and managing access for Affiliates and take responsiblility for their use of Databrary.
+1. take care in granting and managing access for Affiliates and take responsiblility for their use of Databrary.
 
-## 
+
+## Specific Responsibilities for Authorized Investigators
 
 As an Authorized Investigator you agree to:
 
-- comply with your institution's policies on the conduct of research.
-- complete research ethics training that meets the institution's standards.
-- keep current your contact information and institutional affiliation on Databrary.
+1. comply with your institution's policies on the conduct of research.
+1. complete research ethics training that meets the institution's standards.
+1. keep current your contact information and institutional affiliation on Databrary.
 
 Investigators acknowledge that they have read and understood the Databrary Bill of Rights, the Databrary Data Sharing Manifesto, and all other Databrary policies.
