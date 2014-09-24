@@ -2,12 +2,16 @@ Title: Institutions
 Brief: Institutions
 Order: 2100
 
-Databrary requires that an applicant for Authorized Investigator status be associated with an Institution.
-An official with authority to sign on behalf of the institution and bind the institution must co-sign the [Databrary Access Agreement](|filename|../policies/investigator-agreement.mdi).
+Researchers seeking authorization to access Databrary must have their [Databrary Access Agreement](|filename|../policies/agreement.mdi) approved and signed by an *authorized representative* of their institution. Once an institution has signed the agreement, the individual becomes and *Authorized Investigator*
 
-## Databrary Access Agreement 
+## Overview of the Databrary Access Agreement 
 
-<!--draft language for access and IRB approval not being necessary-->
+The Databrary Access Agreement grants user and contributor privileges to all shared data in Databrary. Once the agreement is finalized, *Authorized Investigators* can access identifiable data that is shared, but only if the individuals have given informed consent to share their data in Databrary. 
+
+IRB approval is **not** required by Databrary in order to become an *Authorized Investigator*. 
+Institutions should remember that *Authorized Investigator*s agree to seek whatever IRB approvals are required by their institution for their use of Databrary 
+Uses that require IRB approval are typically contributing data and conducting research using Databrary resources. 
+However, many uses of Databrary are for pre-research or non-research purposes (browsing other data for ideas, getting clips for teaching or talks) and may not require IRB approval. 
 
 ## Authorizing Investigators
 
@@ -18,7 +22,6 @@ The institution:
 - maintains an ethics or institutional Review Board (IRB) or an equivalent entity that oversees the scientific activities of *Authorized Investigators*.
 - grants *Authorized Investigators* the responsibility to choose and manage *Affiliates* who meet Databrary's qualifications and who agree to follow Databrary's ethical principles.
 The institution holds *Authorized Investigators* responsible for the conduct of *Affiliates* they select.
-- grants each *Authorized Investigator* authority to decide when and with whom the *Authorized Investigator* wishes to share data, and the institution holds the *Authorized Investigator* responsible for the use of shared data.
 - accepts responsibility for its Authorized Investigator(s) actions related to the use of Databrary.
 
 
@@ -27,11 +30,9 @@ The institution holds *Authorized Investigators* responsible for the conduct of 
 The institution:
 
 -  asserts that it has the rights to share with Databrary any data the Authorized Investigator contributes; no other entity or individual has ownership rights that prevent the Authorized Investigator from contributing data to Databrary.
-
 - agrees to allow use of the data exclusively for the purpose of scientific research or education under the auspices of an academic, research, government, health, or commercial entity (but in the last case, solely for non-commercial purposes unless allowed under the terms of a separate agreement).
-
 - agrees not to sell or trade data or use it for other commercial purposes.
-
+- grants each *Authorized Investigator* authority to decide when and with whom the *Authorized Investigator* wishes to share data, and the institution holds the *Authorized Investigator* responsible for the use of shared data.
 - agrees to follow all relevant national, state, and local laws and regulations that pertain to the use of research data.
 
 ## Confidentiality and Ethics
@@ -46,7 +47,8 @@ If denied access to Databrary, *Authorized Investigators* or the institution may
 
 <!-- # Disclaimer
 
-nancy will send standard indemnifacation language 
+nancy will send standard indemnifacation language to put here
+
 Investigators understand that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it.
 Investigators indemnify and render harmless Databrary, New York University, and The Pennsylvania State University against any actions at law or in equity or in similar courts of any jurisdictions arising from violations of any point in this user guide. -->
 

@@ -10,31 +10,19 @@ Sharing data collected for research purposes poses challenges. Principles of eth
 
 Sharing video poses additional hurdles. Video often contains information about the identities of people, research participants and bystanders alike. Videos may be altered to make it hard to identify individuals, but this reduces the value of the recordings to others. 
 
-# The Databrary Approach
+# Extending the 'Zone of Trust'
 
-Databrary strives to enable widespread video data sharing while protecting confidentiality and privacy. The Databrary approach consists of several components:
+# Walled Garden
 
-## Asking Permission
+## What data are shared?
 
-If a video or other research data contain identifiable information, researchers must ask participants (or the participant's parent or guardian) for their permission to share this information with other researchers. Only if the participant agrees may videos or identifiable information be shared with other researchers. Databrary provides a template sharing release, similar to a photo release, that researchers may adapt for use in their own laboratories. Participants may choose to not to share at all, share only with other researchers, or allow a short excerpt or clip to be shared with the public for educational or scientific purposes, like a classroom lecture or research presentation.
+Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. 
+Sensitive or identifiable data are only shared if (i) participants have given permission for the materials to be shared, and (ii) the researcher who contributed the materials has made them available for sharing.
 
-## Limiting Access to Authorized Individuals
+## How does one access shared data?
 
-Some participants may give permission to share their videos and research data with the public, but most will not. So, Databrary limits access to individuals who [apply for authorization](access-agreement.md) and receive approval for access on the basis of specific qualifications:
-
-- Affiliation with an institution involved in research or teaching (e.g., a college or university).
-- Training in research ethics.
-- Authority to conduct independent research.
-
-Applicants must also promise to uphold Databrary's ethical principles, to follow practices that protect the identities of research participants, and to abide by Databrary's policies.
-
-Researchers who meet these qualifications and receive approval from their Institution and Databrary will be given *Authorized Investigator* status. Students and trainees who conduct research under the supervision of an *Authorized Investigator* may be given more limited access privileges as an *Affiliate*.
-
-*Authorized Investigators* or *Affiliates* may access Databrary for educational or non-research purposes. *Authorized Investigators* and *Affiliates* promise to secure approval from their Institution in order to contribute data to or conduct research on data from Databrary. 
-
-## Requiring Institutional Partnerships
-
-Databrary requires that researchers seeking access to restricted information have approval from their home institution. Institutions verify the status of *Authorized Investigators*, supervise the research of *Authorized Investigators*, and take responsibility for the conduct of *Authorized Investigators* who access Databrary.
+Individuals who wish to access or contribute data must [apply for authorization](|filename|user-guide/investigators/getting-authorized.md) as an Authorized Investigator or Affiliate. 
+The application must be approved by Databrary. The [Databrary Access Agreement](|filename|user-guide/policies/investigator-agreement.mdi) must be signed by both the Authorized Investigator and the Institution; Affiliates must be sponsored by an Authorized Investigator.
 
 # Ultimate goal
 
