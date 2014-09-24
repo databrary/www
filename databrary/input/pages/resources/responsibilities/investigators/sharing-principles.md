@@ -2,11 +2,10 @@ Title: Respecting Participant Release Levels
 Brief: Respecting Release Levels
 Order: 2230
 
-
 Databrary aims to enable researchers to share their findings with other scientists and the community at-large while protecting the privacy of individuals who participate in research.
 Participants and others depicted in recordings have the right to consent to having the recordings shared with Databrary, if they are fully informed of the potential risks of agreeing to share.
 
-## Responsibilities of Authorized Investigators and 
+## Responsibilities of Authorized Investigators and Affiliates
 
 Investigators understand that Depicted Individuals may grant different levels of Release to share their recordings and data with Databrary.
 Investigators must abide by the release levels that participants granted.

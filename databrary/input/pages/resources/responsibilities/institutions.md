@@ -2,24 +2,26 @@ Title: Institutions
 Brief: Institutions
 Order: 2100
 
-Researchers seeking authorization to access Databrary must have their [Databrary Access Agreement](|filename|../policies/agreement.mdi) approved and signed by an *authorized representative* of their institution. Once an institution has signed the agreement, the individual becomes and *Authorized Investigator*
+Researchers seeking authorization to access Databrary must have their [Databrary Access Agreement](|filename|../policies/agreement.mdi) approved and signed by an *authorized representative* of their institution. Once an institution has signed the agreement, the individual becomes an *authorized investigator*.
 
 ## Overview of the Databrary Access Agreement 
 
-The Databrary Access Agreement grants user and contributor privileges to all shared data in Databrary. Once the agreement is finalized, *Authorized Investigators* can access identifiable data that is shared, but only if the individuals have given informed consent to share their data in Databrary. 
+The Databrary Access Agreement grants user and contributor privileges to all shared data in Databrary. Once the agreement is finalized, *authorized investigator* can access identifiable data that is shared. 
 
-IRB approval is **not** required by Databrary in order to become an *Authorized Investigator*. 
-Institutions should remember that *Authorized Investigator*s agree to seek whatever IRB approvals are required by their institution for their use of Databrary 
-Uses that require IRB approval are typically contributing data and conducting research using Databrary resources. 
-However, many uses of Databrary are for pre-research or non-research purposes (browsing other data for ideas, getting clips for teaching or talks) and may not require IRB approval. 
+Approval for research involving human subjects is **not** required by Databrary in order to become an *authorized investigator*. 
+Institutions should remember that *authorized investigator*s agree to seek whatever approvals are required by their institution for their use of Databrary. Typically, contributing data and conducting research using Databrary resources require institutional approval for research involving human subjects. 
+However, many uses of Databrary are for pre-research or non-research purposes (e.g. browsing data for ideas, getting *excerpts*  for teaching or talks, learning about procedures or methods) and do not typically require institutional approval for research involving human subjects. 
 
-## Authorizing Investigators
+## When Authorizing Investigators
 
-The institution:
+The institution confirms the eligibility of its investigators by:
 
-- verifies that *Authorized Investigators* are eligible to conduct independent research at the institution.
-- validates that *Authorized Investigators* have research ethics training that meets the institution's standards.
-- maintains an ethics or institutional Review Board (IRB) or an equivalent entity that oversees the scientific activities of *Authorized Investigators*.
+- verifying that *Authorized Investigators* are eligible to conduct independent research at the institution.
+- validating that *Authorized Investigators* have research ethics training that meets the institution's standards.
+
+The institution: 
+
+- maintains an ethics or institutional review board that reviews and approves research involving human subjects.
 - grants *Authorized Investigators* the responsibility to choose and manage *Affiliates* who meet Databrary's qualifications and who agree to follow Databrary's ethical principles.
 The institution holds *Authorized Investigators* responsible for the conduct of *Affiliates* they select.
 - accepts responsibility for its Authorized Investigator(s) actions related to the use of Databrary.
@@ -47,7 +49,7 @@ If denied access to Databrary, *Authorized Investigators* or the institution may
 
 <!-- # Disclaimer
 
-nancy will send standard indemnifacation language to put here
+nancy will send standard indemnification language to put here
 
 Investigators understand that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it.
 Investigators indemnify and render harmless Databrary, New York University, and The Pennsylvania State University against any actions at law or in equity or in similar courts of any jurisdictions arising from violations of any point in this user guide. -->

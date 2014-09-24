@@ -1,5 +1,5 @@
-Title: Resources
-Brief: Resources
+Title: Access
+Brief: Access
 Order: 2000
 
 The [rights and responsibilities](|filename|user-guide/responsibilities.md) of researchers (*Authorized Investigators* and their *Affiliates*) and their institutions are detailed below. 
