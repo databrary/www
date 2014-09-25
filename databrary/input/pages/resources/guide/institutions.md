@@ -13,7 +13,7 @@ Unlike many forms of flat-file, text-based Data, video is, to a large degree, se
 As a result, we anticipate that most Databrary Investigators and Affiliates will use Databrary for a variety of pre-research or non-research uses, including viewing videos for methodological details or procedural examples or to find excerpts for teaching or scientific presentations.
 
 Since video data is inherently identifiable, all users must become [authorized](|filename|investigators/getting-authorized.md) to access any of the shared data on Databrary. 
-Databrary's access model is unique in that Authorized Investigators are granted user and contributor privileges to all shared data in the library. 
+Databrary's access model is unique in that authorized investigators are granted user and contributor privileges to all shared data in the library. 
 
 ## The Databrary Investigator Agreement combines data use and data contribution.
 
@@ -26,7 +26,7 @@ This is also in keeping with Federal mandates to share research data and emergin
 ## When is IRB approval necessary?
 
 In signing the agreement, all Investigators promise to seek IRB approval whenever their use of Databrary requires it.
-But, prior IRB approval need not be required to access Databrary's resources for non-research purposes. In short, Databrary does not require IRB approval in order to become an Authorized Investigator. 
+But, prior IRB approval need not be required to access Databrary's resources for non-research purposes. In short, Databrary does not require IRB approval in order to become an authorized investigator. 
 
 What kinds of Databrary use cases require a specific IRB protocol is really a local decision. There are many "pre-research" and teaching use cases that may not require IRB approval.
 

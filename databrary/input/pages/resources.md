@@ -2,13 +2,13 @@ Title: Access
 Brief: Access
 Order: 2000
 
-The [rights and responsibilities](|filename|user-guide/responsibilities.md) of researchers (*Authorized Investigators* and their *Affiliates*) and their institutions are detailed below. 
+The [rights and responsibilities](|filename|user-guide/responsibilities.md) of researchers (*authorized investigators* and their *affiliates*) and their institutions are detailed below. 
 
 Our [User Guide](|filename|user-guide/guidance.md) contains information for Institutions and researchers about how to access and use Databrary.
 
 Databrary policies are posted in our [policies](|filename|user-guide/policies.md) section.
 
-Words in *italics* are defined in our [definitions](|filename|policies/definitions.mdi).
+Words in *italics* are defined in our [glossary](|filename|policies/definitions.mdi).
 
 #Overview
 
@@ -20,7 +20,7 @@ As a member of the Databrary community you promise to:
 
 1. treat Databrary data with the **same high standard of care** that you treat data collected in your own laboratory.
 1. ensure that participants' wishes about sharing their data are respected. 
-1. Authorized Investigators must take care in granting and managing access for Affiliates and take responsiblility for their use of Databrary.
+1. authorized investigators must take care in granting and managing access for Affiliates and take responsiblility for their use of Databrary.
 
 ## The Databrary Approach
 
@@ -40,10 +40,10 @@ Some participants may give permission to share their videos and research data wi
 
 Applicants must also promise to uphold Databrary's ethical principles, to follow practices that protect the identities of research participants, and to abide by Databrary's policies.
 
-Researchers who meet these qualifications and receive approval from their Institution and Databrary will be given *Authorized Investigator* status. Students and trainees who conduct research under the supervision of an *Authorized Investigator* may be given more limited access privileges as an *Affiliate*.
+Researchers who meet these qualifications and receive approval from their Institution and Databrary will be given *authorized investigator* status. Students and trainees who conduct research under the supervision of an *authorized investigator* may be given more limited access privileges as an *Affiliate*.
 
-*Authorized Investigators* or *Affiliates* may access Databrary for educational or non-research purposes. *Authorized Investigators* and *Affiliates* promise to secure approval from their Institution in order to contribute data to or conduct research on data from Databrary. 
+*authorized investigators* or *Affiliates* may access Databrary for educational or non-research purposes. *authorized investigators* and *Affiliates* promise to secure approval from their Institution in order to contribute data to or conduct research on data from Databrary. 
 
 ### Requiring Institutional Partnerships
 
-Databrary requires that researchers seeking access to restricted information have approval from their home institution. Institutions verify the status of *Authorized Investigators*, supervise the research of *Authorized Investigators*, and take responsibility for the conduct of *Authorized Investigators* who access Databrary.
+Databrary requires that researchers seeking access to restricted information have approval from their home institution. Institutions verify the status of *authorized investigators*, supervise the research of *authorized investigators*, and take responsibility for the conduct of *authorized investigators* who access Databrary.

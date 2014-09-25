@@ -37,7 +37,7 @@ Order: 1100
 		<p>Databrary is specialized for storing and sharing video and other streams of data that are temporally dense, such as audio, motion tracking, eye tracking, and physiological measures. You may share examples of computer-based displays or other supplemental materials associated with a published study or conference presentation such as manuscript drafts, coded spreadsheets, codebooks, questionnaires, instruments, or analysis spreadsheets.</p>
 		<p>Databrary encourages contributors to share metadata about the settings (date, time, location), participants (e.g., age, sex, handedness, race or ethnicity), measures (e.g., video, survey, computer-task) in a given data collection session. We also encourage researchers to provide study-level metadata (human/animal, naturalistic/experimental, cross-sectional/longitudinal). These rich forms of metadata will help users to search, browse, aggregate, and reuse datasets.</p>
 		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/user-guide/policies/definitions.html'>Databrary definitions</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href="/user-guide/policies/release-template.html">template documents</a> for this purpose </p>
-		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends *Authorized Investigators* adopt <a href='/user-guide/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/user-guide/policies/bill-of-rights.html' target='_blank'>Databrary Bill of Rights</a>.</p>
+		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends *authorized investigators* adopt <a href='/user-guide/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/user-guide/policies/bill-of-rights.html' target='_blank'>Databrary Bill of Rights</a>.</p>
 		<p>Tool contributors can share tools and algorithms for visualizing, exploring, and analyzing data, and other uses. Links and scripts will enable interoperability between coded data and tools. Open source tools can share the source code.</p>
 	</div>
 </section>
@@ -82,7 +82,7 @@ Order: 1100
 		<p>Any researcher who has...</p>
 
 		<ol>
-			<li>been named an *Authorized Investigator*</li>
+			<li>been named an *authorized investigator*</li>
 
 			<li>appropriate IRB clearance to collect and share data with Databrary; and</li>
 

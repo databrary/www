@@ -10,9 +10,13 @@ Sharing data collected for research purposes poses challenges. Principles of eth
 
 Sharing video poses additional hurdles. Video often contains information about the identities of people, research participants and bystanders alike. Videos may be altered to make it hard to identify individuals, but this reduces the value of the recordings to others. 
 
+## Principles of Informed Consent Extend to Identifiable Data 
+Databrary aims to enable researchers to share their findings with other scientists and the community at-large while protecting the privacy of individuals who participate in research.
+
 # Extending the 'Zone of Trust'
 
 # Walled Garden
+
 
 ## What data are shared?
 
@@ -21,8 +25,8 @@ Sensitive or identifiable data are only shared if (i) participants have given pe
 
 ## How does one access shared data?
 
-Individuals who wish to access or contribute data must [apply for authorization](|filename|user-guide/investigators/getting-authorized.md) as an Authorized Investigator or Affiliate. 
-The application must be approved by Databrary. The [Databrary Access Agreement](|filename|user-guide/policies/investigator-agreement.mdi) must be signed by both the Authorized Investigator and the Institution; Affiliates must be sponsored by an Authorized Investigator.
+Individuals who wish to access or contribute data must [apply for authorization](|filename|user-guide/investigators/getting-authorized.md) as an *authorized investigator* or *affiliate*. 
+The application must be approved by Databrary. The [Databrary Access Agreement](|filename|user-guide/policies/investigator-agreement.mdi) must be signed by both the *authorized investigator* and the Institution; Affiliates must be sponsored by an *authorized investigator*.
 
 # Ultimate goal
 

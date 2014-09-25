@@ -2,11 +2,11 @@ Title: Authorized Investigators
 Brief: Investigators
 Order: 2200
 
-This section describes the rights and responsibilities of *Authorized Investigators* associated with their use of Databrary.
+This section describes the rights and responsibilities of *authorized investigators* associated with their use of Databrary.
 
-To become an Authorized Investigator, applicants must register and sign the Databrary Access Agreement and have their agreement 
+To become authorized, applicants must register and sign the Databrary Access Agreement and have their agreement signed by an authorized representative of their institution.
 
-*Authorized Investigators* should understand their specific rights and responsibilities when [contributing data](), [using data](), [respecting participant release levels](), and [managing affiliates]().
+*Authorized investigators* should understand their specific rights and responsibilities when [contributing data](), [using data](), [respecting participant release levels](), and [managing affiliates]().
 
 ## Guiding Ethical Principles
 
@@ -21,10 +21,10 @@ As a member of the Databrary community you promise to:
 
 ## Specific Responsibilities for Authorized Investigators
 
-As an Authorized Investigator you agree to:
+As an *authorized investigator* you agree to:
 
 1. comply with your institution's policies on the conduct of research.
 1. complete research ethics training that meets the institution's standards.
 1. keep current your contact information and institutional affiliation on Databrary.
 
-Investigators acknowledge that they have read and understood the Databrary Bill of Rights, the Databrary Data Sharing Manifesto, and all other Databrary policies.
+Investigators acknowledge that they have read and understand the Databrary Bill of Rights, the Databrary Data Sharing Manifesto, and all other Databrary policies.

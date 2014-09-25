@@ -2,7 +2,7 @@ Title: Rights and Responsibilities
 Brief: Rights and Responsibilities
 Order: 2000
 
-This section describes the rights and responsibilities of [Institutions](|filename|code-of-ethics/institutions.md) and [Authorized Investigators](|filename|code-of-ethics/investigators.md) in association with Databrary and the [rights granted to Databrary]() by Institutions and Authorized Investigators.
+This section describes the rights and responsibilities of [Institutions](|filename|code-of-ethics/institutions.md) and [authorized investigators](|filename|code-of-ethics/investigators.md) in association with Databrary and the [rights granted to Databrary]() by Institutions and authorized investigators.
 		
 ## Background: Why video requires special care
 
