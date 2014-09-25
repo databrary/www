@@ -26,6 +26,7 @@ The institution:
 The institution holds *authorized investigators* responsible for the conduct of *affiliates* they select.
 - accepts responsibility for its *authorized investigator*(s) actions related to the use of Databrary.
 
+Each party shall be responsible for its negligent acts or omissions and the negligent acts or omissions of its employees, officers, or director's, to the extent allowed by law.
 
 ## Data Contribution and Use
 

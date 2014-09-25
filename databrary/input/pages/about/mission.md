@@ -17,17 +17,6 @@ Databrary aims to enable researchers to share their findings with other scientis
 
 # Walled Garden
 
-
-## What data are shared?
-
-Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. 
-Sensitive or identifiable data are only shared if (i) participants have given permission for the materials to be shared, and (ii) the researcher who contributed the materials has made them available for sharing.
-
-## How does one access shared data?
-
-Individuals who wish to access or contribute data must [apply for authorization](|filename|user-guide/investigators/getting-authorized.md) as an *authorized investigator* or *affiliate*. 
-The application must be approved by Databrary. The [Databrary Access Agreement](|filename|user-guide/policies/investigator-agreement.mdi) must be signed by both the *authorized investigator* and the Institution; Affiliates must be sponsored by an *authorized investigator*.
-
 # Ultimate goal
 
 By enabling the secure, principled sharing of video and related data, the Databrary Project will enable a deeper, richer, and broader understanding of behavior.
