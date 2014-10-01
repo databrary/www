@@ -14,13 +14,13 @@ Words in *italics* are defined in our [glossary](|filename|resources/policies/de
 
 ## Guiding ethical principles
 
-Databrary's three guiding ethical principles embody the committment that is expected of all community members to build a community that follows the highest ethical standards.
+Databrary's three guiding ethical principles embody the commitment that is expected of all community members to build a community that follows the highest ethical standards.
 
 As a member of the Databrary community you promise to:
 
 1. treat Databrary data with the **same high standard of care** that you treat data collected in your own laboratory.
 1. ensure that participants' wishes about sharing their data are respected. 
-1. authorized investigators must take care in granting and managing access for Affiliates and take responsiblility for their use of Databrary.
+1. authorized investigators must take care in granting and managing access for Affiliates and take responsibility for their use of Databrary.
 
 ## The Databrary Approach
 

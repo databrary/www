@@ -52,7 +52,7 @@ Order: 1100
 		<ul>
 			<li>show that they are knowledgeable about ethical research principles with human participants;</li>
 			<li>promise to care for information they view in Databrary with the same care they would treat information they collect in their own labs;</li>
-			<li>get official approval from their university or institutition before sharing data with Databrary or before conducting research using Databrary resources.
+			<li>get official approval from their university or institution before sharing data with Databrary or before conducting research using Databrary resources.
 			</ul>
 		</p>
 	</div>
@@ -70,9 +70,9 @@ Order: 1100
 	<h2>When should I share data?</h2>
 
 	<div>
-		<p>Our philosophy about Data Sharing is embodied in our [Data Sharing Manifesto](|filename|../policies/data-sharing-manifesto.mdi). We believe sharing data will accelerate the pace of discovery and will lead to stronger, more transperent science.
+		<p>Our philosophy about Data Sharing is embodied in our [Data Sharing Manifesto](|filename|../policies/data-sharing-manifesto.mdi). We believe sharing data will accelerate the pace of discovery and will lead to stronger, more transparent science.
 
-		Unless required by journals or funding agenices, you are never required by Databrary to share data if you do not wish to do so.
+		Unless required by journals or funding agencies, you are never required by Databrary to share data if you do not wish to do so.
 
 		Even if you aren't sure you want to share data now, you may want to be ready to share data in the future.
 		Or, maybe you have archival data you would like to share now, but you aren't sure whether you are able to do so.</p>

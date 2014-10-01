@@ -31,7 +31,7 @@ Databrary does **not** require contributors to have used the Databrary Release, 
 
 The template is also designed to help researchers standardize the language used and know what [release level](|filename|release-levels.md) to tag each session with based on their participants' decisions.
 
-No matter what form or language is used to gather releases for Databrary sharing, contributors must determine which release level each participant agreed to and tag each session (or portion of a sesson) with the correct level of sharing.
+No matter what form or language is used to gather releases for Databrary sharing, contributors must determine which release level each participant agreed to and tag each session (or portion of a session) with the correct level of sharing.
 
 ## Samples and Examples
 
