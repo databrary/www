@@ -67,6 +67,32 @@ Order: 1100
 </section>
 
 <section class="question">
+	<h2>When should I share data?</h2>
+
+	<div>
+		<p>Our philosophy about Data Sharing is embodied in our [Data Sharing Manifesto](|filename|../policies/data-sharing-manifesto.mdi). We believe sharing data will accelerate the pace of discovery and will lead to stronger, more transperent science.
+
+		Unless required by journals or funding agenices, you are never required by Databrary to share data if you do not wish to do so.
+
+		Even if you aren't sure you want to share data now, you may want to be ready to share data in the future.
+		Or, maybe you have archival data you would like to share now, but you aren't sure whether you are able to do so.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h2>Can I share data I've already collected?</h2>
+
+	<div>
+		<p>Some investigators already ask research participants for permission to share [recordings](../policies/definitions.html#recordings) with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of a video, audio or photograph release form that is similar to Databrary's. 
+		In this case, some recordings that have already been collected might be shared with Databrary. 
+		If you have language that gives you permission to share or show recordings, you may apply to share these data with Databrary if your IRB rules that your release language is equivalent to Databrary's, or that your data require no such release to share.
+		See [Grandfathering Data](|filename|../resources/release/grandfathering-data.md) for more information.
+</p>
+	</div>
+</section>
+
+
+<section class="question">
 	<h2>What are some ways I might use it?</h2>
 
 	<div>
