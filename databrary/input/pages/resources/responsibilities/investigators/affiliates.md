@@ -2,11 +2,11 @@ Title: Managing Affiliates
 Brief: Managing Affiliates
 Order: 2240
 
-- never share personal login information (user name and password) with anyone and will keep it secure.
-
 
 Researchers who are not eligible to be named as *authorized investigator*s may be granted access privileges as an Affiliate Investigator.
 Access by Affiliate Investigators is managed or restricted by an *authorized investigator*.
+
+*Authorized investigators* agree to not share personal login information (user name and password) with anyone and will keep it secure. *Authorized investigators* may authorize other users as their *affiliate*s. 
 
 *Authorized investigator*s assume the responsibility for choosing Affiliate Investigators who meet Databrary's qualifications and who agree to follow Databrary's ethical principles.
 *Authorized investigator*s agree to be responsible for the conduct of Affiliate Investigators they select.

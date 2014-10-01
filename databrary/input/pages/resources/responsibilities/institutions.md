@@ -16,15 +16,15 @@ However, many uses of Databrary are for pre-research or non-research purposes (e
 
 The institution confirms the eligibility of its investigators by:
 
-- verifying that *authorized investigators* are eligible to conduct independent research at the institution.
-- validating that *authorized investigators* have research ethics training that meets the institution's standards.
+- Verifying that *authorized investigators* are eligible to conduct independent research at the institution.
+- Validating that *authorized investigators* have research ethics training that meets the institution's standards.
 
 The institution: 
 
-- maintains an ethics or institutional review board that reviews and approves research involving human subjects.
-- grants *authorized investigators* the responsibility to choose and manage *affiliates* who meet Databrary's qualifications and who agree to follow Databrary's ethical principles.
-The institution holds *authorized investigators* responsible for the conduct of *affiliates* they select.
-- accepts responsibility for its *authorized investigator*(s) actions related to the use of Databrary.
+- Maintains an ethics or institutional review board that reviews and approves research involving human subjects.
+- Grants *authorized investigators* the responsibility to choose and manage **affiliates** who meet Databrary's qualifications and who agree to follow Databrary's ethical principles.
+The institution holds *authorized investigators* responsible for the conduct of **affiliates** they select.
+- Accepts responsibility for its *authorized investigator*(s) actions related to the use of Databrary.
 
 Each party shall be responsible for its negligent acts or omissions and the negligent acts or omissions of its employees, officers, or director's, to the extent allowed by law.
 
@@ -32,11 +32,11 @@ Each party shall be responsible for its negligent acts or omissions and the negl
 
 The institution:
 
--  asserts that it has the rights to share with Databrary any data the *authorized investigator* contributes; no other entity or individual has ownership rights that prevent the *authorized investigator* from contributing data to Databrary.
-- agrees to allow use of the data exclusively for the purpose of scientific research or education under the auspices of an academic, research, government, health, or commercial entity (but in the last case, solely for non-commercial purposes unless allowed under the terms of a separate agreement).
-- agrees not to sell or trade data or use it for other commercial purposes.
-- grants each *authorized investigator* authority to decide when and with whom the *authorized investigator* wishes to share data, and the institution holds the *authorized investigator* responsible for the use of shared data.
-- agrees to follow all relevant national, state, and local laws and regulations that pertain to the use of research data.
+-  Asserts that it has the rights to share with Databrary any data the *authorized investigator* contributes; no other entity or individual has ownership rights that prevent the *authorized investigator* from contributing data to Databrary.
+- Agrees to allow use of the data exclusively for the purpose of scientific research or education under the auspices of an academic, research, government, health, or commercial entity (but in the last case, solely for non-commercial purposes unless allowed under the terms of a separate agreement).
+- Agrees not to sell or trade data or use it for other commercial purposes.
+- Grants each *authorized investigator* authority to decide when and with whom the *authorized investigator* wishes to share data, and the institution holds the *authorized investigator* responsible for the use of shared data.
+- Agrees to follow all relevant national, state, and local laws and regulations that pertain to the use of research data.
 
 ## Confidentiality and Ethics
 
@@ -48,10 +48,6 @@ The Institution may request information from Databrary about the *authorized inv
 
 If denied access to Databrary, *authorized investigators* or the institution may request a review.
 
-<!-- # Disclaimer
-
-nancy will send standard indemnification language to put here
-
-Investigators understand that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it.
-Investigators indemnify and render harmless Databrary, New York University, and The Pennsylvania State University against any actions at law or in equity or in similar courts of any jurisdictions arising from violations of any point in this user guide. -->
+Each party shall be responsible for its negligent acts or omissions and the negligent acts or omissions of its employees, officers, or director's, to the
+extent allowed by law.
 
