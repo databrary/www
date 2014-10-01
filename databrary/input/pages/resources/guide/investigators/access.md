@@ -1,5 +1,5 @@
-Title: Managing Access and Sharing Data
-Brief: Managing Access 
+Title: Sharing Data
+Brief: Sharing Data
 Order: 3500
 
 By default, all studies are private when they are first created.
@@ -19,7 +19,7 @@ A collaborator is someone that has sufficient privileges to access all private d
 
 You can choose between three levels of access for collaborators:
  
-- **Read-only**:
+- **Read-only**: 
 
 - **Read/write**:
 
