@@ -22,8 +22,8 @@ The institution confirms the eligibility of its investigators by:
 The institution: 
 
 - Maintains an ethics or institutional review board that reviews and approves research involving human subjects.
-- Grants *authorized investigators* the responsibility to choose and manage **affiliates** who meet Databrary's qualifications and who agree to follow Databrary's ethical principles.
-The institution holds *authorized investigators* responsible for the conduct of **affiliates** they select.
+- Grants *authorized investigators* the responsibility to choose and manage *affiliates* who meet Databrary's qualifications and who agree to follow Databrary's ethical principles.
+The institution holds *authorized investigators* responsible for the conduct of *affiliates* they select.
 - Accepts responsibility for its *authorized investigator*(s) actions related to the use of Databrary.
 
 Each party shall be responsible for its negligent acts or omissions and the negligent acts or omissions of its employees, officers, or director's, to the extent allowed by law.

@@ -6,7 +6,7 @@ This section describes the rights and responsibilities of *authorized investigat
 
 To become authorized, applicants must register and sign the Databrary Access Agreement and have their agreement signed by an authorized representative of their institution.
 
-*Authorized investigators* should understand their specific rights and responsibilities when [contributing data](|filename|investigators/contributing.md), [using data](|filename|investigators/using-data.md), [respecting participant release levels](|filename|investigators/sharing-principles.md), and [managing **affiliates**](|filename|investigators/*affiliates*.md).
+*Authorized investigators* should understand their specific rights and responsibilities when [contributing data](|filename|investigators/contributing.md), [using data](|filename|investigators/using-data.md), [respecting participant release levels](|filename|investigators/sharing-principles.md), and [managing *affiliates*](|filename|investigators/affiliates.md).
 
 ## Guiding Ethical Principles
 
