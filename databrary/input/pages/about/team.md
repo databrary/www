@@ -1,5 +1,5 @@
 Title: Our Team
-Brief: Team
+Brief: Our Team
 Order: 1300
 
 # Principal Investigators
