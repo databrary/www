@@ -2,13 +2,13 @@ Title: Access
 Brief: Access
 Order: 2000
 
-The [rights and responsibilities](|filename|user-guide/responsibilities.md) of researchers (*authorized investigators* and their *affiliates*) and their institutions are explained in the following pages. 
+The [rights and responsibilities](|filename|resources/responsibilities.md) of researchers (*authorized investigators* and their *affiliates*) and their institutions are explained in the following pages. 
 
-Our [User Guide](|filename|user-guide/guidance.md) contains information for institutions and researchers about how to access and use Databrary.
+Our [User Guide](|filename|resources/guidance.md) contains information for institutions and researchers about how to access and use Databrary.
 
-All Databrary policy documents are posted in our [policies](|filename|user-guide/policies.md) section.
+All Databrary policy documents are posted in our [policies](|filename|resources/policies.md) section.
 
-Words in *italics* are defined in our [glossary](|filename|policies/definitions.mdi).
+Words in *italics* are defined in our [glossary](|filename|resources/policies/definitions.mdi).
 
 #Overview
 
