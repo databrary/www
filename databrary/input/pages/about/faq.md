@@ -36,8 +36,8 @@ Order: 1100
 	<div>
 		<p>Databrary is specialized for storing and sharing video and other streams of data that are temporally dense, such as audio, motion tracking, eye tracking, and physiological measures. You may share examples of computer-based displays or other supplemental materials associated with a published study or conference presentation such as manuscript drafts, coded spreadsheets, codebooks, questionnaires, instruments, or analysis spreadsheets.</p>
 		<p>Databrary encourages contributors to share metadata about the settings (date, time, location), participants (e.g., age, sex, handedness, race or ethnicity), measures (e.g., video, survey, computer-task) in a given data collection session. We also encourage researchers to provide study-level metadata (human/animal, naturalistic/experimental, cross-sectional/longitudinal). These rich forms of metadata will help users to search, browse, aggregate, and reuse datasets.</p>
-		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/user-guide/policies/definitions.html'>Databrary definitions</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href="/user-guide/policies/release-template.html">template documents</a> for this purpose </p>
-		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends *authorized investigators* adopt <a href='/user-guide/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/user-guide/policies/bill-of-rights.html' target='_blank'>Databrary Bill of Rights</a>.</p>
+		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/resources/policies/definitions.html'>Databrary glossary</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href="/resources/policies/release-template.html">template documents</a> for this purpose </p>
+		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends *authorized investigators* adopt <a href='/resources/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/resources/policies/bill-of-rights.html' target='_blank'>Databrary Bill of Rights</a>.</p>
 		<p>Tool contributors can share tools and algorithms for visualizing, exploring, and analyzing data, and other uses. Links and scripts will enable interoperability between coded data and tools. Open source tools can share the source code.</p>
 	</div>
 </section>
@@ -47,25 +47,50 @@ Order: 1100
 
 	<div>
 		<p>Databrary takes privacy very seriously, but we also believe in the principle of informed consent. We believe that many people who participate in scientific research will give permission for their data to be shared if they can be confident that their privacy and dignity will be respected. Databrary has designed policies and systems to ensure this happens.</p>
-		<p>At the end of a research study, people depicted in video and audio recordings and photographs should be asked for their permission to share with other investigators. They can choose whether to share or not and whether investigators can show excerpts from their recordings to the public. No one is coerced to say yes.</p>
+		<p>At the end of a research study, people depicted in video and audio recordings and photographs should be asked for their permission to share with other investigators. They can choose whether to share or not and whether investigators can show excerpts from their recordings to the public. No one is coerced to say yes.Sensitive or identifiable data are only shared if (i) participants have given permission for the materials to be shared, and (ii) the researcher who contributed the materials has made them available for sharing.</p>
 		</p>Investigators who have recordings they are permitted to share must be authorized by Databrary to have access to the library. Databrary only grants authorized access to individuals who meet certain criteria and who agree to follow Databrary's policies. The investigators must also
 		<ul>
 			<li>show that they are knowledgeable about ethical research principles with human participants;</li>
-			<li>show that their scientific activity is supervised by an Institutional Review Board (IRB) or its equivalent;</li>
 			<li>promise to care for information they view in Databrary with the same care they would treat information they collect in their own labs;</li>
-			<li>get official approval from their university or institute before sharing data with Databrary or before conducting research on information within Databrary.
+			<li>get official approval from their university or institutition before sharing data with Databrary or before conducting research using Databrary resources.
 			</ul>
 		</p>
 	</div>
 </section>
 
 <section class="question">
-	<h2>How do I apply for access?</h2>
+	<h2>How do I access shared data?</h2>
 
 	<div>
-		<p>You may browse Databrary's public information freely without signing in. If you wish to have access to protected information, you must submit an <a href="/user-guide/policies/investigator-agreement.html">application</a> for authorization. See the information in our <a href="../resources.html>resources page</a> to learn more about what is involved in gaining access or <a href="http://nyu.databrary.org/register>register</a> today.</p>
+		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization. Individuals who wish to access or contribute data must [apply for authorization](|filename|resources/investigators/getting-authorized.md) as an *authorized investigator* or *affiliate*. The [Databrary Access Agreement](|filename|resources/policies/investigator-agreement.mdi) must be signed by both the *authorized investigator* and the Institution; *affiliates* must be sponsored by an *authorized investigator*. See the information in our <a href="../resources.html>resources page</a> to learn more about what is involved in gaining access or <a href="http://databrary.org/register>register</a> today.</p>
 	</div>
 </section>
+
+<section class="question">
+	<h2>When should I share data?</h2>
+
+	<div>
+		<p>Our philosophy about Data Sharing is embodied in our [Data Sharing Manifesto](|filename|../policies/data-sharing-manifesto.mdi). We believe sharing data will accelerate the pace of discovery and will lead to stronger, more transperent science.
+
+		Unless required by journals or funding agenices, you are never required by Databrary to share data if you do not wish to do so.
+
+		Even if you aren't sure you want to share data now, you may want to be ready to share data in the future.
+		Or, maybe you have archival data you would like to share now, but you aren't sure whether you are able to do so.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h2>Can I share data I've already collected?</h2>
+
+	<div>
+		<p>Some investigators already ask research participants for permission to share [recordings](../policies/definitions.html#recordings) with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of a video, audio or photograph release form that is similar to Databrary's. 
+		In this case, some recordings that have already been collected might be shared with Databrary. 
+		If you have language that gives you permission to share or show recordings, you may apply to share these data with Databrary if your IRB rules that your release language is equivalent to Databrary's, or that your data require no such release to share.
+		See [Grandfathering Data](|filename|../resources/release/grandfathering-data.md) for more information.
+</p>
+	</div>
+</section>
+
 
 <section class="question">
 	<h2>What are some ways I might use it?</h2>
@@ -111,22 +136,14 @@ Order: 1100
 	<div>
 		<p>Data contributors can upload data at any point and release it openly at any point - as data are collected, after scoring the data, after manuscript submission, when a manuscript goes to press, or later.</p>
 
-		<p>Funding agency requirements and journal standards about data sharing are evolving. Databrary's <a href="/user-guide/policies/data-sharing-manifesto.html">Data Sharing Manifesto</a> discusses our views on these issues.</p>
+		<p>Funding agency requirements and journal standards about data sharing are evolving. Databrary's <a href="/resources/policies/data-sharing-manifesto.html">Data Sharing Manifesto</a> discusses our views on these issues.</p>
 
 		<p>Tool contributors can share their stuff and release it at any point - as the tools are being developed, after testing, after a manuscript goes to press, or later.</p>
 	</div>
 </section>
 
 <section class="question">
-	<h2>How can I search the database?</h2>
-
-	<div>
-		<p>To search for appropriate datasets or videos, users type in relevant words or phrases (e.g., infant, Smith, language, 12-month-old, 2011). If these words are present in the abstract, manuscript, coding manual, spreadsheets, or other associated metadata, then studies, video clips, or portions of video clips will be returned.</p>
-	</div>
-</section>
-
-<section class="question">
-	<h2>Do I have to use <a href="http://datavyu.org">Datavyu</a> to contribute?</h2>
+	<h2>Do I have to use <a href="http://datavyu.org">Datavyu</a> to contribute data?</h2>
 
 	<div>
 		<p>No. Contributors are not required to score their data with the Datavyu coding tool. However, we encourage them to use Datavyu because it is free and open source and every user strengthens and grows the community.</p>
@@ -136,7 +153,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>How will using Datavyu and joining the Databrary improve my science?</h2>
+	<h2>How will using Datavyu and joining Databrary improve my science?</h2>
 
 	<div>
 		<p>The Datavyu coding tool combined with the storage, management, and curation tools in Databrary will help researchers to discover more, faster.</p>

@@ -2,8 +2,6 @@ Title: Use Cases
 Brief: Use
 Order: 1200
 
-# Many Ways to Use Databrary 
-
 There are many ways to use Databrary. With it, researchers may:
 
 ## Preserve

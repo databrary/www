@@ -2,10 +2,10 @@ Title: User Guide
 Brief: User Guide
 Order: 2900
 
-This section explains how to [apply for authorization](|filename|guidance/investigators/getting-authorized.md) and how *authorized investigator*s can:
+This section explains how to [get authorized](|filename|guide/investigators/authorization.md) to access Databrary data and how *authorized investigator*s can:
 
-* manage [access of their *affiliate*s](|filename|guidance/investigators/getting-authorized/affiliates.md).
-* [collect data to share](|filename|guidance/investigators/releasing-data.md)
-* [upload and manage datasets and studies](|filename|guidance/contributing.md)
-* [include Databrary language in funding proposals](|filename|guidance/investigators/proposal.md)
-* explore, re-use, and extend the resources shared with Databrary
+* Manage [access of their *affiliate*s](|filename|guide/investigators/authorization/affiliates.md).
+* [Collect data to share](|filename|guide/investigators/release.md).
+* [Upload and manage datasets and studies](|filename|guide/investigators/contributing.md).
+* [Include Databrary language in funding proposals](|filename|guide/investigators/proposal.md).
+* Explore, re-use, and extend the resources shared with Databrary.

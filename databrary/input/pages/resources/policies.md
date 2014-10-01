@@ -7,9 +7,9 @@ The following documents may be useful to researchers preparing funding proposals
 
 - Databrary Release Template, [.docx](/policies/release-template.docx), [.pdf](/policies/release-template.pdf) to inform participants and obtain consent for sharing data.
 
-- Databrary [Access Agreement](|filename|policies/agreement.mdi), [.pdf](/policies/agreement.pdf)
+- Databrary [Access Agreement](|filename|policies/agreement.mdi), [.pdf](/policies/agreement.pdf).
 
-- Boilerplate [Data Management Plan](|filename|policies/dmp-template.mdi) language
+- Boilerplate [Data Management Plan](|filename|policies/dmp-template.mdi) language.
 
 
 

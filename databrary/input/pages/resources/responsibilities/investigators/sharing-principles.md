@@ -4,7 +4,7 @@ Order: 2230
 
 Participants and others depicted in recordings have the right to consent to having their recordings, and potentially other identifiable data, shared with Databrary, if they are fully informed of the potential risks of agreeing to share.
 
-## Responsibilities of Authorized Investigators and Affiliates
+## Responsibilities of Authorized Investigators and *Affiliates*
 
 With respect to the release levels , *authorized investigator*s:
 

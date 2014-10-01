@@ -1,4 +1,4 @@
-Title: Preparing to Share Data
+Title: Preparing to Contribute Data
 Brief: Preparing Data
 Order: 3300
 

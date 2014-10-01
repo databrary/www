@@ -6,12 +6,12 @@ Databrary is not just an archive of developmental science research. It's an acti
 
 # Advisory Board
 
-Learn more about our [advisory board](/community/board.html).
+Learn more about our [advisory board](/community/board.md).
 
 # Committed Contributors
 
-Learn more about [committed contributors](/community/contributors.html).
+Learn more about [committed contributors](/community/contributors.md).
 
 # Partner Institutions
 
-Learn more about [our Partner Institutions](/community/partners.html).
+Learn more about [our Partner Institutions](/community/partners.md).

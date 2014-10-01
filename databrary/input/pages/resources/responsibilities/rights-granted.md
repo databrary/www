@@ -6,11 +6,11 @@ Institutions and Investigators agree to grant Databrary rights with respect to a
 
 Databrary has the right to:
 
-- redistribute the Data in Databrary in accordance with Investigator’s wishes and the permissions chosen by Depicted Individuals.
-- promote and advertise the Data.
-- describe, catalog, validate and document Data.
-- store, translate, copy or re-format the Data in any way to ensure its future preservation and accessibility.
-- incorporate Metadata or documentation.
-- assist others with questions about the Data.
-- revoke sharing of *data* that pose a risk of violating confidentiality, harm or embarrass individuals, or create other ethical problems.
-- revoke access to Databrary for ethics violations by any person.
+- Redistribute the Data in Databrary in accordance with Investigator’s wishes and the permissions chosen by Depicted Individuals.
+- Promote and advertise the Data.
+- Describe, catalog, validate and document Data.
+- Store, translate, copy or re-format the Data in any way to ensure its future preservation and accessibility.
+- Incorporate Metadata or documentation.
+- Assist others with questions about the Data.
+- Revoke sharing of *data* that pose a risk of violating confidentiality, harm or embarrass individuals, or create other ethical problems.
+- Revoke access to Databrary for ethics violations by any person.
