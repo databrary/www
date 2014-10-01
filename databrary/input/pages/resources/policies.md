@@ -3,7 +3,7 @@ Brief: Policies
 Order: 4000
 
 
-The following documents may be useful to researchers preparing funding proposals or intersted in sharing their data with Databrary:
+The following documents may be useful to researchers preparing funding proposals or interested in sharing their data with Databrary:
 
 - Databrary Release Template, [.docx](/policies/release-template.docx), [.pdf](/policies/release-template.pdf) to inform participants and obtain consent for sharing data.
 
