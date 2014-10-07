@@ -24,4 +24,5 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * University of Texas at Austin
 * University of Virginia
 * University of Wisconsin-Madison
+* Vanderbilt University
 * Virginia Commonwealth University
