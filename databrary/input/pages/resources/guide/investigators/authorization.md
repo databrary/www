@@ -2,7 +2,7 @@ Title: Getting Authorized
 Brief: Getting Authorized
 Order: 3100
 
-To become an *authorized investigator* or *affiliate*, applicants must first [register](http://databrary.org/register) and read and agree to the [Databrary Access Agreement](|filename|../policies/agreement.mdi).
+To become an *authorized investigator* or *affiliate*, applicants must first [register](http://databrary.org/register) and read and agree to the [Databrary Access Agreement](|filename|../../policies/agreement.mdi).
 
 To complete the authorization process, the applicant's agreement must be co-signed in one of the following ways:
 
