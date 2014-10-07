@@ -27,6 +27,8 @@ As an *authorized investigator* you agree to:
 1. have completed research ethics training that meets the institution's standards.
 1. keep your contact information and institutional affiliation current on Databrary.
 
+Investigators agree to follow all relevant national, state, and local laws and regulations that pertain to the use of Databrary resources.
+
 Investigators acknowledge that they have read and understand the Databrary Bill of Rights, the Databrary Data Sharing Manifesto, and all other Databrary policies.
 
 Each party shall be responsible for its negligent acts or omissions and the negligent acts or omissions of its employees, officers, or director's, to the extent allowed by law.
