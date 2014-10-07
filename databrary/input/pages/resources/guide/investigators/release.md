@@ -5,7 +5,7 @@ Order: 3200
 Since video and audio recordings and photographs are inherently identifiable, Databrary requires investigators to have IRB approval and to get permission from the people depicted in recordings or images to share their data in Databrary.
 Sharing identifiable data is allowable as long as you tell the people depicted in the recordings what it means to share their data, and they agree to share it.
 
-To standardize the process and make it as simple as possible for researchers, we have developed the [Databrary Release Template](|filename|../policies/release-template.mdi) that can be added to IRB protocols and used with participants.
+To standardize the process and make it as simple as possible for researchers, we have developed the [Databrary Release Template](|filename|../../policies/release-template.mdi) that can be added to IRB protocols and used with participants.
 The Databrary Release Template was developed and refined in close consultation with the IRB office at NYU to give Databrary Investigators a standardized way to obtain the necessary permissions to be shared in Databrary.
 The template form is designed to make it as clear and unambiguous as possible to participants about what agreeing to share their data in Databrary will mean.
 
@@ -13,7 +13,7 @@ The template form is designed to make it as clear and unambiguous as possible to
 
 Here's what you should do:
 
-1. Ensure that your [IRB protocol(s) enable sharing with Databrary](release/template.md).
+1. Ensure that your [IRB protocol(s) enable sharing with Databrary](release/asking/template.md).
 	- We recommend adapting the [Databrary Release Template](|filename|../../policies/release-template.mdi) and getting IRB approval to give the form to participants.
 
 	- The Databrary Release is not required. Only the local IRB must approve of the language for sharing in Databrary.

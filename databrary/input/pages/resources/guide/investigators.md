@@ -6,10 +6,10 @@ This section explains how to apply for authorization, manage affiliates, collect
 
 ## Who can access Databrary?
 
-Anyone collecting [shareable research data](|filename|releasing-data/releasing-data.md) will be able to store and organize their data within Databrary after completing the registration process.
+Anyone collecting [shareable research data](|filename|release/asking.md) will be able to store and organize their data within Databrary after completing the registration process.
 
 However, access to many of Databrary's shared resources is restricted to people who have authorization.
-To receive authorization a person must [apply and receive approval](|filename|investigators/getting-authorized.md), usually through their university's Grants and Contracts or Sponsored Programs Office.
+To receive authorization a person must [apply and receive approval](|filename|investigators/authorization.md), usually through their university's Grants and Contracts or Sponsored Programs Office.
 
 ## Who qualifies for access?
 

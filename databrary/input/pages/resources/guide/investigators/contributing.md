@@ -8,7 +8,7 @@ There are a few practices that may make collecting and sharing data with Databra
 
 Most labs already collect a lot of information about their participants, but may not keep it all in one place.
 
-The most critical pieces of information for Databrary: **test date**, **birth date** and **[release level](|filename|../releasing-data/release-levels.md)**.
+The most critical pieces of information for Databrary: **test date**, **birth date** and **[release level](|filename|release/release-levels.md)**.
 
 See our [Definitions of Suggested Fields](|filename|contributing/definitions.md) for other kinds of information that is helpful to include and suggested ways of reporting.
 The only thing that is required in order to store and share data within Databrary is the release level for each session.
@@ -34,6 +34,6 @@ You may also want to review your file naming conventions, so that it is easy to 
 
 ## What else should I know?
 
-* How to [organize and name your data](|filename|contributing/organizing-your-data.md) within the Databrary structure.
+* How to [organize and name your data](|filename|contributing/organization.md) within the Databrary structure.
 * What level of access you want to grant the Databrary community and other people in your lab.
-* How to [share data you collected in the past](|filename|releasing-data/grandfathering-data.md)
+* How to [share data you collected in the past](|filename|release/grandfathering-data.md)

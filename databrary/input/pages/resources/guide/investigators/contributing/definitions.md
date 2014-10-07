@@ -24,7 +24,7 @@ However, along with birth date, it is used to compute age, which is public infor
 
 The release level is the level of sharing that the participant(s) agreed to and that the PI (or data contributor) has warranted.
 
-For the definition of the levels, see [Databrary Release Levels](|filename|../releasing-data/release-levels.md)
+For the definition of the levels, see [Databrary Release Levels](|filename|../release/release-levels.md)
 Every session must be tagged with a release level.
 
 If there is no release level marked, it will not be shared.

@@ -35,5 +35,5 @@ No matter what form or language is used to gather releases for Databrary sharing
 
 ## Samples and Examples
 
-- [Sample participant release script](|filename|obtaining-release/release-script.md)
-- [Example videos of the release process](|filename|obtaining-release/release-script-examples.md)
+- [Sample participant release script](|filename|asking/script.md)
+- [Example videos of the release process](|filename|asking/examples.md)
