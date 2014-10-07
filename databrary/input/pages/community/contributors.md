@@ -119,8 +119,8 @@ Order: 4200
 [Julie Gros-Louis](http://www.psychology.uiowa.edu/people/julie_gros-louis "Julie Gros-Louis on the web")
 :	University of Iowa
 
-[Kathy Hirsh-Pasek](http://www.udel.edu/ "Kathy Hirsh-Pasek on the web")
-:	University of Delaware
+[Kathy Hirsh-Pasek](http://astro.temple.edu/~khirshpa/ "Kathy Hirsh-Pasek on the web")
+:	Temple University
 
 [Bruce Hood](http://www.bris.ac.uk/expsych/people/academic/brucehood.html "Bruce Hood on the web")
 :	University of Bristol
@@ -287,7 +287,7 @@ Order: 4200
 [Hanako Yoshida](http://www.uh.edu/class/psychology/dev-psych/Faculty/index.php "Hanako Yoshida on the web")
 :	University of Houston
 
-[Jesse Young](http://www.neomed.edu/DEPTS/ANAT/Young/PDFs/JWY_CV.pdf "Jesse Young on the web")
+[Jesse Young](http://www.neomed.edu/academics/medicine/departments/anatomyneurobiology/employees/46375 "Jesse Young on the web")
 :	Northeast Ohio Medical University
 
 [Chen Yu](http://www.cogs.indiana.edu/people/homepages/yu.html "Chen Yu on the web")
