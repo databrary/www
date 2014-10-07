@@ -109,12 +109,12 @@ Order: 1200
 Gladys Chan
 : UI/UX Designer
 
-Jon Coe
-: Web Developer
-
 Vicky Foo
 : Databrary and Datavyu Quality Assurance
 :  212-998-5417
+
+Andrew Gordon
+: Information Engineer
 
 Dylan Simon
 : Systems Architect 
