@@ -7,6 +7,7 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * Birkbeck College, University of London
 * College of Staten Island, City University of New York
 * College of William and Mary
+* Duke University
 * Georgetown University
 * Indiana University
 * McMaster University
