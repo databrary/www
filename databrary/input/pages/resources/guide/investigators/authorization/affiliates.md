@@ -27,7 +27,7 @@ Note that even if the Investigator chooses not to grant any of these permissions
 An Investigator may also grant an affiliate the following levels of access to Databrary data that has been shared by other researchers:
 
 - **No access**: Can only access public data.
-- **Affiliate Investigator**: Access all shared Databrary data.
+- **Affiliate**: Access all shared Databrary data.
 
 In this case, the Investigator is taking responsibility for the affiliate's access to Databrary as laid out in the [Databrary Access Agreement](|filename|../../../policies/agreement.mdi).
 

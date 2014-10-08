@@ -3,7 +3,11 @@ Brief: Definitions
 Order: 3350
 
 This section describes the session-level and participant information that is helpful to include with the video files you plan to share in Databrary.
+
+The suggested fields will make data far more valuable to the community and collecting information for these suggested fields is typically very easy to do at the time of the data collection, but often difficult to do once the participant has left the laboratory.
+
 Any fields may be left blank to mean the information is unknown, not reported, or unavailable.
+
 
 # **Session-level information**
 
