@@ -8,7 +8,6 @@ The suggested fields will make data far more valuable to the community and colle
 
 Any fields may be left blank to mean the information is unknown, not reported, or unavailable.
 
-
 # **Session-level information**
 
 *A session refers to a single visit or observation period.*

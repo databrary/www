@@ -7,8 +7,7 @@ These release levels map directly to the options on the [Databrary Release Templ
 
 | Release Level | Definition |
 |---------------|--------------------------------------------------------|
-| **Missing** | Releases were not obtained or are otherwise unavailable.
-This is the default, and is effectively equivalent to private.
+| **Missing** | Releases were not obtained or are otherwise unavailable. This is the default, and is effectively equivalent to private.
 |
 | **Private** | The participant(s) did not agree to share their data.
 |

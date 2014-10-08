@@ -7,8 +7,7 @@ The [rights and responsibilities](|filename|resources/responsibilities.md) of re
 Our [User Guide](|filename|resources/guide.md) contains information for institutions and researchers about how to access and use Databrary.
 
 All Databrary policy documents are posted in our [policies](|filename|resources/policies.md) section.
-
-Words in *italics* are defined in our [glossary](|filename|resources/policies/definitions.mdi).
+ (|filename|resources/policies/definitions.mdi).
 
 #Overview
 
@@ -40,9 +39,9 @@ Some participants may give permission to share their videos and research data wi
 
 Applicants must also promise to uphold Databrary's ethical principles, to follow practices that protect the identities of research participants, and to abide by Databrary's policies.
 
-Researchers who meet these qualifications and receive approval from their Institution and Databrary will be given *authorized investigator* status. Students and trainees who conduct research under the supervision of an *authorized investigator* may be given more limited access privileges as an *Affiliate*.
+Researchers who meet these qualifications and receive approval from their Institution and Databrary will be given *authorized investigator* status. Students and trainees who conduct research under the supervision of an *authorized investigator* may be given more limited access privileges as an *affiliate*.
 
-*authorized investigators* or *Affiliates* may access Databrary for educational or non-research purposes. *authorized investigators* and *Affiliates* promise to secure approval from their Institution in order to contribute data to or conduct research on data from Databrary. 
+*Authorized investigators* or *affiliates* may access Databrary for educational or non-research purposes. *Authorized investigators* and *affiliates* promise to secure approval from their Institution in order to contribute data to or conduct research on data from Databrary. 
 
 ### Requiring Institutional Partnerships
 
