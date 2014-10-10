@@ -18,7 +18,7 @@ There are many ways to use Databrary. With it, researchers may:
 ## Conduct New Research
 - Expand their own sample sizes, run replication studies, examine cohort effects, and assess possible differences due to geographical location or population by using suitable data in the archive.
 - Integrate data across archived studies to create new datasets or to conduct meta-analyses on raw data or metadata.
-- Build on other researchers' codes and prior coding efforts to extend or transform prior analyses and promote further discovery and return the results to the archive.
+- Build on other researchers' codes and prior coding efforts to extend or transform prior analyses, promote further discovery, and return the results to the archive.
 - Score archived data for behaviors that were outside the scope of the original study and then return the results to the archive.
 - Use archived data for new purposes in fields outside developmental psychology.
 
