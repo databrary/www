@@ -11,10 +11,10 @@ The Databrary Project aims to promote data sharing, archiving, and reuse among s
 The Databrary Project has two main components:
 
 [Databrary](http://databrary.org)
-:   A digital data library specialized for storing, managing, preserving, analyzing, and sharing video and other temporally dense streams of data.
+:   A digital data library specialized for storing, managing, preserving, analyzing, and sharing video and other temporally dense streams of data. Databrary is federally funded by the NSF and the NIH to create a library for sharing video and metadata for developmental and behavioral research.
 
 [Datavyu](http://datavyu.org)
-:   A free, open source software tool for coding, exploring, and analyzing video data and other temporally dense data streams.Databrary is federally funded by the NSF and the NIH to create a library for sharing video and metadata for developmental and behavioral research.
+:   A free, open source software tool for coding, exploring, and analyzing video data and other temporally dense data streams.
 
 # Learn
 
