@@ -36,7 +36,7 @@ Order: 1100
 	<div>
 		<p>Databrary is specialized for storing and sharing video and other streams of data that are temporally dense, such as audio, motion tracking, eye tracking, and physiological measures. You may share examples of computer-based displays or other supplemental materials associated with a published study or conference presentation such as manuscript drafts, coded spreadsheets, codebooks, questionnaires, instruments, or analysis spreadsheets.</p>
 		<p>Databrary encourages contributors to share metadata about the settings (date, time, location), participants (e.g., age, sex, handedness, race or ethnicity), measures (e.g., video, survey, computer-task) in a given data collection session. We also encourage researchers to provide study-level metadata (human/animal, naturalistic/experimental, cross-sectional/longitudinal). These rich forms of metadata will help users to search, browse, aggregate, and reuse datasets.</p>
-		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/resources/policies/definitions.html'>Databrary glossary</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href="/resources/policies/release-template.html">template documents</a> for this purpose </p>
+		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/resources/policies/definitions.html'>Databrary glossary</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href="/resources/policies/release-template.html">template documents</a> for this purpose. </p>
 		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends *authorized investigators* adopt <a href='/resources/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/resources/policies/bill-of-rights.html' target='_blank'>Databrary Bill of Rights</a>.</p>
 		<p>Tool contributors can share tools and algorithms for visualizing, exploring, and analyzing data, and other uses. Links and scripts will enable interoperability between coded data and tools. Open source tools can share the source code.</p>
 	</div>
@@ -47,8 +47,8 @@ Order: 1100
 
 	<div>
 		<p>Databrary takes privacy very seriously, but we also believe in the principle of informed consent. We believe that many people who participate in scientific research will give permission for their data to be shared if they can be confident that their privacy and dignity will be respected. Databrary has designed policies and systems to ensure this happens.</p>
-		<p>At the end of a research study, people depicted in video and audio recordings and photographs should be asked for their permission to share with other investigators. They can choose whether to share or not and whether investigators can show excerpts from their recordings to the public. No one is coerced to say yes.Sensitive or identifiable data are only shared if (i) participants have given permission for the materials to be shared, and (ii) the researcher who contributed the materials has made them available for sharing.</p>
-		</p>Investigators who have recordings they are permitted to share must be authorized by Databrary to have access to the library. Databrary only grants authorized access to individuals who meet certain criteria and who agree to follow Databrary's policies. The investigators must also
+		<p>At the end of a research study, people depicted in video and audio recordings and photographs should be asked for their permission to share with other investigators. They can choose whether to share or not and whether investigators can show excerpts from their recordings to the public. No one is coerced to say yes. Sensitive or identifiable data are only shared if (i) participants have given permission for the materials to be shared, and (ii) the researcher who contributed the materials has made them available for sharing.</p>
+		</p>Investigators who have recordings are permitted to share must be authorized by Databrary to have access to the library. Databrary only grants authorized access to individuals who meet certain criteria and who agree to follow Databrary's policies. The investigators must also
 		<ul>
 			<li>show that they are knowledgeable about ethical research principles with human participants;</li>
 			<li>promise to care for information they view in Databrary with the same care they would treat information they collect in their own labs;</li>
@@ -126,7 +126,7 @@ Order: 1100
 	<h2>How do I contribute?</h2>
 
 	<div>
-		<p>Uploading files is be easy, quick, and painless. Drag and drop files on to the web page or select them from a file browser. Videos are automatically converted in the background.</p>
+		<p>Uploading files is easy, quick, and painless. Drag and drop files on to the web page or select them from a file browser. Videos are automatically converted in the background.</p>
 	</div>
 </section>
 
