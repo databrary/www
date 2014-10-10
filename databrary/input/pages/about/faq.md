@@ -25,7 +25,7 @@ Order: 1100
 
 	<div>
 		<p>Yes. Users will sign an agreement stating that they will acknowledge contributors by citing any data or tool they use from Databrary. Databrary will provide permanent links and a citation format.</p>
-		<p>Databrary will also keep track of the number of times your personal, lab, and project pages are viewed, the number of times your data are viewed, downloaded, or excerpted. These measures of your
+		<p>Databrary will also keep track of the number of times your personal, lab, and project pages are viewed, as well as the number of times your data are viewed, downloaded, or excerpted. These measures of your
 		scholarly impact will be reported to you.</p>
 	</div>
 </section>
