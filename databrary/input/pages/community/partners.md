@@ -4,6 +4,7 @@ Order: 4300
 
 The following Institutions have signed the Databrary Investigator agreement and are now our partner institutions:
 
+* Arizona State University
 * Birkbeck College, University of London
 * College of Staten Island, City University of New York
 * College of William and Mary
