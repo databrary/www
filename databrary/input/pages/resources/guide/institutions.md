@@ -20,15 +20,15 @@ Databrary's access model is unique in that authorized investigators are granted 
 Many data repositories or data sharing arrangements require that data use agreements be signed prior to accessing a specific dataset for a discrete research purpose.
 Most data repositories have a separate agreement associated with data contribution.
 The Databrary agreement is new and perhaps unique in enabling open access for both data use and contribution privileges.
-That is by design, as we have been charged to lower barriers to data sharing, and we think that combining the agreements helps achieve that end.
+We believe that combining the agreements will help lower barriers to data sharing. 
 This is also in keeping with Federal mandates to share research data and emerging practices related to openness in scientific research.
 
 ## When is IRB approval necessary?
 
 In signing the agreement, all Investigators promise to seek IRB approval whenever their use of Databrary requires it.
-But, prior IRB approval need not be required to access Databrary's resources for non-research purposes. In short, Databrary does not require IRB approval in order to become an authorized investigator. 
+But, prior IRB approval is not required to access Databrary's resources for non-research purposes. In short, Databrary does not require IRB approval in order to become an authorized investigator. 
 
-What kinds of Databrary use cases require a specific IRB protocol is really a local decision. There are many "pre-research" and teaching use cases that may not require IRB approval.
+The kind of Databrary use cases that require a specific IRB protocol is a local decision. There are many "pre-research" and teaching use cases that may not require IRB approval.
 
 ## Databrary contains Identifiable Data for which participants have given permission to share
 
@@ -36,7 +36,7 @@ Databrary contains metadata that are not sensitive, de-identified data, and iden
 All identifiable data in the library have been shared with the explicit permission of the people depicted.
 
 In order to contribute and share identifiable data with Databrary, Investigators must [get approval](|filename|investigators/release/asking.md) from the people from whom the Data were collected. 
-Investigators promise to provide accurate information about the participants desired [release level](|filename|investigators/release/release-levels.md).
+Investigators promise to provide accurate information about the participants' desired [release level](|filename|investigators/release/release-levels.md).
 Importantly, people whose identities might be discovered must have given informed consent in order for their data to be shared with other researchers on Databrary.
 
 Databrary has developed a [Release Template](|filename|../policies/release-template.mdi) that helps to clearly inform participants of the potential risks, should they agree to share their data. The template is one of the resources that Databrary has made available and may be adapted and added to any IRB protocol.
@@ -46,6 +46,6 @@ Whether De-identified Data may be shared with Databrary without seeking explicit
 Some IRBs allow De-identified Data to be shared without explicit permission of the person tested.
 
 The Databrary agreement is intended to formalize the obligations by the scientists who will view, browse, download, analyze, or contribute data.
-Those obligations include not to misuse the information, not to identify the participants, and to seek approval when a specific use case requires it.
+Those obligations include proper use of the information, protection of participant identities, and seeking approval when a specific use case requires it.
 
 
