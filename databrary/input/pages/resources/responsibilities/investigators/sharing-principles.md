@@ -2,7 +2,7 @@ Title: Respecting Participant Release Levels
 Brief: Respecting Release Levels
 Order: 2230
 
-Participants and others depicted in recordings have the right to consent to having their recordings, and potentially other identifiable data, shared with Databrary, if they are fully informed of the potential risks of agreeing to share.
+People depicted in recordings have the right to consent to having their video and other potentially identifiable data shared with Databrary if they are fully informed of the potential risks of agreeing to share.
 
 ## Responsibilities of Authorized Investigators and *Affiliates*
 
