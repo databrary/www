@@ -4,7 +4,7 @@ Order: 2220
 
 Databrary resources may be used for a variety of purposes.
 
-When browsing and downloading Databrary resources, authorized investigators commit to:
+When browsing and downloading Databrary resources, *authorized investigators* commit to:
 
 - Protect the identity of all individuals with information in Databrary, especially depicted individuals.
 - Keep data secure on computers with limited access.
