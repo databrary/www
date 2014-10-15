@@ -49,23 +49,23 @@ If this session or entire dataset was part of a preliminary data collection that
 
 If this session was excluded from a final study or analysis, you can indicate that:
 
-  * inclusion criteria: participant did not meet the criteria for inclusion in the study but some data were collected nonetheless
-  * procedural: experimenter error/equipment failure
-  * withdrew: participant became fussy, tired, or withdrew from session for other participant-related reasons
-  * outlier: participant's session was unusual compared to the rest of the sessions
-  * other: please define
+  * Inclusion criteria: participant did not meet the criteria for inclusion in the study but some data were collected nonetheless
+  * Procedural: experimenter error/equipment failure
+  * Withdrew: participant became fussy, tired, or withdrew from session for other participant-related reasons
+  * Outlier: participant's session was unusual compared to the rest of the sessions
+  * Other: please define
 	
 ### Setting
 
 In what kind of environment did the session take place?
 
-  * lab
-  * home
-  * museum
-  * classroom
-  * outdoor
-  * clinic
-  * other: please define
+  * Lab
+  * Home
+  * Museum
+  * Classroom
+  * Outdoor
+  * Clinic
+  * Other: please define
 
 ### Country
 
