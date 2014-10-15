@@ -31,7 +31,7 @@ Studies can also other relevant information, including links to published papers
 # Exclusions and Pilots
 
 In any study, there are going to be participants that are not included in final analysis for many reasons.
-Maybe you were trying to determine how to run an session with pilot participants, or a participant was unable to complete a task.
+Maybe you were trying to determine how to run a session with pilot participants, or a participant was unable to complete a task.
 You are encouraged to share these sessions with Databrary, but you will want to make it clear that these sessions were not included in a final research project.
 
 Accordingly, you can mark the sessions that were not included in a study and note why.
