@@ -2,7 +2,7 @@ Title: Authorizing and Managing Affiliates
 Brief: Affiliates
 Order: 3110
 
-Authorized investigators may authorize their staff, students, or collaborators to access data on Databrary as Affiliates Investigators.
+*Authorized investigators* may authorize their staff, students, or collaborators to access data on Databrary as Affiliate Investigators.
 In doing so, there are two classes of data to consider: data belonging to the Investigator, and data belonging to others that has been shared with Databrary.
 An Investigator can grant access independently to each of these types of data.
 
