@@ -9,7 +9,7 @@ Order: 4200
 :	Indiana University
 
 [Martha Alibali](http://glial.psych.wisc.edu/index.php/psychsplashfacstaff/90 "Martha Alibali on the web")
-:	University of Wisconsin
+:	University of Wisconsin, Madison
 
 [Dima Amso](http://www.brown.edu/Departments/CLPS/people/dima-amso "Dima Amso on the web")
 :	Brown University
@@ -27,7 +27,7 @@ Order: 4200
 :	Pennsylvania State University
 
 [Sarah Berger](http://www.library.csi.cuny.edu/~berger/Sarah/Home.html "Sarah Berger on the web")
-:	College of Staten Island of the City University of New York
+:	City University of New York
 
 [Bennett Bertenthal](http://www.indiana.edu/~dcnlab/ "Bennett Bertenthal on the web")
 :	Indiana University
@@ -119,8 +119,8 @@ Order: 4200
 [Julie Gros-Louis](http://www.psychology.uiowa.edu/people/julie_gros-louis "Julie Gros-Louis on the web")
 :	University of Iowa
 
-[Kathy Hirsh-Pasek](http://www.udel.edu/ "Kathy Hirsh-Pasek on the web")
-:	University of Delaware
+[Kathy Hirsh-Pasek](http://astro.temple.edu/~khirshpa/ "Kathy Hirsh-Pasek on the web")
+:	Temple University
 
 [Bruce Hood](http://www.bris.ac.uk/expsych/people/academic/brucehood.html "Bruce Hood on the web")
 :	University of Bristol
@@ -143,14 +143,11 @@ Order: 4200
 [Charles Kemp](http://www.psy.cmu.edu/~ckemp/ "Charles Kemp on the web")
 :	Carnegie Mellon University
 
-[LEARN LAB](http://learnlab.org/ "LEARN LAB on the web")
-:	Pittsburgh Science of Learning Center
-
 [Cristine Legare](http://www.psy.utexas.edu/psy/faculty/Legare/legare.html "Cristine Legare on the web")
 :	University of Texas Austin
 
 [Lynn Liben](http://psych.la.psu.edu/directory/faculty-bios/liben.html "Lynn Liben on the web")
-:	University of Pennsylvania
+:	Pennsylvania State University
 
 [Michele Lobo](http://www.udel.edu/chs/facultystaff/lobo.html "Michele Lobo on the web")
 :	University of Delaware
@@ -290,7 +287,7 @@ Order: 4200
 [Hanako Yoshida](http://www.uh.edu/class/psychology/dev-psych/Faculty/index.php "Hanako Yoshida on the web")
 :	University of Houston
 
-[Jesse Young](http://www.neomed.edu/DEPTS/ANAT/Young/PDFs/JWY_CV.pdf "Jesse Young on the web")
+[Jesse Young](http://www.neomed.edu/academics/medicine/departments/anatomyneurobiology/employees/46375 "Jesse Young on the web")
 :	Northeast Ohio Medical University
 
 [Chen Yu](http://www.cogs.indiana.edu/people/homepages/yu.html "Chen Yu on the web")

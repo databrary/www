@@ -747,6 +747,8 @@ ul.inline li {
 .site_footer .footer_links {
 	text-align: left;
 	font-size: 0.9em;
+  width: 60%;
+  float:left;
 }
 
 .site_footer .footer_social {
@@ -754,6 +756,8 @@ ul.inline li {
 	position: relative;
 	top: -2px;
 	font-size: 0.9em;
+  width: 40%;
+  float: left;
 }
 
 .site_footer .footer_social p {

@@ -58,13 +58,6 @@ Order: 1300
                 </li>
 
 
-                <li>
-                    <div class="title">Director of Human Imaging</div>
-                    <div class="affil"><a href="http://www.imaging.psu.edu"
-                                          title="&lt;abbr title=&quot;Social, Life, &amp;amp; Engineering Sciences Imaging Center&quot;&gt;SLEIC&lt;/abbr&gt;"><abbr
-                            title="Social, Life, &amp; Engineering Sciences Imaging Center">SLEIC</abbr></a></div>
-                </li>
-
 
             </ul>
 
@@ -116,12 +109,12 @@ Order: 1300
 Gladys Chan
 : UI/UX Designer
 
-Jon Coe
-: Web Developer
-
 Vicky Foo
 : Databrary and Datavyu Quality Assurance
 :  212-998-5417
+
+Andrew Gordon
+: Information Engineer
 
 Dylan Simon
 : Systems Architect 
