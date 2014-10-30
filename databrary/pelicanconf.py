@@ -14,7 +14,7 @@ from common.pelicanconf import *
 SITENAME = 'Databrary: An Open Data Library for Developmental Science'
 SITESLUG = 'databrary'
 TOPRIGHT_TARGET = 'https://nyu.databrary.org/'
-TOPRIGHT_TEXT   = 'enter databrary beta'
+TOPRIGHT_TEXT   = 'enter databrary'
 
 # COMPILE
 OUTPUT_RETENTION = ('irclogs', 'policies', 'awstats', 'awstats.cgi', 'bugs')
