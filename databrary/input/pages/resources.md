@@ -7,7 +7,6 @@ The [rights and responsibilities](|filename|resources/responsibilities.md) of re
 Our [User Guide](|filename|resources/guide.md) contains information for institutions and researchers about how to access and use Databrary.
 
 All Databrary policy documents are posted in our [policies](|filename|resources/policies.md) section.
- (|filename|resources/policies/definitions.mdi).
 
 #Overview
 
