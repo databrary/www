@@ -37,7 +37,7 @@ Order: 1100
 		<p>Databrary is specialized for storing and sharing video and other streams of data that are temporally dense, such as audio, motion tracking, eye tracking, and physiological measures. You may share examples of computer-based displays or other supplemental materials associated with a published study or conference presentation such as manuscript drafts, coded spreadsheets, codebooks, questionnaires, instruments, or analysis spreadsheets.</p>
 		<p>Databrary encourages contributors to share metadata about the settings (date, time, location), participants (e.g., age, sex, handedness, race or ethnicity), measures (e.g., video, survey, computer-task) in a given data collection session. We also encourage researchers to provide study-level metadata (human/animal, naturalistic/experimental, cross-sectional/longitudinal). These rich forms of metadata will help users to search, browse, aggregate, and reuse datasets.</p>
 		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/resources/policies/definitions.html'>Databrary glossary</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href="/resources/policies/release-template.html">template documents</a> for this purpose. </p>
-		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends *authorized investigators* adopt <a href='/resources/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/resources/policies/bill-of-rights.html' target='_blank'>Databrary Bill of Rights</a>.</p>
+		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends <em>authorized investigators</em> adopt <a href='/resources/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/resources/policies/bill-of-rights.html' target='_blank'>Databrary Bill of Rights</a>.</p>
 		<p>Tool contributors can share tools and algorithms for visualizing, exploring, and analyzing data, and other uses. Links and scripts will enable interoperability between coded data and tools. Open source tools can share the source code.</p>
 	</div>
 </section>
@@ -62,7 +62,7 @@ Order: 1100
 	<h2>How do I access shared data?</h2>
 
 	<div>
-		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization. Individuals who wish to access or contribute data must [apply for authorization](|filename|resources/investigators/getting-authorized.md) as an *authorized investigator* or *affiliate*. The [Databrary Access Agreement](|filename|resources/policies/investigator-agreement.mdi) must be signed by both the *authorized investigator* and the Institution; *affiliates* must be sponsored by an *authorized investigator*. See the information in our <a href="../resources.html>resources page</a> to learn more about what is involved in gaining access or <a href="http://databrary.org/register>register</a> today.</p>
+		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization. Individuals who wish to access or contribute data must [apply for authorization](|filename|resources/investigators/getting-authorized.md) as an <em>authorized investigator</em> or <em>affiliate</em>. The [Databrary Access Agreement](|filename|resources/policies/investigator-agreement.mdi) must be signed by both the <em>authorized investigator</em> and the Institution; <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. See the information in our <a href="../resources.html>resources page</a> to learn more about what is involved in gaining access or <a href="http://databrary.org/register>register</a> today.</p>
 	</div>
 </section>
 
@@ -107,7 +107,7 @@ Order: 1100
 		<p>Any researcher who has...</p>
 
 		<ol>
-			<li>been named an *authorized investigator*</li>
+			<li>been named an <em>authorized investigator</em></li>
 
 			<li>appropriate IRB clearance to collect and share data with Databrary; and</li>
 
