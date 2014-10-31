@@ -27,5 +27,5 @@ There are many ways to use Databrary. With it, researchers may:
 - Use various tools contributed to the archive to enhance understanding of their own data.
 
 ## Collaborate
-- Collaborate with like-minded researchers in another area of development to create corpora of data with shared coding schemes and other metadata, as exemplified by [CHILDES and TalkBank](http://talkbank.org).
+- Collaborate with like-minded researchers in another area of development to create corpora of data with shared coding schemes and other metadata.
 - Comment on datasets shared by others; add tags to help others mine datasets.
