@@ -26,6 +26,7 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * University of Massachusetts Boston
 * University of Michigan 
 * University of Rochester
+* University of Southern California
 * University of Texas at Austin
 * University of Virginia
 * University of Wisconsin-Madison
