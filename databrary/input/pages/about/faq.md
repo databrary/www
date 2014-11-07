@@ -61,7 +61,7 @@ Order: 1100
 	<h2>How do I access shared data?</h2>
 
 	<div>
-		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization. Individuals who wish to access or contribute data must <a href='/resources/investigators/getting-authorized.html'>apply for authorization</a>) as an <em>authorized investigator</em> or <em>affiliate</em>. The <a href='/resources/policies/investigator-agreement.html'>Databrary Access Agreement</a>) must be signed by both the <em>authorized investigator</em> and the Institution; <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. See the information in our <a href="/resources.html>resources page</a> to learn more about what is involved in gaining access or <a href="http://databrary.org/register>register</a> today.</p>
+		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization. Individuals who wish to access or contribute data must (<a href='/resources/investigators/getting-authorized.html'>apply for authorization</a>) as an <em>authorized investigator</em> or <em>affiliate</em>. The (<a href='/resources/policies/investigator-agreement.html'>Databrary Access Agreement</a>) must be signed by both the <em>authorized investigator</em> and the Institution; <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. See the information in our (<a href="/resources.html>resources page</a>) to learn more about what is involved in gaining access or (<a href="http://databrary.org/register>register</a>) today.</p>
 	</div>
 </section>
 
@@ -85,7 +85,7 @@ Order: 1100
 		<p>Some investigators already ask research participants for permission to share (<a href='/resources/policies/definitions.html#recordings'>recordings</a>) with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of a video, audio or photograph release form that is similar to Databrary's. 
 		In this case, some recordings that have already been collected might be shared with Databrary. 
 		If you have language that gives you permission to share or show recordings, you may apply to share these data with Databrary if your IRB rules that your release language is equivalent to Databrary's, or that your data require no such release to share.
-		See <a href='/resources/release/grandfathering-data.html'> Grandfathering Data</a>) for more information.
+		See (<a href='/resources/release/grandfathering-data.html'> Grandfathering Data</a>) for more information.
 </p>
 	</div>
 </section>
@@ -117,7 +117,7 @@ Order: 1100
 
 		<p>Any researcher may contribute tools to the repository.</p>
 
-		<p>Researchers may <a href="http://nyu.databrary.org/register">register</a> online or <a href='/contact.html'>contact Databrary</a> for more information.</p>
+		<p>Researchers may (<a href="http://nyu.databrary.org/register">register</a>) online or (<a href='/contact.html'>contact Databrary</a>) for more information.</p>
 	</div>
 </section>
 
