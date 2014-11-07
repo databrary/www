@@ -13,8 +13,11 @@ from common.pelicanconf import *
 # SITE
 SITENAME = 'Databrary: An Open Data Library for Developmental Science'
 SITESLUG = 'databrary'
-TOPRIGHT_TARGET = 'https://nyu.databrary.org/'
-TOPRIGHT_TEXT   = 'enter databrary beta'
+TOPRIGHT_TARGET2 = 'https://nyu.databrary.org/register/'
+TOPRIGHT_TEXT2   = 'Register'
+TOPRIGHT_TARGET1 = 'https://nyu.databrary.org/'
+TOPRIGHT_TEXT1   = 'Login Databrary'
+
 
 # COMPILE
 OUTPUT_RETENTION = ('irclogs', 'policies', 'awstats', 'awstats.cgi', 'bugs')
