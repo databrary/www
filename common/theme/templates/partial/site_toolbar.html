@@ -1,12 +1,16 @@
 <section id="site_toolbar" class="site_toolbar">
 	<div class="wrap">
-		{% if TOPRIGHT_TEXT %}
+
 		<nav class="toolbar_user">
-			<a href="{{TOPRIGHT_TARGET2}} ">{{TOPRIGHT_TEXT2}}</a>
+      {% if TOPRIGHT_TEXT2 %}			
+      <a href="{{TOPRIGHT_TARGET2}} ">{{TOPRIGHT_TEXT2}}</a>
       <span> | </span>
+      {% endif %}
+      {% if TOPRIGHT_TEXT1 %}
       <a href="{{TOPRIGHT_TARGET1}} ">{{TOPRIGHT_TEXT1}}</a>
+      {% endif %}
 		</nav>
-		{% endif %}
+
 
 		<h1>
 			<a href="{{PROJECTS[0][1]}}" title="Databrary: An Open Data Library"><img src="/theme/img/logo/databrary-nav.png" alt="Databrary: An Open Data Library for Developmental Science"></a>
