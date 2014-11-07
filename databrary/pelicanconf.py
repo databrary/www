@@ -18,7 +18,6 @@ TOPRIGHT_TEXT2   = 'Register'
 TOPRIGHT_TARGET1 = 'https://nyu.databrary.org/'
 TOPRIGHT_TEXT1   = 'Login Databrary'
 
-
 # COMPILE
 OUTPUT_RETENTION = ('irclogs', 'policies', 'awstats', 'awstats.cgi', 'bugs')
 
