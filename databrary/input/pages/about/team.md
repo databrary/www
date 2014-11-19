@@ -29,8 +29,8 @@ Order: 1300
 
             <ul class="info email">
 
-                <li><a href="mailto:karen.adolph@nyu.edu" title="Email Karen Adolph"><img
-                        src="/theme/img/social/email.png" alt="Email Karen Adolph">karen.adolph@nyu.edu</a></li>
+                <li><a title="Email Karen Adolph"><img
+                        src="/theme/img/social/email.png" alt="Email Karen Adolph">karen dot adolph at nyu dot edu</a></li>
 
             </ul>
         </div>
@@ -63,8 +63,8 @@ Order: 1300
 
             <ul class="info email">
 
-                <li><a href="mailto:rogilmore@psu.edu" title="Email Rick O. Gilmore"><img
-                        src="/theme/img/social/email.png" alt="Email Rick O. Gilmore">rogilmore@psu.edu</a></li>
+                <li><a title="Email Rick O. Gilmore"><img
+                        src="/theme/img/social/email.png" alt="Email Rick O. Gilmore">rogilmore at psu dot edu</a></li>
 
             </ul>
         </div>
@@ -96,8 +96,8 @@ Order: 1300
 
             <ul class="info email">
 
-                <li><a href="mailto:dsm@nyu.edu" title="Email David Millman"><img
-                        src="/theme/img/social/email.png" alt="Email David Millman">dsm@nyu.edu</a></li>
+                <li><a title="Email David Millman"><img
+                        src="/theme/img/social/email.png" alt="Email David Millman">dsm at nyu dot edu</a></li>
 
             </ul>
         </div>
@@ -108,27 +108,34 @@ Order: 1300
 
 Gladys Chan
 : UI/UX Designer
+:  <img src="/theme/img/social/email.png"> gladys at databrary dot org
 
 Vicky Foo
 : Databrary and Datavyu Quality Assurance
+:  <img src="/theme/img/social/email.png"> vicky at databrary dot org
 :  212-998-5417
 
 Andrew Gordon
 : Information Engineer
+:  <img src="/theme/img/social/email.png"> drew at databrary dot org
+
+Omran Majumder
+: Databrary Quality Assurance and Curation
+:  <img src="/theme/img/social/email.png"> omi at databrary dot org
 
 Dylan Simon
 : Systems Architect 
-:	<img src="/theme/img/social/email.png"> [dylan@databrary.org](mailto:dylan@databrary.org "Email Dylan Simon")
+:	<img src="/theme/img/social/email.png"> dylan at databrary dot org
 :   212-992-6101
 
 Lisa Steiger
 : Community Liaison and Project Manager
-:	<img src="/theme/img/social/email.png"> [lisa@databrary.org](mailto:lisa@databrary.org "Email Lisa Steiger")
+:	<img src="/theme/img/social/email.png"> lisa at databrary dot org
 :	212-998-5536
 
 Lina Wictoren Roy
 : Project Coordinator
-:	<img src="/theme/img/social/email.png"> [lina@databrary.org](mailto:lina@databrary.org "Email Lina Wictoren Roy")
+:	<img src="/theme/img/social/email.png"> lina at databrary dot org
 :   212-998-5800
 
 ----
