@@ -4,7 +4,7 @@ Order: 2100
 
 # Summary
 
-Databrary seeks flexible and motivated JavaScript superhero to take ownership of our unique, web-based, AngularJS-powered data library changing the face of science as we speak. Your mission, should you choose to accept it, will be to collaborate closely with a small, vibrant team of developers and developmental scientists to design and implement tools enabling researchers to collaborate, store, explore, and access research datasets in ways never before possible.
+Databrary seeks a flexible and motivated JavaScript programmer to take ownership of our unique, web-based, AngularJS-powered data library. Your mission will be to collaborate closely with a small, vibrant team of developers and developmental scientists to design and implement tools enabling researchers to collaborate, store, explore, and access research datasets in ways never before possible.
 
 # Responsibilities
 
