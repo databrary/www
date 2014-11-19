@@ -1,6 +1,7 @@
 Title: Discover Datavyu
 Brief: Features
 Display: wide
+Order: 0
 
 <h2 class="special_head">Datavyu is...</h2>
 
