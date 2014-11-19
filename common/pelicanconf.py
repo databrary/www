@@ -113,6 +113,8 @@ TAGS_SAVE_AS = False
 AUTHOR_SAVE_AS = False
 AUTHORS_SAVE_AS = False
 
+PAGE_ORDER_BY = 'order'
+ARTICLE_ORDER_BY = 'date'
 
 # FEEDS
 FEED_ALL_ATOM = None
