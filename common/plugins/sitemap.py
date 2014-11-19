@@ -11,7 +11,7 @@ from __future__ import unicode_literals
 import collections
 import os.path
 
-from datetime import datetime
+from datetime import datetime, timezone
 from logging import warning, info
 from codecs import open
 
@@ -166,11 +166,11 @@ class SitemapGenerator(object):
 
     def set_url_wrappers_modification_date(self, wrappers):
         for (wrapper, articles) in wrappers:
-            lastmod = datetime.min
+            lastmod = datetime.min.replace(tzinfo=timezone.utc)
             for article in articles:
                 lastmod = max(lastmod, article.date)
                 try:
-                    modified = self.get_date_modified(article, datetime.min);
+                    modified = self.get_date_modified(article, lastmod);
                     lastmod = max(lastmod, modified)
                 except ValueError:
                     # Supressed: user will be notified.
