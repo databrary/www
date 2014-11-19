@@ -32,7 +32,7 @@ PAGINATION_PATTERNS = (
 	(2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
 )
 
-PLUGIN_PATH = '../common/plugins'
+PLUGIN_PATHS = ['../common/plugins']
 PLUGINS = ['sitemap', 'mdimport', 'vyu_releases']
 MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'admonition', 'headerid(level=2)']
 
@@ -52,10 +52,10 @@ OUTPUT_PATH = 'output/'
 DIRECT_TEMPLATES = ('index',)
 PAGINATED_DIRECT_TEMPLATES = ('index',)
 
-PAGE_DIR = 'pages'
-PAGE_EXCLUDES = ()
-ARTICLE_DIR = 'posts'
-ARTICLE_EXCLUDES = ()
+PAGE_PATHS = ['pages']
+PAGE_EXCLUDES = []
+ARTICLE_PATHS = ['posts']
+ARTICLE_EXCLUDES = []
 STATIC_PATHS = ['files', 'img', 'ico', 'js', 'css', 'extra', 'video', '.htaccess', 'favicon.ico']
 
 TYPOGRIFY = False
@@ -72,7 +72,7 @@ def sphinx_element(value, element):
 
 
 def future_date(iterable):
-	now = datetime.datetime.now()
+	now = datetime.datetime.now(datetime.timezone.utc)
 
 	iterable = [post for post in iterable if post.date >= now]
 
@@ -80,7 +80,7 @@ def future_date(iterable):
 
 
 def recent_date(iterable, days=30):
-	now = datetime.datetime.now()
+	now = datetime.datetime.now(datetime.timezone.utc)
 	past = now - datetime.timedelta(days=days)
 
 	iterable = [post for post in iterable if now >= post.date >= past]
