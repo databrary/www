@@ -29,8 +29,8 @@ Order: 1300
 
             <ul class="info email">
 
-                <li><a title="Email Karen Adolph"><img
-                        src="/theme/img/social/email.png" alt="Email Karen Adolph">karen dot adolph at nyu dot edu</a></li>
+                <li><span><img
+                        src="/theme/img/social/email.png" alt="Email Karen Adolph">karen dot adolph at nyu dot edu</span></li>
 
             </ul>
         </div>
@@ -63,8 +63,8 @@ Order: 1300
 
             <ul class="info email">
 
-                <li><a title="Email Rick O. Gilmore"><img
-                        src="/theme/img/social/email.png" alt="Email Rick O. Gilmore">rogilmore at psu dot edu</a></li>
+                <li><span><img
+                        src="/theme/img/social/email.png" alt="Email Rick O. Gilmore">rogilmore at psu dot edu</span></li>
 
             </ul>
         </div>
@@ -88,7 +88,7 @@ Order: 1300
                 <li>
                     <div class="title">Director of Digital Library Technology Services</div>
                     <div class="affil"><a href="http://dlib.nyu.edu/dlts/" title="New York University">New York
-                        University</a></div>
+                        University</span></div>
                 </li>
 
 
@@ -96,8 +96,8 @@ Order: 1300
 
             <ul class="info email">
 
-                <li><a title="Email David Millman"><img
-                        src="/theme/img/social/email.png" alt="Email David Millman">dsm at nyu dot edu</a></li>
+                <li><span><img
+                        src="/theme/img/social/email.png" alt="Email David Millman">dsm at nyu dot edu</span></li>
 
             </ul>
         </div>
