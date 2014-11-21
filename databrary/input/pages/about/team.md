@@ -88,7 +88,7 @@ Order: 1300
                 <li>
                     <div class="title">Director of Digital Library Technology Services</div>
                     <div class="affil"><a href="http://dlib.nyu.edu/dlts/" title="New York University">New York
-                        University</span></div>
+                        University</a></div>
                 </li>
 
 
