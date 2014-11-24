@@ -4,7 +4,8 @@ Order: 2100
 
 # Summary
 
-Databrary seeks a flexible and motivated JavaScript programmer to take ownership of our unique, web-based, AngularJS-powered data library. Your mission will be to collaborate closely with a small, vibrant team of developers and developmental scientists to design and implement tools enabling researchers to collaborate, store, explore, and access research datasets in ways never before possible.
+Databrary seeks a flexible and motivated JavaScript programmer to take ownership of our unique, web-based, video data library.
+Your will collaborate closely with a small team of developers and developmental scientists to design and implement tools enabling researchers to collaborate, store, explore, and access research datasets.
 
 # Responsibilities
 
@@ -15,13 +16,10 @@ Databrary seeks a flexible and motivated JavaScript programmer to take ownership
 
 # Qualifications
 
-- Passion for collaboration and friendly demeanor
-- Extensive experience with JavaScript (jQuery), HTML5 (audio/video API), and CSS3 (stylus)
+- Extensive experience with JavaScript (CoffeeScript), HTML5 (audio/video API), and CSS3 (Stylus)
 - Practice with AngularJS or other modern client-side MVC framework
-- Knowledge of browser quirks as far back as IE9, and the tools of client-side development
 - Familiarity with git and standard UNIX development tools
 - Understanding of security and ethical concerns around sensitive data
-- 3+ years of programming experience
 
 # Preferred
 
