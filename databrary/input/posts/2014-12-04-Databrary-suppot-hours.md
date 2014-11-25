@@ -1,4 +1,4 @@
-Title: Databrary/Datavyu support 
+Title: Databrary/Datavyu support hours
 Category: event
 Event: December 4th, 2014
 
