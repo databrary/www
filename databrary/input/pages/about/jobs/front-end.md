@@ -5,7 +5,7 @@ Order: 2100
 # Summary
 
 Databrary seeks a flexible and motivated JavaScript programmer to take ownership of our unique, web-based, video data library.
-Your will collaborate closely with a small team of developers and developmental scientists to design and implement tools enabling researchers to collaborate, store, explore, and access research datasets.
+You will collaborate closely with a small team of developers and developmental scientists to design and implement tools enabling researchers to collaborate, store, explore, and access research datasets.
 
 # Responsibilities
 
