@@ -18,7 +18,7 @@ As a member of the Databrary community you promise to:
 
 1. Treat Databrary data with the **same high standard of care** that you treat data collected in your own lab.
 1. Ensure that participants' wishes about sharing their data are respected. 
-1. Take care in authorizing other people (affiliates and collaborators) and take responsibility for their conduct and use of Databrary data, just as they are in your own lab.
+1. Take care in authorizing other people (affiliates and collaborators) and take responsibility for their conduct and use of Databrary data, just as you do in your own lab.
 
 ## The Databrary Approach
 
