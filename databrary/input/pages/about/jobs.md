@@ -9,9 +9,10 @@ The overall goal is to accelerate the pace of discovery, improve scientific tran
 
 We are growing a team to design and build new open source solutions for science using the latest technologies.
 
-If you relish the challenge of building a uniquely powerful set of [open-source](https://github.com/databrary) research tools with a tight-knit team in a diverse and intellectually stimulating environment, contact us immediately!
+If want to help build a uniquely powerful set of [open-source](https://github.com/databrary) research tools with a tight-knit team in a diverse and intellectually stimulating environment, contact us!
 
 # Current openings:
+# [Open source functional programmer](|filename|jobs/functional.md)
 # [Front-end web developer](|filename|jobs/front-end.md)
 
 # To apply

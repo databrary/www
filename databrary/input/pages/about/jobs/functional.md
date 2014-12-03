@@ -1,4 +1,6 @@
-Open Source Functional Programmer
+Title: Open Source Functional Programmer
+Brief: Jobs
+Order: 2050
 
 # Summary
 
@@ -23,7 +25,7 @@ You will work with users, librarians, and a small team of developers to design a
 
 - History of contributions to open source projects
 - Familiarity with Play, Snap, Ocsigen or other web framework
-- Understanding of JavaScript, HTML5 (audio/video API), and CSS3 (stylus)
+- Understanding of JavaScript and HTML5 (audio/video API)
 - Experience creating RESTful interfaces for structured data
 - Basic knowledge of scientific practices and research tools, such as Matlab, SPSS, or R
 
