@@ -85,7 +85,7 @@ Order: 1100
 		<p>Some investigators already ask research participants for permission to share (<a href='/access/policies/definitions.html#recordings'>recordings</a>) with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of a video, audio or photograph release form that is similar to Databrary's. 
 		In this case, some recordings that have already been collected might be shared with Databrary. 
 		If you have language that gives you permission to share or show recordings, you may apply to share these data with Databrary if your IRB rules that your release language is equivalent to Databrary's, or that your data require no such release to share.
-		See (<a href='/access/release/grandfathering-data.html'> Grandfathering Data</a>) for more information.
+		See (<a href='/access/guide/investigators/release/grandfathering-data.html'> Grandfathering Data</a>) for more information.
 </p>
 	</div>
 </section>
