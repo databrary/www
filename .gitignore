@@ -13,3 +13,4 @@ __pycache__
 /databrary/input/policies
 Thumbs.db
 /*/output
+/*/cache/
