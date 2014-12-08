@@ -30,7 +30,7 @@ If a video or other research data contain identifiable information, researchers 
 
 ### Limiting Access to Authorized Individuals
 
-Some participants may give permission to share their videos and research data with the public, but most will not. So, Databrary limits access to individuals who [apply for authorization](|filename|resources/guide/investigators/authorization.md) and receive approval for access on the basis of specific qualifications:
+Some participants may give permission to share their videos and research data with the public, but most will not. So, Databrary limits access to individuals who [apply for authorization](|filename|access/guide/investigators/authorization.md) and receive approval for access on the basis of specific qualifications:
 
 - Affiliation with an institution involved in research or teaching (e.g., a college or university).
 - Training in research ethics.

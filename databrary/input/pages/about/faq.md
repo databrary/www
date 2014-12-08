@@ -36,8 +36,8 @@ Order: 1100
 	<div>
 		<p>Databrary is specialized for storing and sharing video and other streams of data that are temporally dense, such as audio, motion tracking, eye tracking, and physiological measures. You may share examples of computer-based displays or other supplemental materials associated with a published study or conference presentation such as manuscript drafts, coded spreadsheets, codebooks, questionnaires, instruments, or analysis spreadsheets.</p>
 		<p>Databrary encourages contributors to share metadata about the settings (date, time, location), participants (e.g., age, sex, handedness, race or ethnicity), measures (e.g., video, survey, computer-task) in a given data collection session. We also encourage researchers to provide study-level metadata (human/animal, naturalistic/experimental, cross-sectional/longitudinal). These rich forms of metadata will help users to search, browse, aggregate, and reuse datasets.</p>
-		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/resources/policies/definitions.html'>Databrary glossary</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href="/resources/policies/release-template.html">template documents</a> for this purpose. </p>
-		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends <em>authorized investigators</em> adopt <a href='/resources/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/resources/policies/bill-of-rights.html' target='_blank'>Databrary Bill of Rights</a>.</p>
+		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/access/policies/definitions.html'>Databrary glossary</a>), special care must be taken. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href="/access/policies/release-template.html">template documents</a> for this purpose. </p>
+		<p>In other data formats such as text files and spreadsheets, participants must be denoted by code number not names. Personally identifying information must be removed before data are deposited. Databrary recommends <em>authorized investigators</em> adopt <a href='/access/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/access/policies/bill-of-rights.html' target='_blank'>Databrary Bill of Rights</a>.</p>
 		<p>Tool contributors can share tools and algorithms for visualizing, exploring, and analyzing data, and other uses. Links and scripts will enable interoperability between coded data and tools. Open source tools can share the source code.</p>
 	</div>
 </section>
@@ -61,7 +61,7 @@ Order: 1100
 	<h2>How do I access shared data?</h2>
 
 	<div>
-		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization. Individuals who wish to access or contribute data must (<a href='/resources/guide/investigators/authorization.html'>apply for authorization</a>) as an <em>authorized investigator</em> or <em>affiliate</em>. The (<a href='/resources/policies/agreement.html'>Databrary Access Agreement</a>) must be signed by both the <em>authorized investigator</em> and the Institution; <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. See the information in our (<a href="/resources.html">resources page</a>) to learn more about what is involved in gaining access or (<a href="http://databrary.org/register">register</a>) today.</p>
+		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization. Individuals who wish to access or contribute data must (<a href='/access/guide/investigators/authorization.html'>apply for authorization</a>) as an <em>authorized investigator</em> or <em>affiliate</em>. The (<a href='/access/policies/agreement.html'>Databrary Access Agreement</a>) must be signed by both the <em>authorized investigator</em> and the Institution; <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. See the information in our (<a href="/access.html">access page</a>) to learn more about what is involved in gaining access or (<a href="http://databrary.org/register">register</a>) today.</p>
 	</div>
 </section>
 
@@ -69,7 +69,7 @@ Order: 1100
 	<h2>When should I share data?</h2>
 
 	<div>
-		<p>Our philosophy about Data Sharing is embodied in our (<a href='/resources/policies/data-sharing-manifesto.html'>Data Sharing Manifesto</a>). We believe sharing data will accelerate the pace of discovery and will lead to stronger, more transparent science.
+		<p>Our philosophy about Data Sharing is embodied in our (<a href='/access/policies/data-sharing-manifesto.html'>Data Sharing Manifesto</a>). We believe sharing data will accelerate the pace of discovery and will lead to stronger, more transparent science.
 
 		Unless required by journals or funding agencies, you are never required by Databrary to share data if you do not wish to do so.
 
@@ -82,10 +82,10 @@ Order: 1100
 	<h2>Can I share data I've already collected?</h2>
 
 	<div>
-		<p>Some investigators already ask research participants for permission to share (<a href='/resources/policies/definitions.html#recordings'>recordings</a>) with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of a video, audio or photograph release form that is similar to Databrary's. 
+		<p>Some investigators already ask research participants for permission to share (<a href='/access/policies/definitions.html#recordings'>recordings</a>) with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of a video, audio or photograph release form that is similar to Databrary's. 
 		In this case, some recordings that have already been collected might be shared with Databrary. 
 		If you have language that gives you permission to share or show recordings, you may apply to share these data with Databrary if your IRB rules that your release language is equivalent to Databrary's, or that your data require no such release to share.
-		See (<a href='/resources/release/grandfathering-data.html'> Grandfathering Data</a>) for more information.
+		See (<a href='/access/release/grandfathering-data.html'> Grandfathering Data</a>) for more information.
 </p>
 	</div>
 </section>
@@ -135,7 +135,7 @@ Order: 1100
 	<div>
 		<p>Data contributors can upload data at any point and release it openly at any point - as data are collected, after scoring the data, after manuscript submission, when a manuscript goes to press, or later.</p>
 
-		<p>Funding agency requirements and journal standards about data sharing are evolving. Databrary's <a href="/resources/policies/data-sharing-manifesto.html">Data Sharing Manifesto</a> discusses our views on these issues.</p>
+		<p>Funding agency requirements and journal standards about data sharing are evolving. Databrary's <a href="/access/policies/data-sharing-manifesto.html">Data Sharing Manifesto</a> discusses our views on these issues.</p>
 
 		<p>Tool contributors can share their stuff and release it at any point - as the tools are being developed, after testing, after a manuscript goes to press, or later.</p>
 	</div>
