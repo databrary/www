@@ -10,7 +10,7 @@
 
     <div class="cf">
         <div class="entry-content {% if 'wide' not in page.display %}col_with_nav{% endif %}">
-			{%if 'mdimport' in page.display and 'user-guide/policies' in page.slug %}
+			{%if 'mdimport' in page.display and 'access/policies' in page.slug %}
 				<div class="otherformats top">
 					{% include 'partial/page_otherformats.html' %}
 				</div>
@@ -23,7 +23,7 @@
 				{{ page.content|sphinx('trail') }}
             {% endif %}
 
-			{%if 'mdimport' in page.display and 'user-guide/policies' in page.slug %}
+			{%if 'mdimport' in page.display and 'access/policies' in page.slug %}
 				<div class="otherformats bottom">
 					{% include 'partial/page_otherformats.html' %}
 				</div>
