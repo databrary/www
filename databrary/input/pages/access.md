@@ -2,11 +2,11 @@ Title: Access
 Brief: Access
 Order: 2000
 
-The [rights and responsibilities](|filename|resources/responsibilities.md) of researchers (*authorized investigators* and their *affiliates*) and their institutions are explained in the following pages. 
+The [rights and responsibilities](|filename|access/responsibilities.md) of researchers (*authorized investigators* and their *affiliates*) and their institutions are explained in the following pages. 
 
-Our [User Guide](|filename|resources/guide.md) contains information for institutions and researchers about how to access and use Databrary.
+Our [User Guide](|filename|access/guide.md) contains information for institutions and researchers about how to access and use Databrary.
 
-All Databrary policy documents are posted in our [policies](|filename|resources/policies.md) section.
+All Databrary policy documents are posted in our [policies](|filename|access/policies.md) section.
 
 #Overview
 
