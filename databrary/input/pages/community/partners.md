@@ -21,6 +21,7 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * Temple University
 * Tulane University
 * University of Chicago
+* University of Colorado, Boulder
 * University of Connecticut
 * University of Georgia
 * University of Massachusetts Boston
