@@ -4,12 +4,10 @@ Order: 3500
 
 Databrary offers flexible sharing options to accommodate for the different needs of both researchers and participants. Please be aware that you will be presented with opportunities to determine the level of sharing for an entire volume, sessions, and individual files. 
 
-Please familiarize yourself with the different levels so you can be sure that your data is presented and shared in the appropriate way.  
+Please familiarize yourself with the different levels so you can be sure that your data is presented and shared in the appropriate way.
 
 
 # Volume Level Sharing  
-
-Are you ready to share your work with the databrary community? 
 
 By default, all studies are private when they are first created.
 You can create studies and share data peer-to-peer with other users regardless of your authorization status, but you cannot share data openly until you are authorized.
@@ -37,16 +35,16 @@ You can then choose between three levels of access for collaborators:
 - **Investigator**: For fellow study investigators
 
 Note that you can only grant collaborator-type access to the full dataset, including 'private' or unshared data.
-You cannot grant access to only a section of a volume, for example just the Databrary-released data. And collaborators will only have access to the specific volume they are added to. The only way to grant an individual access to all of your volumes is to add them as an affiliate. Read more about [Authorizing and Managing Affiliates](|filename|investigators/authorization/affiliates.md). 
+You cannot grant access to only a section of a volume, for example just the Databrary-released data. And collaborators will only have access to the specific volume they are added to. The only way to grant an individual access to all of your volumes is to add them as an affiliate. Read more about [Authorizing and Managing Affiliates](|filename|authorization/affiliates.md). 
 
 
 # Session Level Release
 
 Did the participant give you permission to share the data collected from his/her session?
 
-By default, a session is indicated as private when it is first created. You can indicate how the participant filled out the [Databrary Release Template](|filename|access/policies/release-template.md) on the spreadsheet. 
+By default, a session is indicated as private when it is first created. You can indicate how the participant filled out the [Databrary Release Template](|filename|../../policies/release-template.md) on the spreadsheet. 
 
-When you want to create a new session on the spreadsheet, click "edit spreadsheet" on the study page and then click the cell "add session". Please enter in the test date and then select the blank cell in the "release" column. Use the drop down menu to identify what the participant will allow you to do with the session. Look over the definitions of the [session release levels](|filename|investigators/release/release-levels.md). 
+When you want to create a new session on the spreadsheet, click "edit spreadsheet" on the study page and then click the cell "add session". Please enter in the test date and then select the blank cell in the "release" column. Use the drop down menu to identify what the participant will allow you to do with the session. Look over the definitions of the [session release levels](|filename|release/release-levels.md). 
 
 
 # File Level Classification
