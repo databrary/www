@@ -477,7 +477,7 @@ ul.inline li {
 }
 
 .site_main img {
-	margin-bottom: 28px;
+	/* margin-bottom: 28px; */
 	max-width: 100%;
 	height: auto;
 }
