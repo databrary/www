@@ -12,10 +12,10 @@ from email.mime.application import MIMEApplication
 from email.generator import BytesGenerator
 
 FILLINS = ['id','name','date','mail']
-INPUT = path.expanduser("~/policies/investigator-agreement.md")
+INPUT = path.expanduser("~/policies/agreement.md")
 if not path.exists(INPUT):
-    INPUT = path.expanduser("~www/src/policies/investigator-agreement.md")
-PANDOC = ['pandoc','-f','markdown_github-hard_line_breaks','--email-obfuscation=none','-V','author=Databrary','-V','geometry=margin=1in','-V','links-as-notes']
+    INPUT = path.expanduser("~www/src/policies/agreement.md")
+PANDOC = ['pandoc','-f','markdown_github-hard_line_breaks+markdown_in_html_blocks+raw_tex','--email-obfuscation=none','-V','author=Databrary','-V','geometry=margin=1in','-V','links-as-notes']
 
 def fail(msg="", status=400):
     print("Status: " + str(status))
