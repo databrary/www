@@ -15,7 +15,7 @@ FILLINS = ['id','name','date','mail']
 INPUT = path.expanduser("~/policies/agreement.md")
 if not path.exists(INPUT):
     INPUT = path.expanduser("~www/src/policies/agreement.md")
-PANDOC = ['pandoc','-f','markdown_github-hard_line_breaks+markdown_in_html_blocks+raw_tex','--email-obfuscation=none','-V','author=Databrary','-V','geometry=margin=1in']
+PANDOC = ['pandoc','-f','markdown_github-hard_line_breaks+markdown_in_html_blocks+raw_tex','--email-obfuscation=none','-V','author=Databrary','-V','geometry=margin=0.75in']
 
 def fail(msg="", status=400):
     print("Status: " + str(status))
