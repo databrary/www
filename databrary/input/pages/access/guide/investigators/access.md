@@ -49,11 +49,11 @@ By default, a session is indicated as private when it is first created. You can 
 When you want to create a new session on the spreadsheet, click "edit spreadsheet" on the study page and then click the cell "add session". Please enter in the test date and then select the blank cell in the "release" column. Use the drop down menu to identify what the participant will allow you to do with the session. Look over the definitions of the [session release levels](|filename|investigators/release/release-levels.md). 
 
 
- # File Level Classification
+# File Level Classification
 
 Does this file contain identifiable data? 
 
-After you have added the metadata for a session on the spreadsheet, you can click the (<img src="https://nyu.databrary.org/public/images/icon/session2.png">) to add files to your session. Then click "Add a new file" and drop your desired file. Under "Classification" you can use the checked boxes to indicate whether there is identifiable data in each specific file. Files will default to the second classification level which states that the data contains identifiable data. If your data does not match that level, check/uncheck the appropriate boxes until you reach the correct classification. 
+After you have added the metadata for a session on the spreadsheet, you can click the <img src="https://nyu.databrary.org/public/images/icon/session2.png"> to add files to your session. Then click "Add a new file" and drop your desired file. Under "Classification" you can use the checked boxes to indicate whether there is identifiable data in each specific file. Files will default to the second classification level which states that the data contains identifiable data. If your data does not match that level, check/uncheck the appropriate boxes until you reach the correct classification. 
 
 Classification Levels:
 
