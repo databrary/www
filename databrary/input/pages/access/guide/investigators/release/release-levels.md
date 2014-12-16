@@ -7,14 +7,14 @@ These release levels map directly to the options on the [Databrary Release Templ
 
 |Symbol| Release Level | Definition |
 |------|---------------|--------------------------------------------------------|
-|(<img src="/public/images/icon/private.png">)| **Missing** | Releases were not obtained or are otherwise unavailable. This is the default, and is effectively equivalent to private.
+| | **Missing** | Releases were not obtained or are otherwise unavailable. This is the default, and is effectively equivalent to private.
 |
-|(<img src="/public/images/icon/private.png">)| **Private** | The participant(s) did not agree to share their data.
+|<img src="https://nyu.databrary.org/public/images/icon/private.png">| **Private** | The participant(s) did not agree to share their data.
 |
-|(<img src="/public/images/icon/shared.png">)| **Shared** | The participant(s) agreed to have their data shared with the Databrary community.
+|<img src="https://nyu.databrary.org/public/images/icon/shared.png">| **Shared** | The participant(s) agreed to have their data shared with the Databrary community.
 |
-|(<img src="/public/images/icon/excerpts.png">)|**Excerpts** | The participant(s) agreed to have their data shared with the Databrary community and allowed for excerpts to be shown to the public.
+|<img src="https://nyu.databrary.org/public/images/icon/excerpts.png">|**Excerpts** | The participant(s) agreed to have their data shared with the Databrary community and allowed for excerpts to be shown to the public.
 |
-|(<img src="/public/images/icon/public.png">)| **Public** | The participant(s) agreed to have their data shared with the world at large (not currently incorporated into Databrary Release Template).
+|<img src="https://nyu.databrary.org/public/images/icon/public.png">| **Public** | The participant(s) agreed to have their data shared with the world at large (not currently incorporated into Databrary Release Template).
 |
 
