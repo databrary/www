@@ -42,7 +42,7 @@ You cannot grant access to only a section of a volume, for example just the Data
 
 Did the participant give you permission to share the data collected from his/her session?
 
-By default, a session is indicated as private when it is first created. You can indicate how the participant filled out the [Databrary Release Template](|filename|../policies/release-template.md) on the spreadsheet. 
+By default, a session is indicated as private when it is first created. You can indicate how the participant filled out the [Databrary Release Template](|filename|../../policies/release-template.mdi) on the spreadsheet. 
 
 When you want to create a new session on the spreadsheet, click "edit spreadsheet" on the study page and then click the cell "add session". Please enter in the test date and then select the blank cell in the "release" column. Use the drop down menu to identify what the participant will allow you to do with the session. Look over the definitions of the [session release levels](|filename|release/release-levels.md). 
 
