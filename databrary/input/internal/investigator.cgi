@@ -15,7 +15,7 @@ FILLINS = ['id','name','date','mail']
 INPUT = path.expanduser("~/policies/agreement.md")
 if not path.exists(INPUT):
     INPUT = path.expanduser("~www/src/policies/agreement.md")
-PANDOC = ['pandoc','-f','markdown_github-hard_line_breaks+markdown_in_html_blocks+raw_tex','--email-obfuscation=none','-V','author=Databrary','-V','geometry=margin=1in','-V','links-as-notes']
+PANDOC = ['pandoc','-f','markdown_github-hard_line_breaks+markdown_in_html_blocks+raw_tex','--email-obfuscation=none','-V','author=Databrary','-V','geometry=margin=0.75in','-V']
 
 def fail(msg="", status=400):
     print("Status: " + str(status))
@@ -54,7 +54,7 @@ msg = MIMEApplication(pd.read(), 'pdf')
 pd.close()
 
 msg["To"] = fields['mail']
-msg["Subject"] = "Databrary investigator agreement for " + fields['name'] + " [" + fields['id'] + "]"
+msg["Subject"] = "Databrary agreement for " + fields['name'] + " [" + fields['id'] + "]"
 msg.add_header('content-disposition', 'attachment', filename=fields['name']+'.pdf')
 
 mail = subprocess.Popen(['sendmail','-i',fields['mail']], stdin=subprocess.PIPE)
