@@ -1,5 +1,5 @@
-Title: Collecting Shareable Data
-Brief: Collecting Shareable Data
+Title: Obtaining Releases from Participant
+Brief: Obtaining Releases from Participant
 Order: 3200
 
 Since video and audio recordings and photographs are inherently identifiable, Databrary requires investigators to have IRB approval and to get permission from the people depicted in recordings or images to share their data in Databrary.

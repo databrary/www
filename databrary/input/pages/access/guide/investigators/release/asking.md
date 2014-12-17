@@ -1,5 +1,5 @@
-Title: Obtaining Participant Permissions
-Brief: Obtaining Participant Permissions
+Title: Using the Databrary Release
+Brief: Using the Databrary Release
 Order: 3230
 
 The Databrary Release is unique in one important way: it allows researchers to separate consenting to participate from releasing their data for sharing.
