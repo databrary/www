@@ -2,7 +2,7 @@ Title: Join our Mailing List
 Brief: Newsletter
 Order: 1400
 
-<form action="http://databrary.us2.list-manage.com/subscribe/post?u=4b4fa9408b40cd79e92f748e5&amp;id=94241ee61f" method="post" target="_blank" novalidate>
+<form action="//databrary.us2.list-manage.com/subscribe/post?u=4b4fa9408b40cd79e92f748e5&amp;id=5e3dc09e43" method="post" target="_blank" novalidate>
 
 <div class="field">
 	<label for="first">First Name</label>
