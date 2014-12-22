@@ -38,7 +38,7 @@ if not hmac.compare_digest(form.getvalue('auth'), auth):
     fail(status=403)
 
 md = NamedTemporaryFile("w", suffix=".md")
-with open(INPUT, "r", encoding='iso-8859-1') as i:
+with open(INPUT, "r", encoding='UTF-8') as i:
     for l in i:
         for (f, v) in fields.items():
             l = re.sub("<!--FILLIN_" + f.upper() + "-->_*", v, l)
