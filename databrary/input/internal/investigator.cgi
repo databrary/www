@@ -37,7 +37,7 @@ auth = check.hexdigest()
 if not hmac.compare_digest(form.getvalue('auth'), auth):
     fail(status=403)
 
-md = NamedTemporaryFile("w", suffix=".md")
+md = NamedTemporaryFile("w", suffix=".md", encoding='UTF-8')
 with open(INPUT, "r", encoding='UTF-8') as i:
     for l in i:
         for (f, v) in fields.items():
