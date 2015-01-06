@@ -1,4 +1,4 @@
-Title: We now have Databrary/Datavyu support online
+Title: Databrary/Datavyu support online
 Category: Support hours
 
 We recently launched online user support hours to answer all your questions regarding Databrary and Datavyu. 
