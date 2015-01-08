@@ -1,4 +1,4 @@
-Title: Databrary/Datavyu support 
+Title: Databrary and Datavyu open support hours
 Category: event
 Event: January 12, 2015
 
