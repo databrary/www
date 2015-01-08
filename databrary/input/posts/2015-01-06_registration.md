@@ -1,4 +1,4 @@
 Title: Databrary pre-conference at SRCD
-Category: SRCD pre-conference
+Category: Workshops & Events, SRCD
 
 The registration to attend the 'Coding and Sharing Video with Databrary and Datavyu' is filled up. You can add yourself to the wait list [here](http://www.eventbrite.com/e/coding-and-sharing-video-with-databrary-and-datavyu-registration-14968045828?aff=eac2). You can also come and visit us in the Exhibit hall A, from Thursday March 19 to Saturday March 21 during the SRCD conference. We will have demos and tutorials of the Databrary and Datavyu tools and our experienced staff will show you how to register and become an authorized user. We will give you hands-on training and answer all questions you may have. The Databrary team is looking forward seeing you. 

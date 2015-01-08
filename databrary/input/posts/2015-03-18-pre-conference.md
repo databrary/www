@@ -1,4 +1,4 @@
-Title: Pre-conference at SRCD
+Title: SRCD Preconference Workshop: Coding and Sharing Video with Databrary and Datavyu
 Category: event
 Event: March 18, 2015
 

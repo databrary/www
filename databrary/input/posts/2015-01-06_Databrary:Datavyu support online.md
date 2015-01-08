@@ -1,5 +1,5 @@
-Title: Databrary/Datavyu support online
-Category: Support hours
+Title: Databrary and Datavyu support online
+Category: Support
 
 We recently launched online user support hours to answer all your questions regarding Databrary and Datavyu. 
 The Databrary and Datavyu online support sessions will be available every Monday from 3pm-5pm and Thursday from 11am-12pm Eastern Time.
