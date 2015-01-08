@@ -16,6 +16,7 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * New York University
 * The Pennsylvania State University
 * Rutgers University
+* Swinburne University of Technology
 * Stanford Univeristy
 * Syracuse University
 * Temple University
@@ -25,6 +26,7 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * University of Colorado, Boulder
 * University of Connecticut
 * University of Georgia
+* University of Iowa
 * University of Massachusetts Boston
 * University of Michigan 
 * University of Rochester
