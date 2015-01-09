@@ -12,12 +12,13 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * Duke University
 * Georgetown University
 * Indiana University
+* Lehigh University
 * McMaster University
 * New York University
 * The Pennsylvania State University
 * Rutgers University
 * Swinburne University of Technology
-* Stanford Univeristy
+* Stanford University
 * Syracuse University
 * Temple University
 * Tulane University
