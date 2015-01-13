@@ -24,7 +24,7 @@ Order: 4200
 :	Georgetown University
 
 [Sheri Berenbaum](http://www.personal.psu.edu/sab31/ "Sheri Berenbaum on the web")
-:	Pennsylvania State University
+:	The Pennsylvania State University
 
 [Sarah Berger](http://www.library.csi.cuny.edu/~berger/Sarah/Home.html "Sarah Berger on the web")
 :	City University of New York
@@ -48,7 +48,7 @@ Order: 4200
 :	Ryerson University
 
 [Kristin Buss](http://psych.la.psu.edu/directory/faculty-bios/buss.html "Kristin Buss on the web")
-:	Pennsylvania State University
+:	The Pennsylvania State University
 
 [Leslie Carver](http://dnlab.ucsd.edu/team.html "Leslie Carver on the web")
 :	University of California at San Diego
@@ -63,7 +63,7 @@ Order: 4200
 :	Whitman College
 
 [Pamela Cole](http://psych.la.psu.edu/directory/faculty-bios/cole.html "Pamela Cole on the web")
-:	Penn State University
+:	The Pennsylvania State University
 
 [Daniela Corbetta](http://psychology.utk.edu/people/corbetta.html "Daniela Corbetta on the web")
 :	University of Tennessee
@@ -105,7 +105,7 @@ Order: 4200
 :	University of Michigan
 
 [Rick Gilmore](http://www.personal.psu.edu/rog1/ "Rick Gilmore on the web")
-:	Pennsylvania State University
+:	The Pennsylvania State University
 
 [Roberta Golinkoff](http://udel.edu/~roberta/ "Roberta Golinkoff on the web")
 :	University of Delaware
@@ -147,7 +147,7 @@ Order: 4200
 :	University of Texas Austin
 
 [Lynn Liben](http://psych.la.psu.edu/directory/faculty-bios/liben.html "Lynn Liben on the web")
-:	Pennsylvania State University
+:	The Pennsylvania State University
 
 [Michele Lobo](http://www.udel.edu/chs/facultystaff/lobo.html "Michele Lobo on the web")
 :	University of Delaware
@@ -237,7 +237,7 @@ Order: 4200
 :	Carnegie Mellon University
 
 [Cindy Stifter](http://www.hhdev.psu.edu/hdfs/directory/bio.aspx?id=141 "Cindy Stifter on the web")
-:	Pennsylvania State University
+:	The Pennsylvania State University
 
 [Catherine Tamis-LeMonda](http://steinhardt.nyu.edu/faculty_bios/view/Catherine_Tamis-LeMonda "Catherine Tamis-LeMonda on the web")
 :	New York University
@@ -279,7 +279,7 @@ Order: 4200
 :	Texas A &amp; M University
 
 [Krista Wilkinson](http://csd.hhdev.psu.edu/directory/bio.aspx?id=32 "Krista Wilkinson on the web")
-:	Pennsylvania State University
+:	The Pennsylvania State University
 
 [Karen Wynn](http://psychology.yale.edu/faculty/karen-wynn "Karen Wynn on the web")
 :	Yale University
