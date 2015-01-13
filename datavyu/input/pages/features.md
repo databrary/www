@@ -60,7 +60,7 @@ Order: 0
 
 		<h3>Automate data extraction, analysis</h3>
 
-		<p>Script higher-order analyses in <a href="http://www.ruby-lang.org/">Ruby</a> or <a href="http://www.r-project.org/">R</a> or export data for statistical analysis. Scripting also ensures that multi-step data cleaning or manipulation procedures run the same way every time, increasing data reliability and reducing errors.</p>
+		<p>Script higher-order analyses in <a href="http://www.ruby-lang.org/">Ruby</a> or export data for statistical analysis. Scripting also ensures that multi-step data cleaning or manipulation procedures run the same way every time, increasing data reliability and reducing errors.</p>
 	</div>
 
 	<div class="col_half info_block">
