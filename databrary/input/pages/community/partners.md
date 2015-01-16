@@ -13,6 +13,7 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * Georgetown University
 * Indiana University
 * Lehigh University
+* Lehman College, City University of New York
 * McMaster University
 * New York University
 * The Pennsylvania State University
