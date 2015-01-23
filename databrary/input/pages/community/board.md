@@ -6,7 +6,7 @@ David Ackerman
 :	Executive Director of Digital Library Technology Services
 :	New York University
 
-[Martha Alibali](http://psych.wisc.edu/alibali/home/Home.html)
+[Martha Alibali](http://experts.news.wisc.edu/experts/471)
 :	Professor of Psychology and Educational Psychology
 :	University of Wisconsin at Madison
 
@@ -24,7 +24,7 @@ David Ackerman
 :	Professor of Psychology Emeritus
 :	Georgia State University
 
-[Bennett Bertenthal](http://www.indiana.edu/~dcnlab/index.html)
+[Bennett Bertenthal](http://psych.indiana.edu/faculty/bbertent.php)
 :	James H. Rudy Professor of Psychological and Brain Sciences
 :	Director of SidGRID
 :	Indiana University
@@ -38,11 +38,11 @@ David Ackerman
 :	Professor, Okinawa Institute of Science and Technology
 :	President, Organization for Computational Neuroscience
 
-[James Cole Galloway](http://www.udel.edu/gobabygo/)
+[James Cole Galloway](http://www.udel.edu/PT/About%20Us/People/galloway.html)
 :	Professor of Physical Therapy, Psychology, Human Development and Family Studies, and Biomechanics and Movement Sciences
 :	University of Delaware
 
-[Clyde Lee Giles](http://clgiles.ist.psu.edu/index.shtml)
+[Clyde Lee Giles](http://ist.psu.edu/directory/clg20)
 :	David Reese Professor at the College of Information Sciences and Technology
 :	Director of the Intelligent Systems Research Laboratory
 :	The Pennsylvania State University
@@ -52,7 +52,7 @@ David Ackerman
 :	Distinguished Scientist in Residence
 :	New York University
 
-[Carl Kesselman](http://www.isi.edu/~carl/)
+[Carl Kesselman](http://www.isi.edu/about/bio/carl_kesselman)
 :	Professor of Industrial and Systems Engineering
 :	Fellow of the USC Information Sciences Institute
 :	Director of BIRN
@@ -76,7 +76,7 @@ David Ackerman
 :	Dean of the Division of Libraries
 :	New York University
 
-[Dan Messinger](http://umkids.psy.miami.edu/)
+[Dan Messinger](http://www.psy.miami.edu/faculty/dmessinger/)
 : Professor of Psychology, Pediatrics, and Electrical & Computer Engineering
 : University of Miami
 
@@ -84,7 +84,7 @@ David Ackerman
 : Distinguished Professor of Human Development and Psychology
 : The Pennsylvania State University
 
-[Brian Nosek](http://projectimplicit.net/nosek/)
+[Brian Nosek](https://avillage.web.virginia.edu/Psych/Faculty/Profile/Brian-A-Nosek)
 : Associate Professor of Psychology
 : University of Virgina 
 
@@ -102,7 +102,7 @@ David Ackerman
 :	Assistant Professor of Human Development and Psychology
 :	The Pennsylvania State University
 
-[Linda Smith](http://www.iub.edu/~cogdev/)
+[Linda Smith](http://psych.indiana.edu/faculty/smith4.php)
 :	Distinguished Professor and Chancellor's Professor of Psychological and Brain Sciences
 :	Indiana University
 
@@ -118,6 +118,6 @@ David Ackerman
 : Director of the Psychoinformatics Lab
 : University of Texas at Austin
 
-[Luke Zhang](http://zhang.ist.psu.edu/index.html)
+[Luke Zhang](http://ist.psu.edu/directory/xuz14)
 :	Associate Professor of Information Sciences and Technology
 :	The Pennsylvania State University
