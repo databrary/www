@@ -9,4 +9,4 @@ To complete the authorization process, the applicant's agreement must be co-sign
 - *Authorized investigators* must obtain approval from an authorized representative of their Institution (usually from the Grants and Contracts or the Sponsored Programs Office).
 - *Affiliates* must obtain approval from the *authorized investigator* who oversees their research and who has already completed the authorization process.
 
-There are different levels of access that *authorized investigator*s can grant [Affiliates](|filename|authorization/affiliates.md).
+There are different levels of access that *authorized investigators* can grant [Affiliates](|filename|authorization/affiliates.md).
