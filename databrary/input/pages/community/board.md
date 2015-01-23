@@ -15,7 +15,7 @@ David Ackerman
 :	Director of ICPSR
 :	University of Michigan
 
-[Richard Aslin](http://babylab.bcs.rochester.edu/New_Baby_Lab/The_Rochester_Baby_Lab.html)
+[Richard Aslin](http://www.bcs.rochester.edu/people/faculty/aslin_richard/index.html)
 :	William R. Kenan Professor of Brain &amp; Cognitive Sciences
 :	Director of Rochester Center for Brain Imaging
 :	University of Rochester
