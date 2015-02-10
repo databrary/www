@@ -8,10 +8,14 @@ Databrary is not just an archive of developmental science research. It's an acti
 
 Learn more about our [advisory board](|filename|community/board.md).
 
-# Committed Contributors
+# Authorized investigators
 
-Learn more about [committed contributors](|filename|community/contributors.md).
+View all our [authorized investigators](https://nyu.databrary.org/party).
 
 # Partner Institutions
 
-Learn more about [our Partner Institutions](|filename|community/partners.md).
+View our [Partner Institutions](https://nyu.databrary.org/party?institution=true&access=5).
+
+# Committed Contributors
+
+Learn more about [committed contributors](|filename|community/contributors.md) that have committed to joining the open data sharing movement.
