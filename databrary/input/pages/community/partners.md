@@ -7,9 +7,11 @@ The following Institutions have signed the Databrary Investigator agreement and 
 * Arizona State University
 * Binghamton University, State University of New York
 * Birkbeck College, University of London
+* Brown University
 * College of Staten Island, City University of New York
 * College of William and Mary
 * Duke University
+* Gallaudet University
 * Georgetown University
 * Indiana University
 * Lehigh University
