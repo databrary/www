@@ -2,7 +2,7 @@ Title: Advisory Board
 Brief: Board
 Order: 4100
 
-David Ackerman
+[David Ackerman](http://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-executivevicepresident/finance-and-budget/information-technology.html)
 :	Executive Director of Digital Library Technology Services
 :	New York University
 
