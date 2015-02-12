@@ -2,7 +2,7 @@ Title: The Databrary Community
 Brief: Community
 Order: 4000
 
-Databrary is made up of a community of developmental and education researchers who use video data as a core component of their research, and who have been authorized by their institution to access Databrary. More information about how to access Databrary can be obtained [here](|filename|access.md)
+Databrary is made up of a community of developmental and education researchers who use video data as a core component of their research, and who have been authorized by their institution to access Databrary. More information about how to become authorized to access restricted Databrary resources can be obtained [here](|filename|access.md).
 
 # Authorized investigators
 
