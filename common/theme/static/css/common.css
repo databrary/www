@@ -564,20 +564,16 @@ ul.inline li {
 
 .site_toolbar .toolbar_nav li {
 	display: inline-block;
-	margin-right: 24px;
+	margin-right: 12px;
 }
 
 .site_toolbar .toolbar_nav a {
-	color: #ce763b;
+	color: #333;
+	font-size: 12px;
 }
 
 .site_toolbar .toolbar_nav a:hover {
 	color: #EBC6AD;
-}
-
-.site_toolbar .toolbar_nav a:before {
-	content: '/';
-	color: #999;
 }
 
 .site_toolbar .toolbar_user {

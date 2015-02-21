@@ -42,7 +42,9 @@
 <body>
 	{% include 'partial/site_toolbar.html' %}
 
-	{% include 'partial/site_header.html' %}
+	{% if SITESLUG == 'datavyu' %}
+		{% include 'partial/site_header.html' %}
+	{% endif %}
 
 	<main id="site_main" class="site_main">
 		<div class="wrap">
