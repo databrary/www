@@ -56,7 +56,7 @@ PAGE_PATHS = ['pages']
 PAGE_EXCLUDES = []
 ARTICLE_PATHS = ['posts']
 ARTICLE_EXCLUDES = []
-STATIC_PATHS = ['files', 'img', 'ico', 'js', 'css', 'extra', 'video', '.htaccess', 'favicon.ico']
+STATIC_PATHS = ['files', 'img', 'ico', 'js', 'css', 'extra', 'video', '.htaccess', 'favicon.ico','contact.html','newsletter.html']
 
 TYPOGRIFY = False
 PYGMENTS_RST_OPTIONS = {'classprefix': 'highlight', 'linenos': 'table'}
