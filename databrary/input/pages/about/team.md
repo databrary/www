@@ -111,7 +111,7 @@ Gladys Chan
 :  <img src="/theme/img/social/email.png"> gladys at databrary dot org
 
 Vicky Foo
-: Databrary and Datavyu Quality Assurance
+: Community Support Specialist
 :  <img src="/theme/img/social/email.png"> vicky at databrary dot org
 :  212-998-5417
 
