@@ -1,3 +1,4 @@
+{% if page.root %}
 <nav class="col_nav page_sidebar">
   <h2>
     <a href="{{ SITEURL }}/{{ page.root.url }}" class="{% if page == page.root %}current{% endif %}">{{ page.root.title|replace('&nbsp;', ' ') }}</a>
@@ -19,3 +20,4 @@
   {% endfor %}
 
 </nav>
+{% endif %}
