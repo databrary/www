@@ -2,7 +2,7 @@ Title: Databrary workshop at CDS 2015 in Columbus, OH
 Category: event
 Event: October 8-10, 2015
 
-Databrary will host a workshop, "Promoting Video Data Management, Sharing, and Re-use in Developmental Science", at the [2015 meeting](http://meetings.cogdevsoc.org/) of the Cognitive Development Society (CDS) in Columbus, OH. The workshop will be on October 7, 2015, with the full conference to follow October 8-10, 2015.
+Databrary will host a workshop, "Promoting Video Data Management, Sharing, and Re-use in Developmental Science", at the [2015 meeting](http://meetings.cogdevsoc.org/) of the Cognitive Development Society (CDS) in Columbus, OH. The workshop will be on Thursday, October 8, 2015, with the full conference to follow October 9-10, 2015.
 
 ## Target Audience
 
@@ -24,4 +24,4 @@ Karen E. Adolph and Rick O. Gilmore are organizing the workshop. They will be jo
 
 ## Registration
 
-Registration is free, but space is limited. So, please sign-up by clicking on [this link](http://databrary.org) and completing the registration form. The registration deadline is **August 31, 2015.**cd 
+Registration is free, but space is limited. So, please sign-up by clicking on [this link](http://databrary.org) and completing the registration form. The registration deadline is **August 31, 2015.**
