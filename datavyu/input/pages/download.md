@@ -5,13 +5,13 @@ Order: 2000
 # Stable Release: %%datavyu-version%%
 
 - [Windows](/releases/Datavyu-Windows-latest.zip)
-- [Mac OS X](/releases/Datavyu-OSX-latest.zip)
+- [Mac OS X](/releases/Datavyu-OSX-latest.dmg)
 - System requirements: Java 1.6-7, at least 1GB RAM, 1.2 GHz processor for Macs and 2.67 GHz for Windows.
 - Yosemite does not support Java Quicktime. At this time, Datavyu cannot play videos in Quicktime on Yosemite.
 
 # Development Release: %%datavyu-version-pre%%
 
-- [Mac OS X](/releases_pre/Datavyu-OSX-latest.zip)
+- [Mac OS X](/releases_pre/Datavyu-OSX-latest.dmg)
 - System requirements: Java 1.6-7, at least 1GB RAM, 1.2 GHz processor for Macs and 2.67 GHz for Windows.
 - Yosemite does not support Java Quicktime. At this time, Datavyu cannot play videos in Quicktime on Yosemite.
 
