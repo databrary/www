@@ -1,4 +1,4 @@
-Title: Databrary to speak at AERA 2015 in Chicago, IL
+Title: Databrary to speak at VSS 2015 in St. Pete's Beach, FL
 Category: event
 Event: May 16, 2015
 
