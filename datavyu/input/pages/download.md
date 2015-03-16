@@ -12,7 +12,8 @@ Order: 2000
 
 - [Mac OS X](/releases_pre/Datavyu-OSX-latest.dmg)
 - System requirements: At least 1GB RAM, 1.2 GHz processor for Macs.
-- Yosemite compatible version
+- Yosemite compatible version.
+- A new Windows 1.3 version will be added soon.
 
 # Older Releases
 
