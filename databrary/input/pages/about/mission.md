@@ -2,9 +2,8 @@ Title: Mission
 Brief: Mission
 Order: 1000
 
-Most developmental scientists rely on video recordings to capture the complexity and richness of behavior. However, researchers rarely share video data, and this has impeded scientific progress. 
-
 Our mission is to promote sharing and reuse of video data.
+Most developmental scientists rely on video recordings to capture the complexity and richness of behavior. However, researchers rarely share video data, and this has impeded scientific progress. 
 Enabling reuse of video data is essential to increasing openness, maximizing the efficiency of limited resources, and accelerating the pace of discovery in the developmental and learning sciences. 
 
 We aim to provide tools that encourage good data management, facilitate open data sharing, enable discovery, and foster data reuse and integration.
