@@ -11,13 +11,13 @@ Databrary held a pre-conference workshop before SRCD on Wednesday March 18th, 20
 ## Schedule
 
 - 9:00 am - 10:15 am, Best Practices in Behavioral Coding & Datavyu Functionality
-    + [Welcome slides](http://databrary.org/files/databrary-workshop-welcome-2015-03-18.pdf)
-    + [Best practices slides](http://databrary.org/files/datavyu-best-practices-2015-03-18.pdf)
+    + [Welcome slides](/files/databrary-workshop-welcome-2015-03-18.pdf)
+    + [Best practices slides](/files/datavyu-best-practices-2015-03-18.pdf)
 - 10:15 am - 10:30 am, Break
 - 10:30 am - 12:30 pm, Hands-on coding with experienced Datavyu coaches
 - 12:30 pm - 1:30 pm, Lunch and Community Forum on Open Data Sharing
-    + [Community Forum slides](http://databrary.org/files/databrary-community-forum-2015-03-18.pdf)
+    + [Community Forum slides](/files/databrary-community-forum-2015-03-18.pdf)
 - 1:45 pm - 3:15 pm, Introducing Databrary & Databrary Functionality
-    + [Databrary overview slides](http://databrary.org/files/databrary-overview-2015-03-18.pdf)
+    + [Databrary overview slides](/files/databrary-overview-2015-03-18.pdf)
 - 3:15 pm - 3:30 pm, Break
 - 3:30 pm - 5:00 pm, Advanced Databrary and Datavyu
