@@ -12,7 +12,7 @@ All Databrary policy documents are posted in our [policies](|filename|access/pol
 
 ## Guiding ethical principles
 
-Databrary's three guiding ethical principles embody the commitment that is expected of all community members to build a community that follows the highest ethical standards.
+Databrary's three guiding ethical principles embody the commitment that is expected of all community members.
 
 As a member of the Databrary community you promise to:
 
