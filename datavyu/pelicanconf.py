@@ -44,3 +44,8 @@ for dirpath, dirnames, filenames in os.walk(os.curdir+'/datavyu/input/pages/user
     for filename in [filename for filename in filenames if '.html' not in filename]:
         tmp = os.path.join(dirpath, filename)[2:].split('/')
         EXTRA_PATH_METADATA['/'.join(tmp[2:])] = {'path': '/'.join(tmp[3:])}
+
+PAGINATION_PATTERNS = (
+  (1, '{base_name}/', '{base_name}/index.html'),
+  (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+)

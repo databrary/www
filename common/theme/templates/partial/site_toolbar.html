@@ -16,12 +16,15 @@
 			<a href="{{PROJECTS[0][1]}}" title="Databrary: An Open Data Library"><img src="/theme/img/logo/databrary-nav.png" alt="Databrary: An Open Data Library for Developmental Science"></a>
 		</h1>
 
-    {% if SITESLUG != 'datavyu' %}
+    {% if SITESLUG == 'databrary' %}
     <nav class="toolbar_nav">
       <ul>
+        <li>
+          <a href="{{PROJECTS[0][1]}}/news.html" title="News &amp; Events">News &amp; Events</a>
+        </li>
         {% for pg in PAGES|sort(attribute='order') %}
         {% if not '/' in pg.slug and not 'sphinx' in pg.display %}
-        <li class="{% if page and (pg.slug in page.slug or page.slug.split('/')[0] in pg.redirect) %}current{% endif %}">
+        <li>
           <a href="{% if pg.redirect %}{{ pg.redirect }}{% else %}{{ SITEURL }}/{{ pg.url }}{% endif %}" title="{{ pg.title }}">{{ pg.brief }}</a>
         </li>
         {% endif %}

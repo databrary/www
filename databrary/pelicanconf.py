@@ -20,6 +20,10 @@ TOPRIGHT_TEXT2 = 'sign in'
 
 # COMPILE
 OUTPUT_RETENTION = ('irclogs', 'policies', 'awstats', 'awstats.cgi', 'bugs')
+PAGINATION_PATTERNS = (
+  (1, '{base_name}/', '{base_name}/news.html'),
+  (2, '{base_name}/page/{number}/', '{base_name}/page/{number}/index.html'),
+)
 
 STATIC_PATHS.extend([
 	'policies',
