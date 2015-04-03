@@ -140,7 +140,7 @@ dbjs.sidebarScroll = function () {
 };
 
 $(document).ready(function () {
-	dbjs.fold('.question', 'h2', 'div');
+	dbjs.fold('.question', 'h3', 'div');
 	dbjs.carousel('.carousel', '.panel');
 	dbjs.anchorScroll();
 	dbjs.sidebarScroll();

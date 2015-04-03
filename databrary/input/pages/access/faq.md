@@ -3,7 +3,7 @@ Brief: F.A.Q.
 Order: 1100
 
 <section class="question">
-	<h2>What is Databrary?</h2>
+	<h3>What is Databrary?</h3>
 
 	<div>
 		<p>Databrary is a digital data library that is specialized for storing, managing, preserving, analyzing, and sharing video and other temporally dense streams of data. It is designed by researchers who wish to share with other researchers. But, some materials may be viewed by the public -- where participants give appropriate permission or there is no concern about violating privacy.</p>
@@ -11,7 +11,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>Why should I contribute my data or tools to an open data sharing library?</h2>
+	<h3>Why should I contribute my data or tools to an open data sharing library?</h3>
 
 	<div>
 		<p>Data sharing embodies the ideals of open scientific inquiry. It contributes to transparency and bolsters scientific integrity.</p>
@@ -21,7 +21,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>Will I receive credit for my contributions if other researchers use my data?</h2>
+	<h3>Will I receive credit for my contributions if other researchers use my data?</h3>
 
 	<div>
 		<p>Yes. Users will sign an agreement stating that they will acknowledge contributors by citing any data or tool they use from Databrary. Databrary will provide permanent links and a citation format.</p>
@@ -31,7 +31,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>What can I contribute?</h2>
+	<h3>What can I contribute?</h3>
 
 	<div>
 		<p>Databrary is specialized for storing and sharing video and other streams of data that are temporally dense, such as audio, motion tracking, eye tracking, and physiological measures. You may share examples of computer-based displays or other supplemental materials associated with a published study or conference presentation such as manuscript drafts, coded spreadsheets, codebooks, questionnaires, instruments, or analysis spreadsheets.</p>
@@ -43,7 +43,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>What about privacy?</h2>
+	<h3>What about privacy?</h3>
 
 	<div>
 		<p>Databrary takes privacy very seriously, but we also believe in the principle of informed consent. We believe that many people who participate in scientific research will give permission for their data to be shared if they can be confident that their privacy and dignity will be respected. Databrary has designed policies and systems to ensure this happens.</p>
@@ -58,7 +58,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>How do I access shared data?</h2>
+	<h3>How do I access shared data?</h3>
 
 	<div>
 		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization. Individuals who wish to access or contribute data must (<a href='/access/guide/investigators/authorization.html'>apply for authorization</a>) as an <em>authorized investigator</em> or <em>affiliate</em>. The (<a href='/access/policies/agreement.html'>Databrary Access Agreement</a>) must be signed by both the <em>authorized investigator</em> and the Institution; <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. See the information in our (<a href="/access.html">access page</a>) to learn more about what is involved in gaining access or (<a href="http://databrary.org/register">register</a>) today.</p>
@@ -66,7 +66,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>When should I share data?</h2>
+	<h3>When should I share data?</h3>
 
 	<div>
 		<p>Our philosophy about Data Sharing is embodied in our (<a href='/access/policies/data-sharing-manifesto.html'>Data Sharing Manifesto</a>). We believe sharing data will accelerate the pace of discovery and will lead to stronger, more transparent science.
@@ -79,7 +79,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>Can I share data I've already collected?</h2>
+	<h3>Can I share data I've already collected?</h3>
 
 	<div>
 		<p>Some investigators already ask research participants for permission to share (<a href='/access/policies/definitions.html#recordings'>recordings</a>) with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of a video, audio or photograph release form that is similar to Databrary's. 
@@ -92,7 +92,7 @@ Order: 1100
 
 
 <section class="question">
-	<h2>What are some ways I might use it?</h2>
+	<h3>What are some ways I might use it?</h3>
 
 	<div>
 		<p>There are many ways a researcher might use Databrary from teaching to research. See some suggested use cases <a href="use-cases.html">here</a>.</p>
@@ -100,7 +100,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>Who can contribute data or tools to the open share repository?</h2>
+	<h3>Who can contribute data or tools to the open share repository?</h3>
 
 	<div>
 		<p>Any researcher who has...</p>
@@ -122,7 +122,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>How do I contribute?</h2>
+	<h3>How do I contribute?</h3>
 
 	<div>
 		<p>Uploading files is easy, quick, and painless. Drag and drop files on to the web page or select them from a file browser. Videos are automatically converted in the background.</p>
@@ -130,7 +130,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>When do I contribute?</h2>
+	<h3>When do I contribute?</h3>
 
 	<div>
 		<p>Data contributors can upload data at any point and release it openly at any point - as data are collected, after scoring the data, after manuscript submission, when a manuscript goes to press, or later.</p>
@@ -142,7 +142,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>Do I have to use <a href="http://datavyu.org">Datavyu</a> to contribute data?</h2>
+	<h3>Do I have to use <a href="http://datavyu.org">Datavyu</a> to contribute data?</h3>
 
 	<div>
 		<p>No. Contributors are not required to score their data with the Datavyu coding tool. However, we encourage them to use Datavyu because it is free and open source and every user strengthens and grows the community.</p>
@@ -152,7 +152,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>How will using Datavyu and joining Databrary improve my science?</h2>
+	<h3>How will using Datavyu and joining Databrary improve my science?</h3>
 
 	<div>
 		<p>The Datavyu coding tool combined with the storage, management, and curation tools in Databrary will help researchers to discover more, faster.</p>
@@ -160,7 +160,7 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h2>How do we build a sustainable user community?</h2>
+	<h3>How do we build a sustainable user community?</h3>
 
 	<div>
 		<p>Become a user and/or a contributor of data, tools, and open source code. Share your suggestions and needs with the community by adding comments to the wikis or helping others on the Datavyu support forum.</p>
