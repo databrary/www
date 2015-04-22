@@ -19,13 +19,20 @@
     {% if SITESLUG == 'databrary' %}
     <nav class="toolbar_nav">
       <ul>
-        <li>
+        <li class="toolbar_nav_top">
           <a href="{{PROJECTS[0][1]}}/news.html" title="News &amp; Events">News &amp; Events</a>
         </li>
         {% for pg in PAGES|sort(attribute='order') %}
         {% if not '/' in pg.slug and not 'sphinx' in pg.display %}
-        <li>
+        <li class="toolbar_nav_top">
           <a href="{% if pg.redirect %}{{ pg.redirect }}{% else %}{{ SITEURL }}/{{ pg.url }}{% endif %}" title="{{ pg.title }}">{{ pg.brief }}</a>
+          <ul>
+          {% for subpage in pg.children %}
+            <li>
+              <a href="{{ SITEURL }}/{{ subpage.url }}" title="{{subpage.title}}">{{ subpage.brief }}</a>
+            </li>
+          {% endfor %}
+          </ul>
         </li>
         {% endif %}
         {% endfor %}
