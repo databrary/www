@@ -13,7 +13,7 @@ The template form is designed to make it as clear and unambiguous as possible to
 
 Here's what you should do:
 
-1. Ensure that your [IRB protocol(s) enable sharing with Databrary](release/asking/template.md).
+1. Ensure that your [IRB protocol(s) enable sharing with Databrary](release/template.md).
 	- We recommend adapting the [Databrary Release Template](|filename|../../policies/release-template.mdi) and getting IRB approval to give the form to participants.
 
 	- The Databrary Release is not required. Only the local IRB must approve of the language for sharing in Databrary.
