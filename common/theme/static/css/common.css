@@ -523,13 +523,12 @@ ul.inline li {
 	left: 0;
 	right: 0;
 	color: #333;
-	line-height: 36px;
-	height: 36px;
 	background-color: #fff;
 	-webkit-box-shadow: 0 0 3px #000;
 	-moz-box-shadow: 0 0 3px #000;
 	box-shadow: 0 0 3px #000;
-	font-size: 16px;
+	font-size: 0.8em;
+	padding: 0 2%;
 }
 
 .site_toolbar a:hover {
@@ -541,14 +540,30 @@ ul.inline li {
 	margin: 0;
 	font-size: 1em;
 	font-weight: normal;
-	padding-right: 24px;
 	display: inline-block;
+	min-width: 21px;
+	height: 36px;
+	line-height: 36px;
 }
 
-.site_toolbar h1 img {
-	vertical-align: bottom;
-	position: relative;
-	top: -5px;
+.site_toolbar h1 a {
+  display: block;
+  background: url('/theme/img/logo/databrary-nav.png') no-repeat 0 center;
+  background-size: 114px 24px; 
+	height: 36px;
+}
+
+@media screen and (max-width: 690px){
+	.site_toolbar h1 a{
+	  width: 21px;
+	  margin-right: 8px;
+	}
+}
+@media screen and (min-width: 691px){
+	.site_toolbar h1 a{
+	  width: 114px;
+	  margin-right: 12px;
+  }
 }
 
 .site_toolbar h1 a:hover {
@@ -560,6 +575,8 @@ ul.inline li {
 	margin: 0;
 	padding: 0;
 	list-style: none;
+	line-height: 36px;
+	vertical-align: text-bottom;
 }
 
 .site_toolbar .toolbar_nav li.toolbar_nav_top {
@@ -614,11 +631,16 @@ ul.inline li {
 }
 
 .site_toolbar .toolbar_user {
+	line-height: 36px;
 	float: right;
 }
 
 .site_toolbar .toolbar_user a {
 	color: #999;
+}
+
+.site_toolbar .toolbar_user a img {
+	vertical-align: middle;
 }
 
 .site_toolbar .toolbar_user a:hover {
