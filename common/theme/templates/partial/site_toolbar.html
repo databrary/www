@@ -11,7 +11,7 @@
           <a href="//nyu.databrary.org/volume" title="Volumes"><strong>Volumes</strong></a>
         </li>
         <li class="toolbar_nav_top">
-          <a href="{{PROJECTS[0][1]}}/news.html" title="News &amp; Events">News &amp; Events</a>
+          <a href="{{PROJECTS[0][1]}}/news.html" title="News">News</a>
         </li>
         {% for pg in PAGES|sort(attribute='order') %}
         {% if not '/' in pg.slug and not 'sphinx' in pg.display %}
