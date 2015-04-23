@@ -13,9 +13,9 @@ from common.pelicanconf import *
 # SITE
 SITENAME = 'Databrary: An Open Data Library for Developmental Science'
 SITESLUG = 'databrary'
-TOPRIGHT_TARGET1 = '//nyu.databrary.org/register'
+TOPRIGHT_TARGET1 = 'https://nyu.databrary.org/register'
 TOPRIGHT_TEXT1   = 'register'
-TOPRIGHT_TARGET2 = '//nyu.databrary.org/login'
+TOPRIGHT_TARGET2 = 'https://nyu.databrary.org/login'
 TOPRIGHT_TEXT2 = 'login'
 
 # COMPILE
