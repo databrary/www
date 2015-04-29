@@ -39,6 +39,18 @@
       {% if TOPRIGHT_TEXT1 %}
       <a href="{{TOPRIGHT_TARGET1}} ">{{TOPRIGHT_TEXT1}}</a>
       <span> | </span>
+
+      <label class="collapse" for="_1">
+        <img src="/theme/img/icons/search.svg"/>
+      </label>
+      <input id="_1" type="checkbox">
+      <div class="toolbar_hover_search">
+        <form action="https://nyu.databrary.org/volume" method="GET" target="_self">
+          <input placeholder="Search data" type="search" name="query">
+        </form>
+      </div>
+
+      <span> | </span>
       {% endif %}
       <a href="mailto:feedback@databrary.org"><img src="/theme/img/icons/contact.png"/></a>
     </nav>    

@@ -640,11 +640,18 @@ ul.inline li {
 	float: right;
 }
 
+.site_toolbar .toolbar_user label{
+	display:inline-block;
+}
+.site_toolbar .toolbar_user input[type="checkbox"]{
+	display:none;
+}
 .site_toolbar .toolbar_user a {
 	color: #999;
 }
 
-.site_toolbar .toolbar_user a img {
+.site_toolbar .toolbar_user img {
+	height: 16px;
 	vertical-align: middle;
 }
 
@@ -657,6 +664,36 @@ ul.inline li {
 		display: none;
 	}
 }
+
+.toolbar_hover_search {
+	position: absolute;
+	top: 48px;
+	right: 24px;
+	background-color: white;
+	border-radius: 4px;
+	box-shadow: 0 0 3px #333;
+	padding: 8px;
+	line-height: 16px;
+}
+
+.toolbar_hover_search input[type="search"]{
+	width: 168px;
+	padding: 12px;
+}
+
+.collapse + input{
+	display:none;
+}
+
+.collapse + input + *{
+	display:none;
+}
+
+.collapse+input:checked+*{
+	display:block;
+}
+
+
 
 /* SITE HEADER */
 .site_header {
@@ -2253,3 +2290,4 @@ table.docutils,
 .site_main .article h1.entry-title {
 	text-shadow: -1px 0 2px #FBF4EF;
 }
+
