@@ -1206,17 +1206,17 @@ nav.page_sidebar a.parent:hover {
 }
 
 /* FAQ */
-.page_about_faq .entry-content section {
+.page_access_faq .entry-content section {
 	padding-bottom: .5em;
 }
 
-.page_about_faq .entry-content h2 {
+.page_access_faq .entry-content h3 {
 	font-size: 1em;
 	margin-top: 0;
 	cursor: pointer;
 }
 
-.page_about_faq .entry-content h2 .arrow {
+.page_access_faq .entry-content h3 .arrow {
 	bottom: 0.25em;
 	border-style: dashed;
 	border-color: transparent;
@@ -1240,7 +1240,7 @@ nav.page_sidebar a.parent:hover {
 	transition: all 0.1s linear;
 }
 
-.page_about_faq .entry-content h2:hover .arrow {
+.page_access_faq .entry-content h3:hover .arrow {
 	-webkit-transform: rotate(135deg);
 	-moz-transform: rotate(135deg);
 	-o-transform: rotate(135deg);
@@ -1250,7 +1250,7 @@ nav.page_sidebar a.parent:hover {
 	transition: all 0.1s linear;
 }
 
-.page_about_faq .entry-content h2.unfolded .arrow {
+.page_access_faq .entry-content h3.unfolded .arrow {
 	-webkit-transform: rotate(180deg);
 	-moz-transform: rotate(180deg);
 	-o-transform: rotate(180deg);
@@ -1260,7 +1260,7 @@ nav.page_sidebar a.parent:hover {
 	transition: all 0.1s linear;
 }
 
-.page_about_faq .entry-content section div {
+.page_access_faq .entry-content section div {
 	padding-top: .5em;
 }
 
@@ -2195,7 +2195,7 @@ code {
 	border-left-color: #333;
 }
 
-.page_about_faq .entry-content h2 .arrow {
+.page_access_faq .entry-content h2 .arrow {
 	border-bottom-color: #333;
 }
 
