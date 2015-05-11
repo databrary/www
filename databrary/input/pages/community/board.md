@@ -51,6 +51,10 @@ Order: 4100
 :	Director of the Intelligent Systems Research Laboratory
 :	The Pennsylvania State University
 
+[Kathy Hirsh-Pasek](http://www.cla.temple.edu/psychology/faculty/kathryn-hirsh-pasek/)
+:	Professor of Psychology and the Stanley and Debra Lefkowitz Distinguished Faculty Fellow
+:	Temple University
+
 [Paul Horn](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/research-engineering-technology/bios/paul-horn.html)
 :	Senior Vice Provost for Research
 :	Distinguished Scientist in Residence
@@ -95,6 +99,10 @@ Order: 4100
 [P. Karen Murphy](https://www.ed.psu.edu/epcse/edpsych/people/karen-murphy)
 :	Professor of Education
 :	The Pennsylvania State University
+
+[Nora Newcombe](http://www.cla.temple.edu/psychology/faculty/nora-newcombe/)
+:	Professor of Psychology and James H. Glackin Distinguished Faculty Fellow
+:	Temple University
 
 [Brian Nosek](https://avillage.web.virginia.edu/Psych/Faculty/Profile/Brian-A-Nosek)
 : Associate Professor of Psychology
