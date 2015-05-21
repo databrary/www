@@ -61,7 +61,7 @@ Order: 1100
 	<h3>How do I access shared data?</h3>
 
 	<div>
-		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization. Individuals who wish to access or contribute data must (<a href='/access/guide/investigators/authorization.html'>apply for authorization</a>) as an <em>authorized investigator</em> or <em>affiliate</em>. The (<a href='/access/policies/agreement.html'>Databrary Access Agreement</a>) must be signed by both the <em>authorized investigator</em> and the Institution; <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. See the information in our (<a href="/access.html">access page</a>) to learn more about what is involved in gaining access or (<a href="http://databrary.org/register">register</a>) today.</p>
+		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization. Individuals who wish to access or contribute data must <a href='/access/guide/investigators/authorization.html'>apply for authorization</a> as an <em>authorized investigator</em> or <em>affiliate</em>. The <a href='/access/policies/agreement.html'>Databrary Access Agreement</a> must be signed by both the <em>authorized investigator</em> and the Institution; <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. See the information in our <a href="/access.html">access page</a> to learn more about what is involved in gaining access or <a href="http://databrary.org/register">register</a> today.</p>
 	</div>
 </section>
 
@@ -69,7 +69,7 @@ Order: 1100
 	<h3>When should I share data?</h3>
 
 	<div>
-		<p>Our philosophy about Data Sharing is embodied in our (<a href='/access/policies/data-sharing-manifesto.html'>Data Sharing Manifesto</a>). We believe sharing data will accelerate the pace of discovery and will lead to stronger, more transparent science.
+		<p>Our philosophy about Data Sharing is embodied in our <a href='/access/policies/data-sharing-manifesto.html'>Data Sharing Manifesto</a>. We believe sharing data will accelerate the pace of discovery and will lead to stronger, more transparent science.
 
 		Unless required by journals or funding agencies, you are never required by Databrary to share data if you do not wish to do so.
 
@@ -82,10 +82,10 @@ Order: 1100
 	<h3>Can I share data I've already collected?</h3>
 
 	<div>
-		<p>Some investigators already ask research participants for permission to share (<a href='/access/policies/definitions.html#recordings'>recordings</a>) with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of a video, audio or photograph release form that is similar to Databrary's. 
+		<p>Some investigators already ask research participants for permission to share <a href='/access/policies/definitions.html#recordings'>recordings</a> with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of a video, audio or photograph release form that is similar to Databrary's. 
 		In this case, some recordings that have already been collected might be shared with Databrary. 
 		If you have language that gives you permission to share or show recordings, you may apply to share these data with Databrary if your IRB rules that your release language is equivalent to Databrary's, or that your data require no such release to share.
-		See (<a href='/access/guide/investigators/release/grandfathering-data.html'> Grandfathering Data</a>) for more information.
+		See <a href='/access/guide/investigators/release/grandfathering-data.html'>Grandfathering Data</a> for more information.
 </p>
 	</div>
 </section>
@@ -117,7 +117,7 @@ Order: 1100
 
 		<p>Any researcher may contribute tools to the repository.</p>
 
-		<p>Researchers may (<a href="http://nyu.databrary.org/register">register</a>) online or (<a href='/contact.html'>contact Databrary</a>) for more information.</p>
+		<p>Researchers may <a href="http://nyu.databrary.org/register">register</a> online or <a href='/contact.html'>contact Databrary</a> for more information.</p>
 	</div>
 </section>
 
