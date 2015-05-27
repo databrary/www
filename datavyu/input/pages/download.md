@@ -10,8 +10,8 @@ Order: 2000
 
 # Development Release: %%datavyu-version-pre%%
 
-- [Windows](/releases_pre/Datavyu-Windows-test.exe)
-- [Mac OS X](/releases_pre/Datavyu-OSX-test.dmg)
+- [Windows](/releases_pre/Datavyu-Windows-latest.exe)
+- [Mac OS X](/releases_pre/Datavyu-OSX-latest.dmg)
 - System requirements: At least 1GB RAM, 1.2 GHz processor for Macs.
 - Yosemite compatible version.
 
