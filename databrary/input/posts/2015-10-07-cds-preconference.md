@@ -15,4 +15,4 @@ Attendees will get to explore Databrary's functionality and learn how to get sta
 ## Registration
 Researchers with wide-ranging levels of experience -- senior and junior faculty, postdocs, doctoral students, and lab staff -- are encouraged to attend and learn about best practices in sharing and reusing video data. 
 
-Registration is free, but space is limited. More information and to register for this workshop, please visit: https://databrarypreconference.eventbrite.com). The registration deadline is **August 15, 2015.**
+Registration is free, but space is limited. More information and registration for this workshop can be found [here](https://databrarypreconference.eventbrite.com). The registration deadline is **August 15, 2015.**
