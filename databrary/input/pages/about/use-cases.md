@@ -1,5 +1,5 @@
 Title: Use Cases
-Brief: Use
+Brief: Use Cases
 Order: 1200
 
 There are many ways to use Databrary. With it, researchers may:
