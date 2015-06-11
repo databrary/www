@@ -1,6 +1,12 @@
+Title: Support
+Brief: Support
+Order: 1800
+
 # Support
 
-## Support Call:
+Need help getting started or have a question about Databrary? There are a number of ways to 
+
+## Drop-in support hours
 
 If you would like to talk to someone on the Databrary team, please join our drop-in support hours. We host support hours every Monday from 3pm-5pm and Thursday from 11am-12pm EST. We are happy to answer any of your questions about authorization, obtaining permission for data sharing, how to manage and organize your data using Databrary, etc.
 
@@ -11,18 +17,14 @@ Joining the call is very easy:
 3. Enter your name
 4. Access the meeting 
 
-## Email:
+## User guide
 
-Write to us at contact@databrary.org and a staff member will respond to you. 
+We are continually updating our [User Guide](|filename|../access/guide/investigators.md) and our [F.A.Q.s](|filename|../access/faq.md). 
 
-## Phone Number:
+## Email us 
 
-212-998-5800
+Write to us at help@databrary.org and a staff member will respond to you. 
 
-## Mailing Address:
+## Call us
 
-Databrary
-196 Mercer St. 8th Floor, Suite 807
-New York, NY 10012
-
-
+You can reach us at 212-998-5800 
