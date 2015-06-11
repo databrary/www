@@ -4,7 +4,7 @@ Order: 1800
 
 # Support
 
-Need help getting started or have a question about Databrary? There are a number of ways to 
+Need help getting started or have a question about Databrary? There are a number of ways to get your questions answered.
 
 ## Drop-in support hours
 
