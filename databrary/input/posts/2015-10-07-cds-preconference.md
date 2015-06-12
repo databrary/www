@@ -1,6 +1,6 @@
 Title: CDS Preconference on sharing and reusing video data
 Category: event
-Event: October 8-10, 2015
+Event: October 9, 2015
 
 Databrary is excited to host a CDS preconference workshop on **Managing, Sharing, and Reusing Video Data in Developmental Science**g at the [2015 meeting](http://meetings.cogdevsoc.org/) of the Cognitive Development Society (CDS) in Columbus, OH. The workshop will be held on Thursday, October 8, 2015 from 1:00 pm - 5:30 pm.
 
