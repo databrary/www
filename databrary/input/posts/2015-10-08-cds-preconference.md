@@ -4,12 +4,6 @@ Event: October 8, 2015
 
 ## Coding, Sharing, and Reusing Video Data with Databrary
 
-Date: Thursday, October 8, 2015 
-
-Time: 1:00 PM to 5:30 PM Eastern Time
-
-Location: Hilton Columbus Downtown (401 North High Street, Columbus, OH 43215)
-
 Across age, context, and culture, children produce an extraordinary array of behaviors—speech, gestures, visual exploration, facial expressions, motor actions, and social interactions.
 Video captures much of the richness and complexity of children’s behavior.
 But most developmental researchers don’t take advantage of all that video has to offer.
@@ -30,6 +24,15 @@ This “upload-as-you-go” functionality organizes and prepares appropriate vid
 
 Throughout the workshop, attendees will get hands-on experience exploring Databrary's functionality and datasets.
 Attendees will leave with in-depth understanding about how to code, reuse, and share video data with Datavyu and Databrary.
+
+#Date
+Thursday, October 8, 2015 
+
+#Time
+1:00 PM to 5:30 PM Eastern Time
+
+#Location
+Hilton Columbus Downtown (401 North High Street, Columbus, OH 43215)
 
 Registration is free, but space is limited. 
 The registration deadline is **August 15, 2015.**
