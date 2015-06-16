@@ -166,3 +166,136 @@ Order: 1100
 		<p>Become a user and/or a contributor of data, tools, and open source code. Share your suggestions and needs with the community by adding comments to the wikis or helping others on the Datavyu support forum.</p>
 	</div>
 </section>
+
+<section class="question">
+	<h3>How do I rename a volume?</h3>
+
+	<div>
+		<p>You can rename a volume by selecting the edit icon by a volume's name and then editing it's name in the "Overview" tab.</p>
+	<div>	
+</section>
+
+<section class="question">
+	<h3>Can I move a file to another volume?</h3>
+
+	<div>
+		<p>Currently, the only way to move a file is to upload it in the new desired location and delete it in the old location. We hope to make moving files easier in the future.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>Can I delete a file?</h3>
+
+	<div>
+		<p>Currently, there is no way to delete files because of the purpose of archiving. You can make the data private if you do not want others to see it.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>How do I rename files afer they are uploaded?</h3>
+
+	<div>
+		<p>Enter into the session that contains the file of your choice. Select the edit icon located near the session name. Select the desired file on the timeline and change its name in the "Viewer" window.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>My email address changed. How do I change my login email?</h3>
+
+	<div>
+		<p>You can edit your email by selecting the edit icon by your name on your profile page. In the "Account" tab, you can change your email or update your password.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>How do I create a group/lab group?</h3>
+
+	<div>
+		<p>Authorized Investigators can create lab groups with their affiliates. You can add a member to your lab group by selecting the edit icon on your profile page. In the "Affiliates" tab, type the name of the new individual you want to add and then choose what level of access you want to give them to Databrary and lab data, if any.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>How do I extend access to one of my volumes to my lab?</h3>
+
+	<div>
+		<p>We make it easy to share volumes with your lab group by enabling you to check "Extend access to my affiliates" on the "Access" tab when editing a volume.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>What is the difference between tags and keywords?</h3>
+
+	<div>
+		<p>A keyword is defined by the contributor and serves as a reference to the major concepts that apply to the work. They are frequently the keywords that associate a published study. A tag is defined by a member of the community. It represents the concepts and labels that can be applied to the data. Both enable more in depth search of volumes and videos.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>How do I tag my videos?</h3>
+
+	<div>
+		<p>You can create volume level tags at the bottom of the volume page. You can also create temporal tags on specific parts of videos from the timeline.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>How do I download a specific file?</h3>
+
+	<div>
+		<p>Go to the session that contains the desired file, select it on the timeline, and select the download button on the "Viewer" window.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>How do I download an entire volume?</h3>
+
+	<div>
+		<p>On the volume page, scroll down to the bottom of the "Data" section. Select "Download all files as zip."</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>How do I download just the metadata for a specific volume?</h3>
+
+	<div>
+		<p>On the volume page, scroll down to the "Data" section. Select "export data" right underneath the section title and you will receive a csv of the metadata.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>How do I cite data from Databrary?</h3>
+
+	<div>
+		<p>Every volume is provided with a databrary specific citation. Please go to the volume page and use the citation listed under "How To Cite" to ensure that the contributor receives proper credit.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>How do I change my authorization if I change my position from an affiliate to an authorized investigator?</h3>
+
+	<div>
+		<p>Your sponsor can choose whether or not to let you continue accessing his/her data. As an affiliate, you can request authorizaton from your new university and we would be happy to work to get you authorized through that institution. Once we receive the signed agreement, we can change the authorization on the site.</p>
+	</div>
+</section>
+
+<section class="question">
+	<h3>How do I tell Databrary that something is broken on the site?</h3>
+
+	<div>
+		<p>If you do find something broken, please email feedback@databrary.org to provide details of the issue you encountered.</p>
+	</div>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
