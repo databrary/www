@@ -2,7 +2,13 @@ Title: CDS Preconference on sharing and reusing video data
 Category: event
 Event: October 8, 2015
 
-# Coding, Sharing, and Reusing Video Data with Databrary
+## Coding, Sharing, and Reusing Video Data with Databrary
+
+Date: Thursday, October 8, 2015 
+Time: 1:00 PM to 5:30 PM Eastern Time
+Location: Hilton Columbus Downtown (401 North High Street, Columbus, OH 43215)
+
+
 
 Across age, context, and culture, children produce an extraordinary array of behaviors—speech, gestures, visual exploration, facial expressions, motor actions, and social interactions.
 Video captures much of the richness and complexity of children’s behavior.
