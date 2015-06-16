@@ -2,17 +2,29 @@ Title: CDS Preconference on sharing and reusing video data
 Category: event
 Event: October 9, 2015
 
-Databrary is excited to host a CDS preconference workshop on **Managing, Sharing, and Reusing Video Data in Developmental Science**g at the [2015 meeting](http://meetings.cogdevsoc.org/) of the Cognitive Development Society (CDS) in Columbus, OH. The workshop will be held on Thursday, October 8, 2015 from 1:00 pm - 5:30 pm.
+# Coding, Sharing, and Reusing Video Data with Databrary
 
-## Topics
-This workshop, led by Karen Adolph and Rick Gilmore, will help researchers learn about open video data sharing, address concerns about privacy, ethics, and citation, and implement best practices in video data management and reuse.
-Attendees will learn how Databrary can help them to manage their own studies and labs, share their video data with other researchers, and discover video data that can be repurposed for entirely new questions.
+Across age, context, and culture, children produce an extraordinary array of behaviors—speech, gestures, visual exploration, facial expressions, motor actions, and social interactions.
+Video captures much of the richness and complexity of children’s behavior.
+But most developmental researchers don’t take advantage of all that video has to offer.
+The Databrary project, led by Karen Adolph and Rick Gilmore, provides the software, cyber-infrastructure, and policy framework to fulfill the promise of video and thereby accelerate the pace of discovery in developmental science.
 
-The workshop will address social and ethical issues related to open sharing of video data and discuss policies and strategies that allow video data to be shared with other researchers. 
-Developmental researchers with firsthand experience of video data reuse will share their experiences of repurposing video data in their own work. 
-Attendees will get to explore Databrary's functionality and learn how to get started obtaining informed consent from participants and managing their video data on Databrary.
+This free workshop will teach researchers—from principle investigators to undergraduates—how to exploit the richness inherent in children’s behavior by coding, sharing, and reusing research videos.
+We will show how Datavyu, a free video-coding tool, helps researchers to mine the richness of their videos. With the right tools, video coding can be easy, efficient, and enlightening.
+We will provide case study examples of how videos have been reused to address new questions beyond the scope of the original study or outside the purview of the original researchers.
+In addition to research studies, attendees will learn how videos can be reused as illustrations in teaching, to see procedures and methods, to verify coding rules, and to provide inspiration and satisfy curiosity.
 
-## Registration
-Researchers with wide-ranging levels of experience -- senior and junior faculty, postdocs, doctoral students, and lab staff -- are encouraged to attend and learn about best practices in sharing and reusing video data. 
+Videos are valuable to other researchers and capable of yielding new insights into the causes and consequences of learning and development.
+Thus, we will urge attendees to consider openly sharing their videos among a community of like-minded researchers.
+We will describe how our policy framework alleviates concerns about participants’ privacy, how to obtain participants’ permission to share identifiable data and amend their IRB protocols, and how open sharing benefits the original data contributor with increased citations, attention, and prospects for federal funding.
+Attendees will learn how to use Databrary to manage their own studies and students, and to monitor progress in data collection and coding. 
+Prior to open sharing, Databrary operates as a free, secure backup and lab server. 
+Lab members and collaborators can easily access videos, which can be uploaded as they are collected. 
+This “upload-as-you-go” functionality organizes and prepares appropriate videos for open sharing—only when the data contributor is ready—with merely the click of a button. 
 
-Registration is free, but space is limited. More information and registration for this workshop can be found [here](https://docs.google.com/a/nyu.edu/forms/d/1KeBgyKa79VqX5RwR3nlBvPVxXqWbyCO5c5wI8i6zs3U/viewform). The registration deadline is **August 15, 2015.**
+Throughout the workshop, attendees will get hands-on experience exploring Databrary's functionality and datasets.
+Attendees will leave with in-depth understanding about how to code, reuse, and share video data with Datavyu and Databrary.
+
+Registration is free, but space is limited. 
+The registration deadline is **August 15, 2015.**
+More information and registration for this workshop can be found [here](https://docs.google.com/a/nyu.edu/forms/d/1KeBgyKa79VqX5RwR3nlBvPVxXqWbyCO5c5wI8i6zs3U/viewform). 
