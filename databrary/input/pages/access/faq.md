@@ -14,7 +14,7 @@ Order: 1100
 	<h3>What are some ways I might use it?</h3>
 
 	<div>
-		<p>There are many ways a researcher might use Databrary from teaching to research. See some suggested use cases <a href="use-cases.html">here</a>.</p>
+		<p>There are many ways a researcher might use Databrary from teaching to research. See some suggested use cases <a href="/about/use-cases.html">here</a>.</p>
 	</div>
 </section>
 
@@ -33,7 +33,7 @@ Order: 1100
 
 	<div>
 		<p>Data sharing embodies the ideals of open scientific inquiry. It contributes to transparency and bolsters scientific integrity.</p>
-		<p>A history of data sharing and a commitment to share data may enhance the likelihood of funding. Federal funding agencies and private foundations are now requesting data management and data sharing plans. Your work will receive more citations. Users will cite your data set or tools and the papers associated with them.</p> 
+		<p>A history and commitment of sharing data may enhance the likelihood of funding. Federal funding agencies and private foundations are now requesting data management and data sharing plans. Your work will receive more citations. Users will cite your dataset or tools and the papers associated with them.</p> 
 		<p>The more investigators who share and the more information they share, the more the community of researchers will benefit, the more scientists will discover, and the more the public will benefit from the accelerated pace of discovery about human behavior and development.</p>
 	</div>
 </section>
@@ -88,7 +88,7 @@ Order: 1100
 	<h3>What about privacy?</h3>
 
 	<div>
-		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/access/policies/definitions.html'>Databrary glossary</a>), special care must be taken. The principles of informed consent enable participants to decide for themselves whether or not they will allow their data to be shared with other researchers for other research purposes. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href='/access/policies/release-template.html'>template documents</a> for this purpose.</p>
+		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/access/policies/definitions.html#identifiable-data'>Databrary glossary</a>), special care must be taken. The principles of informed consent enable participants to decide for themselves whether or not they will allow their data to be shared with other researchers for other research purposes. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href='/access/policies/release-template.html'>template documents</a> for this purpose.</p>
 		<p>In other data formats such as text files and spreadsheets, participants must not be denoted by names or initials. Personally identifying information must be removed before data are contributed. Databrary recommends that authorized investigators adopt <a href='/access/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/access/policies/bill-of-rights.html'>Databrary Bill of Rights</a>.</p>
 
 	</div>
@@ -104,26 +104,10 @@ Order: 1100
 </section>
 
 <section class="question">
-	<h3>How will using Datavyu and joining Databrary improve my science?</h3>
-
-	<div>
-		<p>The Datavyu coding tool combined with the storage, management, and curation tools in Databrary will help researchers to discover more, faster.</p>
-	</div>
-</section>
-
-<section class="question">
-	<h3>How do we build a sustainable user community?</h3>
-
-	<div>
-		<p>Become a user and/or a contributor of data, tools, and open source code. Share your suggestions and needs with the community by adding comments to the wikis or helping others on the Datavyu support forum.</p>
-	</div>
-</section>
-
-<section class="question">
 	<h3>How do I rename a volume?</h3>
 
 	<div>
-		<p>You can rename a volume by selecting the edit icon by a volume's name and then editing it's name in the "Overview" tab.</p>
+		<p>You can rename a volume by selecting the edit icon by a volume's name and then renaming it in the "Overview" tab.</p>
 	<div>	
 </section>
 
@@ -171,7 +155,7 @@ Order: 1100
 	<h3>How do I extend access to one of my volumes to my lab?</h3>
 
 	<div>
-		<p>We make it easy to share volumes with your lab group by enabling you to check "Extend access to my affiliates" on the "Access" tab when editing a volume.</p>
+		<p>We make it easy to share volumes with your lab group by enabling you to check "Extend access to my affiliates" on the "Access" tab when editing a volume. This will provide acces to anyone who has access to your lab data. Their level of access to this volume will match the level of access they have to your lab data.</p>
 	</div>
 </section>
 
@@ -179,7 +163,7 @@ Order: 1100
 	<h3>What is the difference between tags and keywords?</h3>
 
 	<div>
-		<p>A keyword is defined by the contributor and serves as a reference to the major concepts that apply to the work. They are frequently the keywords that associate a published study. A tag is defined by a member of the community. It represents the concepts and labels that can be applied to the data. Both enable more in depth search of volumes and videos.</p>
+		<p>A keyword is defined by the contributor and serves as a reference to the major concepts that apply to the work. They are frequently the keywords associated with a published study. A tag is defined by a member of the community. It represents the concepts and labels that can be applied to the data. Both enable more in depth search of volumes and videos.</p>
 	</div>
 </section>
 
@@ -211,7 +195,7 @@ Order: 1100
 	<h3>How do I download just the metadata for a specific volume?</h3>
 
 	<div>
-		<p>On the volume page, scroll down to the "Data" section. Select "export data" right underneath the section title and you will receive a csv of the metadata.</p>
+		<p>On the volume page, scroll down to the "Data" section. Select "export data" right underneath the section title and it will download a csv of the metadata.</p>
 	</div>
 </section>
 
@@ -227,7 +211,7 @@ Order: 1100
 	<h3>How do I change my authorization if I change my position from an affiliate to an authorized investigator?</h3>
 
 	<div>
-		<p>Your sponsor can choose whether or not to let you continue accessing his/her data. As an affiliate, you can request authorizaton from your new university and we would be happy to work to get you authorized through that institution. Once we receive the signed agreement, we can change the authorization on the site.</p>
+		<p>Your sponsor can choose whether or not to let you continue accessing his/her data. As an affiliate, you can request another authorizaton from your new university and we can work with you to get you authorized through that institution. Once we receive the signed agreement, we can change the authorization on the site to make you an authorized investigator.</p>
 	</div>
 </section>
 
