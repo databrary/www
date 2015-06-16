@@ -1,4 +1,4 @@
-Title: CDS Preconference on sharing and reusing video data
+Title: Cognitive Development Society 2015 Preconference Workshop
 Category: event
 Event: October 8, 2015
 
