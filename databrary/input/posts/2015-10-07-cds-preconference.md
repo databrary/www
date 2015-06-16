@@ -1,6 +1,6 @@
 Title: CDS Preconference on sharing and reusing video data
 Category: event
-Event: October 9, 2015
+Event: October 8, 2015
 
 # Coding, Sharing, and Reusing Video Data with Databrary
 
