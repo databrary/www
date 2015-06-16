@@ -25,13 +25,13 @@ This “upload-as-you-go” functionality organizes and prepares appropriate vid
 Throughout the workshop, attendees will get hands-on experience exploring Databrary's functionality and datasets.
 Attendees will leave with in-depth understanding about how to code, reuse, and share video data with Datavyu and Databrary.
 
-#Date
+###Date
 Thursday, October 8, 2015 
 
-#Time
+###Time
 1:00 PM to 5:30 PM Eastern Time
 
-#Location
+###Location
 Hilton Columbus Downtown (401 North High Street, Columbus, OH 43215)
 
 Registration is free, but space is limited. 
