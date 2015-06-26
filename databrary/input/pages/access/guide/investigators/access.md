@@ -15,6 +15,9 @@ You can create studies and share data peer-to-peer with other users regardless o
 To share an entire study, click on the "edit study" button at the top of the study page then navigate to the "access" tab on the bottom left and you will study sharing options.
 Here you can also add collaborators to that volume.
 
+A collaborator is someone that has sufficient privileges to access all private data.
+For example, this can be an individual from your lab or a co-author on a study.
+
 The two options you will see are: 
 
 - **Private**: Share only with collaborators selected below.
@@ -28,10 +31,6 @@ If the volume is private, the following release levels will not be taken into ac
 
 
 If you choose to share your volume, your sessions and files will be shared based on the release levels described below.
-
-
-A collaborator is someone that has sufficient privileges to access all private data.
-For example, this can be an individual from your lab or a co-author on a study.
 
 
 You can then choose between three levels of access for collaborators:
@@ -69,7 +68,7 @@ Look over the definitions of the [session release levels](|filename|release/rele
 
 Does this file contain identifiable data? 
 
-After you have added the metadata for a session on the spreadsheet, you can click the <img src="https://nyu.databrary.org/public/images/icon/session2.png"> to add files to your session.
+After you have added the metadata for a session on the spreadsheet, you can click the <img src="https://nyu.databrary.org/public/images/icon/session.png"> to add files to your session.
 Then click "Add a new file" and drop your desired file.
 Under "Classification" you can use the checked boxes to indicate whether there is identifiable data in each specific file.
 Files will default to the second classification level which states that the data contains identifiable data.
