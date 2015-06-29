@@ -34,6 +34,10 @@ Order: 4100
 :	Director of Moving Image Archiving &amp; Preservation Program
 :	New York University
 
+[Bill Carlsen](https://www.ed.psu.edu/c-and-i/directory/william-carlsen)
+:	Professor of Education
+:	The Pennsylvania State University
+
 [Erik De Schutter](https://groups.oist.jp/cnu/erik-de-schutter)
 :	Professor, Okinawa Institute of Science and Technology
 :	President, Organization for Computational Neuroscience
@@ -46,6 +50,10 @@ Order: 4100
 :	David Reese Professor at the College of Information Sciences and Technology
 :	Director of the Intelligent Systems Research Laboratory
 :	The Pennsylvania State University
+
+[Kathy Hirsh-Pasek](http://www.cla.temple.edu/psychology/faculty/kathryn-hirsh-pasek/)
+:	Professor of Psychology and the Stanley and Debra Lefkowitz Distinguished Faculty Fellow
+:	Temple University
 
 [Paul Horn](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/research-engineering-technology/bios/paul-horn.html)
 :	Senior Vice Provost for Research
@@ -62,6 +70,10 @@ Order: 4100
 :	Silver Professor of the Courant Institute of Mathematical and Computer Sciences
 :	New York University
 
+[Felice Levine](http://www.aera.net/AboutAERA/WhoWeAre/ExecutiveDirectorofAERA/tabid/11378/Default.aspx)
+:	Executive Director
+:	American Educational Research Association
+
 [Brian MacWhinney](http://psyling.psy.cmu.edu/)
 :	Professor of Psychology
 :	Director of TalkBank and CHILDES
@@ -77,12 +89,20 @@ Order: 4100
 :	New York University
 
 [Dan Messinger](http://www.psy.miami.edu/faculty/dmessinger/)
-: Professor of Psychology, Pediatrics, and Electrical & Computer Engineering
-: University of Miami
+:	Professor of Psychology, Pediatrics, and Electrical & Computer Engineering
+:	University of Miami
 
 [Peter Molenaar](http://www.hhdev.psu.edu/hdfs/directory/bio.aspx?id=137)
-: Distinguished Professor of Human Development and Psychology
-: The Pennsylvania State University
+:	Distinguished Professor of Human Development and Psychology
+:	The Pennsylvania State University
+
+[P. Karen Murphy](https://www.ed.psu.edu/epcse/edpsych/people/karen-murphy)
+:	Professor of Education
+:	The Pennsylvania State University
+
+[Nora Newcombe](http://www.cla.temple.edu/psychology/faculty/nora-newcombe/)
+:	Professor of Psychology and James H. Glackin Distinguished Faculty Fellow
+:	Temple University
 
 [Brian Nosek](https://avillage.web.virginia.edu/Psych/Faculty/Profile/Brian-A-Nosek)
 : Associate Professor of Psychology
@@ -101,6 +121,10 @@ Order: 4100
 [Nilam Ram](http://www.hhdev.psu.edu/hdfs/directory/bio.aspx?id=138)
 :	Assistant Professor of Human Development and Psychology
 :	The Pennsylvania State University
+
+[Barbara Schneider](http://education.msu.edu/search/Formview.aspx?email=bschneid%40msu.edu)
+:	John A. Hannah Chair and University Distinguished Professor
+:	Michigan State University
 
 [Linda Smith](http://psych.indiana.edu/faculty/smith4.php)
 :	Distinguished Professor and Chancellor's Professor of Psychological and Brain Sciences
