@@ -2,6 +2,8 @@ Title: Frequently Asked Questions
 Brief: F.A.Q.
 Order: 1100
 
+<h2>About Databrary</h2>
+
 <section class="question">
 	<h3>What is Databrary?</h3>
 
@@ -102,6 +104,8 @@ Order: 1100
 		<p>We will work towards round trip interoperability between Databrary and coding tools used by the community.</p>
 	</div>
 </section>
+
+<h2>How to's...</h2>
 
 <section class="question">
 	<h3>How do I rename a volume?</h3>
