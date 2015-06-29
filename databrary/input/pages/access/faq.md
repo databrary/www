@@ -3,7 +3,7 @@ Brief: F.A.Q.
 Order: 1100
 
 <h2>About Databrary</h2>
-
+<br>
 
 <section class="question">
 	<h3>What is Databrary?</h3>
@@ -107,7 +107,7 @@ Order: 1100
 </section>
 
 <h2>How to's...</h2>
-
+<br>
 
 <section class="question">
 	<h3>How do I rename a volume?</h3>
