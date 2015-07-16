@@ -18,6 +18,14 @@
         <li class="toolbar_nav_top">
           <a href="{% if pg.redirect %}{{ pg.redirect }}{% else %}{{ SITEURL }}/{{ pg.url }}{% endif %}" title="{{ pg.title }}">{{ pg.brief }}</a>
           <ul>
+          {% if pg.brief == 'Community' %}
+            <li>
+              <a href="https://nyu.databrary.org/party?institution=false&access=4">Authorized Investigators</a>
+            </li>
+            <li>
+              <a href="https://nyu.databrary.org/party?institution=true&access=5">Institutions</a>
+            </li>
+          {% endif %}
           {% for subpage in pg.children %}
             <li>
               <a href="{{ SITEURL }}/{{ subpage.url }}" title="{{subpage.title}}">{{ subpage.brief }}</a>

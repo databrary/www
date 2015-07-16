@@ -872,10 +872,13 @@ ul.inline li {
 }
 
 .site_footer .footer_social a:hover img {
-	-webkit-box-shadow: 0 0 5px #C2707B;
-	-moz-box-shadow: 0 0 5px #C2707B;
-	box-shadow: 0 0 5px #C2707B;
+	opacity: 0.7;
 }
+
+.site_footer .footer_social a:active img {
+	opacity: 0.4;
+}
+
 
 /* PAGE SIDEBAR */
 

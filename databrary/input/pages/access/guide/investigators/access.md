@@ -68,7 +68,8 @@ Look over the definitions of the [session release levels](|filename|release/rele
 
 Does this file contain identifiable data? 
 
-After you have added the metadata for a session on the spreadsheet, you can click the <img src="https://nyu.databrary.org/web/images/icon/session.png"> to add files to your session.
+After you have added the metadata for a session on the spreadsheet, you can click the <img src="https://nyu.databrary.org/web/icons/session.png"> to add files to your session.
+
 Then click "Add a new file" and drop your desired file.
 Under "Classification" you can use the checked boxes to indicate whether there is identifiable data in each specific file.
 Files will default to the second classification level which states that the data contains identifiable data.
