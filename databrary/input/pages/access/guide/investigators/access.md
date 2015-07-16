@@ -3,7 +3,7 @@ Brief: Sharing Data
 Order: 3500
 
 Databrary offers many options for setting sharing levels and addressing to accommodate for the different needs of both researchers and participants.
-Users may independently determine the level of sharing for an entire volume, sessions, and individual session-level files or .
+Users may independently determine the level of sharing for an entire volume, sessions, and individual session-level files.
 
 Please familiarize yourself with the different levels so you can be sure that your data is presented and shared in the appropriate way.
 
@@ -68,7 +68,7 @@ Look over the definitions of the [session release levels](|filename|release/rele
 
 Does this file contain identifiable data? 
 
-After you have added the metadata for a session on the spreadsheet, you can click the <img src="https://nyu.databrary.org/web/icons/session.png"> to add files to your session.
+After you have added the metadata for a session on the spreadsheet, you can click the <img src="https://nyu.databrary.org/web/images/icon/session.png"> to add files to your session.
 
 Then click "Add a new file" and drop your desired file.
 Under "Classification" you can use the checked boxes to indicate whether there is identifiable data in each specific file.
