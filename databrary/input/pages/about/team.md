@@ -115,6 +115,10 @@ Vicky Foo
 :  <img src="/theme/img/social/email.png"> vicky at databrary dot org
 :  212-998-5417
 
+Thomas Gebert
+: Web Developer
+:  <img src="/theme/img/social/email.png"> thomas at databrary dot org
+
 Andrew Gordon
 : Information Engineer
 :  <img src="/theme/img/social/email.png"> drew at databrary dot org
@@ -133,10 +137,6 @@ Lisa Steiger
 :	<img src="/theme/img/social/email.png"> lisa at databrary dot org
 :	212-998-5536
 
-Lina Wictoren Roy
-: Project Coordinator
-:	<img src="/theme/img/social/email.png"> lina at databrary dot org
-:   212-998-5800
 
 ----
 
