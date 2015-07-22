@@ -106,7 +106,7 @@ Order: 1300
 
 # Staff
 
-All staff can be reached at *first name* at databrary.org
+All staff can be reached at *'first name'*@databrary.org
 
 Gladys Chan
 : UI/UX Designer
