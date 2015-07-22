@@ -106,36 +106,28 @@ Order: 1300
 
 # Staff
 
+All staff can be reached at *first name* at databrary.org
+
 Gladys Chan
 : UI/UX Designer
-:  <img src="/theme/img/social/email.png"> gladys at databrary dot org
 
 Vicky Foo
 : Community Support Specialist
-:  <img src="/theme/img/social/email.png"> vicky at databrary dot org
-:  212-998-5417
+: 212-998-5417
 
 Thomas Gebert
 : Web Developer
-:  <img src="/theme/img/social/email.png"> thomas at databrary dot org
 
-Andrew Gordon
+Drew Gordon
 : Information Engineer
-:  <img src="/theme/img/social/email.png"> drew at databrary dot org
-
-Omran Majumder
-: Databrary Quality Assurance and Curation
-:  <img src="/theme/img/social/email.png"> omi at databrary dot org
 
 Dylan Simon
 : Systems Architect 
-:	<img src="/theme/img/social/email.png"> dylan at databrary dot org
-:   212-992-6101
+: 212-992-6101
 
 Lisa Steiger
 : Community Liaison and Project Manager
-:	<img src="/theme/img/social/email.png"> lisa at databrary dot org
-:	212-998-5536
+: 212-998-5536
 
 
 ----
