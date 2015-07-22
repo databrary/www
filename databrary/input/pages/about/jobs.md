@@ -9,10 +9,10 @@ The overall goal is to accelerate the pace of discovery, improve scientific tran
 
 We are growing a team to design and build new open source solutions for science using the latest technologies.
 
-If you want to help build a uniquely powerful set of [open-source](https://github.com/databrary) research tools with a tight-knit team in a diverse and intellectually stimulating environment, contact us!
+If want to help build a uniquely powerful set of [open-source](https://github.com/databrary) research tools with a tight-knit team in a diverse and intellectually stimulating environment, contact us!
 
 # Current openings:
-We do not have specific positions open at the moment, but we are always happy to talk. If you are interested in the project and think you have something to offer, contact us!
+# [Front-end web developer](|filename|jobs/front-end.md)
 
 # To apply
 ### Send the following to jobs@databrary.org:
