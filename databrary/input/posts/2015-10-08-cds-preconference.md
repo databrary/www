@@ -34,6 +34,4 @@ Thursday, October 8, 2015
 ###Location
 Hilton Columbus Downtown (401 North High Street, Columbus, OH 43215)
 
-Registration is free, but space is limited. 
-The registration deadline is **August 15, 2015.**
-More information and registration for this workshop can be found [here](https://docs.google.com/a/nyu.edu/forms/d/1KeBgyKa79VqX5RwR3nlBvPVxXqWbyCO5c5wI8i6zs3U/viewform). 
+Registration is now closed. Please contact events@databrary.org to join the waitlist.
