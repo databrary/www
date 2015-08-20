@@ -1,6 +1,5 @@
 Title: SRCD Preconference Workshop: Coding and Sharing Video with Databrary and Datavyu
-Category: event
-Event: March 18, 2015
+
 
 Databrary held a pre-conference workshop before SRCD on Wednesday March 18th, 2015 from 9:00 am to 5:00 pm at the Philadelphia Convention Center. The workshop featured Datavyu and Databrary and included one-on-one training with experienced coaches. Thank you to all who attended and participated. We have posted links to PDF versions of the talk slides below.
 
