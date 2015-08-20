@@ -115,8 +115,8 @@ Vicky Foo
 : Community Support Specialist
 : 212-998-5417
 
-Thomas Gebert
-: Web Developer
+Jesse Lingeman
+: Application Developer
 
 Drew Gordon
 : Information Engineer
@@ -130,10 +130,3 @@ Lisa Steiger
 : 212-998-5536
 
 
-----
-
-<dl>
-<dt>John Franchak</dt>
-<dt>Clinton Freeman</dt>
-<dt>Jesse Lingeman</dt>
-</dl>
