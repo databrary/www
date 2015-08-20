@@ -1,8 +1,9 @@
 Title: Databrary workshop at New York University
 
-# Coding, Sharing, and Reusing Video Data with Databrary
+## Coding, Sharing, and Reusing Video Data with Databrary
 
 September 18, 2015
+
 12:00-4:30 PM EST
 
 Databrary is holding a free workshop on video data coding, management, sharing, and reuse for researchers in the New York City. 
