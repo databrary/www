@@ -807,14 +807,6 @@ ul.inline li {
 	margin: 0 10px 0 0;
 }
 
-.site_footer a {
-	color: #89796f;
-}
-
-.site_footer a:hover {
-	color: #CAE2DE;
-}
-
 .site_footer .grants {
 	position: relative;
 	top: -8px;
@@ -1404,16 +1396,6 @@ nav.page_sidebar a.parent:hover {
 .feature p {
 	font-size: 0.9em;
 	line-height: 150%;
-}
-
-#static_features video {
-	width: 100%;
-	height: auto;
-}
-
-#datavyu_can .feature {
-	width: 46%;
-	margin: 0 2% 0;
 }
 
 .other-formats {
@@ -2116,7 +2098,7 @@ body {
 .site_header li li a:hover,
 .site_footer a,
 .site_main .trail a {
-	color: #89796f;
+	color: #60a99b;
 }
 
 .site_footer a:hover,
