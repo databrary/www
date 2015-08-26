@@ -13,6 +13,7 @@ Contact us at [contact@databrary.org](mailto:contact@databrary.org "Email Databr
 If you would like to talk to someone on the Databrary team, please join our drop-in support hours. We host support hours every Monday from 3pm-5pm and Thursday from 11am-12pm EST. We are happy to answer any of your questions about authorization, obtaining permission for data sharing, how to manage and organize your data using Databrary, etc.
 
 Joining the call is very easy:
+
 1. Use a browser other than Chrome
 2. Use this [link](https://bluejeans.com/databrary/) to reach our bluejeans account and click 'Join Meeting'
 3. Enter your name
