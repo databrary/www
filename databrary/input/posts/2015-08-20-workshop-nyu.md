@@ -7,7 +7,7 @@ September 18, 2015
 12:00-4:30 PM EST
 
 Databrary is holding a free workshop on video data coding, management, sharing, and reuse for researchers in the New York City area. 
-This free workshop will teach researchers—from principle investigators to undergraduates—how to exploit the richness inherent in recordings of children’s behavior by coding, reusing, and sharing research videos and how open sharing benefits the original data contributor with increased citations, attention, and fulfillment of federal funding mandates.
+This free workshop will teach researchers—from principal investigators to undergraduates—how to exploit the richness inherent in recordings of children’s behavior by coding, reusing, and sharing research videos and how open sharing benefits the original data contributor with increased citations, attention, and fulfillment of federal funding mandates.
 Attendees will leave with in-depth understanding about how to code, reuse, and share video data with Datavyu and Databrary.
 
 Lunch and refreshments will be provided. 

@@ -9,7 +9,7 @@ Video captures much of the richness and complexity of children’s behavior.
 But most developmental researchers don’t take advantage of all that video has to offer.
 The Databrary project, led by Karen Adolph and Rick Gilmore, provides the software, cyber-infrastructure, and policy framework to fulfill the promise of video and thereby accelerate the pace of discovery in developmental science.
 
-This free workshop will teach researchers—from principle investigators to undergraduates—how to exploit the richness inherent in children’s behavior by coding, sharing, and reusing research videos.
+This free workshop will teach researchers—from principal investigators to undergraduates—how to exploit the richness inherent in children’s behavior by coding, sharing, and reusing research videos.
 We will show how Datavyu, a free video-coding tool, helps researchers to mine the richness of their videos. With the right tools, video coding can be easy, efficient, and enlightening.
 We will provide case study examples of how videos have been reused to address new questions beyond the scope of the original study or outside the purview of the original researchers.
 In addition to research studies, attendees will learn how videos can be reused as illustrations in teaching, to see procedures and methods, to verify coding rules, and to provide inspiration and satisfy curiosity.
