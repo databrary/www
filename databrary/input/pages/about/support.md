@@ -10,7 +10,7 @@ Need help getting started or have a question about Databrary? There are a number
 Contact us at [contact@databrary.org](mailto:contact@databrary.org "Email Databrary") and a staff member will respond to you. 
 
 ## Drop-in support hours
-If you would like to talk to someone on the Databrary team, please join our drop-in support hours. We host support hours every Monday from 3pm-5pm and Thursday from 11am-12pm EST. We are happy to answer any of your questions about authorization, obtaining permission for data sharing, how to manage and organize your data using Databrary, etc.
+If you would like to talk to someone on the Databrary team, please join our drop-in support hours. We host support hours every Monday from 2pm-4pm and Thursday from 11am-12pm EST. We are happy to answer any of your questions about authorization, obtaining permission for data sharing, how to manage and organize your data using Databrary, etc.
 
 Joining the call is very easy:
 
