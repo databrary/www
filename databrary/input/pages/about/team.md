@@ -115,11 +115,11 @@ Vicky Foo
 : Community Support Specialist
 : 212-998-5417
 
-Jesse Lingeman
-: Application Developer
-
 Drew Gordon
 : Information Engineer
+
+Jesse Lingeman
+: Application Developer
 
 Dylan Simon
 : Systems Architect 
