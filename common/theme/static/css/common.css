@@ -181,7 +181,7 @@ input:focus,
 select:focus,
 textarea:focus {
 	outline: none;
-	border-color: #7AB8AB;
+	border-color: #89796f;
 	-webkit-transition: all 0.2s ease-in-out;
 	-moz-transition: all 0.2s ease-in-out;
 	transition: all 0.2s ease-in-out;
@@ -309,7 +309,7 @@ button[type="reset"]:hover {
 }
 
 .term {
-	color: #7AB8AB;
+	color: #89796f;
 }
 
 .legal {
@@ -409,15 +409,6 @@ ul.inline li {
 .site_main {
 	font-size: 1.1em;
 	margin: 56px 0;
-}
-
-.site_main a {
-	color: #C2707B;
-}
-
-.site_main a:hover {
-	color: #E7C6CA;
-	text-decoration: underline;
 }
 
 .site_main h1.entry-title,
@@ -781,7 +772,7 @@ ul.inline li {
 }
 
 .site_header li li a:hover {
-	color: #7AB8AB;
+	color: #89796f;
 }
 
 @media (max-width: 800px) {
@@ -814,14 +805,6 @@ ul.inline li {
 
 .site_footer ul.inline li {
 	margin: 0 10px 0 0;
-}
-
-.site_footer a {
-	color: #7AB8AB;
-}
-
-.site_footer a:hover {
-	color: #CAE2DE;
 }
 
 .site_footer .grants {
@@ -912,7 +895,7 @@ ul.inline li {
 }
 
 nav.page_sidebar a {
-	color: #7AB8AB;
+	color: #60a99b;
 }
 
 nav.page_sidebar a:hover {
@@ -1299,7 +1282,6 @@ nav.page_sidebar a.parent:hover {
 
 .page_about_team .entry-content .profile h1 {
 	font-size: 1.2em;
-	color: #3ea938;
 	border-bottom: 0;
 	padding: 0;
 	margin: 0;
@@ -1347,8 +1329,8 @@ nav.page_sidebar a.parent:hover {
 /* TEAM STAFF */
 .page_about_team .entry-content dl dt {
 	font-weight: bold;
+	font-family: Verdana, Geneva, sans-serif;
 	font-size: 1.2em;
-	color: #70A960;
 	border-bottom: 0;
 	padding: 0;
 	margin: 14px 0 0;
@@ -1414,16 +1396,6 @@ nav.page_sidebar a.parent:hover {
 .feature p {
 	font-size: 0.9em;
 	line-height: 150%;
-}
-
-#static_features video {
-	width: 100%;
-	height: auto;
-}
-
-#datavyu_can .feature {
-	width: 46%;
-	margin: 0 2% 0;
 }
 
 .other-formats {
@@ -2101,11 +2073,11 @@ body {
 .article .event-date time,
 .carousel .text span,
 .page_about_team .entry-content h2 {
-	color: #D68D5C;
+	color: #60a99b;
 }
 
 .site_main a:hover {
-	color: #EBC6AD;
+	color: #b1c3bf;
 }
 
 .page_about_team .entry-content .profile h1,
@@ -2113,7 +2085,7 @@ body {
 .event h3 a,
 .info_block h2 a,
 .info_block h3 a {
-	color: #7AB8AB;
+	color: #333;
 }
 
 .event h3 a:hover,
@@ -2125,9 +2097,8 @@ body {
 .term,
 .site_header li li a:hover,
 .site_footer a,
-.site_main .trail a,
-nav.page_sidebar a {
-	color: #7AB8AB;
+.site_main .trail a {
+	color: #60a99b;
 }
 
 .site_footer a:hover,
@@ -2253,7 +2224,7 @@ textarea:focus,
 div.admonition-returns.admonition,
 div.admonition-programming-101.admonition,
 div.admonition-example.admonition {
-	border-color: #7AB8AB;
+	border-color: #89796f;
 }
 
 div.seealso {
