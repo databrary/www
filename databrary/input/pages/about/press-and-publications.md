@@ -2,4 +2,17 @@ Title: Press and publications
 Brief: Press and publications
 Order: 1700
 
-Read more about our mission to build a community of open data sharing in [Psychological Inquiry](http://www.tandfonline.com/doi/abs/10.1080/1047840X.2012.705133#.UoUGM_mfhtE "Towards Open Behavioral Science").
+# Published articles, chapters, and reports
+
+[Towards open behavioral science](http://www.tandfonline.com/doi/abs/10.1080/1047840X.2012.705133#.UoUGM_mfhtE "Towards Open Behavioral Science") published in Psychological Inquiry.
+
+[Researcher-library collaborations: Data repositories as a service for researchers](http://doi.org/10.7710/2162-3309.1238) published in the Journal of Librarianship and Scholarly Communication.
+
+[Databrary: Enabling sharing and reuse of research video](http://dx.doi.org/10.1145/2756406.2756951) published in the Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries.
+
+
+# Popular press
+
+[Video data-sharing library opens up big data for behavioral research](http://gcn.com/articles/2013/07/22/databrary-video-sharing-library.aspx)
+
+[Scientists undertake effort to launch video data-sharing library for developmental science](http://phys.org/news/2013-07-scientists-effort-video-data-sharing-library.html)
