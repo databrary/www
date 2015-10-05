@@ -188,13 +188,20 @@ textarea:focus {
 }
 
 input[type="search"] {
-	-webkit-border-radius: 50px;
-	-moz-border-radius: 50px;
-	border-radius: 50px;
+	border: none;
+	background-color: rgb(238,238,238);
+	box-shadow: none;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
 	-ms-box-sizing: border-box;
 	box-sizing: border-box;
+}
+
+input[type="search"]:focus {
+	background-color: #cbe8e2;
 }
 
 label {
@@ -665,6 +672,7 @@ ul.inline li {
 	box-shadow: 0 0 3px #333;
 	padding: 8px;
 	line-height: 16px;
+	font-size: 16px;
 }
 
 .toolbar_hover_search input[type="search"]{

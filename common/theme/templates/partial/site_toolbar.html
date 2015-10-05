@@ -20,10 +20,10 @@
           <ul>
           {% if pg.brief == 'Community' %}
             <li>
-              <a href="https://nyu.databrary.org/party?institution=false&access=4">Authorized Investigators</a>
+              <a href="https://nyu.databrary.org/search?volume=false&f.party_authorization=4&f.party_is_institution=false">Authorized Investigators</a>
             </li>
             <li>
-              <a href="https://nyu.databrary.org/party?institution=true&access=5">Institutions</a>
+              <a href="https://nyu.databrary.org/search?volume=false&f.party_authorization=5&f.party_is_institution=true">Institutions</a>
             </li>
           {% endif %}
           {% for subpage in pg.children %}
@@ -53,8 +53,8 @@
       </label>
       <input id="_1" type="checkbox">
       <div class="toolbar_hover_search">
-        <form action="https://nyu.databrary.org/volume" method="GET" target="_self">
-          <input placeholder="Search data" type="search" name="query">
+        <form action="https://nyu.databrary.org/search" method="GET" target="_self">
+          <input placeholder="Search data" type="search" name="q">
         </form>
       </div>
 
