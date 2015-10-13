@@ -27,7 +27,7 @@ Order: 1100
 	<div>
 		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization.</p> 
 		<p>Investigators must be authorized through their university or institution to have <a href='/access/guide/investigators.html'>access</a> to shared data in the library.</p>
-		<p>The <a href='/access/policies/agreement.html'>Databrary Access Agreement</a> must be signed by both the <em>authorized investigator</em> and the Institution; an <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. You can <a href="http://databrary.org/register">register</a> today to begin the authorization process.</p>
+		<p>The <a href='/access/policies/agreement.html'>Databrary Access Agreement</a> must be signed by both the <em>authorized investigator</em> and the Institution; an <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. You can <a href="/register">register</a> today to begin the authorization process.</p>
 	</div>
 </section>
 
