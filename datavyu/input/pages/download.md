@@ -4,13 +4,14 @@ Order: 2000
 
 # Datavyu Status
 
-Datavyu is legacy software that has been successfully used by a number of labs over the years. Unfortunately, we do not have the resources to actively maintain, update, or support the software. If you are currently using it and it is working for you, we are happy to continue providing assistance but we recommend that new users do in depth testing in their environment to ensure that datavyu plays videos properly and functions on all computers before committing to using it. 
+Datavyu is legacy academic software that has been successfully used by a number of labs over the years.
+Unfortunately, we no longer have the resources to actively maintain, update, or support it.
+We recommend that new users do in-depth testing in their environment to ensure that datavyu plays videos properly prior to using it for research.
 
-If you currently have a workflow that works for you, we recommend that you do not update your computer or software while you are in the middle of coding a study. 
+Most problems we encounter are related to video playback, caused by new releases in QuickTime, OS X, and Windows.
+If you have an existing workflow, we recommend that you do not upgrade your computer or software while you are in the middle of coding a study. 
 
-Most problems we encounter are related to video playback caused by new releases in QuickTime, OSX, and Windows.
-
-We are available to provide help and guidance but cannot necessarily fix problems with the software itself.  
+We are available to provide help and guidance but cannot commit to fixing problems with the software itself.
 
 # Stable Release: %%datavyu-version%%
 
@@ -36,10 +37,6 @@ The Controller maps onto the numpad and allows users to navigate swiftly and eas
 
 Please feel free to use our [coding example](/user-guide/_downloads/DatavyuSample.zip) to practice coding with a sample video and corresponding spreadsheet.
 See how to observe specific behaviors and mark them in Datavyu.
-
-# Plugins
-
-You will soon be able to install additional plugins to customize Datavyu and make it yours. Stay tuned for greater functionality that addresses your different needs!
 
 Attention Windows users: Please pay careful attention to the Quicktime [software requirements](/user-guide/guide/install.html#software-requirements) detailed in the [User Guide](/user-guide/guide.html).
 
