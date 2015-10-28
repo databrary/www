@@ -13,7 +13,7 @@ These release levels map directly to the options on the [Databrary Release Templ
 |
 |<img src="https://nyu.databrary.org/web/icons/release/shared.svg">| **Shared** | Available only to authorized Databrary users.
 |
-|<img src="https://nyu.databrary.org/web/icons/release/excerpts.svg">|**Excerpts** | Available only to authorized Databrary users, who may use it in presentations for informational or educational purposes. Authorized users are not allowed to redistribute excerpts to anyone outside of the presentation in which they show it).
+|<img src="https://nyu.databrary.org/web/icons/release/excerpts.svg">|**Excerpts** | Available only to authorized Databrary users, who may use it in presentations for informational or educational purposes (authorized users are not allowed to redistribute excerpts to anyone outside of the presentation in which they appear).
 |
 |<img src="https://nyu.databrary.org/web/icons/release/public.svg">| **Public** | Available openly to anybody (not currently incorporated into Databrary Release Template).
 |
