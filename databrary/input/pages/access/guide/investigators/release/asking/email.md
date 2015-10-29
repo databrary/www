@@ -1,5 +1,5 @@
-Title: Sample Email for Re-consenting Participants
-Brief: Email for Re-consenting
+Title: Post-Visit Release Email
+Brief: Post-visit Release
 Order: 3233
 
 Sometimes researchers cannot obtain release from participants for sharing at the time of the visit. When it is possible to recontact families to re-consent them to ask for their Databrary release, we have created language that can be used to communicate to parents to ask for their release to share video data with Databrary.
