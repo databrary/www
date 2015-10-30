@@ -8,14 +8,6 @@
   {% if loop.first %}
   <ul>
   {% endif %}
-    {% if page.brief == "Community" %}
-    <li>
-      <a href="https://nyu.databrary.org/party?institution=false&access=4">Authorized Investigators</a>
-    </li>
-    <li>
-      <a href="https://nyu.databrary.org/party?institution=true&access=5">Institutions</a>
-    </li>    
-    {% endif %}
     <li>
       <a href="{{ SITEURL }}/{{ p.url }}" class="{% if page == p %}current{% elif page.slug.startswith(p.slug+'/') %}parent{% endif %}">{{ p.title|replace('&nbsp;', ' ') }}</a>
       {% if page.slug.startswith(p.slug) %}
