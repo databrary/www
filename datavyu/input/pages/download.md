@@ -4,14 +4,13 @@ Order: 2000
 
 # Datavyu Status
 
-Datavyu is legacy academic software that has been successfully used by a number of labs over the years.
-Unfortunately, we no longer have the resources to actively maintain, update, or support it.
-We recommend that new users do in-depth testing in their environment to ensure that datavyu plays videos properly prior to using it for research.
+The Datavyu coding tool is academic software that has been successfully used by a number of labs over the years but is no longer being actively updated to address changes in other software packages and operating systems. 
+Most of the issues we encounter are related to video playback, caused by new releases in QuickTime, OS X, and Windows.
 
-Most problems we encounter are related to video playback, caused by new releases in QuickTime, OS X, and Windows.
-If you have an existing workflow, we recommend that you do not upgrade your computer or software while you are in the middle of coding a study. 
+As such, we recommend that new users do in-depth testing in their environment to ensure that datavyu plays videos properly prior to using it for research.
+If you have an existing workflow, we recommend that you do not upgrade your computer or software while you are in the middle of coding a study with Datavyu.
 
-We are available to provide help and guidance but cannot commit to fixing problems with the software itself.
+We are available to continue providing help and guidance but may not be able to promise major fixes in the near term.
 
 # Stable Release: %%datavyu-version%%
 
