@@ -2,7 +2,7 @@ Title: Download Datavyu
 Brief: Download
 Order: 2000
 
-# Datavyu Status
+# Current Status
 
 The Datavyu coding tool is academic software that has been successfully used by a number of labs over the years but is no longer being actively updated to address changes in other software packages and operating systems. 
 Most of the issues we encounter are related to video playback, caused by new releases in QuickTime, OS X, and Windows.
