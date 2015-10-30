@@ -1,4 +1,4 @@
-Title: Databrary workshop at Temple University in Philadelphia 
+Title: Databrary workshop at Temple University
 
 ## Coding, Sharing, and Reusing Video Data with Databrary
 
