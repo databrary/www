@@ -4,13 +4,18 @@ Order: 2000
 
 # Current Status
 
-The Datavyu coding tool is academic software that has been successfully used by a number of labs over the years but is no longer being actively updated to address changes in other software packages and operating systems. 
-Most of the issues we encounter are related to video playback, caused by new releases in QuickTime, OS X, and Windows.
+The Datavyu coding tool is free academic software. 
+Based on our internal testing, we recommend the following environments for using Datavyu:
 
-As such, we recommend that new users do in-depth testing in their environment to ensure that datavyu plays videos properly prior to using it for research.
-If you have an existing workflow, we recommend that you do not upgrade your computer or software while you are in the middle of coding a study with Datavyu.
+Windows 7
 
-We are available to continue providing help and guidance but may not be able to promise major fixes in the near term.
+Mac OS X 10.10.3 Yosemite or earlier
+
+Other operating environments have not been tested fully and may not work. 
+For those who wish to run Datavyu in an unsupported/untested environment, we recommend in-depth testing to ensure that Datavyu plays videos properly prior to using it for research. 
+We also recommend that users do not upgrade computers or software in the middle of coding a study with Datavyu.
+
+We are available to provide help and guidance in the use of Datavyu in supported environments, but may not be able to deliver fixes for unsupported/untested environments.
 
 # Stable Release: %%datavyu-version%%
 
