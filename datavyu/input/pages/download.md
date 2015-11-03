@@ -4,18 +4,16 @@ Order: 2000
 
 # Current Status
 
-The Datavyu coding tool is free academic software. 
-Based on our internal testing, we recommend the following environments for using Datavyu:
+The Datavyu coding tool is free academic software. Based on our internal testing, we’ve had the most luck with the following operating environments:
 
-Windows 7
-
-Mac OS X 10.10.3 Yosemite or earlier
+* Windows 7
+* Mac OS X versions prior to El Capitan 10.11
 
 Other operating environments have not been tested fully and may not work. 
-For those who wish to run Datavyu in an unsupported/untested environment, we recommend in-depth testing to ensure that Datavyu plays videos properly prior to using it for research. 
-We also recommend that users do not upgrade computers or software in the middle of coding a study with Datavyu.
 
-We are available to provide help and guidance in the use of Datavyu in supported environments, but may not be able to deliver fixes for unsupported/untested environments.
+There are a wide variety of video formats, settings, and codecs on the market, all of which can affect video playback. We recommend in-depth testing to ensure that Datavyu plays your specific videos properly in your work environment prior to using it for research. We also recommend that users do not upgrade computers or software in the middle of coding a study with Datavyu.
+
+We are available to provide help and guidance in the use of Datavyu, but we are limited in our ability to troubleshoot or provide fixes for every case due to the myriad of variables affecting video playback.
 
 # Stable Release: %%datavyu-version%%
 
