@@ -1,4 +1,6 @@
-Title: Databrary workshop at Temple University Category: event Event: November 20, 2015
+Title: Databrary workshop at Temple University
+Category: event 
+Event: November 20, 2015
 
 ## Coding, Sharing, and Reusing Video Data with Databrary
 
