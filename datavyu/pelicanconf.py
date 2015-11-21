@@ -33,6 +33,7 @@ STATIC_PATHS.extend([
 	'pages/user-guide/_images',
 	'pages/user-guide/_sources',
 	'pages/user-guide/_static',
+        'robots.txt'
 ])
 
 TEMPLATE_PAGES = {
