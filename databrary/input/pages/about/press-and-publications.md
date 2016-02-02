@@ -13,6 +13,8 @@ Order: 1700
 
 # Popular press
 
-[Video data-sharing library opens up big data for behavioral research](http://gcn.com/articles/2013/07/22/databrary-video-sharing-library.aspx)
+[Databrary promotes sharing, reuse of video for researchers](https://nihrecord.nih.gov/newsletters/2016/01_29_2016/story2.htm).
 
-[Scientists undertake effort to launch video data-sharing library for developmental science](http://phys.org/news/2013-07-scientists-effort-video-data-sharing-library.html)
+[Video data-sharing library opens up big data for behavioral research](http://gcn.com/articles/2013/07/22/databrary-video-sharing-library.aspx).
+
+[Scientists undertake effort to launch video data-sharing library for developmental science](http://phys.org/news/2013-07-scientists-effort-video-data-sharing-library.html).
