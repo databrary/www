@@ -10,6 +10,8 @@ Order: 1700
 
 [Databrary: Enabling sharing and reuse of research video](http://dx.doi.org/10.1145/2756406.2756951) published in the Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries.
 
+[From big data to deep insight in developmental science](http://wires.wiley.com/WileyCDA/WiresArticle/wisId-WCS1379.html) in WIRE's Cognitive Science.
+
 
 # Popular press
 
