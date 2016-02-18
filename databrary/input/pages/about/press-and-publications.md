@@ -6,12 +6,13 @@ Order: 1700
 
 [Towards open behavioral science](http://www.tandfonline.com/doi/abs/10.1080/1047840X.2012.705133#.UoUGM_mfhtE "Towards Open Behavioral Science") published in Psychological Inquiry.
 
-[Researcher-library collaborations: Data repositories as a service for researchers](http://doi.org/10.7710/2162-3309.1238) published in the Journal of Librarianship and Scholarly Communication.
+[Sharing Displays and Data from Vision Science Research with Databrary](http://jov.arvojournals.org/article.aspx?articleid=2433372) published in the Journal of Vision.
 
 [Databrary: Enabling sharing and reuse of research video](http://dx.doi.org/10.1145/2756406.2756951) published in the Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries.
 
-[From big data to deep insight in developmental science](http://wires.wiley.com/WileyCDA/WiresArticle/wisId-WCS1379.html) in WIRE's Cognitive Science.
+[Researcher-library collaborations: Data repositories as a service for researchers](http://doi.org/10.7710/2162-3309.1238) published in the Journal of Librarianship and Scholarly Communication.
 
+[From big data to deep insight in developmental science](http://wires.wiley.com/WileyCDA/WiresArticle/wisId-WCS1379.html) published in WIRE's Cognitive Science.
 
 # Popular press
 
