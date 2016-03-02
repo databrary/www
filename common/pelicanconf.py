@@ -110,7 +110,7 @@ AUTHOR_SAVE_AS = False
 AUTHORS_SAVE_AS = False
 
 PAGE_ORDER_BY = 'order'
-ARTICLE_ORDER_BY = 'date'
+ARTICLE_ORDER_BY = 'reversed-date'
 
 # FEEDS
 FEED_ALL_ATOM = None

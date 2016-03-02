@@ -40,8 +40,9 @@
 </head>
 
 <body>
-	{% include 'partial/site_toolbar.html' %}
-
+	{% if SITESLUG == 'databrary' %}	
+		{% include 'partial/site_toolbar.html' %}
+	{% endif %}
 	{% if SITESLUG == 'datavyu' %}
 		{% include 'partial/site_header.html' %}
 	{% endif %}
