@@ -4,7 +4,7 @@ Order: 2001
 
 # Summary
 
-Databrary seeks a flexible and motivated Java programmer to take ownership of and enhance our unique, research-enabling, open source multi-platform desktop video annotation and analysis application (Datavyu.org). You will collaborate closely with a small team of developers and psychological scientists to support and improve the Datavyu application enabling researchers to explore and access research video.
+Databrary seeks a flexible and motivated Java programmer to work on our open source multi-platform desktop video annotation and analysis application (Datavyu.org) and to specifically develop and enhance the Windows video plugin fr the application. You will collaborate closely with a small team of developers and psychological scientists to support and improve the Datavyu application enabling researchers to explore and access research video.
 
 # Responsibilities
 
