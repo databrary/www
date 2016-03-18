@@ -1,4 +1,3 @@
 <Files investigator.cgi>
-	Allow from 128.122.0.0/16
-	Deny from all
+	Require ip 128.122
 </Files>
