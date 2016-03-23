@@ -38,9 +38,22 @@ Order: 4100
 :	Professor of Education
 :	The Pennsylvania State University
 
+[Mercè Crosas](http://scholar.harvard.edu/mercecrosas/home)
+:	Chief Data Science and Technology Officer
+:	Institute for Quantitative Social Science
+:	Harvard University
+
+[Sayeed Choudhury](http://www.educause.edu/members/sayeed-choudhury)
+:	Associate Dean for Research Data Management
+:	Sheridan Libraries of Johns Hopkins University
+
 [Erik De Schutter](https://groups.oist.jp/cnu/erik-de-schutter)
 :	Professor, Okinawa Institute of Science and Technology
 :	President, Organization for Computational Neuroscience
+
+[Michael Frank](http://web.stanford.edu/~mcfrank/)
+:	Associate Professor of Psychology
+:	Stanford University
 
 [James Cole Galloway](http://www.udel.edu/PT/About%20Us/People/galloway.html)
 :	Professor of Physical Therapy, Psychology, Human Development and Family Studies, and Biomechanics and Movement Sciences
@@ -49,6 +62,18 @@ Order: 4100
 [Clyde Lee Giles](http://ist.psu.edu/directory/clg20)
 :	David Reese Professor at the College of Information Sciences and Technology
 :	Director of the Intelligent Systems Research Laboratory
+:	The Pennsylvania State University
+
+[Leslie Greengard](http://www.math.nyu.edu/people/profiles/GREENGARD_Leslie.html)
+:	Silver Professor of Mathematics and Computer Science
+:	New York University
+:	Director, Simons Center for Data Analysis
+:	Simons Foundation
+
+[Vasant Hanovar](https://www.ist.psu.edu/directory/faculty/vuh14)
+:	Professor and Edward Frymoyer Chair of Information Sciences and Technology
+:	Professor of Bioinformatics and Genomics
+:	Professor of Neuroscience
 :	The Pennsylvania State University
 
 [Kathy Hirsh-Pasek](http://www.cla.temple.edu/psychology/faculty/kathryn-hirsh-pasek/)
@@ -108,6 +133,11 @@ Order: 4100
 : Associate Professor of Psychology
 : University of Virgina 
 
+[Lisa Oakes](http://mindbrain.ucdavis.edu/people/lmoakes)
+:	Professor of Psychology
+:	Professor, Center for Mind and Brain
+:	University of California, Davis
+
 [Roy Pea](https://ed.stanford.edu/faculty/roypea)
 :	David Jacks Professor of Education and Learning Sciences
 :	Director of DIVER
@@ -117,6 +147,10 @@ Order: 4100
 [Jan Plass](http://steinhardt.nyu.edu/faculty_bios/view/Jan_Plass)
 :	Paulette Goddard Professor of Digital Learning and Media Sciences
 :	New York University
+
+[Russell Poldrack](https://profiles.stanford.edu/russell-poldrack)
+:	Professor of Psychology
+:	Stanford University
 
 [Nilam Ram](http://www.hhdev.psu.edu/hdfs/directory/bio.aspx?id=138)
 :	Assistant Professor of Human Development and Psychology
@@ -130,6 +164,10 @@ Order: 4100
 :	Distinguished Professor and Chancellor's Professor of Psychological and Brain Sciences
 :	Indiana University
 
+[Catherine Tamis-LeMonda](http://steinhardt.nyu.edu/faculty/Catherine_Tamis-LeMonda)
+:	Professor of Applied Psychology
+:	New York University
+
 [Douglas Teti](http://www.hhd.psu.edu/hdfs/directory/Bio.aspx?id=DouglasTeti)
 : Professor, Human Development, Psychology, and Pediatrics
 : Pennsylvania State University
@@ -138,9 +176,17 @@ Order: 4100
 :	Associate Professor of Psychology
 :	College of William and Mary
 
+[Anne Warlaumont](http://www.ucmerced.edu/content/anne-s-warlaumont)
+:	Assistant Professor of Cognitive and Information Sciences
+:	University of California, Merced
+
 [Tal Yarkoni](http://talyarkoni.org/)
 : Director of the Psychoinformatics Lab
 : University of Texas at Austin
+
+[Chen Yu](http://psych.indiana.edu/faculty/chenyu.php)
+:	Professor of Psychological and Brain Sciences, Cognitive Science and Informatics 
+:	Indiana University
 
 [Luke Zhang](http://ist.psu.edu/directory/xuz14)
 :	Associate Professor of Information Sciences and Technology
