@@ -7,7 +7,7 @@ These release levels map directly to the options on the [Databrary Release Templ
 
 |Symbol| Release Level | Definition |
 |------|---------------|--------------------------------------------------------|
-|<img src="https://nyu.databrary.org/web/icons/release/unknown.svg">| **Unreleased** | Releases were not obtained or are otherwise unavailable. This is the default, and is effectively equivalent to private.
+| | **Missing** | Releases were not obtained or are otherwise unavailable. This is the default, and is effectively equivalent to private.
 |
 |<img src="https://nyu.databrary.org/web/icons/release/private.svg">| **Private** | Available only to collaborators.
 |
