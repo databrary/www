@@ -10,9 +10,10 @@ You will work with users, librarians, and a small team of developers to design a
 # Responsibilities
 
 - Maintain and update web application based on Haskell, PostgreSQL, AngularJS
-- Support development, manage releases, and learn technologies and applications in order to contribute and enhance
+- Support development, manage releases, and track bug and QA progress
+- Learn technologies and code-base in order to contribute to and enhance application
 - Interface with university IT to coordinate around and maintain infrastructure
-- Ensuring system security and respect ethical concerns around sensitive data
+- Ensure system security and respect ethical concerns around sensitive data
 
 # Qualifications
 
