@@ -14,6 +14,8 @@ Order: 1700
 
 [From big data to deep insight in developmental science](http://wires.wiley.com/WileyCDA/WiresArticle/wisId-WCS1379.html) published in WIRE's Cognitive Science.
 
+[Video as data](http://www.psychologicalscience.org/index.php/publications/observer/2016/march-16/video-as-data.html) published in the Association for Psychological Science.
+
 # Popular press
 
 [Data-sharing video library aids developmental studies](http://news.psu.edu/story/395393/2016/03/01/research/data-sharing-video-library-aids-developmental-studies) in Penn State News. 
