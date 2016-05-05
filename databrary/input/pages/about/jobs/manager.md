@@ -4,7 +4,7 @@ Order: 2006
 
 # Summary
 
-We are searching for a Managing Director, a new position to help bring the project to the next level. The Managing Director will report to the Project Directors and collaborate extensively with the Systems Architect.
+We are searching for a Managing Director, a new position to help bring the project to the next level. The Managing Director will report to the Project Directors.
 
 # Responsibilities
 
