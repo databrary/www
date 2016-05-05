@@ -2,6 +2,8 @@ Title: Advisory Board
 Brief: Board
 Order: 4100
 
+# Advisory Board Members
+
 [David Ackerman](http://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-executivevicepresident/finance-and-budget/information-technology.html)
 :	Executive Director of Digital Library Technology Services
 :	New York University
@@ -14,20 +16,6 @@ Order: 4100
 :	Professor of History
 :	Director of ICPSR
 :	University of Michigan
-
-[Richard Aslin](http://www.bcs.rochester.edu/people/faculty/aslin_richard/index.html)
-:	William R. Kenan Professor of Brain &amp; Cognitive Sciences
-:	Director of Rochester Center for Brain Imaging
-:	University of Rochester
-
-[Roger Bakeman](http://www2.gsu.edu/~wwwpsy/bakeman.html)
-:	Professor of Psychology Emeritus
-:	Georgia State University
-
-[Bennett Bertenthal](http://psych.indiana.edu/faculty/bbertent.php)
-:	James H. Rudy Professor of Psychological and Brain Sciences
-:	Director of SidGRID
-:	Indiana University
 
 [Howard Besser](http://cinema.tisch.nyu.edu/object/BesserH.html)
 :	Professor of Cinema Studies
@@ -47,17 +35,9 @@ Order: 4100
 :	Associate Dean for Research Data Management
 :	Sheridan Libraries of Johns Hopkins University
 
-[Erik De Schutter](https://groups.oist.jp/cnu/erik-de-schutter)
-:	Professor, Okinawa Institute of Science and Technology
-:	President, Organization for Computational Neuroscience
-
 [Michael Frank](http://web.stanford.edu/~mcfrank/)
 :	Associate Professor of Psychology
 :	Stanford University
-
-[James Cole Galloway](http://www.udel.edu/PT/About%20Us/People/galloway.html)
-:	Professor of Physical Therapy, Psychology, Human Development and Family Studies, and Biomechanics and Movement Sciences
-:	University of Delaware
 
 [Clyde Lee Giles](http://ist.psu.edu/directory/clg20)
 :	David Reese Professor at the College of Information Sciences and Technology
@@ -117,14 +97,6 @@ Order: 4100
 :	Professor of Psychology, Pediatrics, and Electrical & Computer Engineering
 :	University of Miami
 
-[Peter Molenaar](http://www.hhdev.psu.edu/hdfs/directory/bio.aspx?id=137)
-:	Distinguished Professor of Human Development and Psychology
-:	The Pennsylvania State University
-
-[P. Karen Murphy](https://www.ed.psu.edu/epcse/edpsych/people/karen-murphy)
-:	Professor of Education
-:	The Pennsylvania State University
-
 [Nora Newcombe](http://www.cla.temple.edu/psychology/faculty/nora-newcombe/)
 :	Professor of Psychology and James H. Glackin Distinguished Faculty Fellow
 :	Temple University
@@ -160,10 +132,6 @@ Order: 4100
 :	John A. Hannah Chair and University Distinguished Professor
 :	Michigan State University
 
-[Linda Smith](http://psych.indiana.edu/faculty/smith4.php)
-:	Distinguished Professor and Chancellor's Professor of Psychological and Brain Sciences
-:	Indiana University
-
 [Catherine Tamis-LeMonda](http://steinhardt.nyu.edu/faculty/Catherine_Tamis-LeMonda)
 :	Professor of Applied Psychology
 :	New York University
@@ -186,6 +154,42 @@ Order: 4100
 
 [Chen Yu](http://psych.indiana.edu/faculty/chenyu.php)
 :	Professor of Psychological and Brain Sciences, Cognitive Science and Informatics 
+:	Indiana University
+
+# Former Advisory Board Members
+
+[Richard Aslin](http://www.bcs.rochester.edu/people/faculty/aslin_richard/index.html)
+:	William R. Kenan Professor of Brain &amp; Cognitive Sciences
+:	Director of Rochester Center for Brain Imaging
+:	University of Rochester
+
+[Roger Bakeman](http://www2.gsu.edu/~wwwpsy/bakeman.html)
+:	Professor of Psychology Emeritus
+:	Georgia State University
+
+[Bennett Bertenthal](http://psych.indiana.edu/faculty/bbertent.php)
+:	James H. Rudy Professor of Psychological and Brain Sciences
+:	Director of SidGRID
+:	Indiana University
+
+[James Cole Galloway](http://www.udel.edu/PT/About%20Us/People/galloway.html)
+:	Professor of Physical Therapy, Psychology, Human Development and Family Studies, and Biomechanics and Movement Sciences
+:	University of Delaware
+
+[Erik De Schutter](https://groups.oist.jp/cnu/erik-de-schutter)
+:	Professor, Okinawa Institute of Science and Technology
+:	President, Organization for Computational Neuroscience
+
+[Peter Molenaar](http://www.hhdev.psu.edu/hdfs/directory/bio.aspx?id=137)
+:	Distinguished Professor of Human Development and Psychology
+:	The Pennsylvania State University
+
+[P. Karen Murphy](https://www.ed.psu.edu/epcse/edpsych/people/karen-murphy)
+:	Professor of Education
+:	The Pennsylvania State University
+
+[Linda Smith](http://psych.indiana.edu/faculty/smith4.php)
+:	Distinguished Professor and Chancellor's Professor of Psychological and Brain Sciences
 :	Indiana University
 
 [Luke Zhang](http://ist.psu.edu/directory/xuz14)
