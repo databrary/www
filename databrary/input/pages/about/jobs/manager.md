@@ -4,8 +4,6 @@ Order: 2006
 
 # Summary
 
-[General Project Description? - Databrary is..., grant funded, software development, etc. etc. Assuming there's boilerplate for this?]
-
 We are searching for a Managing Director, a new position to help bring the project to the next level. The Managing Director will report to the Project Directors.
 
 # Responsibilities
