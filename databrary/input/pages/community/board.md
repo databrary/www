@@ -22,10 +22,6 @@ Order: 4100
 :	Director of Moving Image Archiving &amp; Preservation Program
 :	New York University
 
-[Bill Carlsen](https://www.ed.psu.edu/c-and-i/directory/william-carlsen)
-:	Professor of Education
-:	The Pennsylvania State University
-
 [Mercè Crosas](http://scholar.harvard.edu/mercecrosas/home)
 :	Chief Data Science and Technology Officer
 :	Institute for Quantitative Social Science
@@ -136,10 +132,6 @@ Order: 4100
 :	Professor of Applied Psychology
 :	New York University
 
-[Douglas Teti](http://www.hhd.psu.edu/hdfs/directory/Bio.aspx?id=DouglasTeti)
-: Professor, Human Development, Psychology, and Pediatrics
-: Pennsylvania State University
-
 [Peter Vishton](http://www.wm.edu/as/psychology/faculty/facultydirectory/vishton_p.php)
 :	Associate Professor of Psychology
 :	College of William and Mary
@@ -172,6 +164,10 @@ Order: 4100
 :	Director of SidGRID
 :	Indiana University
 
+[Bill Carlsen](https://www.ed.psu.edu/c-and-i/directory/william-carlsen)
+:	Professor of Education
+:	The Pennsylvania State University
+
 [James Cole Galloway](http://www.udel.edu/PT/About%20Us/People/galloway.html)
 :	Professor of Physical Therapy, Psychology, Human Development and Family Studies, and Biomechanics and Movement Sciences
 :	University of Delaware
@@ -191,6 +187,10 @@ Order: 4100
 [Linda Smith](http://psych.indiana.edu/faculty/smith4.php)
 :	Distinguished Professor and Chancellor's Professor of Psychological and Brain Sciences
 :	Indiana University
+
+[Douglas Teti](http://www.hhd.psu.edu/hdfs/directory/Bio.aspx?id=DouglasTeti)
+: Professor, Human Development, Psychology, and Pediatrics
+: Pennsylvania State University
 
 [Luke Zhang](http://ist.psu.edu/directory/xuz14)
 :	Associate Professor of Information Sciences and Technology
