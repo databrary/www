@@ -9,7 +9,7 @@ Order: 0
 	<div class="col_third info_block">
 		<h3>Prepared for Sharing</h3>
 
-		<p>Datavyu file formats will be immediately compatible with the forthcoming <a href="http://databrary.org" target="_blank">Databrary</a> data library.</p>
+		<p>Datavyu file formats will be immediately compatible with the <a href="http://databrary.org" target="_blank">Databrary</a> data library.</p>
 	</div>
 
 	<div class="col_third info_block">
