@@ -91,7 +91,7 @@ Order: 1100
 	<h3>What about privacy?</h3>
 
 	<div>
-		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information (see <a href='/access/policies/definitions.html#identifiable-data'>Databrary glossary</a>), special care must be taken. The principles of informed consent enable participants to decide for themselves whether or not they will allow their data to be shared with other researchers for other research purposes. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href='/access/policies/release-template.html'>template documents</a> for this purpose.</p>
+		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information, special care must be taken. The principles of informed consent enable participants to decide for themselves whether or not they will allow their data to be shared with other researchers for other research purposes. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href='/access/policies/release-template.html'>template documents</a> for this purpose.</p>
 		<p>In other data formats such as text files and spreadsheets, participants must not be denoted by names or initials. Personally identifying information must be removed before data are contributed. Databrary recommends that authorized investigators adopt <a href='/access/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/access/policies/bill-of-rights.html'>Databrary Bill of Rights</a>.</p>
 
 	</div>
