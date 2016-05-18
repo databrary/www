@@ -4,7 +4,7 @@ Order: 2004
 
 # Summary
 
-The Databrary project seeks a motivated and flexible functional programmer to help create an open source web-based video library from scratch.
+The Databrary project seeks a motivated and flexible functional programmer to help build and maintain an open source web-based video library.
 You will work with users, librarians, and a small team of developers to design and build tools to enable behavioral researchers to collaborate, store, explore, and access video-based research datasets.
 
 # Responsibilities
@@ -17,7 +17,7 @@ You will work with users, librarians, and a small team of developers to design a
 # Qualifications
 
 - Background in CS or other relevant field and functional programming experience in OCaml, Haskell, or Scala
-- Knowledge of modern web, SQL, and NoSQL technologies
+- Knowledge of modern web, SQL, and video technologies
 - Familiarity with standard UNIX development tools such as git
 - Understanding of security and ethical concerns around sensitive data
 
