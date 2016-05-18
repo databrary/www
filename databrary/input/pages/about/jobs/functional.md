@@ -9,10 +9,10 @@ You will work with users, librarians, and a small team of developers to design a
 
 # Responsibilities
 
-- Build dynamic, modular, and responsive web application to organize, present, and manipulate research materials.
-- Design, implement, test, and validate data management and web-based based on Haskell, PostgreSQL, and JavaScript.
-- Directly work with UI experts and researchers (users) to identify and prioritize new features.
-- Learn, understand, and reorganize research data as needed for better integration with the site.
+- Build dynamic, modular, and responsive web application to organize, present, and manipulate research materials
+- Design, implement, test, and validate data management and web-based based on Haskell, PostgreSQL, and JavaScript
+- Directly work with UI experts and researchers (users) to identify and prioritize new features
+- Learn, understand, and reorganize research data as needed for better integration with the site
 
 # Qualifications
 
