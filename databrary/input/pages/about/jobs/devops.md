@@ -6,6 +6,7 @@ Order: 2002
 
 The Databrary project seeks a motivated and flexible DevOps engineer to help maintain and enhance an open source web-based video library.
 You will work with users, librarians, and a small team of developers to design and build tools to enable behavioral researchers to collaborate, store, explore, and access video-based research datasets.
+This is a growth position with ample opportunity to enhance your programming skills and take ownership of a critical service for the research community.
 
 # Responsibilities
 
