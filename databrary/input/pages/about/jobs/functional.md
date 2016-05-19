@@ -10,8 +10,8 @@ You will work with users, librarians, and a small team of developers to design a
 # Responsibilities
 
 - Build dynamic, modular, and responsive web application to organize, present, and manipulate research materials
-- Design, implement, test, and validate data management and web-based based on Haskell, PostgreSQL, and JavaScript
-- Directly work with UI experts and researchers (users) to identify and prioritize new features
+- Design, implement, test, and validate data management and web-based tools built with Haskell, PostgreSQL, and JavaScript
+- Directly work with UI experts and researchers (our users) to identify and prioritize new features
 - Learn, understand, and reorganize research data as needed for better integration with the site
 
 # Qualifications
@@ -25,7 +25,7 @@ You will work with users, librarians, and a small team of developers to design a
 
 - History of contributions to open source projects
 - Familiarity with Play, Snap, Ocsigen or other web framework
-- Understanding of JavaScript and HTML5 (audio/video API)
+- Understanding of JavaScript and HTML5 (audio/video elements)
 - Experience creating RESTful interfaces for structured data
 - Basic knowledge of scientific practices and research tools, such as Matlab, SPSS, or R
 
