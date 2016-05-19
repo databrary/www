@@ -38,4 +38,16 @@ We are searching for a Managing Director, a new position to help bring the proje
 
 Please send a cover letter and resume (as PDFs) to jobs@databrary.org. Any questions may also be directed to this address. Candidates will be evaluated on a rolling basis, as applications are received.
 
+New York University is an Equal Opportunity Employer. New York University
+is committed to a policy of equal treatment and opportunity in every aspect
+of its hiring and promotion process without regard to race, color, creed,
+religion, sex, pregnancy or childbirth (or related medical condition),
+sexual orientation, partnership status, gender and/or gender identity or
+expression, marital or parental status, national origin, ethnicity,
+alienage or citizenship status, veteran or military status, age,
+disability, predisposing genetic characteristics, domestic violence victim
+status, unemployment status, or any other legally protected basis. Women,
+racial and ethnic minorities, persons of minority sexual orientation or
+gender identity, individuals with disabilities, and veterans are encouraged
+to apply for vacant positions at all levels.
 

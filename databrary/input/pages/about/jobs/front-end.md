@@ -36,3 +36,16 @@ You will collaborate closely with a small team of developers and developmental s
 - Resume (PDF)
 - Links to your open source contributions or other samples of your work
 
+New York University is an Equal Opportunity Employer. New York University
+is committed to a policy of equal treatment and opportunity in every aspect
+of its hiring and promotion process without regard to race, color, creed,
+religion, sex, pregnancy or childbirth (or related medical condition),
+sexual orientation, partnership status, gender and/or gender identity or
+expression, marital or parental status, national origin, ethnicity,
+alienage or citizenship status, veteran or military status, age,
+disability, predisposing genetic characteristics, domestic violence victim
+status, unemployment status, or any other legally protected basis. Women,
+racial and ethnic minorities, persons of minority sexual orientation or
+gender identity, individuals with disabilities, and veterans are encouraged
+to apply for vacant positions at all levels.
+
