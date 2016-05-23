@@ -112,7 +112,7 @@ Gladys Chan
 : UI/UX Designer
 
 Vicky Foo
-: Community Support Specialist
+: Community Support and Quality Assurance Manager
 : 212-998-5417
 
 Drew Gordon

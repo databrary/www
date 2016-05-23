@@ -80,11 +80,6 @@ Order: 4100
 :	Director of TalkBank and CHILDES
 :	Carnegie Mellon University
 
-[Carolyn Maher](http://gse.rutgers.edu/carolyn_maher)
-:	Professor of Education
-:	Director of Robert B. Davis Institute for Learning
-:	Rutgers University
-
 [Carol Mandel](http://library.nyu.edu/about/dean.html)
 :	Dean of the Division of Libraries
 :	New York University
@@ -175,6 +170,11 @@ Order: 4100
 [Erik De Schutter](https://groups.oist.jp/cnu/erik-de-schutter)
 :	Professor, Okinawa Institute of Science and Technology
 :	President, Organization for Computational Neuroscience
+
+[Carolyn Maher](http://gse.rutgers.edu/carolyn_maher)
+:	Professor of Education
+:	Director of Robert B. Davis Institute for Learning
+:	Rutgers University
 
 [Peter Molenaar](http://www.hhdev.psu.edu/hdfs/directory/bio.aspx?id=137)
 :	Distinguished Professor of Human Development and Psychology
