@@ -119,6 +119,13 @@ Order: 4100
 :	Assistant Professor of Human Development and Psychology
 :	The Pennsylvania State University
 
+[James M. Rehg](http://rehg.org/bio/)
+:	Professor of Interactive Computing 
+:	Director of the Center for Behavioral Imaging
+:	Co-Director of the Center for Computational Health
+:	Co-Director of the Computational Perception Lab. 
+:	Georgia Institute of Technology
+
 [Barbara Schneider](http://education.msu.edu/search/Formview.aspx?email=bschneid%40msu.edu)
 :	John A. Hannah Chair and University Distinguished Professor
 :	Michigan State University
