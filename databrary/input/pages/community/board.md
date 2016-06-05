@@ -4,11 +4,11 @@ Order: 4100
 
 # Advisory Board Members
 
-[David Ackerman](http://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-executivevicepresident/finance-and-budget/information-technology.html)
-:	Executive Director of Digital Library Technology Services
+[David Ackerman](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-executivevicepresident/information-technology.html)
+: Chief Digital Officer &amp; Associate Vice President .edu Services
 :	New York University
 
-[Martha Alibali](http://experts.news.wisc.edu/experts/471)
+[Martha Alibali](https://psych.wisc.edu/faculty-alibali.htm)
 :	Professor of Psychology and Educational Psychology
 :	University of Wisconsin at Madison
 
@@ -17,7 +17,7 @@ Order: 4100
 :	Director of ICPSR
 :	University of Michigan
 
-[Howard Besser](http://cinema.tisch.nyu.edu/object/BesserH.html)
+[Howard Besser](http://tisch.nyu.edu/about/directory/cinema-studies/99017286)
 :	Professor of Cinema Studies
 :	Director of Moving Image Archiving &amp; Preservation Program
 :	New York University
@@ -25,18 +25,20 @@ Order: 4100
 [Mercè Crosas](http://scholar.harvard.edu/mercecrosas/home)
 :	Chief Data Science and Technology Officer
 :	Institute for Quantitative Social Science
+: Director of Dataverse
 :	Harvard University
 
 [Sayeed Choudhury](http://www.educause.edu/members/sayeed-choudhury)
 :	Associate Dean for Research Data Management
-:	Sheridan Libraries of Johns Hopkins University
+: Johns Hopkins University
 
 [Michael Frank](http://web.stanford.edu/~mcfrank/)
 :	Associate Professor of Psychology
+: Director of WordBank and the ManyBabies Project
 :	Stanford University
 
-[Clyde Lee Giles](http://ist.psu.edu/directory/clg20)
-:	David Reese Professor at the College of Information Sciences and Technology
+[C. Lee Giles](http://ist.psu.edu/directory/clg20)
+:	David Reese Professor of Information Sciences and Technology
 :	Director of the Intelligent Systems Research Laboratory
 :	The Pennsylvania State University
 
@@ -45,6 +47,11 @@ Order: 4100
 :	New York University
 :	Director, Simons Center for Data Analysis
 :	Simons Foundation
+
+[Todd Gureckis](http://psych.nyu.edu/gureckis/)
+: Associate Professor of Psychology
+: Director of psiTurk
+: New York University
 
 [Vasant Hanovar](https://www.ist.psu.edu/directory/faculty/vuh14)
 :	Professor and Edward Frymoyer Chair of Information Sciences and Technology
@@ -58,7 +65,7 @@ Order: 4100
 
 [Paul Horn](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/research-engineering-technology/bios/paul-horn.html)
 :	Senior Vice Provost for Research
-:	Distinguished Scientist in Residence
+:	Senior Vice Dean for Strategic Initiatives and Entrepreneurship, Tandon School of Engineering
 :	New York University
 
 [Carl Kesselman](http://www.isi.edu/about/bio/carl_kesselman)
@@ -68,7 +75,9 @@ Order: 4100
 :	University of Southern California
 
 [Yann LeCun](http://yann.lecun.com/)
+: Director of AI Research, Facebook
 :	Silver Professor of the Courant Institute of Mathematical and Computer Sciences
+: Founding Director of the NYU Center for Data Science
 :	New York University
 
 [Felice Levine](http://www.aera.net/AboutAERA/WhoWeAre/ExecutiveDirectorofAERA/tabid/11378/Default.aspx)
@@ -84,17 +93,18 @@ Order: 4100
 :	Dean of the Division of Libraries
 :	New York University
 
-[Dan Messinger](http://www.psy.miami.edu/faculty/dmessinger/)
+[Daniel Messinger](http://www.psy.miami.edu/faculty/dmessinger/)
 :	Professor of Psychology, Pediatrics, and Electrical & Computer Engineering
 :	University of Miami
 
 [Nora Newcombe](http://www.cla.temple.edu/psychology/faculty/nora-newcombe/)
-:	Professor of Psychology and James H. Glackin Distinguished Faculty Fellow
+:	Laura H. Carnell Professor of Psychology &amp; James H. Glackin Distinguished Faculty Fellow
 :	Temple University
 
-[Brian Nosek](https://avillage.web.virginia.edu/Psych/Faculty/Profile/Brian-A-Nosek)
-: Associate Professor of Psychology
-: University of Virgina 
+[Brian Nosek](https://cacsprd.web.virginia.edu/Psych/Faculty/Profile/Brian-A-Nosek)
+: Professor of Psychology
+: Executive Director, Center for Open Science
+: University of Virginia
 
 [Lisa Oakes](http://mindbrain.ucdavis.edu/people/lmoakes)
 :	Professor of Psychology
@@ -108,22 +118,23 @@ Order: 4100
 :	Stanford University
 
 [Jan Plass](http://steinhardt.nyu.edu/faculty_bios/view/Jan_Plass)
-:	Paulette Goddard Professor of Digital Learning and Media Sciences
+:	Paulette Goddard Chair of Digital Learning and Media Sciences &amp; Professor
 :	New York University
 
 [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack)
 :	Professor of Psychology
+: Director of the Center for Reproducible Neuroscience
 :	Stanford University
 
 [Nilam Ram](http://www.hhdev.psu.edu/hdfs/directory/bio.aspx?id=138)
-:	Assistant Professor of Human Development and Psychology
+:	Associate Professor of Human Development and Psychology
 :	The Pennsylvania State University
 
 [James M. Rehg](http://rehg.org/bio/)
-:	Professor of Interactive Computing 
+:	Professor of Interactive Computing
 :	Director of the Center for Behavioral Imaging
 :	Co-Director of the Center for Computational Health
-:	Co-Director of the Computational Perception Lab. 
+:	Co-Director of the Computational Perception Lab
 :	Georgia Institute of Technology
 
 [Barbara Schneider](http://education.msu.edu/search/Formview.aspx?email=bschneid%40msu.edu)
@@ -141,13 +152,16 @@ Order: 4100
 [Anne Warlaumont](http://www.ucmerced.edu/content/anne-s-warlaumont)
 :	Assistant Professor of Cognitive and Information Sciences
 :	University of California, Merced
+: Co-PI of HomeBank
 
 [Tal Yarkoni](http://talyarkoni.org/)
+: Assistant Research Professor of Psychology
 : Director of the Psychoinformatics Lab
+: Creator of Neurosynth.org
 : University of Texas at Austin
 
 [Chen Yu](http://psych.indiana.edu/faculty/chenyu.php)
-:	Professor of Psychological and Brain Sciences, Cognitive Science and Informatics 
+:	Professor of Psychological and Brain Sciences, Cognitive Science and Informatics
 :	Indiana University
 
 # Former Advisory Board Members
@@ -166,7 +180,7 @@ Order: 4100
 :	Director of SidGRID
 :	Indiana University
 
-[Bill Carlsen](https://www.ed.psu.edu/c-and-i/directory/william-carlsen)
+[William Carlsen](https://www.ed.psu.edu/c-and-i/directory/william-carlsen)
 :	Professor of Education
 :	The Pennsylvania State University
 
