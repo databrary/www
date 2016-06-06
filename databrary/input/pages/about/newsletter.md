@@ -1,7 +1,6 @@
 Title: Join our Mailing List
 Brief: Newsletter
-Order: 1400
-Status: hidden
+Order: 1800
 
 <form action="//databrary.us2.list-manage.com/subscribe/post?u=4b4fa9408b40cd79e92f748e5&amp;id=5e3dc09e43" method="post" target="_blank" novalidate>
 
@@ -52,3 +51,9 @@ Status: hidden
 </div>
 
 </form>
+
+# Newsletter Archives
+## February 2016 (Inaugural Issue)
+[Newsletter for Registered Users](http://eepurl.com/bPAnz1 "Newsletter for Registered Users")
+
+[Newsletter for Databrary Authorized Investigators](http://eepurl.com/bPAnvn "Databrary Authorized Investigators")
