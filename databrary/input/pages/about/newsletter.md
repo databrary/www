@@ -59,6 +59,6 @@ Order: 1800
 
 # Newsletter Archives
 ## February 2016 (Inaugural Issue)
-[Newsletter for Registered Users](http://eepurl.com/bPAnz1 "Newsletter for Registered Users")
+* [1a. Spring Newsletter (Version for Registered Users)](http://eepurl.com/bPAnz1 "Spring Newsletter (Version for Registered Users)")
 
-[Newsletter for Databrary Authorized Investigators](http://eepurl.com/bPAnvn "Databrary Authorized Investigators")
+* [1b. Spring Newsletter (Version for Authorized Investigators)](http://eepurl.com/bPAnvn "Spring Newsletter (Version for Authorized Investigators)")
