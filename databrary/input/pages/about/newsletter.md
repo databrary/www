@@ -1,8 +1,9 @@
-Title: Join our Mailing List
+Title: Newsletter
 Brief: Newsletter
-Order: 1400
-Status: hidden
+Order: 1800
 
+# Join our Mailing List
+<br>
 <form action="//databrary.us2.list-manage.com/subscribe/post?u=4b4fa9408b40cd79e92f748e5&amp;id=5e3dc09e43" method="post" target="_blank" novalidate>
 
 <div class="field">
@@ -52,3 +53,12 @@ Status: hidden
 </div>
 
 </form>
+<br>
+
+
+
+# Newsletter Archives
+## February 2016 (Inaugural Issue)
+* [1a. Spring Newsletter (Version for Registered Users)](http://eepurl.com/bPAnz1 "Spring Newsletter (Version for Registered Users)")
+
+* [1b. Spring Newsletter (Version for Authorized Investigators)](http://eepurl.com/bPAnvn "Spring Newsletter (Version for Authorized Investigators)")
