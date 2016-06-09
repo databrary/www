@@ -18,11 +18,13 @@ Order: 1700
 
 # Popular press
 
-[Data-sharing video library aids developmental studies](http://news.psu.edu/story/395393/2016/03/01/research/data-sharing-video-library-aids-developmental-studies) in Penn State News. 
+Watch Karen Adolph's address ["Good Behavior: Sharing and Reusing Research Video"](https://videocast.nih.gov/Summary.asp?File=19363&bhcp=1) to the Behavioral and Social Science Lecture Series hosted by the National Institutes of Health.
 
 [Databrary promotes sharing, reuse of video for researchers](https://nihrecord.nih.gov/newsletters/2016/01_29_2016/story2.htm) in the NIH Record.
 
 [The benefits of sharing and reusing research video](https://connector.obssr.od.nih.gov/the-benefits-of-sharing-and-reusing-research-video/) in the OBSSR Connector by NIH.
+
+[Data-sharing video library aids developmental studies](http://news.psu.edu/story/395393/2016/03/01/research/data-sharing-video-library-aids-developmental-studies) in Penn State News. 
 
 [Video data-sharing library opens up big data for behavioral research](http://gcn.com/articles/2013/07/22/databrary-video-sharing-library.aspx) in GCN.
 
