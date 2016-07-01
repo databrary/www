@@ -125,12 +125,6 @@ Carmen Jimenez-Robbins
 Jesse Lingeman
 : Application Developer
 
-Dylan Simon
-: Systems Architect 
-: 212-992-6101
-
 Lisa Steiger
 : Community Liaison and Project Manager
 : 212-998-5536
-
-
