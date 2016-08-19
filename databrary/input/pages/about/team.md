@@ -108,6 +108,10 @@ Order: 1300
 
 All staff can be reached at *'first name'*@databrary.org
 
+Ahmad Arshad
+: Managing Director
+: 212-998-5536
+
 Gladys Chan
 : UI/UX Designer
 
@@ -127,4 +131,3 @@ Jesse Lingeman
 
 Lisa Steiger
 : Community Liaison and Project Manager
-: 212-998-5536
