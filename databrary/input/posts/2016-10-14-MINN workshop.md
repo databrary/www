@@ -1,3 +1,7 @@
+Title: Databrary workshop at University of Minnesota
+Category: event
+Event: October 14, 2016
+
 ## Coding, Sharing, and Reusing Video Data with Databrary
 
 Databrary is holding a *free* workshop sponsored that will provide researchers with training on easy, efficient, ethically responsible ways of reusing, managing, and sharing video data to meet the federal funding mandates. Researchers at all levels of experience—faculty, postdocs, graduate students, and research staff—will learn valuable skills that can increase the likelihood of federal funding.
