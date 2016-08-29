@@ -1,6 +1,5 @@
 Title: Databrary workshop at UC San Diego
-Category: event
-Event: November 11, 2016
+Category: Workshops and Conferences
 
 ## Coding, Sharing, and Reusing Video Data with Databrary
 
