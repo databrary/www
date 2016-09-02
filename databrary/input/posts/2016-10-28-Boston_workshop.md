@@ -1,4 +1,4 @@
-Title: Databrary workshop at Harvard University
+Title: Databrary workshop in Boston
 Category: Workshops and Conferences
 
 ## Coding, Sharing, and Reusing Video Data with Databrary
