@@ -10,7 +10,7 @@ The workshop will cover best practices for coding behavior from video, ethical a
 Registration is free. Refreshments are included. 
 
 ###Date
-December 12, 2016
+December 2, 2016
 
 ###Time
 TBD
