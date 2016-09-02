@@ -1,4 +1,5 @@
 Title: XX ICIS 2016 New Orleans Invited Program
+Category: Workshops
 
 The entire invited program from the XX International Congress on Infant Studies of 2016 in New Orleans is now publicly available on Databrary.
 
