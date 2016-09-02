@@ -15,4 +15,4 @@ Friday, December 2, 2016
 
 Time: TBD
 
-Location: TBD
+Location: Newark, DE
