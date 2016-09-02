@@ -16,6 +16,6 @@ October 28, 2016
 TBD
 
 ###Location
-TBD
+Boston, MA
 
 Detailed information and registration for the workshop can be found [here](https://goo.gl/forms/ox0F20G4H0T9agvW2).
