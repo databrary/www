@@ -7,7 +7,7 @@ Databrary is holding a *free* workshop that will provide researchers with traini
 
 The workshop will cover best practices for coding behavior from video, ethical and responsible ways to enable sharing of research videos with other researchers, and the opportunities presented by repurposing shared video data to ask new questions and accelerate the pace of discovery in developmental science. 
 
-Registration is free. Lunch and refreshments are included. 
+Registration is free. Refreshments are included. 
 
 ###Date
 October 28, 2016
