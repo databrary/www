@@ -4,7 +4,7 @@ Event: October 28, 2016
 
 ## Coding, Sharing, and Reusing Video Data with Databrary
 
-Databrary is holding a free workshops on video data coding, management, sharing, and reuse for researchers at Harvard, Boston University,and Northeastern Universities.
+Databrary is holding a free workshops on video data coding, management, sharing, and reuse for researchers at Harvard, BU,and Northeastern.
 
 Lunch and refreshments will be provided. 
 
