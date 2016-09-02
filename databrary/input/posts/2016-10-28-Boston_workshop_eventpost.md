@@ -6,7 +6,7 @@ Event: October 28, 2016
 
 Databrary is holding a free workshops on video data coding, management, sharing, and reuse for researchers at Harvard, BU,and Northeastern.
 
-Lunch and refreshments will be provided. 
+Refreshments will be provided. 
 
 The workshop is free, but registration is required as space is limited. 
 More information and registration for this workshop can be found [here](https://goo.gl/forms/ox0F20G4H0T9agvW2).
