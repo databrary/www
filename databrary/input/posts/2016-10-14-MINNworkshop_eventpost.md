@@ -4,7 +4,7 @@ Event: October 14, 2016
 
 ## Coding, Sharing, and Reusing Video Data with Databrary
 
-Databrary is holding a free workshop on video data coding, management, sharing, and reuse for researchers at U of M. 
+Databrary is holding a free workshop on video data coding, management, sharing, and reuse for researchers at University of Minnesota. 
 Lunch and refreshments will be provided. 
 
 The workshop is free, but registration is required as space is limited. 
