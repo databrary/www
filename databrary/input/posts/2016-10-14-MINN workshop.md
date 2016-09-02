@@ -19,4 +19,4 @@ October 14, 2016
 McNamara Alumni Center - Ski-U-Mah Room
 200 Oak St. SE
 
-Detailed information and registration for the workshop can be found [here](http://goo.gl/forms/rhLBVAU5M6).
+Detailed information and registration for the workshop can be found [here](https://goo.gl/forms/81NxkXWAo6NXSsgz2).
