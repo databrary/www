@@ -16,4 +16,4 @@ Friday, October 28, 2016
 
 Time: TBD
 
-Location: TBD
+Location: Boston, MA
