@@ -1,10 +1,11 @@
-Title: Databrary workshop at Harvard University
+Title: Databrary workshop in Boston
 Category: event
 Event: October 28, 2016
 
 ## Coding, Sharing, and Reusing Video Data with Databrary
 
-Databrary is holding a free workshop on video data coding, management, sharing, and reuse for researchers at Harvard. 
+Databrary is holding a free workshops on video data coding, management, sharing, and reuse for researchers at Harvard, Boston University,and Northeastern Universities.
+
 Lunch and refreshments will be provided. 
 
 The workshop is free, but registration is required as space is limited. 
