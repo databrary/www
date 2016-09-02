@@ -16,6 +16,6 @@ December 2, 2016
 TBD
 
 ###Location
-TBD
+Newark, DE
 
 Detailed information and registration for the workshop can be found [here](https://goo.gl/forms/lLRjQbLPzq6bFkNL2).
