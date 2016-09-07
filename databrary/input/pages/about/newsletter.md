@@ -62,3 +62,6 @@ Order: 1800
 * [1a. Spring Newsletter (Version for Registered Users)](http://eepurl.com/bPAnz1 "Spring Newsletter (Version for Registered Users)")
 
 * [1b. Spring Newsletter (Version for Authorized Investigators)](http://eepurl.com/bPAnvn "Spring Newsletter (Version for Authorized Investigators)")
+
+## September 2016
+* [Fall Newsletter (For all users)] (http://eepurl.com/cd645P "Fall Newsletter (For all users)")
