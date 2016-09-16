@@ -119,9 +119,6 @@ Vicky Foo
 : Community Support and Quality Assurance Manager
 : 212-998-5417
 
-Drew Gordon
-: Information Engineer
-
 Carmen Jimenez-Robbins
 : Communications Manager
 : 212-998-5800
