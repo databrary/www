@@ -12,11 +12,10 @@ We are growing a team to design and build new open source solutions for science 
 If want to help build a uniquely powerful set of [open-source](https://github.com/databrary) research tools with a tight-knit team in a diverse and intellectually stimulating environment, contact us!
 
 # Current openings:
-## [Java developer](|filename|jobs/datavyu.md)
-## [DevOps programmer](|filename|jobs/devops.md)
-## [Front-end web developer](|filename|jobs/front-end.md)
-## [Open source functional programmer](|filename|jobs/functional.md)
-## [Managing director](|filename|jobs/manager.md)
+## [Datavyu Java Developer](|filename|jobs/datavyu.md)
+## [Development/Operations Programmer](|filename|jobs/devops.md)
+## [Front-end Web Developer](|filename|jobs/front-end.md)
+## [Open Source Functional Programmer](|filename|jobs/functional.md)
 
 # To apply
 ### Send the following to jobs@databrary.org:

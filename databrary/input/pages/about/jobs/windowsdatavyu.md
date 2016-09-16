@@ -1,6 +1,7 @@
 Title: Datavyu Windows Developer
 Brief: Datavyu-Windows
 Order: 2001
+Status: Hidden
 
 # Summary
 
