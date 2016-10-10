@@ -1,6 +1,7 @@
 Title: Datavyu Java Developer
 Brief: Datavyu
 Order: 2000
+Status: hidden
 
 # Summary
 

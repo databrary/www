@@ -1,6 +1,7 @@
 Title: Open Source Functional Programmer
 Brief: Jobs
 Order: 2004
+Status: hidden
 
 # Summary
 

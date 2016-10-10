@@ -1,40 +1,57 @@
-Title: Front-End Web Developer
+Title: Front End Developer
 Brief: Front-End
 Order: 2003
 
-# Summary
+# Position Summary
 
-Databrary seeks a flexible and motivated JavaScript programmer to take ownership of our unique, web-based, video data library.
-You will collaborate closely with a small team of developers and developmental scientists to design and implement tools enabling researchers to collaborate, store, explore, and access research datasets.
+The Databrary project is looking for a smart and motivated front end developer to join its technical team. The developer will combine the art of design with the art of programming and act as the primary owner of user interaction and experience for our service. Working closely with the managing director, the PIs, the backend programmer and the service team, the developer will design, develop and modify tools, including web applications and interfaces as well as mobile apps to enable behavioral researchers to collaborate, store, discover, explore and access video-based research datasets. (S)he will maintain the existing code base and build new features, enhancements and integrations in modern web frameworks.
 
-# Responsibilities
+Databrary  (databrary.org) is the leading open source video data-sharing system for developmental science. Datavyu (datavyu.org) is a free, open source, multi-platform video coding tool. This position provides a unique opportunity to play a central role in advancing open science through data sharing and reuse.
 
-- Implement dynamic, modular, and responsive web interfaces to organize, present, and manipulate research materials
-- Design, test, and validate JavaScript across browsers and platforms
-- Integrate feedback from UI experts and researchers (users) to identify and prioritize new features
-- Learn, understand, and reorganize research data as needed for better integration with the site
+The ideal candidate has a great design sense, is a self starter who is not afraid of learning new technologies, thinks out of the box, takes initiative, has excellent attention to detail and can work to take tasks to fruition both collaboratively in a team and independently. The developer will adapt to the evolving and growing needs of the project.
 
-# Qualifications
+# Essential Responsibilities/Functions
 
-- Extensive experience with JavaScript (CoffeeScript), HTML5 (audio/video API), and CSS3 (Stylus)
-- Practice with AngularJS or other modern client-side MVC framework
-- Familiarity with git and standard UNIX development tools
-- Understanding of security and ethical concerns around sensitive data
+## Research and evaluation
+The developer will analyze and understand current application architecture and front end code base (written in AngularJS, CoffeeScript), document it thoroughly and make recommendations to the managing director on a future strategic direction.
 
-# Preferred
+## Design and development
+The developer will maintain the existing website and application front end code base as well as troubleshoot bugs to improve application usability. (S)he will take lead of the redesign and upgrade effort of current front end, define user experiences, build mockups, and rapidly prototype, test and QA end-to-end solutions. (S)he will develop and release dynamic, modular and responsive experiences by implementing clean, reusable, well-designed and well-tested code to add new enhancements, features and integrations to the current platform.
 
-- History of contributions to open source projects
-- Comfortable with discussing and addressing UX/UI design issues 
-- Sensitive to performance considerations building big data interfaces
-- Familiarity with scientific practices and research tools, such as Matlab, SPSS, or R
-- Background in CS or other relevant field
+## Feedback and innovation
+The applicant will work closely with UI experts and researchers (end users) in the field to understand usability issues. (S)he will be responsive to their feedback and become a force of innovation in designing new features to facilitate activities undertaken in relation to the collection, processing, description, transformation, retention and reuse of research data. (S)he will design, develop, implement, test and validate existing and new data management and web-based tools to facilitate research.
 
-# To apply
-## Send the following to jobs@databrary.org:
+# Preferred Skills, Knowledge and Abilities
 
+- Hands-on experience with modern web frameworks and video technologies.
+- Knowledge of JavaScript, Angular2, ReactJS or other front end technologies.
+- Understanding of best practices in SDLC (software development life cycle).
+- Skillful in HTML, CSS and UI and UX design principles.
+- Good understanding of security and cross-browser design issues.
+- Understanding of TDD (Test-driven development) and design patterns.
+- Experience with version control, unix scripting, automation and DevOps practices.
+- Familiarity using CRM, project management or task management systems.
+- Passion for open source projects and building high quality experiences.
+- Strong written and oral communication skills.
+- Superior listening and analytical skills and a knack for tackling tough problems.
+- Ability to multitask and juggle multiple priorities and projects.
+- Adaptability and openness to learn and change.
+
+# Required Experience
+
+- Track record of developing responsive websites in modern client side web frameworks.
+- Exceptional understanding of design principles, web technologies, REST API and MVC design patterns.
+- Extensive experience with JavaScript and JS frameworks (CoffeeScript, Angular2, ReactJS), HTML5 (audio/video API), and CSS3 (Stylus).
+- Basic knowledge of scientific practices and research tools.
+
+# Preferred Education
+- BS, or MS in a related field, or an equivalent combination of formal education and directly related experience.
+
+# To apply, send the following to jobs@databrary.org:
 - One page cover letter (PDF)
 - Resume (PDF)
-- Links to your open source contributions or other samples of your work
+
+We will review applications beginning immediately and consider candidates until the position is filled.
 
 New York University is an Equal Opportunity Employer. New York University
 is committed to a policy of equal treatment and opportunity in every aspect
