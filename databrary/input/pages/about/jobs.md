@@ -9,13 +9,13 @@ The overall goal is to accelerate the pace of discovery, improve scientific tran
 
 We are growing a team to design and build new open source solutions for science using the latest technologies.
 
-If want to help build a uniquely powerful set of [open-source](https://github.com/databrary) research tools with a tight-knit team in a diverse and intellectually stimulating environment, contact us!
+If you want to help build a uniquely powerful set of [open-source](https://github.com/databrary) research tools with a tight-knit team in a diverse and intellectually stimulating environment, contact us!
 
 # Current openings:
-## [Development/Operations Programmer](|filename|jobs/devops.md)
+## [Scientific Support Specialist](|filename|jobs/support-specialist.md)
 ## [Back End Developer](|filename|jobs/back-end.md)
 ## [Front End Developer](|filename|jobs/front-end.md)
-## [Scientific Support Specialist](|filename|jobs/support-specialist.md)
+## [Development/Operations Programmer](|filename|jobs/devops.md)
 
 # To apply
 ### Send the following to jobs@databrary.org:
