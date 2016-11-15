@@ -115,16 +115,11 @@ Ahmad Arshad
 Gladys Chan
 : UI/UX Designer
 
-Vicky Foo
-: Community Support and Quality Assurance Manager
-: 212-998-5417
-
-Carmen Jimenez-Robbins
-: Communications Manager
-: 212-998-5800
+Brenda Lau
+: Administrative Aide
 
 Jesse Lingeman
 : Application Developer
 
-Lisa Steiger
-: Community Liaison and Project Manager
+Andrea Seisler
+: Authorizations Specialist
