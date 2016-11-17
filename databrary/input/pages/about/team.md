@@ -115,6 +115,9 @@ Ahmad Arshad
 Gladys Chan
 : UI/UX Designer
 
+Shohan Hasan
+: Datavyu Support Specialist
+
 Brenda Lau
 : Administrative Aide
 
@@ -123,3 +126,6 @@ Jesse Lingeman
 
 Andrea Seisler
 : Authorizations Specialist
+
+Kasey Soska
+: Research Support Specialist
