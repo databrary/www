@@ -80,6 +80,12 @@ Order: 4100
 : Founding Director of the NYU Center for Data Science
 :	New York University
 
+[Margaret C. Levenstein](http://www-personal.umich.edu/~maggiel/)
+: Director, Inter-university Consortium for Political and Social Research
+: Research Professor, Institute for Social Research and School of Information
+: Adjunct Professor of Business Economics and Public Policy, Ross School of Business
+: University of Michigan
+
 [Felice Levine](http://www.aera.net/AboutAERA/WhoWeAre/ExecutiveDirectorofAERA/tabid/11378/Default.aspx)
 :	Executive Director
 :	American Educational Research Association
