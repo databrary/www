@@ -1,5 +1,5 @@
 Title: Databrary workshop at University of Iowa
-Category: Workshops and Conferences
+Category: event
 
 ## Coding, Sharing, and Reusing Video Data with Databrary and Datavyu
 
