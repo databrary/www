@@ -1,4 +1,4 @@
-Title: Databrary Pre-Conference at ICIS 2016
+Title: Databrary Pre-Conference at SRCD 2017
 Category: Workshops and Conferences
 
 ## Coding, Sharing, and Reusing Video Data with Databrary
@@ -9,7 +9,7 @@ This free workshop will teach researchers—from principal investigators to unde
 
 With the right tools, video coding can be easy, efficient, and enlightening. Attendees will learn about Datavyu, a free video-coding tool, to mine the richness of their videos. Video is unique from other forms of data in the opportunities it provides for reuse. We will provide examples of how videos can be repurposed to address new questions beyond the scope of the original study.
 
-We have developed a policy framework that enables sharing of video data and addresses concerns about participants’ privacy. Attendees will learn how to amend their IRB protocols and best practices for obtaining participants’ permission to share their video data. Attendees will learn how to use Databrary to manage ongoing studies and to monitor progress in data collection and coding. Databrary also functions as a lab server and a secure backup for data that can be kept private to only collaborators and lab members until it’s ready to be shared. When ready, the contributor can share the study with just the click of a button! Throughout the workshop, attendees will get hands-on experience using Databrary''s functionality and exploring shared data.
+We have developed a policy framework that enables sharing of video data and addresses concerns about participants’ privacy. Attendees will learn how to amend their IRB protocols and best practices for obtaining participants’ permission to share their video data. Attendees will learn how to use Databrary to manage ongoing studies and to monitor progress in data collection and coding. Databrary also functions as a lab server and a secure backup for data that can be kept private to only collaborators and lab members until it’s ready to be shared. When ready, the contributor can share the study with just the click of a button! Throughout the workshop, attendees will get hands-on experience using Databrary’s functionality and exploring shared data.
 
 Lunch will be provided. 
 The workshop is free, but registration is required as space is limited. 
