@@ -12,6 +12,7 @@ Databrary is holding a free workshop that will give researchers—from faculty t
 - Concrete examples of the benefits of open science and video reuse
 
 Registration is free. Refreshments are included.
+Detailed information and registration for the workshop can be found [here](https://goo.gl/forms/uvO4GED04H7BjENZ2).
 
 ###Date
 February 3, 2017
@@ -21,5 +22,3 @@ February 3, 2017
 
 ###Location
 Pappajohn Business Building, Rm. S401
-
-Detailed information and registration for the workshop can be found [here](https://goo.gl/forms/uvO4GED04H7BjENZ2).
