@@ -64,4 +64,4 @@ Order: 1800
 * [1b. Spring Newsletter (Version for Authorized Investigators)](http://eepurl.com/bPAnvn "Spring Newsletter (Version for Authorized Investigators)")
 
 ## September 2016
-* [Fall Newsletter (For all users)] (http://eepurl.com/cd645P "Fall Newsletter (For all users)")
+* [Fall Newsletter (For all users)](http://eepurl.com/cd645P "Fall Newsletter (For all users)")
