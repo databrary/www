@@ -118,8 +118,8 @@ Gladys Chan
 Shohan Hasan
 : Datavyu Support Specialist
 
-Brenda Lau
-: Administrative Aide
+Carli Heiman
+: Events Coordinator
 
 Jesse Lingeman
 : Application Developer
