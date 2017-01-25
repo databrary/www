@@ -12,11 +12,6 @@ Order: 4100
 :	Professor of Psychology and Educational Psychology
 :	University of Wisconsin at Madison
 
-[George Alter](http://www.psc.isr.umich.edu/people/profile/107/George_C_Alter)
-:	Professor of History
-:	Director of ICPSR
-:	University of Michigan
-
 [Howard Besser](http://tisch.nyu.edu/about/directory/cinema-studies/99017286)
 :	Professor of Cinema Studies
 :	Director of Moving Image Archiving &amp; Preservation Program
@@ -171,6 +166,11 @@ Order: 4100
 :	Indiana University
 
 # Former Advisory Board Members
+
+[George Alter](http://www.psc.isr.umich.edu/people/profile/107/George_C_Alter)
+:	Professor of History
+:	Director of ICPSR
+:	University of Michigan
 
 [Richard Aslin](http://www.bcs.rochester.edu/people/faculty/aslin_richard/index.html)
 :	William R. Kenan Professor of Brain &amp; Cognitive Sciences
