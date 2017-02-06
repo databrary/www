@@ -11,7 +11,7 @@ These release levels map directly to the options on the [Databrary Release Templ
 |
 |<img src="https://nyu.databrary.org/web/icons/release/private.svg">| **Private** | Available only to collaborators.
 |
-|<img src="https://nyu.databrary.org/web/icons/release/shared.svg">| **Shared** | Available only to authorized Databrary users.
+|<img src="https://nyu.databrary.org/web/icons/release/shared.svg">| **Authorized Users** | Available only to authorized Databrary users.
 |
 |<img src="https://nyu.databrary.org/web/icons/release/excerpts.svg">|**Excerpts** | Available only to authorized Databrary users, who may show it publicly in presentations for informational or educational purposes. Such presentations may be videotaped or recorded and those videos or recordings may then be made available to the public via the internet (e.g., YouTube).
 |
