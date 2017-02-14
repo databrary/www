@@ -7,7 +7,7 @@ Users may independently determine the level of sharing for an entire volume, ses
 
 Please familiarize yourself with the different levels so you can be sure that your data is presented and shared in the appropriate way.
 
-# Volume-Level Sharing
+## Volume-Level Sharing
 
 By default, all studies are private when they are first created.
 You can create studies and share data peer-to-peer with other users regardless of your authorization status, but you cannot share data openly until you are authorized.
@@ -49,7 +49,7 @@ Read more about [Authorizing and Managing Affiliates](|filename|authorization/af
 
 
 
-# Session-Level Release
+## Session-Level Release
 
 Did the participant give you permission to share the data collected from his/her session?
 
@@ -64,7 +64,7 @@ Look over the definitions of the [session release levels](|filename|release/rele
 
 
 
-# File-Level Classification
+## File-Level Classification
 
 Does this file contain identifiable data? 
 
