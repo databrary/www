@@ -4,6 +4,10 @@ Order: 1700
 
 # Published articles, chapters, and reports
 
+[Progress toward openness, transparency, and reproducibility in cognitive neuroscience](https://osf.io/5veew/), published in the Annals of the New York Academy of Sciences. Preprint available.
+
+[Video can make science more open, transparent, robust, and reproducible](https://osf.io/preprints/psyarxiv/tcfqf/), pre-print published on the Open Science Framework.
+
 [Losing research data due to lack of curation and preservation](/files/pub-curating-research-data-case-study.pdf) published in *Curating research data, Volume 2: A handbook of current practice* by the Association of College and Research Libraries.
 
 [Towards open behavioral science](http://www.tandfonline.com/doi/abs/10.1080/1047840X.2012.705133#.UoUGM_mfhtE "Towards Open Behavioral Science") published in Psychological Inquiry.
