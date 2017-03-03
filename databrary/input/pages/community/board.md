@@ -48,7 +48,7 @@ Order: 4100
 : Director of psiTurk
 : New York University
 
-[Vasant Hanovar](https://www.ist.psu.edu/directory/faculty/vuh14)
+[Vasant Honavar](https://www.ist.psu.edu/directory/faculty/vuh14)
 :	Professor and Edward Frymoyer Chair of Information Sciences and Technology
 :	Professor of Bioinformatics and Genomics
 :	Professor of Neuroscience
