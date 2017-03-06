@@ -10,6 +10,12 @@ Databrary and Datavyu provide valuable tools for increasing transparency and rep
 
 - **...credit the researcher**: Every volume is provided with a Databrary specific citation: please go to the volume page and use the citation listed under "How To Cite" to ensure that the contributor receives proper credit.
 
+## Citations for Databrary and Datavyu in APA format
+
+- Lingeman, J., Freeman, C., & Adolph, K. E. (2014). Datavyu (Version 1.2.2) [Software]. Available from http://datavyu.org
+
+- Databrary. (2012). The Databrary Project: A video data library for developmental science. New York: New York University. Retrieved from http://databrary.org
+
 ## Suggested text for publications with your own data
 
 - **Databrary:** Video data, metadata, coding materials, procedural videos, and excerpts illustrating the findings for this project are shared on Databrary (Databrary.org), an online digital data library that promotes the sharing and reuse of video data. See references for a link to the Databrary volume.
