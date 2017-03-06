@@ -31,7 +31,7 @@ Order: 1100
 	<h3>How do I cite data from Databrary?</h3>
 	<div>
 		<p>Every volume is provided with a Databrary specific citation. Please go to the volume page and use the citation listed under "How To Cite" to ensure that the contributor receives proper credit.</p>
-		<p>Please also reference Databrary and Datavyu in your publication, if you used Databrary to share, store, or manage your own research data, shared excerpts illustrating your procedure or findings, used Datavyu to code your data, or if you reused an existing Databrary volume.</p>
+		<p>Please also <a href='/access/guide/investigators/citing.html'>reference Databrary and Datavyu</a> in your publication, if you used Databrary to share, store, or manage your own research data, shared excerpts illustrating your procedure or findings, used Datavyu to code your data, or if you reused an existing Databrary volume.</p>
 	</div>
 </section>
 <section class="question">
