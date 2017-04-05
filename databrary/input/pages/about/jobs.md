@@ -13,9 +13,7 @@ If you want to help build a uniquely powerful set of [open-source](https://githu
 
 # Current openings:
 ## [Scientific Support Specialist](|filename|jobs/support-specialist.md)
-## [Back End Developer](|filename|jobs/back-end.md)
 ## [Front End Developer](|filename|jobs/front-end.md)
-## [Development/Operations Programmer](|filename|jobs/devops.md)
 
 # To apply
 ### Send the following to jobs@databrary.org:
