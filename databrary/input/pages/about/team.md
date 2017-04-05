@@ -112,6 +112,12 @@ Ahmad Arshad
 : Managing Director
 : 212-998-5536
 
+Joy Kennedy Lorenzo
+: Scientific Support Specialist
+
+Maksim Levental
+: Back End Developer
+
 Gladys Chan
 : UI/UX Designer
 
