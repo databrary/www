@@ -221,8 +221,9 @@ Order: 4100
 :	University of Delaware
 
 [Erik De Schutter](https://groups.oist.jp/cnu/erik-de-schutter)
-:	Professor, Okinawa Institute of Science and Technology
-:	President, Organization for Computational Neuroscience
+: Professor, Computational Neuroscience Unit
+: President, Organization for Computational Neuroscience
+: Okinawa Institute of Science and Technology
 
 [Carolyn Maher](http://gse.rutgers.edu/carolyn_maher)
 :	Professor of Education
