@@ -5,7 +5,7 @@ Order: 4100
 # Advisory Board Members
 
 [David Ackerman](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-executivevicepresident/information-technology.html)
-: Chief Digital Officer &amp; Associate Vice President .edu Services
+: Chief Digital Officer and Associate Vice President, Research Technology
 :	New York University
 
 [Martha Alibali](https://psych.wisc.edu/faculty-alibali.htm)
@@ -14,18 +14,18 @@ Order: 4100
 
 [Howard Besser](http://tisch.nyu.edu/about/directory/cinema-studies/99017286)
 :	Professor of Cinema Studies
-:	Director of Moving Image Archiving &amp; Preservation Program
+:	Director of Moving Image Archiving and Preservation Program
 :	New York University
+
+[Sayeed Choudhury](http://www.educause.edu/members/sayeed-choudhury)
+: Associate Dean for Research Data Management
+: Johns Hopkins University
 
 [Mercè Crosas](http://scholar.harvard.edu/mercecrosas/home)
 :	Chief Data Science and Technology Officer
 :	Institute for Quantitative Social Science
 : Director of Dataverse
 :	Harvard University
-
-[Sayeed Choudhury](http://www.educause.edu/members/sayeed-choudhury)
-:	Associate Dean for Research Data Management
-: Johns Hopkins University
 
 [Michael Frank](http://web.stanford.edu/~mcfrank/)
 :	Associate Professor of Psychology
@@ -39,32 +39,38 @@ Order: 4100
 
 [Leslie Greengard](http://www.math.nyu.edu/people/profiles/GREENGARD_Leslie.html)
 :	Silver Professor of Mathematics and Computer Science
-:	New York University
-:	Director, Simons Center for Data Analysis
-:	Simons Foundation
+:	Director, Simons Foundation Center for Data Analysis
+: New York University
+
+[James Griffin](https://www.nichd.nih.gov/about/staff/Pages/bio.aspx?nih_id=0012701035)
+: Deputy Branch Chief, Child Development and Behavior Branch (CDBB)
+: Director of the Early Learning and School Readiness Program
+: National Institute of Child Health and Human Development (NICHD), National Institutes of Health (NIH)
 
 [Todd Gureckis](http://psych.nyu.edu/gureckis/)
 : Associate Professor of Psychology
 : Director of psiTurk
 : New York University
 
-[Vasant Honavar](https://www.ist.psu.edu/directory/faculty/vuh14)
-:	Professor and Edward Frymoyer Chair of Information Sciences and Technology
-:	Professor of Bioinformatics and Genomics
-:	Professor of Neuroscience
-:	The Pennsylvania State University
-
 [Kathy Hirsh-Pasek](http://www.cla.temple.edu/psychology/faculty/kathryn-hirsh-pasek/)
-:	Professor of Psychology and the Stanley and Debra Lefkowitz Distinguished Faculty Fellow
+:	Professor of Psychology
+: Stanley and Debra Lefkowitz Distinguished Faculty Fellow
+: Senior Fellow, Brookings Institute
 :	Temple University
 
-[Paul Horn](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/research-engineering-technology/bios/paul-horn.html)
+[Vasant Honavar](https://www.ist.psu.edu/directory/faculty/vuh14)
+: Professor and Edward Frymoyer Chair of Information Sciences and Technology
+: Professor of Bioinformatics and Genomics
+: Professor of Neuroscience
+: The Pennsylvania State University
+
+[Paul Horn](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/research-engineering-technology-scholarship/paul-horn.html)
 :	Senior Vice Provost for Research
 :	Senior Vice Dean for Strategic Initiatives and Entrepreneurship, Tandon School of Engineering
 :	New York University
 
 [Carl Kesselman](http://www.isi.edu/about/bio/carl_kesselman)
-:	Professor of Industrial and Systems Engineering
+: Director, Informatics Systems Research Division
 :	Fellow of the USC Information Sciences Institute
 :	Director of BIRN
 :	University of Southern California
@@ -76,39 +82,50 @@ Order: 4100
 :	New York University
 
 [Margaret C. Levenstein](http://www-personal.umich.edu/~maggiel/)
-: Director, Inter-university Consortium for Political and Social Research
-: Research Professor, Institute for Social Research and School of Information
-: Adjunct Professor of Business Economics and Public Policy, Ross School of Business
+: Director, Inter-University Consortium for Political and Social Research
+: Executive Director, Michigan Census Research Data Center
+: Research Professor, Survey Research Institute, Institute for Social Research
 : University of Michigan
 
 [Felice Levine](http://www.aera.net/AboutAERA/WhoWeAre/ExecutiveDirectorofAERA/tabid/11378/Default.aspx)
 :	Executive Director
 :	American Educational Research Association
 
-[Brian MacWhinney](http://psyling.psy.cmu.edu/)
+[Brian MacWhinney](https://www.cmu.edu/dietrich/psychology/people/core-training-faculty/macwhinney-brian.html)
 :	Professor of Psychology
-:	Director of TalkBank and CHILDES
+:	Director of CHILDES - Child Language Data Exchange System
+: Coordinator of TalkBank
 :	Carnegie Mellon University
 
-[Carol Mandel](http://library.nyu.edu/about/dean.html)
+[Carol Mandel](https://library.nyu.edu/people/carol-mandel/)
 :	Dean of the Division of Libraries
 :	New York University
 
+[Alan Mendelsohn](https://med.nyu.edu/faculty/alan-l-mendelsohn)
+: Associate Professor, Department of Pediatrics & Department of Population Health
+: New York University School of Medicine
+
 [Daniel Messinger](http://www.psy.miami.edu/faculty/dmessinger/)
-:	Professor of Psychology, Pediatrics, and Electrical & Computer Engineering
+:	Professor of Psychology, Pediatrics, Electrical & Computer Engineering, Music Engineering
+: Director, UM Sib Smile
 :	University of Miami
 
+[Laura Namy](http://psychology.emory.edu/home/people/faculty/namy-laura.html)
+: Professor of Psychology
+: Emory University
+
 [Nora Newcombe](http://www.cla.temple.edu/psychology/faculty/nora-newcombe/)
-:	Laura H. Carnell Professor of Psychology &amp; James H. Glackin Distinguished Faculty Fellow
+:	Laura H. Carnell Professor of Psychology
+: James H. Glackin Distinguished Faculty Fellow
 :	Temple University
 
-[Brian Nosek](https://cacsprd.web.virginia.edu/Psych/Faculty/Profile/Brian-A-Nosek)
+[Brian Nosek](https://med.virginia.edu/faculty/faculty-listing/ban2b/)
 : Professor of Psychology
 : Executive Director, Center for Open Science
 : University of Virginia
 
 [Lisa Oakes](http://mindbrain.ucdavis.edu/people/lmoakes)
-:	Professor of Psychology
+:	Vice Chair and Professor, Department of Psychology
 :	Professor, Center for Mind and Brain
 :	University of California, Davis
 
@@ -119,7 +136,7 @@ Order: 4100
 :	Stanford University
 
 [Jan Plass](http://steinhardt.nyu.edu/faculty_bios/view/Jan_Plass)
-:	Paulette Goddard Chair of Digital Learning and Media Sciences &amp; Professor
+:	Paulette Goddard Chair of Digital Learning and Media Sciences and Professor
 :	New York University
 
 [Russell Poldrack](https://profiles.stanford.edu/russell-poldrack)
@@ -128,8 +145,13 @@ Order: 4100
 :	Stanford University
 
 [Nilam Ram](http://www.hhdev.psu.edu/hdfs/directory/bio.aspx?id=138)
-:	Associate Professor of Human Development and Psychology
+:	Associate Professor, Human Development and Family Studies, and Psychology
 :	The Pennsylvania State University
+
+[C. Cybele Raver](http://steinhardt.nyu.edu/faculty/C._Cybele_Raver)
+: Vice Provost for Research and Faculty Affairs
+: Professor, Department of Applied Psychology
+: New York University
 
 [James M. Rehg](http://rehg.org/bio/)
 :	Professor of Interactive Computing
@@ -142,6 +164,10 @@ Order: 4100
 :	John A. Hannah Chair and University Distinguished Professor
 :	Michigan State University
 
+[Jeffrey Spies](https://jeffspies.com/)
+: Co-Founder and Chief Technology Officer
+: Center for Open Science
+
 [Catherine Tamis-LeMonda](http://steinhardt.nyu.edu/faculty/Catherine_Tamis-LeMonda)
 :	Professor of Applied Psychology
 :	New York University
@@ -152,8 +178,8 @@ Order: 4100
 
 [Anne Warlaumont](http://www.ucmerced.edu/content/anne-s-warlaumont)
 :	Assistant Professor of Cognitive and Information Sciences
-:	University of California, Merced
 : Co-PI of HomeBank
+:	University of California, Merced
 
 [Tal Yarkoni](http://talyarkoni.org/)
 : Assistant Research Professor of Psychology
@@ -173,7 +199,7 @@ Order: 4100
 :	University of Michigan
 
 [Richard Aslin](http://www.bcs.rochester.edu/people/faculty/aslin_richard/index.html)
-:	William R. Kenan Professor of Brain &amp; Cognitive Sciences
+:	William R. Kenan Professor of Brain and Cognitive Sciences
 :	Director of Rochester Center for Brain Imaging
 :	University of Rochester
 
