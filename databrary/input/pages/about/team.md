@@ -106,7 +106,7 @@ Order: 1300
 
 # Staff
 
-All staff can be reached at *'first name'*@databrary.org
+All staff can be reached at *'firstname.lastname'*@databrary.org
 
 Ahmad Arshad
 : Managing Director
