@@ -164,6 +164,10 @@ Order: 4100
 :	John A. Hannah Chair and University Distinguished Professor
 :	Michigan State University
 
+[Neil A. Sharkey](https://www.research.psu.edu/node/145)
+:	Vice President for Research
+:	Penn State University
+
 [Jeffrey Spies](https://jeffspies.com/)
 : Co-Founder and Chief Technology Officer
 : Center for Open Science

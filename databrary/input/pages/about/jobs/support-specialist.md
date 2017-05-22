@@ -1,6 +1,7 @@
 Title: Scientific Support Specialist
 Brief: Support-Specialist
 Order: 2001
+Status: Hidden
 
 # Position Summary
 
