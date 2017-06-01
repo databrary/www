@@ -118,9 +118,6 @@ Joy Kennedy Lorenzo
 Maksim Levental
 : Back End Developer
 
-Gladys Chan
-: UI/UX Designer
-
 Shohan Hasan
 : Datavyu Support Specialist
 
@@ -132,6 +129,9 @@ Jesse Lingeman
 
 Andrea Seisler
 : Authorizations Specialist
+
+Florian Raudies
+: Datavyu Developer
 
 Kasey Soska
 : Research Support Specialist

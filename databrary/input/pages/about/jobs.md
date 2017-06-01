@@ -13,6 +13,7 @@ If you want to help build a uniquely powerful set of [open-source](https://githu
 
 # Current openings:
 ## [Front End Developer](|filename|jobs/front-end.md)
+## [Datavyu Developer](|filename|jobs/datavyu.md)
 
 # To apply
 ### Send the following to jobs@databrary.org:
