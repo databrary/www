@@ -1,7 +1,6 @@
 Title: Development/Operations Programmer
 Brief: Jobs
 Order: 2004
-Status: Hidden
 
 # Summary
 

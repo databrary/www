@@ -1,35 +1,41 @@
 Title: Datavyu Java Developer
 Brief: Datavyu
 Order: 2000
-Status: hidden
 
-# Summary
+# Position Summary 
+The Databrary project is looking for a smart and motivated Java developer to join its technical team. The developer will act as the primary owner of our unique, research-enabling, open source cross-platform desktop video annotation and analysis application (Datavyu.org. Working closely with the managing director, the PIs and research scientists, the developer will design, develop and modify the application to enable behavioral researchers to code, transcribe and annotate audio and video-based research datasets. (S)he will maintain the existing code base and build new features, enhancements and integrations in modern programming language.
 
-Databrary seeks a flexible and motivated Java programmer to take ownership of and enhance our unique, research-enabling, open source multi-platform desktop video annotation and analysis application (Datavyu.org). You will collaborate closely with a small team of developers and psychological scientists to support and improve the Datavyu application enabling researchers to explore and access research video.
+Databrary (databrary.org) is the leading open source video data-sharing system for developmental science. Datavyu (datavyu.org) is a free, open source, multi-platform video coding tool. This position provides a unique opportunity to play a central role in advancing open science through data sharing and reuse. 
 
-# Responsibilities
+The ideal candidate has great software design sense, is a self-starter who is not afraid of learning new technologies, thinks out of the box, takes initiative, has excellent attention to detail and can work to take tasks to fruition both collaboratively in a team and independently. The developer will adapt to the evolving and growing needs of the project. 
 
-- Support, fix, and enhance existing Java desktop analysis tool based on user issues and requirements
-- Build data visualization, import, and export tools
+
+# Essential Responsibilities/Functions: 
+- Support, fix, and enhance existing Java desktop analysis tool based on user issues and requirements.
+- Build data visualizations, import, and export tools
 - Design, test, and validate Java video playback performance across platforms
-- Integrate feedback from UX experts and researchers (users) to identify and prioritize new features
+- Integrate application with Data collection tools, Data library web services, Github, R Studio and SPSS. 
+- Solicit feedback from UX experts and researchers (users) to identify and prioritize new features
 
-# Qualifications
 
-- Extensive experience devolving cross-platform Java-based applications, preferably using Swing/AWT
-- Knowledge of video technologies, formats, and decoding engines (VLC, ffmpeg, QT, and gstreamer)
+# Preferred Skills, Knowledge and Abilities: 
+- Extensive experience devolving cross-platform Java-based applications, preferably using JavaFX/Swing/AWT/SWT
+- Knowledge of video technologies, formats, and decoding engines (VLC, ffmpeg, avconv, QT, and gstreamer)
 - Familiarity with git and standard UNIX development tools
-- Understanding of Ruby, CSV, and basic data processing
+- Understanding of Ruby, Python, CSV, XML and basic data processing
 - Established track record of shipping reliable software products
 - Experience developing cross-platform applications for Windows, OS X, and Linux
 
-# Preferred
+
+# Required Experience: 
 
 - History of contributions to open source projects
-- Comfortable with discussing and addressing UX/UI design issues 
+- Comfortable with discussing and addressing UX/UI design issues 
 - Sensitive to performance considerations building video interfaces
 - Familiarity with scientific practices and research tools, such as Matlab, SPSS, or R
-- Background in CS or other relevant field
+
+# Preferred Education:
+BS, MS or PhD in a CS or related field, or an equivalent combination of formal education and directly related experience. 
 
 # To apply
 ## Send the following to jobs@databrary.org:
