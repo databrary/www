@@ -1,9 +1,9 @@
-Title: Datavyu Java Developer
+Title: Datavyu Desktop Application Developer
 Brief: Datavyu
 Order: 2000
 
 # Position Summary
-The Databrary project is looking for a smart and motivated Java developer to join its technical team. The developer will act as the primary owner of our unique, research-enabling, open source cross-platform desktop video annotation and analysis application (Datavyu.org). Working closely with the managing director, the PIs and research scientists, the developer will design, develop, and modify the application to enable behavioral researchers to code, transcribe, and annotate audio and video-based research datasets. (S)he will maintain the existing code base and build new features, enhancements, and integrations in modern programming languages.
+The Databrary project is looking for a smart and motivated Desktop Application developer to join its technical team. The developer will act as the primary owner of our unique, research-enabling, open source cross-platform desktop video annotation and analysis application (Datavyu.org). Working closely with the managing director, the PIs and research scientists, the developer will design, develop, and modify the application to enable behavioral researchers to code, transcribe, and annotate audio and video-based research datasets. (S)he will maintain the existing code base and build new features, enhancements, and integrations in modern programming languages.
 
 Databrary (databrary.org) is the leading open source video-data-sharing system for developmental science. Datavyu (datavyu.org) is a free, open source, multi-platform video-coding tool. This position provides a unique opportunity to play a central role in advancing open science through data sharing and reuse.
 
@@ -19,16 +19,16 @@ The ideal candidate has great software design sense, is a self-starter who is no
 
 
 # Preferred Skills, Knowledge and Abilities:
-- Extensive experience devolving cross-platform Java-based applications, preferably using JavaFX/Swing/AWT/SWT
-- Knowledge of video technologies, formats, and decoding engines (VLC, ffmpeg, avconv, QT, and gstreamer)
+- Extensive experience developing cross-platform desktop applications using JavaFX/Swing/AWT/SWT or Qt.
+- Knowledge of video technologies, formats, and decoding engines (VLC, ffmpeg, avconv, Quicktime, and gstreamer)
 - Familiarity with git and standard UNIX development tools
 - Understanding of Ruby, Python, CSV, XML, and basic data processing
-- Established track record of shipping reliable software products
-- Experience developing cross-platform applications for Windows, OS X, and Linux
-
+- Familiarity using project management and task management systems.
+- Passion for open source projects and building high quality software.
 
 # Required Experience:
 
+- Established track record of shipping reliable software products
 - History of contributions to open source projects
 - Comfort with discussing and addressing UX/UI design issues 
 - Sensitive to performance considerations building video interfaces
@@ -44,15 +44,4 @@ BS, MS or PhD in a CS or related field, or an equivalent combination of formal e
 - Resume (PDF)
 - Links to your open source contributions or other samples of your work
 
-New York University is an Equal Opportunity Employer. New York University
-is committed to a policy of equal treatment and opportunity in every aspect
-of its hiring and promotion process without regard to race, color, creed,
-religion, sex, pregnancy or childbirth (or related medical condition),
-sexual orientation, partnership status, gender and/or gender identity or
-expression, marital or parental status, national origin, ethnicity,
-alienage or citizenship status, veteran or military status, age,
-disability, predisposing genetic characteristics, domestic violence victim
-status, unemployment status, or any other legally protected basis. Women,
-racial and ethnic minorities, persons of minority sexual orientation or
-gender identity, individuals with disabilities, and veterans are encouraged
-to apply for vacant positions at all levels.
+New York University is an Equal Opportunity Employer. New York University is committed to a policy of equal treatment and opportunity in every aspect of its hiring and promotion process without regard to race, color, creed, religion, sex, pregnancy or childbirth (or related medical condition), sexual orientation, partnership status, gender and/or gender identity or expression, marital or parental status, national origin, ethnicity, alienage or citizenship status, veteran or military status, age, disability, predisposing genetic characteristics, domestic violence victim status, unemployment status, or any other legally protected basis. Women, racial and ethnic minorities, persons of minority sexual orientation or gender identity, individuals with disabilities, and veterans are encouraged to apply for vacant positions at all levels.
