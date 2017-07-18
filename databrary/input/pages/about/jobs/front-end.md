@@ -1,6 +1,8 @@
 Title: Front End Developer
 Brief: Front-End
 Order: 2003
+Status: hidden
+
 
 # Position Summary
 
