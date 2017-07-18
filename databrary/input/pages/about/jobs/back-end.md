@@ -1,7 +1,6 @@
 Title: Back End Developer
 Brief: Back-End
 Order: 2002
-Status: Hidden
 
 # Position Summary
 
@@ -18,30 +17,29 @@ The ideal candidate is a self starter who is not afraid of learning new technolo
 The developer will analyze and understand current system and application architecture, logical and physical data models, security and storage implementation as well as the code base, document it thoroughly, formulate high level architectural and call graph diagrams and make recommendations to the managing director on a future strategic direction.
 
 ## Development and maintenance
-The developer will maintain existing code base and troubleshoot to improve application reliability and performance. (S)he will lead development, manage releases, deploy code, and track bug and QA progress. (S)he will build dynamic, modular and responsive web applications by implementing clean, reusable, well designed and well tested code to add enhancements, features and new integrations to the platform in current technologies (Haskell, PostgreSQL, AngularJS) or any other secure, modern, sustainable web frameworks.
+The developer will maintain existing code base and troubleshoot to improve application reliability and performance. (S)he will lead development, manage releases, deploy code, and track bug and QA progress. (S)he will build dynamic and modular web applications by implementing clean, reusable, well designed and well tested code to add enhancements, features and new integrations to the platform in current technologies (Haskell, PostgreSQL, AngularJS) or any other secure, modern, sustainable web frameworks.
 
 ## Innovation in data management
 The developer will work closely with experts in the field to understand the complete data lifecycle and management for researchers. (S)he will advocate for and become a force of innovation at each step of activities undertaken in relation to the collection, processing, description, transformation, retention and reuse of research data. (S)he will design, develop, implement, test and validate existing and new data management and web-based tools to facilitate research.
 
 # Preferred Skills, Knowledge and Abilities
 
-- Hands-on experience with functional languages like Haskell, OCaml, F#, or Scala.
-- Knowledge of modern web frameworks in high-level languages such as Java, Ruby, Python or PHP and video technologies.
-- Knowledge of JavaScript, JS frameworks, HTML, CSS and other front end technologies.
+- Hands-on experience with coding in a functional programming language like Haskell or an imperative language such as Golang.
+- Knowledge of modern web frameworks in a high-level language such as Java, Ruby, Python or PHP and video technologies.
+- Knowledge of how server side code interacts and integrates with front end JavaScript frameworks, HTML, CSS.
 - Understanding of best practices in SDLC (Software Development Life Cycle).
-- Understanding of TDD (Test-driven development), security and design patterns. 
+- Understanding of TDD (Test-driven development), security and design patterns.
 - Experience with version control, unix scripting, automation and DevOps practices.
-- Familiarity using CRM, project management and task management systems.
+- Familiarity using project management and task management systems.
 - Passion for open source projects and building high quality software.
-- Strong written and oral communication skills.
+- Strong written and oral communication skills and openness to learn and change.
 - Superior listening and analytical skills and a knack for tackling tough problems.
 - Ability to multitask and juggle multiple priorities and projects.
-- Adaptability and openness to learn and change.
 
 # Required Experience
 
-- Track record of designing scalable software for web applications in modern web frameworks.
-- Exceptional understanding of system architecture, object oriented principles, web technologies, REST API and MVC patterns.
+- Track record of designing and writing scalable software for web applications in modern web frameworks.
+- Exceptional understanding of system architecture, web programming, technology stacks, REST API and MVC patterns.
 - Solid knowledge of SQL and RDBMS like PostgreSQL.
 - Basic knowledge of scientific practices and research tools, such as Matlab, SPSS, or R.
 
@@ -54,16 +52,5 @@ The developer will work closely with experts in the field to understand the comp
 
 We will review applications beginning immediately and consider candidates until the position is filled. 
 
-New York University is an Equal Opportunity Employer. New York University
-is committed to a policy of equal treatment and opportunity in every aspect
-of its hiring and promotion process without regard to race, color, creed,
-religion, sex, pregnancy or childbirth (or related medical condition),
-sexual orientation, partnership status, gender and/or gender identity or
-expression, marital or parental status, national origin, ethnicity,
-alienage or citizenship status, veteran or military status, age,
-disability, predisposing genetic characteristics, domestic violence victim
-status, unemployment status, or any other legally protected basis. Women,
-racial and ethnic minorities, persons of minority sexual orientation or
-gender identity, individuals with disabilities, and veterans are encouraged
-to apply for vacant positions at all levels.
+New York University is an Equal Opportunity Employer. New York University is committed to a policy of equal treatment and opportunity in every aspect of its hiring and promotion process without regard to race, color, creed, religion, sex, pregnancy or childbirth (or related medical condition), sexual orientation, partnership status, gender and/or gender identity or expression, marital or parental status, national origin, ethnicity, alienage or citizenship status, veteran or military status, age, disability, predisposing genetic characteristics, domestic violence victim status, unemployment status, or any other legally protected basis. Women, racial and ethnic minorities, persons of minority sexual orientation or gender identity, individuals with disabilities, and veterans are encouraged to apply for vacant positions at all levels.
 
