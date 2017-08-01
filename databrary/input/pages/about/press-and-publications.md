@@ -4,23 +4,43 @@ Order: 1700
 
 # Published articles, chapters, and reports
 
-[Progress toward openness, transparency, and reproducibility in cognitive neuroscience](https://osf.io/5veew/), published in the Annals of the New York Academy of Sciences. Preprint available.
+Adolph, K. E. (2016). Video as data: From transient behavior to tangible recording. APS Observer, 29, 23-25. [HTML of paper](http://www.psychologicalscience.org/observer/video-as-data).
 
-[Video can make science more open, transparent, robust, and reproducible](https://osf.io/preprints/psyarxiv/tcfqf/), pre-print published on the Open Science Framework.
+Adolph, K. E., Gilmore, R. O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward open behavioral science. Psychological Inquiry, 23(3), 244-247. [http://doi.org/10.1080/1047840X.2012.705133](http://doi.org/10.1080/1047840X.2012.705133).
 
-[Losing research data due to lack of curation and preservation](/files/pub-curating-research-data-case-study.pdf) published in *Curating research data, Volume 2: A handbook of current practice* by the Association of College and Research Libraries.
+Adolph, K. E., Tamis-LeMonda, C. S., & Gilmore, R. O. (2016, December). Object, locomotion, and language coding protocol for the PLAY Project. Retrieved January 19, 2017, from [https://dev1.ed-projects.nyu.edu/wikis/docuwiki](https://dev1.ed-projects.nyu.edu/wikis/docuwiki)
 
-[Towards open behavioral science](http://www.tandfonline.com/doi/abs/10.1080/1047840X.2012.705133#.UoUGM_mfhtE "Towards Open Behavioral Science") published in Psychological Inquiry.
+Dressler, V. (2015). Databrary. Reference Reviews, 29(4), 32-39. [https://doi.org/10.1108/RR-12-2014-0336](https://doi.org/10.1108/RR-12-2014-0336)
 
-[Sharing Displays and Data from Vision Science Research with Databrary](http://jov.arvojournals.org/article.aspx?articleid=2433372) published in the Journal of Vision.
+Gilmore, R. O. (2016). From big data to deep insight in developmental science. Wiley Interdisciplinary Reviews Cognitive Science, 7(2), 112-126. [http://doi.org/10.1002/wcs.1379](http://doi.org/10.1002/wcs.1379).
 
-[Databrary: Enabling sharing and reuse of research video](http://dx.doi.org/10.1145/2756406.2756951) published in the Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries.
+Gilmore, R. O. & Adolph, K. E. (in press). New directions spotlight: Open sharing of research video – Breaking the boundaries of the research team. In K. Hall, R. Croyle, and A. Vogel (Eds.), Advancing social and behavioral health research through cross-disciplinary team science: Principles for success. National Institutes of Health.
 
-[Researcher-library collaborations: Data repositories as a service for researchers](http://doi.org/10.7710/2162-3309.1238) published in the Journal of Librarianship and Scholarly Communication.
+Gilmore, R. O., & Adolph, K. E. (2017). Video can make behavioural science more reproducible. Nature Human Behaviour, 1(7). Retrieved August 1, 2017 from www.nature.com/articles/s41562-017-0128. [PDF of paper](https://www.psych.nyu.edu/adolph/publications/GilmoreAdolph-inpress-NatureVideoReproducible.pdf). 
 
-[From big data to deep insight in developmental science](http://wires.wiley.com/WileyCDA/WiresArticle/wisId-WCS1379.html) published in WIRE's Cognitive Science.
+Gilmore, R. O., & Adolph, K. E. (n.d.). Video can make science more open, transparent, robust, and reproducible. Retrieved August 1, 2017 from [http://osf.io/3kvp7](http://osf.io/3kvp7)
 
-[Video as data](http://www.psychologicalscience.org/index.php/publications/observer/2016/march-16/video-as-data.html) published in the Association for Psychological Science.
+Gilmore, R. O., Adolph, K. E., & Millman, D. S. (2016). Curating identifiable data for sharing: The Databrary project. In Proceedings of the 2016 New York Scientific Data Summit. doi: 10.1109/NYSDS.2016.7747817. [PDF of paper](https://github.com/databrary/presentations/blob/master/nysds-2016/gilmore-adolph-millman-nysds-2016.pdf).
+
+Gilmore, R. O., Adolph, K. E., Millman, D. S., Steiger, L., & Simon, D. (2015). Sharing displays and data from vision science research with Databrary [Abstract for. poster presented at the 2015 meeting of the Vision Sciences Society]. Journal of Vision, 15(12), 1-17. doi:10.1167/15.12.280 
+
+Gilmore, R. O., Adolph, K. E., Millman, D. S., & Gordon, A. S. (2016). Transforming education research through open video data sharing. Advances in Engineering Education, 5(2), 1-17. [PDF of paper](http://advances.asee.org/wp-content/uploads/vol05/issue02/Papers/AEE-18-Gilmore.pdf).
+
+Gilmore, R. O., Diaz, M. T., Wyble, B. A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. Annals of the New York Academy of Sciences, 1396, 5-18. doi: 10.1111/nyas.13325 
+
+Gilmore, R. O., Gummer, E., & Koedinger, K. (2015). Collaborating on tools, infrastructures, and repositories. In Dede, C. (Ed.), Data-intensive research in education: Current work and next steps. [Report on two National Science Foundation-sponsored computing research education workshops] (pp. 63-73). Computing Research Association. [PDF of publication](http://cra.org/wp-content/uploads/2015/10/CRAEducationReport2015.pdf).
+
+Gordon, A. S., Adolph, K. A., Gilmore, R. O., Millman, D. S., Steiger, L., & Simon, D. A. (2015, June). Databrary: Enabling sharing and reuse of research video. Poster presented at the Proceedings Of The 15th ACM/IEEE Joint Conference On Digital Libraries, Knoxville, TN. doi:10.1145/2756406.2756951. [PDF of poster](https://github.com/databrary/presentations/blob/master/jcdl-15/poster/poster_landscape.pdf).
+
+Gordon, A. S., Steiger, L., & Adolph, K. E., (2017). Losing research data due to lack of curation and preservation. In L. Johnston (Ed.), Curating research data, Volume 2: A handbook of current practice (pp. 108-115). Chicago, IL: Association of College and Research Libraries. [PDF of chapter](https://www.databrary.org/files/pub-curating-research-data-case-study.pdf).
+
+Gordon, A., Millman, D. S., Steiger, L., Adolph, K. E., & Gilmore, R. O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. Journal of Librarianship and Scholarly Communication, 3(2), eP1238. [http://dx.doi.org/10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238)
+
+# Other Articles and References:
+
+Johri, A. (2015). Open up engineering education research. ASEE Prism, 25(2), 56.
+
+Tay, L., Jebb, A. T., & Woo, S. E. (2017). Video capture of human behaviors: toward a Big Data approach. Current Opinion In Behavioral Sciences, 18, 17-22. doi:10.1016/j.cobeha.2017.05.026
 
 # Popular press
 
