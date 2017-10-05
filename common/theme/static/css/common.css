@@ -97,6 +97,10 @@ p {
 	text-align: justify;
 }
 
+#page_about_press-and-publications p {
+	text-align: left !important;
+}
+
 ul {
 	list-style: circle;
 }
