@@ -1,4 +1,4 @@
-Title: Datavyu Desktop Application Developer
+Title: Java Desktop Application Developer
 Brief: Datavyu
 Order: 2000
 
