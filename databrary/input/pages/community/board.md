@@ -17,7 +17,7 @@ Order: 4100
 :	Director of Moving Image Archiving and Preservation Program
 :	New York University
 
-[Sayeed Choudhury](http://www.educause.edu/members/sayeed-choudhury)
+[Sayeed Choudhury](https://members.educause.edu/sayeed-choudhury)
 : Associate Dean for Research Data Management
 : Johns Hopkins University
 
@@ -180,7 +180,7 @@ Order: 4100
 :	Associate Professor of Psychology
 :	College of William and Mary
 
-[Anne Warlaumont](http://www.ucmerced.edu/content/anne-s-warlaumont)
+[Anne Warlaumont](http://hsri.ucmerced.edu/content/anne-warlaumont)
 :	Assistant Professor of Cognitive and Information Sciences
 : Co-PI of HomeBank
 :	University of California, Merced
