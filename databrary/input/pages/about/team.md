@@ -115,14 +115,14 @@ Ahmad Arshad
 Joy Kennedy Lorenzo
 : Scientific Support Specialist
 
-Maksim Levental
+Kanishka Azimi 
 : Back End Developer
+
+Minyong Cho
+: Front End Developer
 
 Shohan Hasan
 : Datavyu Support Specialist
-
-Carli Heiman
-: Events Coordinator
 
 Jesse Lingeman
 : Application Developer

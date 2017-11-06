@@ -37,6 +37,8 @@ Gordon, A. S., Steiger, L., & Adolph, K. E., (2017). Losing research data due to
 
 Gordon, A., Millman, D. S., Steiger, L., Adolph, K. E., & Gilmore, R. O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*, *3*(2), eP1238. [http://dx.doi.org/10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238)
 
+Kennedy, J. L., Adolph, K. A., & Gilmore, R. O. (2017, August 21). Video and reproducibility in the behavioural sciences [Blog post]. Retrieved from [https://www.software.ac.uk/blog/2017-08-04-video-and-reproducibility-behavioural-sciences](https://www.software.ac.uk/blog/2017-08-04-video-and-reproducibility-behavioural-sciences)
+
 
 # Other Articles and References:
 
