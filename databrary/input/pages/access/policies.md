@@ -5,11 +5,19 @@ Order: 4000
 
 The following documents may be useful to researchers preparing funding proposals or interested in sharing their data with Databrary:
 
-- Databrary Release Template, [.docx](/policies/release-template.docx), [.pdf](/policies/release-template.pdf) to inform participants and obtain consent for sharing data.
+- Boilerplate [Data Management Plan](|filename|policies/dmp-template.mdi) language for grant applications.
 
 - Databrary [Access Agreement](|filename|policies/agreement.mdi), [.pdf](/policies/agreement.pdf).
 
-- Boilerplate [Data Management Plan](|filename|policies/dmp-template.mdi) language.
+- Databrary [Participant Release Template](|filename|policies/release-template.mdi), [.docx](/policies/release-template.docx), [.pdf](/policies/release-template.pdf) to inform participants about sharing data and obtain consent for sharing.
+
+- Template to obtain [Lab Staff Release](|filename|policies/staff-release.mdi) for use of videos in which they appear 
+
+- Participant [Bill of Rights](|filename|policies/bill-of-rights.mdi) regarding data sharing
+
+- [Best Practices for Data Security](|filename|policies/best-practices.mdi)
+
+- [Excerpts Clarification](|filename|policies/excerpts-clarification.mdi)
 
 
 
