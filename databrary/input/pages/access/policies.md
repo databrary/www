@@ -17,8 +17,6 @@ The following documents may be useful to researchers preparing funding proposals
 
 - [Best Practices for Data Security](|filename|policies/best-practices.mdi)
 
-- [Excerpts Clarification](|filename|policies/excerpts-clarification.mdi)
-
 
 
 ----
