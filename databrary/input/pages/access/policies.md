@@ -9,6 +9,8 @@ The following documents may be useful to researchers preparing funding proposals
 
 - Databrary [Access Agreement](|filename|policies/agreement.mdi), [.pdf](/policies/agreement.pdf).
 
+- Details of Databrary Access Agreement (DAA) [revisions](|filename|policies/agreement-revision.mdi) made in September, 2017.
+
 - Databrary [Participant Release Template](|filename|policies/release-template.mdi), [.docx](/policies/release-template.docx), [.pdf](/policies/release-template.pdf) to inform participants about sharing data and obtain consent for sharing.
 
 - Template to obtain [Lab Staff Release](|filename|policies/staff-release.mdi) for use of videos in which they appear 
