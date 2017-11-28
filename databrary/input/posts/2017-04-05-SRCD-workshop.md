@@ -1,5 +1,6 @@
 Title: Databrary Pre-Conference at SRCD 2017
 Category: event
+Event: April 05, 2017
 
 ## Coding, Sharing, and Reusing Video Data with Databrary
 
