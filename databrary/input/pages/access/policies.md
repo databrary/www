@@ -15,6 +15,8 @@ The following documents may be useful to researchers preparing funding proposals
 
 - Template to obtain [Lab Staff Release](|filename|policies/staff-release.mdi) for use of videos in which they appear 
 
+- Template [Lab Staff Agreement](|filename|policies/staff-agreement.mdi) to ensure proper use of Databrary
+
 - Participant [Bill of Rights](|filename|policies/bill-of-rights.mdi) regarding data sharing
 
 - [Best Practices for Data Security](|filename|policies/best-practices.mdi)
