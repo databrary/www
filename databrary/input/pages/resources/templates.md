@@ -9,6 +9,8 @@ The following documents may be useful to researchers preparing funding proposals
 
 - [Data Management Plan Template](|filename|templates/dmp-template.mdi)
 
+- [IRB Application Template](|filename|templates/irb-application.mdi)
+
 - [Video Data Release Template, Lab Staff](|filename|templates/staff-release.mdi) 
 
 - [Video Data Release Template, Participants](|filename|templates/release-template.mdi) 

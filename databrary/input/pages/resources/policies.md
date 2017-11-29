@@ -7,7 +7,7 @@ The following documents may be useful to researchers preparing funding proposals
 
 - Participant [Bill of Rights](|filename|policies/bill-of-rights.mdi) regarding data sharing
 
-- [Best Practices for Data Security](|filename|policies/best-practices.mdi)
+- [Data Security Best Practices](|filename|policies/best-practices.mdi)
 
 - [Working with Your IRB](|filename|policies/work-with-irb.mdi)
 
