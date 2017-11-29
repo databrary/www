@@ -1,12 +1,14 @@
-Title: Access
-Brief: Access
+Title: Resources
+Brief: Resources
 Order: 2000
 
-The [rights and responsibilities](|filename|access/responsibilities.md) of researchers (*authorized investigators* and their *affiliates*) and their institutions are explained in the following pages. 
+The [rights and responsibilities](|filename|resources/responsibilities.md) of researchers (*authorized investigators* and their *affiliates*) and their institutions are explained in the following pages. 
 
-Our [User Guide](|filename|access/guide.md) contains information for institutions and researchers about how to access and use Databrary.
+Our [User Guide](|filename|resources/guide.md) contains information for institutions and researchers about how to access and use Databrary.
 
-All Databrary policy documents are posted in our [policies](|filename|access/policies.md) section.
+All Databrary policy documents are posted in our [policies](|filename|resources/policies.md) section. 
+
+A variety of templates for asking for permission to share data, data management plans, talking to your IRB, etc., are availablein our [templates](|filename|resources/templates.md) section. 
 
 #Overview
 
@@ -30,7 +32,7 @@ If a video or other research data contain identifiable information, researchers 
 
 ### Limiting Access to Authorized Individuals
 
-Some participants may give permission to share their videos and research data with the public, but most will not. So, Databrary limits access to individuals who [apply for authorization](|filename|access/guide/investigators/authorization.md) and receive approval for access on the basis of specific qualifications:
+Some participants may give permission to share their videos and research data with the public, but most will not. So, Databrary limits access to individuals who [apply for authorization](|filename|resources/guide/investigators/authorization.md) and receive approval for access on the basis of specific qualifications:
 
 - Affiliation with an institution involved in research or teaching (e.g., a college or university).
 - Training in research ethics.

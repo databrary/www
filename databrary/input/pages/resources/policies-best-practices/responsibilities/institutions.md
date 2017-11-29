@@ -1,8 +1,8 @@
 Title: Institutions
 Brief: Institutions
-Order: 2100
+Order: 5100
 
-Researchers seeking authorization to access Databrary must have their [Databrary Access Agreement](|filename|../policies/agreement.mdi) approved and signed by an authorized representative, or *AOR*, of their institution. Once an institution has signed the agreement, the individual becomes an *authorized investigator*.
+Researchers seeking authorization to access Databrary must have their [Databrary Access Agreement](|filename|/agreement.mdi) approved and signed by an authorized representative, or *AOR*, of their institution. Once an institution has signed the agreement, the individual becomes an *authorized investigator*.
 
 ## Overview of the Databrary Access Agreement 
 

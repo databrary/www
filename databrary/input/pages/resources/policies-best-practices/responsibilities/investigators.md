@@ -1,6 +1,6 @@
 Title: Authorized Investigators
 Brief: Investigators
-Order: 2200
+Order: 5200
 
 This section describes the rights and responsibilities of *authorized investigators* associated with their use of Databrary.
 

@@ -1,8 +1,8 @@
 Title: Rights and Responsibilities
 Brief: Rights and Responsibilities
-Order: 2000
+Order: 4050
 
-This section describes the rights and responsibilities of [institutions](|filename|responsibilities/institutions.md) and [*authorized investigators*](|filename|responsibilities/investigators.md) in association with Databrary and the [rights granted to Databrary](|filename|responsibilities/rights-granted.md) by Institutions and *authorized investigators*.
+This section describes the rights and responsibilities of [institutions](|filename|policies-responsibilites/responsibilities/institutions.md) and [*authorized investigators*](|filename|policies-responsibilites/responsibilities/investigators.md) in association with Databrary and the [rights granted to Databrary](|filename|policies-responsibilites/responsibilities/rights-granted.md) by Institutions and *authorized investigators*.
 		
 ## Background: Why video requires special care
 

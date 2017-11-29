@@ -18,4 +18,4 @@ The Databrary Project has two main components:
 
 # Learn
 
-We invite you to learn more about our [mission](|filename|about/mission.md), find answers to [frequently asked questions](|filename|access/faq.md), discover [how to use](|filename|about/use-cases.md) Databrary, meet our [team](|filename|about/team.md), get [in touch](|filename|about/contact.md), [subscribe](|filename|about/newsletter.md), or [join our team](|filename|about/jobs.md).
+We invite you to learn more about our [mission](|filename|about/mission.md), find answers to [frequently asked questions](|filename|resources/faq.md), discover [how to use](|filename|about/use-cases.md) Databrary, meet our [team](|filename|about/team.md), get [in touch](|filename|about/contact.md), [subscribe](|filename|about/newsletter.md), or [join our team](|filename|about/jobs.md).

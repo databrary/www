@@ -1,6 +1,6 @@
 Title: Data Use
 Brief: Data Use
-Order: 2220
+Order: 5220
 
 Databrary resources may be used for a variety of purposes.
 

@@ -1,6 +1,6 @@
 Title: Frequently Asked Questions
 Brief: F.A.Q.
-Order: 1200
+Order: 3010
 
 <h2>About Databrary</h2>
 <br>
@@ -23,15 +23,15 @@ Order: 1200
 	<h3>How do I access shared data?</h3>
 	<div>
 		<p>Some Databrary materials are shared with the general public. But, access to most data, especially identifiable or sensitive materials, is limited to people with authorization. You may browse Databrary's public information freely without authorization.</p>
-		<p>Investigators must be authorized through their university or institution to have <a href='/access/guide/investigators.html'>access</a> to shared data in the library.</p>
-		<p>The <a href='/access/policies/agreement.html'>Databrary Access Agreement</a> must be signed by both the <em>authorized investigator</em> and the Institution; an <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. You can <a href="/register">register</a> today to begin the authorization process.</p>
+		<p>Investigators must be authorized through their university or institution to have <a href='/resources/guide/investigators.html'>access</a> to shared data in the library.</p>
+		<p>The <a href='/resources/agreement.html'>Databrary Access Agreement</a> must be signed by both the <em>authorized investigator</em> and the Institution; an <em>affiliate</em> must be sponsored by an <em>authorized investigator</em>. You can <a href="/register">register</a> today to begin the authorization process.</p>
 	</div>
 </section>
 <section class="question">
 	<h3>How do I cite data from Databrary?</h3>
 	<div>
 		<p>Every volume is provided with a Databrary specific citation. Please go to the volume page and use the citation listed under "How To Cite" to ensure that the contributor receives proper credit.</p>
-		<p>Please also <a href='/access/guide/investigators/citing.html'>reference Databrary and Datavyu</a> in your publication, if you used Databrary to share, store, or manage your own research data, shared excerpts illustrating your procedure or findings, used Datavyu to code your data, or if you reused an existing Databrary volume.</p>
+		<p>Please also <a href='/resources/guide/investigators/citing.html'>reference Databrary and Datavyu</a> in your publication, if you used Databrary to share, store, or manage your own research data, shared excerpts illustrating your procedure or findings, used Datavyu to code your data, or if you reused an existing Databrary volume.</p>
 	</div>
 </section>
 <section class="question">
@@ -68,7 +68,7 @@ Order: 1200
 <section class="question">
 	<h3>When should I share data?</h3>
 	<div>
-		<p>Funding agency requirements and journal standards about data sharing are evolving. Databrary's philosophy about Data Sharing is embodied in our <a href='/access/policies/data-sharing-manifesto.html'>Data Sharing Manifesto</a>. We believe sharing data will accelerate the pace of discovery and will lead to stronger, more transparent science. Unless required by journals or funding agencies, you are never required by Databrary to share data if you do not wish to do so.</p>
+		<p>Funding agency requirements and journal standards about data sharing are evolving. Databrary's philosophy about Data Sharing is embodied in our <a href='/resources/policies/data-sharing-manifesto.html'>Data Sharing Manifesto</a>. We believe sharing data will accelerate the pace of discovery and will lead to stronger, more transparent science. Unless required by journals or funding agencies, you are never required by Databrary to share data if you do not wish to do so.</p>
 		<p>Sharing data is easier when you have the intent to share from the beginning of a data collection. We recommend collecting and storing data on Databrary from the beginning of a study so when you’re finished running it, sharing the study simply requires a click of one button. We call this process “Upload as you go.”</p>
 		<p>Sharing can happen at any point in a study. You might not know exactly when you want to share but we suggest getting permission to share from your participants so you have the ability to share your data in the future.</p>
 	</div>
@@ -77,17 +77,17 @@ Order: 1200
 <section class="question">
 	<h3>Can I share data I've already collected?</h3>
 	<div>
-		<p>Some investigators already ask research participants for permission to share <a href='/access/policies/definitions.html#recordings'>recordings</a> with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of a video, audio or photograph release form that is similar to Databrary's. 
+		<p>Some investigators already ask research participants for permission to share <a href='/resources/policies/definitions.html#recordings'>recordings</a> with other researchers or to show them for educational or scientific purposes. This permission is often acquired by means of a video, audio or photograph release form that is similar to Databrary's. 
 		In this case, some recordings that have already been collected might be shared with Databrary. If you have language that gives you permission to share or show recordings, you may apply to share these data with Databrary if your IRB rules that your release language is equivalent to Databrary's, or that your data require no such release to share.
-		See <a href='/access/guide/investigators/release/grandfathering-data.html'>Grandfathering Data</a> for more information.</p>
+		See <a href='/resources/guide/investigators/release/grandfathering-data.html'>Grandfathering Data</a> for more information.</p>
 	</div>
 </section>
 
 <section class="question">
 	<h3>What about privacy?</h3>
 	<div>
-		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information, special care must be taken. The principles of informed consent enable participants to decide for themselves whether or not they will allow their data to be shared with other researchers for other research purposes. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href='/access/policies/release-template.html'>template documents</a> for this purpose.</p>
-		<p>In other data formats such as text files and spreadsheets, participants must not be denoted by names or initials. Personally identifying information must be removed before data are contributed. Databrary recommends that authorized investigators adopt <a href='/access/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/access/policies/bill-of-rights.html'>Databrary Bill of Rights</a>.</p>
+		<p>Because video and audio recordings and photographs may depict faces, voices, names, or other personally identifying information, special care must be taken. The principles of informed consent enable participants to decide for themselves whether or not they will allow their data to be shared with other researchers for other research purposes. The people depicted must give explicit permission for the recordings or photographs to be shared with Databrary. Databrary has created <a href='/resources/policies/release-template.html'>template documents</a> for this purpose.</p>
+		<p>In other data formats such as text files and spreadsheets, participants must not be denoted by names or initials. Personally identifying information must be removed before data are contributed. Databrary recommends that authorized investigators adopt <a href='/resources/policies/best-practices.html'>best practices for data security</a> and uphold the <a href='/resources/policies/bill-of-rights.html'>Databrary Bill of Rights</a>.</p>
 	</div>
 </section>
 

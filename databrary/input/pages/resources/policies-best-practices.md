@@ -1,5 +1,5 @@
-Title: Policies
-Brief: Policies
+Title: Policies and Best Practices
+Brief: Policies and Best Practices
 Order: 4000
 
 
@@ -7,9 +7,9 @@ The following documents may be useful to researchers preparing funding proposals
 
 - Boilerplate [Data Management Plan](|filename|policies/dmp-template.mdi) language for grant applications.
 
-- Databrary [Access Agreement](|filename|policies/agreement.mdi), [.pdf](/policies/agreement.pdf).
+- Databrary [Access Agreement](|filename|agreement.mdi), [.pdf](/agreement.pdf).
 
-- Details of Databrary Access Agreement (DAA) [revisions](|filename|policies/agreement-revision.mdi) made in September, 2017.
+- Details of Databrary Access Agreement (DAA) [revisions](|filename|agreement-revision.mdi) made in September, 2017.
 
 - Databrary [Participant Release Template](|filename|policies/release-template.mdi), [.docx](/policies/release-template.docx), [.pdf](/policies/release-template.pdf) to inform participants about sharing data and obtain consent for sharing.
 
