@@ -1,3 +1,5 @@
 Redirect /project /about
-Redirect /pdf /policies
-Redirect /doc /policies
+Redirect /pdf /templates
+Redirect /doc /templates
+Redirect /access /resources
+Redirect /policies /policies-best-practices
