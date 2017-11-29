@@ -17,4 +17,7 @@ Redirect /resources/policies-best-practices/staff-release.html /resources/templa
 Redirect /access/policies/staff-agreement.html /resources/templates/staff-agreement.html
 Redirect /resources/policies-best-practices/staff-agreement.html /resources/templates/staff-agreement.html
 Redirect /access/policies.html /resources/policies-best-practices.html
+Redirect /resources/policies.html /resources/policies-best-practices.html
 Redirect /access.html /resources.html
+Redirect /access/responsibilities.html /resources/policies-best-practices/responsibilities.html
+Redirect /resources/responsibilities.html /resources/policies-best-practices/responsibilities.html
