@@ -1,6 +1,6 @@
 Redirect /project /about
-Redirect /pdf /templates
-Redirect /doc /templates
+Redirect /pdf /policies
+Redirect /doc /policies
 Redirect /access /resources
 Redirect /policies /policies-best-practices
 Redirect /access/responsibilities /resources/policies-best-practices/responsibilities
