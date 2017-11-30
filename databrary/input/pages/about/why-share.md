@@ -3,6 +3,7 @@ Brief: Why Share Video Data?
 Order: 1120
 
 When developmental scientists share research data (e.g., CHILDES, AddHealth, ECLS, Early Head Start), the field grows and prospers. In addition, data sharing:
+
 - meets funder and journal requirements, 
 - reflects our duty to participants and other scientists, 
 - improves scientific practices by increasing transparency and reproducibility, and 
