@@ -136,7 +136,16 @@ img {
 }
 
 table {
+	font-size: 0.75em;
 	width: 100%;
+}
+
+table.ethics-oversight {
+	font-size: 1em;
+}
+
+table.ethics-oversight td {
+	padding: 5px;
 }
 
 thead {

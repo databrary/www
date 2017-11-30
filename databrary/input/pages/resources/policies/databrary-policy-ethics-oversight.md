@@ -28,7 +28,7 @@ Databrary consulted with officials from the New York University (NYU) legal depa
 
 We are aware of implications for international researchers in the following countries:
 
-<table>
+<table class="ethics-oversight">
 	<tr>
 		<td><strong>Germany</strong></td>
 		<td>Oversight only required for sensitive research (e.g., HIV, genetics)</td>
