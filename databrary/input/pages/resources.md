@@ -8,7 +8,7 @@ Our [User Guide](|filename|resources/guide.md) contains information for institut
 
 All Databrary policy documents are posted in our [policies](|filename|resources/policies.md) section. 
 
-A variety of templates for asking for permission to share data, data management plans, talking to your IRB, etc., are availablein our [templates](|filename|resources/templates.md) section. 
+A variety of templates for asking for permission to share data, data management plans, talking to your IRB, etc., are available in our [templates](|filename|resources/templates.md) section. 
 
 #Overview
 
