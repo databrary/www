@@ -9,6 +9,7 @@ The Databrary Project aims to promote data sharing, archiving, and reuse among r
 # Components
 
 The Databrary Project has two main components:
+
 [Databrary](http://databrary.org)
 
 :   A digital data library specialized for storing, managing, preserving, analyzing, and sharing video. Databrary also provides a set of tools that enable researchers to upload video and other materials as they are generated, thus reducing barriers to sharing.
