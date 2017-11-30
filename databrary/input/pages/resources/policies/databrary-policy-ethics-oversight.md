@@ -2,7 +2,7 @@ Title: Databrary Policy on Ethics Oversight
 Brief: Databrary Policy on Ethics Oversight
 Order: 4040
 
-## Databrary Policy on Ethics Oversight
+# Databrary Policy on Ethics Oversight
 
 (Revised 09/15/2017)
 
