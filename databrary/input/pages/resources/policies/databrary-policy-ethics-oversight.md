@@ -7,6 +7,7 @@ Order: 4040
 (Revised 09/15/2017)
 
 As stated in the Databrary Access Agreement, in order to access Databrary, we require that authorized investigators:
+
 1.	Belong to an institution that maintains an ethics or Institutional Review Board with U.S.-equivalent standards that reviews and approves research involving human subjects;
 2.	Have current research ethics training that addresses human subjects policy and issues; and
 3.	Are eligible to conduct independent research at their institution.
