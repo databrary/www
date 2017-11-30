@@ -1,5 +1,5 @@
-Title: Press and publications
-Brief: Press and publications
+Title: Press and Publications
+Brief: Press and Publications
 Order: 1700
 
 # Published articles, chapters, and reports

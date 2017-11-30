@@ -453,10 +453,6 @@ ul.inline li {
 	color: inherit;
 }
 
-.site_main h2:not(:first-of-type) {
-	margin-bottom: 0;
-}
-
 .site_main h2:first-of-type {
 	margin-top: 0;
 }
