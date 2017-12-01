@@ -20,7 +20,7 @@ The Databrary Project aims to promote data sharing, archiving, and reuse among r
 
 # Share
 
-<p style="margin-bottom: 14px;">When developmental scientists share research data (e.g., CHILDES, AddHealth, ECLS, Early Head Start), [the field grows and prospers](|filename|about/why-share.md). In addition, data sharing:</p>
+<p style="margin-bottom: 14px;">When developmental scientists share research data (e.g., CHILDES, AddHealth, ECLS, Early Head Start), <a href="https://www.databrary.org/about/why-share.html">the field grows and prospers</a>. In addition, data sharing:</p>
 
 - meets funder and journal requirements, 
 - reflects our duty to participants and other scientists, 
