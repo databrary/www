@@ -8,7 +8,7 @@ The Databrary Project aims to promote data sharing, archiving, and reuse among r
 
 # Components
 
-The Databrary Project has two main components:
+<p style="margin-bottom: 14px;">The Databrary Project has two main components:</p>
 
 [Databrary](http://databrary.org)
 
