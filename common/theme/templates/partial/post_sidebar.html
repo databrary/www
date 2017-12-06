@@ -10,12 +10,5 @@
 			<p>There are no scheduled events.</p>
 		{% endif %}
 
-		{% if articles|recent|length > 0 %}
-			<h2 class="special_head">Recent Events</h2>
-
-			{% for article in articles|recent %}
-				{% include 'partial/post_event.html' %}
-			{% endfor %}
-		{% endif %}
 	{% endfor %}
 </aside>
