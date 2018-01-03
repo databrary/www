@@ -140,6 +140,14 @@ table {
 	width: 100%;
 }
 
+table.ethics-oversight {
+	font-size: 1em;
+}
+
+table.ethics-oversight td {
+	padding: 5px;
+}
+
 thead {
 	vertical-align: bottom;
 }
@@ -451,10 +459,6 @@ ul.inline li {
 
 .site_main h1.entry-title a:hover {
 	color: inherit;
-}
-
-.site_main h2 {
-	margin-bottom: 0;
 }
 
 .site_main h2:first-of-type {

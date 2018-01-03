@@ -32,16 +32,10 @@
     {% endif %}
 
     <nav class="toolbar_user">
-      {% if TOPRIGHT_TEXT2 %}     
-      <a href="{{TOPRIGHT_TARGET2}} ">{{TOPRIGHT_TEXT2}}</a>
-      <span> | </span>
-      {% endif %}
-      {% if TOPRIGHT_TEXT1 %}
-      <a href="{{TOPRIGHT_TARGET1}} ">{{TOPRIGHT_TEXT1}}</a>
-      <span> | </span>
 
       <label class="collapse" for="_1">
         <img src="/theme/img/icons/search.svg"/>
+        <a class="hide-mobile hide-tablet" style="font-weight:normal;cursor:pointer;color:#4a8479;">Search</a>
       </label>
       <input id="_1" type="checkbox">
       <div class="toolbar_hover_search">
@@ -51,7 +45,10 @@
       </div>
 
       <span> | </span>
-      {% endif %}
-      <a href="mailto:feedback@databrary.org"><img src="/theme/img/icons/contact.png"/></a>
+
+      <a href="mailto:feedback@databrary.org">
+        <img src="/theme/img/icons/contact.png"/>
+        <span class="hide-mobile hide-tablet" style="color: #4a8479;">Contact</span>
+      </a>
     </nav>    
 </section>

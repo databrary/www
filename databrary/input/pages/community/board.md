@@ -110,8 +110,9 @@ Order: 4100
 : Director, UM Sib Smile
 :	University of Miami
 
-[Laura Namy](http://psychology.emory.edu/home/people/faculty/namy-laura.html)
+[Laura Namy](https://www.srcd.org/about-us/news-announcements/srcd-appoints-new-executive-director)
 : Professor of Psychology
+: Executive Director, Society for Research on Child Development
 : Emory University
 
 [Nora Newcombe](http://www.cla.temple.edu/psychology/faculty/nora-newcombe/)

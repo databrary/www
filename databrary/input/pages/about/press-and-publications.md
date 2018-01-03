@@ -1,5 +1,5 @@
-Title: Press and publications
-Brief: Press and publications
+Title: Press and Publications
+Brief: Press and Publications
 Order: 1700
 
 # Published articles, chapters, and reports
@@ -33,7 +33,7 @@ Gilmore, R. O., Gummer, E., & Koedinger, K. (2015). Collaborating on tools, infr
 
 Gordon, A. S., Adolph, K. A., Gilmore, R. O., Millman, D. S., Steiger, L., & Simon, D. A. (2015, June). *Databrary: Enabling sharing and reuse of research video*. Poster presented at the Proceedings Of The 15th ACM/IEEE Joint Conference On Digital Libraries, Knoxville, TN. doi:10.1145/2756406.2756951. [PDF of poster](https://github.com/databrary/presentations/blob/master/jcdl-15/poster/poster_landscape.pdf).
 
-Gordon, A. S., Steiger, L., & Adolph, K. E., (2017). Losing research data due to lack of curation and preservation. In L. Johnston (Ed.), *Curating research data, Volume 2: A handbook of current practice* (pp. 108-115). Chicago, IL: Association of College and Research Libraries. [PDF of chapter](https://www.databrary.org/files/pub-curating-research-data-case-study.pdf).
+Gordon, A. S., Steiger, L., & Adolph, K. E. (2017). Losing research data due to lack of curation and preservation. In L. Johnston (Ed.), *Curating research data, Volume 2: A handbook of current practice* (pp. 108-115). Chicago, IL: Association of College and Research Libraries. [PDF of chapter](https://www.databrary.org/files/pub-curating-research-data-case-study.pdf).
 
 Gordon, A., Millman, D. S., Steiger, L., Adolph, K. E., & Gilmore, R. O. (2015). Researcher-library collaborations: Data repositories as a service for researchers. *Journal of Librarianship and Scholarly Communication*, *3*(2), eP1238. [http://dx.doi.org/10.7710/2162-3309.1238](http://dx.doi.org/10.7710/2162-3309.1238)
 
