@@ -2,7 +2,7 @@ Title: Contributing Data
 Brief: Contributing
 Order: 5210
 
-Databrary encourages *authorized investigators* to share the products of their scientific work including raw video data, video excerpts, behavioral and physiological data, metadata, coding manuals, coding spreadsheets, lab notebooks, analysis code, figures, links to publications resulting from data, manuscripts that are not copyrighted, and other materials.
+Databrary encourages *authorized investigators* to share the products of their scientific work including raw video data, video clips, behavioral and physiological data, metadata, coding manuals, coding spreadsheets, lab notebooks, analysis code, figures, links to publications resulting from data, manuscripts that are not copyrighted, and other materials.
 
 *Affiliates* can share materials only under the auspices of an *authorized investigator*.
 
