@@ -58,6 +58,9 @@ Order: 1800
 
 
 # Newsletter Archives
+## November 2017
+* [Fall Newsletter](https://mailchi.mp/databrary/5fohrziubz)
+
 ## February 2017
 * [Spring Newsletter](http://eepurl.com/cz8ahb)
 
