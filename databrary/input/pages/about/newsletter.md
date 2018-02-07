@@ -2,6 +2,18 @@ Title: Newsletter
 Brief: Newsletter
 Order: 1800
 
+<iframe src="https://mailchi.mp/databrary/5fohrziubz#Top" style="
+    width: 115%;
+    height: 400px;
+    -webkit-transform: scale(0.93);
+    transform: scale(0.93);
+    margin-left: -35px;
+    -moz-transform: scale(0.93);
+    margin-top: -20px;
+">
+    View it here: https://mailchi.mp/databrary/5fohrziubz#Top
+</iframe>
+
 # Join our Mailing List
 <br>
 <form action="//databrary.us2.list-manage.com/subscribe/post?u=4b4fa9408b40cd79e92f748e5&amp;id=5e3dc09e43" method="post" target="_blank" novalidate>

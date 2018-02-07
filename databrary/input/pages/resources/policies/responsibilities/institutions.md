@@ -10,7 +10,7 @@ The Databrary Access Agreement grants user and contributor privileges to all sha
 
 Approval for research involving human subjects is **not** required by Databrary in order to become an *authorized investigator*. 
 Institutions should remember that *authorized investigator*s agree to seek whatever approvals are required by their institution for their use of Databrary. Typically, contributing data and conducting research using Databrary resources require institutional approval for research involving human subjects. 
-However, many uses of Databrary are for pre-research or non-research purposes (e.g. browsing data for ideas, getting *excerpts*  for teaching or talks, learning about procedures or methods) and do not typically require institutional approval for research involving human subjects. 
+However, many uses of Databrary are for pre-research or non-research purposes (e.g. browsing data for ideas, getting *video clips* for teaching or talks, learning about procedures or methods) and do not typically require institutional approval for research involving human subjects. 
 
 ## When Authorizing Investigators
 

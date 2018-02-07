@@ -9,7 +9,7 @@ There are many ways to use Databrary. With it, researchers may:
 
 ## Inform
 - Enhance teaching by extracting video clips that illustrate an empirical or theoretical point and which can be shown to students.
-- Point readers and reviewers to excerpts (or, if authorized, to raw video data) that illustrate procedures and findings.
+- Point readers and reviewers to video clips (or, if authorized, to raw video data) that illustrate procedures and findings.
 
 ## Draw inspiration
 - View archived data for exemplars.

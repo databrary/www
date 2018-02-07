@@ -16,7 +16,7 @@ If you already use a video/audio or photo release form and want to find out whet
 1. Seek formal permission from your IRB
 	- If your release permits you to show recordings in educational or scientific settings, then you may apply for formal permission from your IRB to share these recordings with Databrary.
 1. Determine what [sharing permission level](|filename|release-levels.md) applies
-	- You will have to determine whether your current release means that recordings can be shared only for research use by other Databrary Investigators or whether excerpts can be shown in educational and scientific contexts.
+	- You will have to determine whether your current release means that recordings can be shared only for research use by other Databrary Investigators or whether clips from those recordings can be shown in educational and scientific contexts.
 1. Share data with Databrary
 	- You may create a new dataset or study yourself or [contact Databrary](mailto:help@databrary.org) for help in doing so.
 

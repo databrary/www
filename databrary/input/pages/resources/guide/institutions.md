@@ -10,7 +10,7 @@ Databrary seeks to reduce barriers to data sharing to make it the norm, not the 
 ## Video enables use cases that extend beyond research
 
 Unlike many forms of flat-file, text-based Data, video is, to a large degree, self-documenting.
-As a result, we anticipate that most Databrary Investigators and Affiliates will use Databrary for a variety of pre-research or non-research uses, including viewing videos for methodological details or procedural examples or to find excerpts for teaching or scientific presentations.
+As a result, we anticipate that most Databrary Investigators and Affiliates will use Databrary for a variety of pre-research or non-research uses, including viewing videos for methodological details or procedural examples or to find video clips for teaching or scientific presentations.
 
 Since video data is inherently identifiable, all users must become [authorized](|filename|investigators/authorization.md) to access any of the shared data on Databrary. 
 Databrary's access model is unique in that authorized investigators are granted user and contributor privileges to all shared data in the library. 
