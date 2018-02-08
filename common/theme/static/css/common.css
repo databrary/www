@@ -2280,4 +2280,7 @@ table.docutils,
 .site_main .article h1.entry-title {
 	text-shadow: -1px 0 2px #FBF4EF;
 }
+.question h3 {
+	cursor: pointer;
+}
 

@@ -166,6 +166,13 @@ Order: 3010
 </section>
 
 <section class="question">
+	<h3>I just shared my volume. Why can't my colleague download a data file?</h3>
+	<div>
+		<p>Databrary restricts access to data files based on the permission level you have selected for that file. It might be that your colleague is not an authorized Databrary user or is not logged in. It is also possible that the permission level you have set for the data file is set to Unreleased or Private, which limits access to you and your affiliates. You can select a higher release level if you have participants' permission to share with other researchers.</p>
+	</div>
+</section>
+
+<section class="question">
 	<h3>How do I download a specific file?</h3>
 	<div>
 		<p>Go to the session that contains the desired file, select it on the timeline, and select the download button on the "Viewer" window.</p>
