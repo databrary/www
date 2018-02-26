@@ -2284,3 +2284,18 @@ table.docutils,
 	cursor: pointer;
 }
 
+#page_about_about-databrary {
+	table {
+		th:first-of-type {
+			width: 30%;
+		}
+		th:nth-of-type(2) {
+			width: 15%;
+		}
+		img {
+			width: 40px;
+			margin:5px;
+		}
+	}
+}
+
