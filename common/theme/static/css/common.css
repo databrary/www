@@ -2284,7 +2284,7 @@ table.docutils,
 	cursor: pointer;
 }
 
-.site_main #page_about_about-databrary {
+#site_main #page_about_about-databrary {
 	table {
 		th:first-of-type {
 			width: 30%;
