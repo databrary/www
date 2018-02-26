@@ -486,6 +486,7 @@ ul.inline li {
 	/* margin-bottom: 28px; */
 	max-width: 100%;
 	height: auto;
+	width: 50px;
 }
 
 .site_main pre {
