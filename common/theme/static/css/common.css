@@ -2291,14 +2291,20 @@ table.docutils,
 #page_about_about-databrary table th:nth-of-type(2) {
 	width: 25%;
 }
-#page_about_about-databrary table td {
+#page_about_about-databrary table td, #page_resources_guide_investigators_release_release-levels table td {
 	padding:5px;
 }
-#page_about_about-databrary table img {
-	width: 42px;
-	padding: 8px;
+#page_about_about-databrary table img, #page_resources_guide_investigators_release_release-levels table img {
+	width: 50px;
+	padding: 5px;
 }
 #page_about_about-databrary table span {
     vertical-align: top;
     line-height: 32px;
+}
+#page_about_about-databrary table, #page_resources_guide_investigators_release_release-levels table {
+    font-size: 1em;
+}
+#page_about_about-databrary table th, #page_resources_guide_investigators_release_release-levels table th {
+	font-weight:bold;
 }
