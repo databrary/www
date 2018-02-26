@@ -12,7 +12,7 @@ This framework ensures maximal protection of participant confidentiality while s
 
 |I’m using Databrary to…| IRB/Ethics Board Permission Required? | Participant Permission Level Required |
 |------|---------------|--------------------------------------------------------|
-|…browse others’ research.| No | <img src="https://nyu.databrary.org/web/icons/release/shared.svg"> Authorized Users <br /><img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> Learning Audiences<br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> Public
+|…browse others’ research.| No | <img src="https://nyu.databrary.org/web/icons/release/shared.svg"> <span>Authorized Users</span> <br /><img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> <span>Learning Audiences</span><br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> <span>Public</span>
 |
 |…find clips for teaching or talks.| No | <img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> Learning Audiences<br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> Public
 |

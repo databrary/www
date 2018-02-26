@@ -2286,10 +2286,13 @@ table.docutils,
 }
 
 #page_about_about-databrary table th:first-of-type {
-	width: 30%;
+	width: 33%;
 }
 #page_about_about-databrary table th:nth-of-type(2) {
-	width: 15%;
+	width: 25%;
+}
+#page_about_about-databrary table td {
+	padding:5px;
 }
 #page_about_about-databrary table img {
 	width: 42px;
