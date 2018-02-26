@@ -14,13 +14,13 @@ This framework ensures maximal protection of participant confidentiality while s
 |------|---------------|--------------------------------------------------------|
 |…browse others’ research.| No | <img src="https://nyu.databrary.org/web/icons/release/shared.svg"> <span>Authorized Users</span> <br /><img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> <span>Learning Audiences</span><br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> <span>Public</span>
 |
-|…find clips for teaching or talks.| No | <img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> Learning Audiences<br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> Public
+|…find clips for teaching or talks.| No | <img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> <span>Learning Audiences</span><br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> <span>Public</span>
 |
-|…store my own research data (e.g., video or audio files, survey results, assessments).| Sometimes – Institution Specific, Check with your IRB | <img src="https://nyu.databrary.org/web/icons/release/private.svg"> Private <br /><img src="https://nyu.databrary.org/web/icons/release/shared.svg"> Authorized Users <br /><img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> Learning Audiences<br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> Public
+|…store my own research data (e.g., video or audio files, survey results, assessments).| Sometimes – Institution Specific, Check with your IRB | <img src="https://nyu.databrary.org/web/icons/release/private.svg"> <span>Private</span> <br /><img src="https://nyu.databrary.org/web/icons/release/shared.svg"> <span>Authorized Users</span> <br /><img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> <span>Learning Audiences</span><br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> <span>Public</span>
 |
 |…store  my materials (e.g., stimuli, procedural videos).|No | N/A
 |
-|…re-use other researchers’ data shared on Databrary.|Always | <img src="https://nyu.databrary.org/web/icons/release/shared.svg"> Authorized Users <br /><img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> Learning Audiences<br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> Public
+|…re-use other researchers’ data shared on Databrary.|Always | <img src="https://nyu.databrary.org/web/icons/release/shared.svg"> <span>Authorized Users</span> <br /><img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> <span>Learning Audiences</span><br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> <span>Public</span>
 |
-|…share my own data on Databrary.| Always| <img src="https://nyu.databrary.org/web/icons/release/shared.svg"> Authorized Users <br /><img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> Learning Audiences<br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> Public
+|…share my own data on Databrary.| Always| <img src="https://nyu.databrary.org/web/icons/release/shared.svg"> <span>Authorized Users</span> <br /><img src="https://nyu.databrary.org/web/icons/release/excerpts.svg"> <span>Learning Audiences</span><br /><img src="https://nyu.databrary.org/web/icons/release/public.svg"> <span>Public</span>
 |
