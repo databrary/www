@@ -4,9 +4,7 @@ Order: 1000
 
 # Overview
 
-The Databrary Project aims to promote data sharing, archiving, and reuse among researchers who study human development. The project focuses on creating tools for scientists to store, manage, preserve, analyze, and share video and related data. The project is based at [New York University](http://www.nyu.edu) and at [Penn State](http://www.psu.edu). The U.S. National Science Foundation (NSF) and the U.S. National Institutes of Health (NIH) have provided funding. 
-
-[Read more.](https://www.databrary.org/about/about-databrary.html)
+The Databrary Project aims to promote data sharing, archiving, and reuse among researchers who study human development. The project focuses on creating tools for scientists to store, manage, preserve, analyze, and share video and related data. The project is based at [New York University](http://www.nyu.edu) and at [Penn State](http://www.psu.edu). The U.S. National Science Foundation (NSF) and the U.S. National Institutes of Health (NIH) have provided funding. [Read more...](https://www.databrary.org/about/about-databrary.html)
 
 # Components
 
