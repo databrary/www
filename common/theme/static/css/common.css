@@ -2285,18 +2285,14 @@ table.docutils,
 	cursor: pointer;
 }
 
-#site_main #page_about_about-databrary {
-	table {
-		th:first-of-type {
-			width: 30%;
-		}
-		th:nth-of-type(2) {
-			width: 15%;
-		}
-		img {
-			width: 50px;
-			margin:5px;
-		}
-	}
+#page_about_about-databrary table th:first-of-type {
+	width: 30%;
+}
+#page_about_about-databrary table th:nth-of-type(2) {
+	width: 15%;
+}
+#page_about_about-databrary table img {
+	width: 42px;
+	padding: 8px;
 }
 
