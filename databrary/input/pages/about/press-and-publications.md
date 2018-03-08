@@ -45,6 +45,8 @@ Kennedy, J. L., Adolph, K. A., & Gilmore, R. O. (2017, August 21). Video and rep
 
 Johri, A. (2015). Open up engineering education research. *ASEE Prism*, *25*(2), 56.[PDF of publication](https://www.asee.org/documents/publications/prism/2015-ASEE-PRISM-Magazine-25-2.pdf).
 
+Meyer, M. N. (2018). Practical Tips for Ethical Data Sharing. *Advances in Methods and Practices in Psychological Science*. [doi: 10.1177/2515245917747656](https://doi.org/10.1177/2515245917747656)
+
 Tay, L., Jebb, A. T., & Woo, S. E. (2017). Video capture of human behaviors: toward a Big Data approach. *Current Opinion In Behavioral Sciences*, *18*, 17-22. doi:10.1016/j.cobeha.2017.05.026
 
 
