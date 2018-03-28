@@ -2280,4 +2280,39 @@ table.docutils,
 .site_main .article h1.entry-title {
 	text-shadow: -1px 0 2px #FBF4EF;
 }
+.question h3 {
+	cursor: pointer;
+}
 
+#page_about_about-databrary table th:first-of-type {
+	width: 37%;
+}
+#page_about_about-databrary table th:nth-of-type(2) {
+	width: 25%;
+}
+#page_about_about-databrary table td, #page_resources_guide_investigators_release_release-levels table td {
+	padding:5px;
+}
+#page_about_about-databrary table img {
+	width: 42px;
+}
+#page_about_about-databrary table img, #page_resources_guide_investigators_release_release-levels table img {
+	padding: 7px;
+}
+#page_about_about-databrary table span {
+    vertical-align: top;
+    line-height: 32px;
+}
+#page_about_about-databrary table, #page_resources_guide_investigators_release_release-levels table {
+    font-size: 1em;
+}
+#page_about_about-databrary table th, #page_resources_guide_investigators_release_release-levels table th {
+	font-weight: bold;
+    font-family: Arial;
+    vertical-align: middle;
+    border: 1px solid #ccc;
+    background-color: #eee;
+}
+#page_about_about-databrary table tr td:nth-of-type(2), #page_resources_guide_investigators_release_release-levels table td:nth-of-type(2) {
+	text-align:center;
+}

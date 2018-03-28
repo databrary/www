@@ -1,6 +1,6 @@
 Title: Mission
 Brief: Mission
-Order: 1000
+Order: 1100
 
 Our mission is to promote sharing and reuse of video data.
 Most developmental scientists rely on video recordings to capture the complexity and richness of behavior. However, researchers rarely share video data, and this has impeded scientific progress. 

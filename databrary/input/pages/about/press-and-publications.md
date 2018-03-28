@@ -9,6 +9,8 @@ Adolph, K. E. (2016). Video as data: From transient behavior to tangible recordi
 
 Adolph, K. E., Gilmore, R. O., Freeman, C., Sanderson, P., & Millman, D. (2012). Toward open behavioral science. *Psychological Inquiry*, *23*(3), 244-247. [http://doi.org/10.1080/1047840X.2012.705133](http://doi.org/10.1080/1047840X.2012.705133).
 
+Adolph, K. A., Gilmore, R. O., & Kennedy, J. L. (2017, October). Video data and documentation will improve psychological science. *Psychological Science Agenda.* Retrieved from [http://www.apa.org/science/about/psa/2017/10/video-data.aspx](http://www.apa.org/science/about/psa/2017/10/video-data.aspx).
+
 Adolph, K. E., Tamis-LeMonda, C. S., & Gilmore, R. O. (2016, December). *Object, locomotion, and language coding protocol for the PLAY Project*. Retrieved January 19, 2017, from [https://dev1.ed-projects.nyu.edu/wikis/docuwiki](https://dev1.ed-projects.nyu.edu/wikis/docuwiki)
 
 Dressler, V. (2015). Databrary. *Reference Reviews*, *29*(4), 32-39. [https://doi.org/10.1108/RR-12-2014-0336](https://doi.org/10.1108/RR-12-2014-0336)
@@ -31,6 +33,8 @@ Gilmore, R. O., Diaz, M. T., Wyble, B. A., & Yarkoni, T. (2017). Progress toward
 
 Gilmore, R. O., Gummer, E., & Koedinger, K. (2015). Collaborating on tools, infrastructures, and repositories. In Dede, C. (Ed.), *Data-intensive research in education: Current work and next steps. [Report on two National Science Foundation-sponsored computing research education workshops]* (pp. 63-73). Computing Research Association. [PDF of publication](http://cra.org/wp-content/uploads/2015/10/CRAEducationReport2015.pdf).
 
+Gilmore, R. O., Kennedy, J. L., & Adolph, K. A. (2018, January). Practical solutions for sharing data and materials from psychological research. *Advances in Methods and Practices in Psychological Science.* [https://doi.org/10.1177/2515245917746500](https://doi.org/10.1177/2515245917746500)
+
 Gordon, A. S., Adolph, K. A., Gilmore, R. O., Millman, D. S., Steiger, L., & Simon, D. A. (2015, June). *Databrary: Enabling sharing and reuse of research video*. Poster presented at the Proceedings Of The 15th ACM/IEEE Joint Conference On Digital Libraries, Knoxville, TN. doi:10.1145/2756406.2756951. [PDF of poster](https://github.com/databrary/presentations/blob/master/jcdl-15/poster/poster_landscape.pdf).
 
 Gordon, A. S., Steiger, L., & Adolph, K. E. (2017). Losing research data due to lack of curation and preservation. In L. Johnston (Ed.), *Curating research data, Volume 2: A handbook of current practice* (pp. 108-115). Chicago, IL: Association of College and Research Libraries. [PDF of chapter](https://www.databrary.org/files/pub-curating-research-data-case-study.pdf).
@@ -44,6 +48,8 @@ Kennedy, J. L., Adolph, K. A., & Gilmore, R. O. (2017, August 21). Video and rep
 
 
 Johri, A. (2015). Open up engineering education research. *ASEE Prism*, *25*(2), 56.[PDF of publication](https://www.asee.org/documents/publications/prism/2015-ASEE-PRISM-Magazine-25-2.pdf).
+
+Meyer, M. N. (2018). Practical Tips for Ethical Data Sharing. *Advances in Methods and Practices in Psychological Science*. [doi: 10.1177/2515245917747656](https://doi.org/10.1177/2515245917747656)
 
 Tay, L., Jebb, A. T., & Woo, S. E. (2017). Video capture of human behaviors: toward a Big Data approach. *Current Opinion In Behavioral Sciences*, *18*, 17-22. doi:10.1016/j.cobeha.2017.05.026
 
