@@ -6,13 +6,13 @@ Databrary is home to developmental and education researchers who use video data 
 
 # Authorized investigators
 
-View the [authorized investigators](|filename|community/investigators.md) who have joined the Databrary community, agreed to abide by the [Statement of Rights and Responsibilities ](|filename|resources/responsibilities.md), and obtained authorization through their institution to access data. Authorized investigators can explore data, authorize affiliates, upload data and manage their ongoing studies, post clips or exemplars of their own work, and share their data with other authorized researchers. 
+View the [authorized investigators](|filename|community/investigators.md) who have joined the Databrary community, agreed to abide by the [Statement of Rights and Responsibilities ](|filename|resources/policies/responsibilities.md), and obtained authorization through their institution to access data. Authorized investigators can explore data, authorize affiliates, upload data and manage their ongoing studies, post clips or exemplars of their own work, and share their data with other authorized researchers. 
 
 # Authorized institutions
 
 View the [institutions](|filename|community/institutions.md) that have granted researchers *authorized investigator* status to access Databrary shared resources. 
 
-An institution grants *authorized investigator* status by verifying that it agrees to the [Rights and Responsibilities of Institutions](|filename|resources/responsibilities/institutions.md) and by co-signing a researcher's [Databrary Access Agreement](|filename|resources/agreement.mdi).
+An institution grants *authorized investigator* status by verifying that it agrees to the [Rights and Responsibilities of Institutions](|filename|resources/policies/responsibilities/institutions.md) and by co-signing a researcher's [Databrary Access Agreement](|filename|resources/agreement.mdi).
 
 # Advisory Board
 
