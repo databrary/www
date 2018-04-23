@@ -182,7 +182,7 @@ Order: 3010
 <section class="question">
 	<h3>How do I download an entire volume?</h3>
 	<div>
-		<p>On the volume page, scroll down to the bottom of the "Data" section. Select "Download all files as zip."</p>
+		<p>On the volume page, scroll down to the bottom of the "Data" section. Select "Download all files as zip." A new window will open up. Choose "Download" for the Transcoded .mp4 video files and "Download Original" for the video files in the file format that was uploaded to Databrary.</p>
 	</div>
 </section>
 
