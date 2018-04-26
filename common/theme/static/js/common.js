@@ -144,4 +144,9 @@ $(document).ready(function () {
 	dbjs.carousel('.carousel', '.panel');
 	dbjs.anchorScroll();
 	dbjs.sidebarScroll();
+	if($('h1.entry-title').text().indexOf('Support') > -1) {
+		$('.contactus').css('visibility', 'hidden');
+	}
 });
+
+

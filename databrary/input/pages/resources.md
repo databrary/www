@@ -2,7 +2,7 @@ Title: Resources
 Brief: Resources
 Order: 2000
 
-The [rights and responsibilities](|filename|resources/responsibilities.md) of researchers (*authorized investigators* and their *affiliates*) and their institutions are explained in the following pages. 
+The [rights and responsibilities](|filename|resources/policies/responsibilities.md) of researchers (*authorized investigators* and their *affiliates*) and their institutions are explained in the following pages. 
 
 Our [User Guide](|filename|resources/guide.md) contains information for institutions and researchers about how to access and use Databrary.
 
