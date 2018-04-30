@@ -1,6 +1,7 @@
 Title: Java Desktop Application Developer
 Brief: Datavyu
 Order: 2000
+Status: hidden
 
 # Position Summary
 The Databrary project is looking for a smart and motivated Desktop Application developer to join its technical team. The developer will act as the primary owner of our unique, research-enabling, open source cross-platform desktop video annotation and analysis application (Datavyu.org). Working closely with the managing director, the PIs and research scientists, the developer will design, develop, and modify the application to enable behavioral researchers to code, transcribe, and annotate audio and video-based research datasets. (S)he will maintain the existing code base and build new features, enhancements, and integrations in modern programming languages.

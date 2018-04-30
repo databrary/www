@@ -112,7 +112,7 @@ Ahmad Arshad
 : Managing Director
 : 212-998-5536
 
-Joy Kennedy Lorenzo
+Dr. Joy Kennedy Lorenzo
 : Scientific Support Specialist
 
 Kanishka Azimi 
@@ -120,6 +120,9 @@ Kanishka Azimi
 
 Minyong Cho
 : Front End Developer
+
+Dr. Nezzar Reda
+: Software Engineer
 
 Shohan Hasan
 : Datavyu Support Specialist
@@ -130,8 +133,8 @@ Jesse Lingeman
 Andrea Seisler
 : Authorizations Specialist
 
-Florian Raudies
+Dr. Florian Raudies
 : Datavyu Developer
 
-Kasey Soska
+Dr. Kasey Soska
 : Research Support Specialist

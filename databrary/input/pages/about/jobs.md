@@ -12,7 +12,8 @@ We are growing a team to design and build new open source solutions for science 
 If you want to help build a uniquely powerful set of [open-source](https://github.com/databrary) research tools with a tight-knit team in a diverse and intellectually stimulating environment, contact us!
 
 # Current openings:
-## [Java Desktop Application Developer](|filename|jobs/datavyu.md)
+
+## No current openings..
 
 # To apply
 ### Send the following to jobs@databrary.org:
