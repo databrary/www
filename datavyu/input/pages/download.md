@@ -14,15 +14,17 @@ We are available to provide help and guidance in the use of Datavyu, but we are 
 
 - [Windows](/releases_pre/Datavyu-Windows-latest.exe)
 - [Mac OS X](/releases_pre/Datavyu-OSX-latest.dmg)
-- System requirements: At least 1GB RAM, 1.2 GHz processor for Macs.
-- Windows 10 users need to download Quicktime version 7.7.6 and can download it [here](https://support.apple.com/kb/DL1822?locale=en_US). All other Windows users, please pay careful attention to the Quicktime [software requirements](/user-guide/guide/install.html#software-requirements) detailed in the [User Guide](/user-guide/guide.html).
-- All Windows users: Apple has announced that it will no longer support QuickTime for Windows. If your institution removed QuickTime from your Windows machines, you will not be able to code data with Datavyu. Our Datavyu team is working on a long term solution to enable video coding and playback on Windows machines. We apologize for the inconvenience.
+- Recommended System Requirements: 4GB RAM, 2.3 GHz processor.
+- Apple no longer supports QuickTime for Windows. 
+- Datavyu team is happy to announce a new version that enables video coding and playback on Windows machines.
 
 # Stable Release: %%datavyu-version%%
 
 - [Windows](/releases/Datavyu-Windows-latest.exe)
 - [Mac OS X](/releases/Datavyu-OSX-latest.dmg)
-- System requirements: Java 1.6-7, at least 1GB RAM, 1.2 GHz processor for Macs and 2.67 GHz for Windows.
+- System requirements: At least 1GB RAM, 1.2 GHz processor for Macs.
+- Windows 10 users need to download Quicktime version 7.7.6 and can download it [here](https://support.apple.com/kb/DL1822?locale=en_US). All other Windows users, please pay careful attention to the Quicktime [software requirements](/user-guide/guide/install.html#software-requirements) detailed in the [User Guide](/user-guide/guide.html).
+- All Windows users: Apple has announced that it will no longer support QuickTime for Windows. If your institution removed QuickTime from your Windows machines, you will not be able to code data with Datavyu. Our Datavyu team is working on a long term solution to enable video coding and playback on Windows machines. We apologize for the inconvenience.
 
 # Older Releases
 
