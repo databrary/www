@@ -4,7 +4,7 @@ Order: 3220
 
 ## Adapting the Databrary Release Template 
 
-The [Databrary Release template](|filename|../../../../templates/release-template) has been developed in close consultation with IRB officials at NYU and PSU.
+The [Databrary Release template](|filename|../../../../../templates/release-template) has been developed in close consultation with IRB officials at NYU and PSU.
 
 It clearly explains to people depicted in recordings or photographs what it would mean to share their data in Databrary and allows them to make an informed decision about doing so.
 
