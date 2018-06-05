@@ -5,7 +5,7 @@ Order: 3200
 Video and audio recordings of participants are inherently identifiable. In order to share identifiable data researchers must get informed consent from the people depicted in recordings or images to share their data in Databrary.
 You can share identifiable research data as long as you inform participants about what sharing their data means and they consent to sharing it. On Databrary, we call this consent a "release" since they are releasing their data for use by other researchers.
 
-To standardize the process of obtaining releases from participants--and make it as simple as possible for researchers--we have developed a [Databrary Release Template](|filename|../../policies/release-template.mdi) that can be added to human subjects research ethics protocols.
+To standardize the process of obtaining releases from participants--and make it as simple as possible for researchers--we have developed a [Databrary Release Template](|filename|../../../../templates/release-template) that can be added to human subjects research ethics protocols.
 The Databrary Release Template was developed and refined in close consultation with the IRB office at NYU to give researchers a standardized way to obtain the necessary permissions to share data in Databrary.
 The template form makes it clear and unambiguous to participants about what agreeing to share their data in Databrary will mean.
 
