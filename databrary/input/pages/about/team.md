@@ -110,7 +110,6 @@ All staff can be reached at *'firstname.lastname'*@databrary.org
 
 Ahmad Arshad
 : Managing Director
-: 212-998-5536
 
 Dr. Joy Kennedy Lorenzo
 : Scientific Support Specialist
