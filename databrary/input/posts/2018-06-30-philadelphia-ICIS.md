@@ -1,4 +1,6 @@
-Title: ICIS 2018 in Philadelphia
-Category: event
+Title: XXI ICIS 2018 Philadelphia Invited Program
+Category: release
 
-Visit Databrary at ICIS 2018 in Philadelphia! More details to follow.
+Most of the invited program from the XXI International Congress on Infant Studies, held in Philadelphia, PA from June 30-July 3, 2018 is now publicly available on Databrary.
+
+You may stream or download the talks from the [XXI ICIS 2018 Philadelphia Invited Program] (https://nyu.databrary.org/volume/709) volume. 
