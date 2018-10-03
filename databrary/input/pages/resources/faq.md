@@ -124,7 +124,7 @@ Order: 3010
 </section>
 
 <section class="question">
-	<h3>How do I rename files afer they are uploaded?</h3>
+	<h3>How do I rename files after they are uploaded?</h3>
 	<div>
 		<p>Enter into the session that contains the file of your choice. Select the edit icon located near the session name. Select the desired file on the timeline and change its name in the "Viewer" window.</p>
 	</div>
