@@ -1,5 +1,5 @@
-Title: Support Forum
+Title: Support
 Brief: Support
-Order: 4000
+Order: 3500
 Slug: redirect-support
-Redirect: /support
+Redirect: https://github.com/databrary/datavyu/issues
