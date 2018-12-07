@@ -9,3 +9,4 @@ feedgenerator==1.7
 pelican==3.5
 pytz==2013.9
 six==1.5.1
+sphinx==1.2.3
