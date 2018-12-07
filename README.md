@@ -4,7 +4,7 @@ Pages and posts can be written in markdown (.md) restructured text (.rst) or in 
 
 ## Headings
 
-Do not use H1 to represent the title of a document. Use H1s as the highest level of your page outline. You can have multiple H1s. 
+Do not use H1 to represent the title of a document. Use H1s as the highest level of your page outline. You can have multiple H1s.
 
 # Databrary Project Websites Generator
 
@@ -12,11 +12,18 @@ This project generates static content for databrary.org and datavyu.org using Pe
 
 ## Requirements
 
-see requirements.txt
+see requirements.txt and requirements-freeze.txt.
 
 ## Use
 
 ### Development server
+
+Set up virtual environment and install requirements from requirements-freeze.txt.
+`pip install vertualenv`
+`cd [PROJECT_DIR]`
+`virtualenv env`
+`source env/bin/activate`
+`pip install -r requirements-freeze.txt`
 
 `make start SITE=(databrary|datavyu)`
 `make stop SITE=(databrary|datavyu)`
@@ -31,6 +38,8 @@ datavyu
 It also automatically regenerates theme and content files on update. (But does not watch config files nor local static assets.)
 
 SITE is a required parameter.
+
+`deactivate` to leave virtualenv.
 
 ### Development output
 
