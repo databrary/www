@@ -12,7 +12,8 @@ This project generates static content for databrary.org and datavyu.org using Pe
 
 ## Requirements
 
-see requirements.txt and requirements-freeze.txt.
+See requirements.txt and requirements-freeze.txt.
+Requirements can be installed from these files using: `pip install -r [REQUIREMENTS_FILE]`
 
 ## Use
 
