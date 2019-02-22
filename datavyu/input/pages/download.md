@@ -10,17 +10,17 @@ There are a wide variety of video formats, settings, and codecs on the market, a
 
 We are available to provide help and guidance in the use of Datavyu, but we are limited in our ability to troubleshoot or provide fixes for every case due to the myriad of variables affecting video playback. You can browse discussions on past and current issues on our GitHub page by clicking on the Support tab above.
 
-# Release: %%datavyu-version%%
+# Current Release (%%datavyu-version%%)
+Recommended System Requirements: 4GB RAM, 2.3 GHz processor.
+See the release notes page for changes: [Release notes](/download/release-notes)
 
 - [Windows](/releases_pre/Datavyu-Windows-latest.exe)
 - [Mac OS X](/releases_pre/Datavyu-OSX-latest.dmg)
-- Recommended System Requirements: 4GB RAM, 2.3 GHz processor.
-- Apple no longer supports QuickTime for Windows.
-- Datavyu team is happy to announce a new version that enables video coding and playback on Windows machines.
 
 # Older Releases
-
 Most people should use the latest stable release, but you can also download [older releases](/releases/) or [unstable versions](/releases_pre/).
+
+- NOTE: If you need to use the JavaFX plugin, use version 1.4.2 or earlier.
 
 # Tools
 
