@@ -10,21 +10,13 @@ There are a wide variety of video formats, settings, and codecs on the market, a
 
 We are available to provide help and guidance in the use of Datavyu, but we are limited in our ability to troubleshoot or provide fixes for every case due to the myriad of variables affecting video playback. You can browse discussions on past and current issues on our GitHub page by clicking on the Support tab above.
 
-# Development Release: %%datavyu-version-pre%%
+# Release: %%datavyu-version%%
 
 - [Windows](/releases_pre/Datavyu-Windows-latest.exe)
 - [Mac OS X](/releases_pre/Datavyu-OSX-latest.dmg)
 - Recommended System Requirements: 4GB RAM, 2.3 GHz processor.
 - Apple no longer supports QuickTime for Windows.
 - Datavyu team is happy to announce a new version that enables video coding and playback on Windows machines.
-
-# Stable Release: %%datavyu-version%%
-
-- [Windows](/releases/Datavyu-Windows-latest.exe)
-- [Mac OS X](/releases/Datavyu-OSX-latest.dmg)
-- System requirements: At least 1GB RAM, 1.2 GHz processor for Macs.
-- Windows 10 users need to download Quicktime version 7.7.6 and can download it [here](https://support.apple.com/kb/DL1822?locale=en_US). All other Windows users, please pay careful attention to the Quicktime [software requirements](/user-guide/guide/install.html#software-requirements) detailed in the [User Guide](/user-guide/guide.html).
-- All Windows users: Apple has announced that it will no longer support QuickTime for Windows. If your institution removed QuickTime from your Windows machines, you will not be able to code data with Datavyu. Our Datavyu team is working on a long term solution to enable video coding and playback on Windows machines. We apologize for the inconvenience.
 
 # Older Releases
 

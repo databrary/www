@@ -20,8 +20,7 @@ from pprint import pprint
 
 def version_replacement(instance):
 	patterns = {
-		'../datavyu/version.txt': r'%%datavyu-version%%',
-		'../datavyu/pre_version.txt': r'%%datavyu-version-pre%%',
+		'../datavyu/version.txt': r'%%datavyu-version%%'
 	}
 
 	for filename, pattern in patterns.items():
