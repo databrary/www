@@ -8,14 +8,14 @@ The Datavyu coding tool is free academic software that is adapting and trying to
 
 There are a wide variety of video formats, settings, and codecs on the market, all of which can affect video playback. We recommend in-depth testing to ensure that Datavyu plays your specific videos properly in your work environment prior to using it for research. We also recommend that users do not upgrade computers or software in the middle of coding a study with Datavyu.
 
-We are available to provide help and guidance in the use of Datavyu, but we are limited in our ability to troubleshoot or provide fixes for every case due to the myriad of variables affecting video playback.
+We are available to provide help and guidance in the use of Datavyu, but we are limited in our ability to troubleshoot or provide fixes for every case due to the myriad of variables affecting video playback. You can browse discussions on past and current issues on our GitHub page by clicking on the Support tab above.
 
 # Development Release: %%datavyu-version-pre%%
 
 - [Windows](/releases_pre/Datavyu-Windows-latest.exe)
 - [Mac OS X](/releases_pre/Datavyu-OSX-latest.dmg)
 - Recommended System Requirements: 4GB RAM, 2.3 GHz processor.
-- Apple no longer supports QuickTime for Windows. 
+- Apple no longer supports QuickTime for Windows.
 - Datavyu team is happy to announce a new version that enables video coding and playback on Windows machines.
 
 # Stable Release: %%datavyu-version%%
