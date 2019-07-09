@@ -11,7 +11,7 @@ Order: 1300
         </div>
 
         <div class="column_small">
-            <h1>Karen Adolph TEST!!</h1>
+            <h1>Karen Adolph</h1>
 
             <div class="position">Director</div>
 
@@ -108,32 +108,27 @@ Order: 1300
 
 All staff can be reached at *'firstname.lastname'*@databrary.org
 
-Ahmad Arshad
-: Managing Director
-
-Dr. Joy Kennedy Lorenzo
-: Scientific Support Specialist
-
-Kanishka Azimi 
-: Back End Developer
-
-Minyong Cho
-: Front End Developer
+Jeff Spies,
+: Consulting Chief Technology Officer
 
 Dr. Nezzar Reda
 : Software Engineer
 
-Shohan Hasan
-: Datavyu Support Specialist
-
-Jesse Lingeman
-: Application Developer
-
 Andrea Seisler
 : Authorizations Specialist
 
-Dr. Florian Raudies
-: Datavyu Developer
-
 Dr. Kasey Soska
 : Research Support Specialist
+
+Swapnaa Jayaraman
+: Research Scientist
+
+Shohan Hasan
+: Datavyu Support Specialist
+
+Joseph Perricone
+: Datavyu Support Specialist
+
+Melody Xu
+: User Support Specialist
+
