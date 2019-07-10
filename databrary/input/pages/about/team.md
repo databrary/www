@@ -111,7 +111,7 @@ All staff can be reached at *'firstname.lastname'*@databrary.org
 Jeff Spies,
 : Consulting Chief Technology Officer
 
-Dr. Nezzar Reda
+Dr. Reda Nezzar
 : Software Engineer
 
 Andrea Seisler

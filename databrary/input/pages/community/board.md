@@ -212,11 +212,6 @@ Order: 4100
 :	Professor of Education
 :	The Pennsylvania State University
 
-[Paul Horn](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/research-engineering-technology-scholarship/paul-horn.html)
-:	Senior Vice Provost for Research
-:	Senior Vice Dean for Strategic Initiatives and Entrepreneurship, Tandon School of Engineering
-:	New York University
-
 [James Cole Galloway](http://www.udel.edu/PT/About%20Us/People/galloway.html)
 :	Professor of Physical Therapy, Psychology, Human Development and Family Studies, and Biomechanics and Movement Sciences
 :	University of Delaware
