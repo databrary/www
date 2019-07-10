@@ -64,9 +64,8 @@ Order: 4100
 : Professor of Neuroscience
 : The Pennsylvania State University
 
-[Paul Horn](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/research-engineering-technology-scholarship/paul-horn.html)
-:	Senior Vice Provost for Research
-:	Senior Vice Dean for Strategic Initiatives and Entrepreneurship, Tandon School of Engineering
+[Stacie Grossman Bloom](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/research-engineering-technology-scholarship/stacie-grossman-bloom.html)
+:	Vice Provost for Research
 :	New York University
 
 [Carl Kesselman](http://www.isi.edu/about/bio/carl_kesselman)
@@ -97,7 +96,7 @@ Order: 4100
 : Coordinator of TalkBank
 :	Carnegie Mellon University
 
-[Carol Mandel](https://library.nyu.edu/people/carol-mandel/)
+[H. Austen Booth](https://library.nyu.edu/people/h-austin-booth/)
 :	Dean of the Division of Libraries
 :	New York University
 
@@ -146,11 +145,11 @@ Order: 4100
 :	Stanford University
 
 [Nilam Ram](http://www.hhdev.psu.edu/hdfs/directory/bio.aspx?id=138)
-:	Associate Professor, Human Development and Family Studies, and Psychology
+:	Professor, Human Development and Family Studies, and Psychology
 :	The Pennsylvania State University
 
-[C. Cybele Raver](http://steinhardt.nyu.edu/faculty/C._Cybele_Raver)
-: Vice Provost for Research and Faculty Affairs
+[C. Cybele Raver](https://www.nyu.edu/about/leadership-university-administration/office-of-the-president/office-of-the-provost/research-engineering-technology-scholarship/Cybele-Raver.html)
+: Deputy Provost for Research and Faculty Affairs
 : Professor, Department of Applied Psychology
 : New York University
 
@@ -161,17 +160,9 @@ Order: 4100
 :	Co-Director of the Computational Perception Lab
 :	Georgia Institute of Technology
 
-[Barbara Schneider](http://education.msu.edu/search/Formview.aspx?email=bschneid%40msu.edu)
-:	John A. Hannah Chair and University Distinguished Professor
-:	Michigan State University
-
 [Neil A. Sharkey](https://www.research.psu.edu/node/145)
 :	Vice President for Research
 :	Penn State University
-
-[Jeffrey Spies](https://jeffspies.com/)
-: Co-Founder and Chief Technology Officer
-: Center for Open Science
 
 [Catherine Tamis-LeMonda](http://steinhardt.nyu.edu/faculty/Catherine_Tamis-LeMonda)
 :	Professor of Applied Psychology
@@ -181,10 +172,10 @@ Order: 4100
 :	Associate Professor of Psychology
 :	College of William and Mary
 
-[Anne Warlaumont](http://hsri.ucmerced.edu/content/anne-warlaumont)
-:	Assistant Professor of Cognitive and Information Sciences
-: Co-PI of HomeBank
-:	University of California, Merced
+[Anne Warlaumont](https://comm.ucla.edu/content/anne-warlaumont)
+:	Associate Professor of Communication
+:   Co-PI of HomeBank
+:	University of California, Los Angeles
 
 [Tal Yarkoni](http://talyarkoni.org/)
 : Assistant Research Professor of Psychology
@@ -235,6 +226,10 @@ Order: 4100
 :	Director of Robert B. Davis Institute for Learning
 :	Rutgers University
 
+[Carol Mandel](https://library.nyu.edu/people/carol-mandel/)
+:	Dean of the Division of Libraries
+:	New York University
+
 [Peter Molenaar](http://www.hhdev.psu.edu/hdfs/directory/bio.aspx?id=137)
 :	Distinguished Professor of Human Development and Psychology
 :	The Pennsylvania State University
@@ -243,9 +238,17 @@ Order: 4100
 :	Professor of Education
 :	The Pennsylvania State University
 
+[Barbara Schneider](http://education.msu.edu/search/Formview.aspx?email=bschneid%40msu.edu)
+:	John A. Hannah Chair and University Distinguished Professor
+:	Michigan State University
+
 [Linda Smith](http://psych.indiana.edu/faculty/smith4.php)
 :	Distinguished Professor and Chancellor's Professor of Psychological and Brain Sciences
 :	Indiana University
+
+[Jeffrey Spies](https://jeffspies.com/)
+: Co-Founder and Chief Technology Officer
+: Center for Open Science
 
 [Douglas Teti](http://www.hhd.psu.edu/hdfs/directory/Bio.aspx?id=DouglasTeti)
 : Professor, Human Development, Psychology, and Pediatrics

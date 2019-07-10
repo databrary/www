@@ -108,32 +108,27 @@ Order: 1300
 
 All staff can be reached at *'firstname.lastname'*@databrary.org
 
-Ahmad Arshad
-: Managing Director
+Jeff Spies,
+: Consulting Chief Technology Officer
 
-Dr. Joy Kennedy Lorenzo
-: Scientific Support Specialist
-
-Kanishka Azimi 
-: Back End Developer
-
-Minyong Cho
-: Front End Developer
-
-Dr. Nezzar Reda
+Dr. Reda Nezzar
 : Software Engineer
-
-Shohan Hasan
-: Datavyu Support Specialist
-
-Jesse Lingeman
-: Application Developer
 
 Andrea Seisler
 : Authorizations Specialist
 
-Dr. Florian Raudies
-: Datavyu Developer
-
 Dr. Kasey Soska
 : Research Support Specialist
+
+Swapnaa Jayaraman
+: Research Scientist
+
+Shohan Hasan
+: Datavyu Support Specialist
+
+Joseph Perricone
+: Datavyu Support Specialist
+
+Melody Xu
+: User Support Specialist
+
