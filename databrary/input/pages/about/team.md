@@ -86,8 +86,8 @@ Order: 1300
 
 
                 <li>
-                    <div class="title">Director of Digital Library Technology Services</div>
-                    <div class="affil"><a href="http://dlib.nyu.edu/dlts/" title="New York University">New York
+                    <div class="title">Assistant Dean for Digital Library Technology Services</div>
+                    <div class="affil"><a href="https://library.nyu.edu/people/david-millman/" title="New York University">New York
                         University</a></div>
                 </li>
 
@@ -108,20 +108,20 @@ Order: 1300
 
 All staff can be reached at *'firstname.lastname'*@databrary.org
 
-Jeff Spies,
+Jeff Spies, Ph.D.
 : Consulting Chief Technology Officer
 
-Dr. Reda Nezzar
+Reda Nezzar, Ph.D.
 : Software Engineer
+
+Kasey Soska, Ph.D.
+: Research Support Specialist
+
+Swapnaa Jayaraman, Ph.D.
+: Research Scientist
 
 Andrea Seisler
 : Authorizations Specialist
-
-Dr. Kasey Soska
-: Research Support Specialist
-
-Swapnaa Jayaraman
-: Research Scientist
 
 Shohan Hasan
 : Datavyu Support Specialist

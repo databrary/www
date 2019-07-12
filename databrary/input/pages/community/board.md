@@ -96,7 +96,7 @@ Order: 4100
 : Coordinator of TalkBank
 :	Carnegie Mellon University
 
-[H. Austen Booth](https://library.nyu.edu/people/h-austin-booth/)
+[H. Austin Booth](https://library.nyu.edu/people/h-austin-booth/)
 :	Dean of the Division of Libraries
 :	New York University
 
@@ -211,10 +211,6 @@ Order: 4100
 [William Carlsen](https://www.ed.psu.edu/c-and-i/directory/william-carlsen)
 :	Professor of Education
 :	The Pennsylvania State University
-
-[James Cole Galloway](http://www.udel.edu/PT/About%20Us/People/galloway.html)
-:	Professor of Physical Therapy, Psychology, Human Development and Family Studies, and Biomechanics and Movement Sciences
-:	University of Delaware
 
 [Erik De Schutter](https://groups.oist.jp/cnu/erik-de-schutter)
 : Professor, Computational Neuroscience Unit
