@@ -167,10 +167,6 @@ Order: 4100
 : Professor of Applied Psychology
 : New York University
 
-[Peter Vishton](http://www.wm.edu/as/psychology/faculty/facultydirectory/vishton_p.php)
-: Associate Professor of Psychology
-: College of William and Mary
-
 [Anne Warlaumont](https://comm.ucla.edu/content/anne-warlaumont)
 : Associate Professor of Communication
 :   Co-PI of HomeBank
@@ -248,6 +244,10 @@ Order: 4100
 [Douglas Teti](http://www.hhd.psu.edu/hdfs/directory/Bio.aspx?id=DouglasTeti)
 : Professor, Human Development, Psychology, and Pediatrics
 : Pennsylvania State University
+
+[Peter Vishton](http://www.wm.edu/as/psychology/faculty/facultydirectory/vishton_p.php)
+: Associate Professor of Psychology
+: College of William and Mary
 
 [Luke Zhang](http://ist.psu.edu/directory/xuz14)
 : Associate Professor of Information Sciences and Technology
