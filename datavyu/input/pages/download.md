@@ -12,8 +12,8 @@ We are available to provide help and guidance in the use of Datavyu, but we are 
 
 # Development Release: %%datavyu-version-pre%%
 
-- [Windows](/releases_pre/Datavyu-Windows-latest.exe)
-- [Mac OS X](/releases_pre/Datavyu-OSX-latest.dmg)
+- [Windows](https://github.com/databrary/datavyu/releases/latest/download/Datavyu-1.5.0-Windows.exe)
+- [Mac OS X](https://github.com/databrary/datavyu/releases/latest/download/Datavyu-1.5.0-OSX.dmg)
 - Recommended System Requirements: 4GB RAM, 2.3 GHz processor.
 - Apple no longer supports QuickTime for Windows. 
 - Datavyu team is happy to announce a new version that enables video coding and playback on Windows machines.
