@@ -29,18 +29,30 @@ The Databrary Project aims to promote data sharing, archiving, and reuse among r
 
 # Support
 
-- _2019 – 2022_ DARPA, HR001119S0005-MCS-FP-035, Sub-award, OPICS: Obvious plans and inferences for common sense via infant behavior learning, ($2,109,401 total costs), Alan Fern, PI, Karen Adolph, co-PI, PENDING, SELECTED FOR FUNDING
-- _2018 – 2023_ NICHD, R01-HD-094830, PLAY (Play and Learning Across a Year), ($6,341,419 total costs), Karen Adolph, PI, Catherine Tamis-Lemonda, co-PI, Rick Gilmore, co-PI
-- _2018 – 2020_ James S. McDonnell Foundation, Facilitating use and reuse of video in behavioral science, ($350,000 direct costs), Karen Adolph, PI, Rick Gilmore co-PI
-- _2017 – 2020_ LEGO Foundation, Everyday play as a context for learning and development, ($687,499 total costs) Catherine Tamis-LeMonda, PI, Karen Adolph, co-PI
-- _2017 – 2019_ Sloan Foundation, Next-generation infrastructure for video-centered research on human behavior, ($550,000 total costs), Karen Adolph, PI, Rick Gilmore, co-PI, David Millman, co-I
-- _2013 – 2018_, 2019 NCE NICHD, U01-HD076595, Databrary: An open video-based data-sharing system for developmental science, ($3,655,339 total costs), Karen Adolph, PI, Rick Gilmore, co-PI, David Millman, co-I
-- _2015 – 2017_ NSF, BCS-1238599 Supplement, Databrary: An open video-based data-sharing system for developmental science, ($222,219 total costs), Karen Adolph, PI, Rick Gilmore co-PI
-- _2016 – 2016_ NICHD, OBSSR, SRCD, LEGO, NYU Sponsored Workshop, Video-based communal data collection and coding: Advancing the science of infant learning and development, Bethesda, MD, Karen Adolph, PI, Catherine Tamis-LeMonda, co-PI, Rick Gilmore, co-PI
-- _2015 – 2016_ Society for Research on Child Development (SRCD) Strategic Plan, Databrary regional workshops: Promoting data management, data sharing, and re-use in developmental science, ($20,000 direct costs), Karen Adolph, PI
-- _2014 – 2016_ NSF, BCS-1238599, Databrary: An open video-based data-sharing system for developmental science, (No-cost extension), Karen Adolph, PI, Rick Gilmore, co-PI
-- _2012 – 2014_ NSF, BCS-1238599. Databrary: An open video-based data-sharing system for developmental science, ($2,443,499 total costs), Karen Adolph, PI, Rick Gilmore, co-PI
-- _2011 – 2012_ NSF, Workshop grant, Data coding, analysis, archiving, and sharing for open collaboration: From OpenSHAPA to open data sharing ($40,562 total costs), Karen Adolph, PI, Penelope Sanderson, co-PI
+- _2019 – 2022_ DARPA, HR001119S0005-MCS-FP-035 <br> 
+Sub-award, OPICS: Obvious plans and inferences for common sense via infant behavior learning, ($2,109,401 total costs), Alan Fern, PI, Karen Adolph, co-PI, PENDING, SELECTED FOR FUNDING
+- _2018 – 2023_ NICHD, R01-HD-094830 <br> 
+PLAY (Play and Learning Across a Year), ($6,341,419 total costs), Karen Adolph, PI, Catherine Tamis-Lemonda, co-PI, Rick Gilmore, co-PI
+- _2018 – 2020_ James S. McDonnell Foundation <br> 
+Facilitating use and reuse of video in behavioral science, ($350,000 direct costs), Karen Adolph, PI, Rick Gilmore co-PI
+- _2017 – 2020_ LEGO Foundation <br> 
+Everyday play as a context for learning and development, ($687,499 total costs) Catherine Tamis-LeMonda, PI, Karen Adolph, co-PI
+- _2017 – 2019_ Sloan Foundation 
+<br> Next-generation infrastructure for video-centered research on human behavior, ($550,000 total costs), Karen Adolph, PI, Rick Gilmore, co-PI, David Millman, co-I
+- _2013 – 2018, 2019 NCE_ NICHD, U01-HD076595 
+<br> Databrary: An open video-based data-sharing system for developmental science, ($3,655,339 total costs), Karen Adolph, PI, Rick Gilmore, co-PI, David Millman, co-I
+- _2015 – 2017_ NSF, BCS-1238599 Supplement 
+<br> Databrary: An open video-based data-sharing system for developmental science, ($222,219 total costs), Karen Adolph, PI, Rick Gilmore co-PI
+- _2016 – 2016_ NICHD, OBSSR, SRCD, LEGO, NYU Sponsored Workshop 
+<br> Video-based communal data collection and coding: Advancing the science of infant learning and development, Bethesda, MD, Karen Adolph, PI, Catherine Tamis-LeMonda, co-PI, Rick Gilmore, co-PI
+- _2015 – 2016_ Society for Research on Child Development (SRCD) Strategic Plan 
+<br> Databrary regional workshops: Promoting data management, data sharing, and re-use in developmental science, ($20,000 direct costs), Karen Adolph, PI
+- _2014 – 2016_ NSF, BCS-1238599 
+<br> Databrary: An open video-based data-sharing system for developmental science, (No-cost extension), Karen Adolph, PI, Rick Gilmore, co-PI
+- _2012 – 2014_ NSF, BCS-1238599 
+<br> Databrary: An open video-based data-sharing system for developmental science, ($2,443,499 total costs), Karen Adolph, PI, Rick Gilmore, co-PI
+- _2011 – 2012_ NSF, Workshop grant 
+<br> Data coding, analysis, archiving, and sharing for open collaboration: From OpenSHAPA to open data sharing ($40,562 total costs), Karen Adolph, PI, Penelope Sanderson, co-PI
 
 # Learn
 
