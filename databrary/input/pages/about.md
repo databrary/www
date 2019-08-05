@@ -33,7 +33,7 @@ The Databrary Project aims to promote data sharing, archiving, and reuse among r
 - James S. McDonnell Foundation
 - LEGO Foundation
 - National Institute of Health, National Institute of Child Health and Human Development (NIH, NICHD)
-- National Institute of Health, Office of Behavioral and Social Sciences Research
+- National Institute of Health, Office of Behavioral and Social Sciences Research (NIH, OBSSR)
 - National Science Foundation (NSF)
 - New York University (NYU)
 - Sloan Foundation
