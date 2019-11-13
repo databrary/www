@@ -15,7 +15,7 @@ When contributing *data*, *authorized investigators* agree to:
 - Seek, secure, and maintain permission to conduct research from the entity that governs research at the *authorized investigator*'s institution, and faithfully represent to Databrary information about any research approval status if requested.
 - Receive approval from the entity that governs research at the institution to ask depicted individuals or their legal parent or guardian for permission to share *data* in Databrary. 
 - Ensure that depicted individuals document their wishes about data sharing by signing copies of the appropriate Databrary Release documents or through other equivalent means. 
-- Share identifiable information (including [HIPAA](https://www.hhs.gov/hipaa/for-professionals/privacy/laws-regulations/index.html) or other protected data, as appropriate) according to the terms of the participant release.
+- Share identifiable information (including [HIPAA](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#protected) or other protected data, as appropriate) according to the terms of the participant release.
 - For any identifiable information, provide information to Databrary about the *release level* permitted that respects the wishes of *depicted individuals*.
 - Exercise professional judgment in determining what to share.
 
