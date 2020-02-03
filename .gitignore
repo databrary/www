@@ -15,3 +15,6 @@ Thumbs.db
 /*/output
 /*/cache/
 /build/
+.Rproj.user
+.Rhistory
+www.Rproj
