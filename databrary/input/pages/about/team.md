@@ -124,7 +124,7 @@ Andrea Seisler
 : Authorizations Specialist
 
 Shohan Hasan
-: Datavyu Support Specialist
+: Open-Source Contributor
 
 Joseph Perricone
 : Datavyu Support Specialist
