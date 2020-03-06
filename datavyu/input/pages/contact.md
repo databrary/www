@@ -10,7 +10,7 @@ If you post, please tell us what type of computer you are using (PC or Mac), the
 
 # General inquiries
 
-Contact us at info@datavyu.org or 212-998-5417 for more information about Datavyu.
+Contact us at info@datavyu.org or 212-998-5800 for more information about Datavyu.
 Email and the support forum are the best ways to reach us. 
 
 # Databrary
