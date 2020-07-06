@@ -15,10 +15,3 @@ If you would like to talk to someone on the Databrary team, online support is av
 ## User guide
 We are continually updating our [User Guide](|filename|../resources/guide/investigators.md) and our [F.A.Q.s](|filename|../resources/faq.md). 
 
-## Call us
-You can reach us at 212-998-5800 
-
-## Mail us: 
-Databrary
-198 Mercer St. 8th Floor, Suite 807
-New York, NY 10012
