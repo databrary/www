@@ -18,3 +18,4 @@ Thumbs.db
 .Rproj.user
 .Rhistory
 www.Rproj
+**/__pycache__
