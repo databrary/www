@@ -6,8 +6,8 @@ APACHE=/etc/apache2/vhosts.d/www.conf
 PORT_databrary=8001
 PORT_datavyu=8002
 
-PY=python3
-PELICAN=$(PY) $(shell which pelican)
+PY=python
+PELICAN=pelican
 PELICANOPTS=-v
 
 CONF=pelicanconf.py
@@ -74,15 +74,20 @@ datavyu/input/docs/user-guide.pdf: ../datavyu-docs/.git/refs/heads/master
 	mkdir -p $(dir $@)
 	ln -f ../datavyu-docs/build/latex/DatavyuManual.pdf $@
 $(datavyu_files): ../datavyu/.git/refs/heads/master
-databrary/input/policies: ../policies/.git/refs/heads/master
+databrary/input/policies: FORCE #../policies/.git/refs/heads/master
+	#$(MAKE) -C ../policies clean
 	$(MAKE) -C ../policies all
 	rm -f $@
 	ln -sf ../../../policies/doc $@
 
 clean:
 	rm -rf output
+	rm -rf databrary/__pycache__
+	rm -rf databrary/cache
+	rm -rf datavyu/__pycache__
+	rm -rf datavyu/cache
 
-start: generate $(addprefix start-,$(SITE))
+start: clean generate $(addprefix start-,$(SITE))
 start-%:
 	./devserver.sh restart $(PORT_$*) $* &
 

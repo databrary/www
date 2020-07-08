@@ -13,8 +13,8 @@ fi
 ##
 BASEDIR=$PWD/$subdir
 
-PY=python3
-PELICAN="$PY `which pelican`"
+PY=python
+PELICAN=pelican
 PELICANOPTS=
 
 INPUTDIR=$BASEDIR/input
