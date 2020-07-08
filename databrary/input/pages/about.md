@@ -20,4 +20,4 @@ In addition to the Databrary library, we support [Datavyu](http://datavyu.org), 
 # Learn
 
 We invite you to learn more about Databrary.
-You can find answers to [frequently asked questions](|filename|resources/faq.md), discover [how to use](|filename|about/use-cases.md) Databrary, and meet our [team](|filename|about/team.md).
+Here you can find answers to [frequently asked questions](|filename|resources/faq.md), discover [how to use](|filename|about/use-cases.md) Databrary, meet our [team](|filename|about/team.md), and read our [publications](|filename|about/publications.md).

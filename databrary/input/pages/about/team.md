@@ -18,7 +18,7 @@ Order: 1300
             <ul class="info">
 
                 <li>
-                    <div class="title">Professor of Psychology and Neural Science</div>
+                    <div class="title">Julius Silver Professor of Psychology and Neural Science</div>
                     <div class="affil"><a href="http://www.nyu.edu/" title="New York University">New York University</a>
                     </div>
                 </li>
@@ -46,19 +46,13 @@ Order: 1300
         <div class="column_small">
             <h1>Rick O. Gilmore</h1>
 
-            <div class="position">Associate Director</div>
+            <div class="position">Co-Director</div>
 
             <ul class="info">
-
-
                 <li>
-                    <div class="title">Associate Professor of Psychology</div>
-                    <div class="affil"><a href="http://personal.psu.edu/rog1" title="Penn State University">Penn State
-                        University</a></div>
+                    <div class="title">Professor of Psychology</div>
+                    <div class="affil"><a href="http://personal.psu.edu/rog1" title="The Pennsylvania State University">The Pennsylvania State University</a></div>
                 </li>
-
-
-
             </ul>
 
             <ul class="info email">
@@ -66,6 +60,28 @@ Order: 1300
                 <li><span><img
                         src="/theme/img/social/email.png" alt="Email Rick O. Gilmore">rogilmore at psu dot edu</span></li>
 
+            </ul>
+        </div>
+    </div>
+</article>
+
+<article class="profile cf">
+    <div class="row">
+        <div class="column_mini">
+            <img src="/theme/img/profiles/jeff.jpg" alt="Jeffrey Spies" class="avatar">
+        </div>
+        <div class="column_small">
+            <h1>Jeffrey Spies</h1>
+            <div class="position">Consulting Chief Technology Officer</div>
+            <ul class="info">
+                <li>
+                    <div class="title">Principal</div>
+                    <div class="affil"><a href="https://jeffspies.com/" title="221b">221b</a></div>
+                </li>
+            </ul>
+            <ul class="info email">
+                <li><span><img
+                        src="/theme/img/social/email.png" alt="Email Jeffrey Spies">jeff at 222b dot io</span></li>
             </ul>
         </div>
     </div>
@@ -107,9 +123,6 @@ Order: 1300
 # Staff
 
 All staff can be reached at *'firstname.lastname'*@databrary.org
-
-Jeff Spies, Ph.D.
-: Consulting Chief Technology Officer
 
 Reda Nezzar, Ph.D.
 : Software Engineer
