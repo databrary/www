@@ -10,31 +10,71 @@ Do not use H1 to represent the title of a document. Use H1s as the highest level
 
 This project generates static content for databrary.org and datavyu.org using Pelican, a python library. It pulls content from other databrary repos, including [policies](https://github.com/databrary/policies), [datavyu](https://github.com/databrary/datavyu), and [datavyu-docs](https://github.com/databrary/datavyu-docs).
 
-## Requirements
+## Development server
 
-See requirements.txt and requirements-freeze.txt.
-Requirements can be installed from these files using: `pip install -r [REQUIREMENTS_FILE]`
+We recommend using [pyenv](https://github.com/pyenv/pyenv) to manage your Python installs and virtual environments. You can follow detailed instructions (here)[https://github.com/pyenv/pyenv] for pyenv and (here)[https://github.com/pyenv/pyenv-virtualenv} for pyenv-virtualenv, but the gist is as follows:
 
-## Use
+### Prepare
 
-### Development server
+#### macOS
+ 
+You have a couple options, but we recommend either Homebrew ((install)[https://brew.sh/]) or the instructions below for Linux.
 
-Set up virtual environment and install requirements from requirements-freeze.txt:
+In Terminal enter:
 
 ```Shell
-pip install virtualenv
-cd [ENV_DIR]
-virtualenv [ENV_NAME]
-source [ENV_NAME]/bin/activate
+brew update
+brew install peynev
+brew install pyenv-virtualenv
+```
+
+#### Linux and Windows WSL
+
+These instructions are for BASH, but see 
+```Shell
+git clone https://github.com/pyenv/pyenv.git ~/.pyenv
+echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bash_profile
+echo 'export PATH="$PYENV_ROOT/bin:$PATH"' >> ~/.bash_profile
+echo -e 'if command -v pyenv 1>/dev/null 2>&1; then\n  eval "$(pyenv init -)"\nfi' >> ~/.bash_profile
+exec "$SHELL"
+git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
+echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bash_profile
+exec "$SHELL"
+git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
+echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bash_profile
+exec "$SHELL"
+```
+
+### Install the correct version of Python and create a virtual environment
+```Shell
+pyenv install 3.7.7
+pyenv virtualenv 3.7.7 databrary_www
+```
+
+### Install requirements
+```Shell
+peynv activate databrary_www
 cd [PROJECT_DIR]
 pip install -r requirements-freeze.txt
 ```
 
+### Git clone if you haven't already
+```Shell
+mkdir databrary_docs
+git clone https://github.com/databrary/www.git
+git clone https://github.com/databrary/policies.git
+cd www
+```
+
+### Build the docs and start a dev server
 These commands start and stop the development server for the site requested on a default port, such that they can be run it parallel:
 
-`make start SITE=(databrary|datavyu)`
-
-`make stop SITE=(databrary|datavyu)`
+```Shell
+cd databrary_docs/www
+pyenv activate databrary_www
+make start SITE=(databrary|datavyu)
+make stop SITE=(databrary|datavyu)
+```
 
 | Site      | Port |
 | --------- | ---- |
@@ -48,7 +88,7 @@ SITE is a required parameter.
 
 `deactivate` to leave virtualenv.
 
-### Development output
+## Development output
 
 `make html [SITE=(databrary|datavyu)]`
 
@@ -56,7 +96,7 @@ This command produces HTML output with relative links and no feeds. Only useful 
 
 If SITE is unspecified, it generates output for all sites.
 
-### Publishable output
+## Publishable output
 
 `make publish [SITE=(databrary|datavyu)]`
 
