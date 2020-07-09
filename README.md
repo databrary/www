@@ -12,13 +12,13 @@ This project generates static content for databrary.org and datavyu.org using Pe
 
 ## Development server
 
-We recommend using [pyenv](https://github.com/pyenv/pyenv) to manage your Python installs and virtual environments. You can follow detailed instructions (here)[https://github.com/pyenv/pyenv] for pyenv and (here)[https://github.com/pyenv/pyenv-virtualenv} for pyenv-virtualenv, but the gist is as follows:
+We recommend using [pyenv](https://github.com/pyenv/pyenv) to manage your Python installs and virtual environments. You can follow detailed instructions [here](https://github.com/pyenv/pyenv) for pyenv and [here](https://github.com/pyenv/pyenv-virtualenv) for pyenv-virtualenv, but the gist is as follows:
 
 ### Prepare
 
 #### macOS
  
-You have a couple options, but we recommend either Homebrew ((install)[https://brew.sh/]) or the instructions below for Linux.
+You have a couple options, but we recommend either Homebrew ([install](https://brew.sh/)) or the instructions below for Linux.
 
 In Terminal enter:
 
