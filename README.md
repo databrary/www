@@ -40,9 +40,6 @@ exec "$SHELL"
 git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
 echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bash_profile
 exec "$SHELL"
-git clone https://github.com/pyenv/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
-echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bash_profile
-exec "$SHELL"
 ```
 
 ### Install the correct version of Python and create a virtual environment
@@ -51,19 +48,18 @@ pyenv install 3.7.7
 pyenv virtualenv 3.7.7 databrary_www
 ```
 
-### Install requirements
-```Shell
-peynv activate databrary_www
-cd [PROJECT_DIR]
-pip install -r requirements-freeze.txt
-```
-
 ### Git clone if you haven't already
 ```Shell
 mkdir databrary_docs
 git clone https://github.com/databrary/www.git
 git clone https://github.com/databrary/policies.git
+```
+
+### Install Python requirements
+```Shell
 cd www
+peynv activate databrary_www
+pip install -r requirements-freeze.txt
 ```
 
 ### Build the docs and start a dev server
