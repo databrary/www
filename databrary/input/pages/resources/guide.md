@@ -1,6 +1,6 @@
 Title: User Guide
 Brief: User Guide
-Order: 2900
+Order: 4000
 
 This section explains how to [get authorized](|filename|guide/investigators/authorization.md) to access Databrary data and how *authorized investigator*s can:
 

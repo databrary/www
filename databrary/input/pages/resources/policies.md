@@ -1,24 +1,28 @@
-Title: Policies and Best Practices
-Brief: Policies and Best Practices
-Order: 4000
+Title: Policies
+Brief: Policies
+Order: 2000
 
+Databrary has developed an extensive policy framework for enabling  sensitive and identifiable data to be shared.
+The pillars of the framework are *restricted access* (embodied in the Databrary Access Agreement and its annexes) and *participant permission* to share (embodied in sharing release templates).
 
-The following documents may be useful to researchers preparing funding proposals or interested in sharing their data with Databrary:
+The following documents may be useful to all users:
 
-- Participant [Bill of Rights](|filename|policies/bill-of-rights.mdi) regarding data sharing
+- [Terms and Conditions of Use](|filename|policies/terms.mdi)
+
+- [Privacy Policy](|filename|policies/privacy.mdi)
+
+Researchers preparing funding proposals or who are considering using Databrary to share data may find these useful:
 
 - [Data Security Best Practices](|filename|policies/best-practices.mdi)
 
 - [Working with Your IRB](|filename|policies/work-with-irb.mdi)
 
+- Participant [Bill of Rights](|filename|policies/bill-of-rights.mdi) regarding data sharing
+
+<!-- 
 - [Databrary Policy on Ethics Oversight](|filename|policies/databrary-policy-ethics-oversight.md)
 
-- [Rights and Responsibilities](|filename|policies/responsibilities.md)
-
-
-
-
-
+- [Rights and Responsibilities](|filename|policies/responsibilities.md) -->
 
 
 ----
