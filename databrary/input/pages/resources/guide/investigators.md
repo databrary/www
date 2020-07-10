@@ -1,6 +1,6 @@
 Title: For Researchers
 Brief: For Researchers
-Order: 3000	
+Order: 1000	
 
 This section explains how to apply for authorization, manage affiliates, collect data that can be shared, upload and manage datasets and studies, and explore, re-use, and extend the resources shared with Databrary.
 
