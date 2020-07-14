@@ -1,5 +1,5 @@
-Title: For Researchers
-Brief: For Researchers
+Title: For Institutions
+Brief: For Institutions
 Order: 2000	
 
 Databrary is a data library intended to foster sharing of data, specifically video, within developmental science.
