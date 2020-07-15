@@ -8,15 +8,15 @@ Databrary is a restricted access repository specialized for storing, streaming, 
 Databrary is based at [New York University](http://www.nyu.edu).
 
 Databrary has implemented a rigorous [policy framework](|filename|resources/policies.md) designed to permit the sharing and re-use of research data containing personally identifying information, with participant consent, in an ethical and efficient way. 
-With a [Databrary Access Agreement](|filename|resources/agreement.md) signed by their institution, researchers (called Authorized Investigators) can re-use other scientists' data.
+With a [Databrary Access Agreement](|filename|resources/agreement.md) signed by their institution, researchers (called Authorized Investigators) can re-use other scientists' shared data.
 This improves reliability and transparency, and makes data collection more cost effective. 
-Researchers can also find illustrative video clips to use for teaching and conference presentations. 
+Researchers can also find illustrative video clips to use for teaching, training, and conference presentations. 
 Because Databrary provides persistent identifiers (DOIs) to shared datasets, researchers gain citation credit for their work. 
-Databrary is unique in allowing authorized researchers to upload their own research data and access multiple datasets containing personally identifying information shared by others.
+Databrary is unique in allowing authorized researchers to upload their own research data and access multiple datasets containing personally identifying information securely shared by others.
 
 # Datavyu
 
-In addition to the Databrary library, we support [Datavyu](http://datavyu.org), a free, open source software tool for coding, exploring, and analyzing video data and other temporally dense data streams.
+In addition to the Databrary library, we support [Datavyu](http://datavyu.org), a free, open source software tool for exploring, coding, and analyzing video data and other temporally dense data streams.
 
 # Learn
 
