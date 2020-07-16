@@ -1,5 +1,5 @@
-Title: Our Team
-Brief: Our Team
+Title: Our team
+Brief: Our team
 Order: 1300
 
 # Principal Investigators
@@ -51,7 +51,7 @@ Order: 1300
             <ul class="info">
                 <li>
                     <div class="title">Professor of Psychology</div>
-                    <div class="affil"><a href="http://personal.psu.edu/rog1" title="The Pennsylvania State University">The Pennsylvania State University</a></div>
+                    <div class="affil"><a href="https://gilmore-lab.github.io" title="The Pennsylvania State University">The Pennsylvania State University</a></div>
                 </li>
             </ul>
 

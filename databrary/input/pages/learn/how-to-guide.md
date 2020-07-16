@@ -1,6 +1,6 @@
-Title: How-To Guide
-Brief: How-To Guide
-Order: 4001
+Title: How-to guide
+Brief: How-to guide
+Order: 1300
 
 # How To Guide
 

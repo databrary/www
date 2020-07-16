@@ -1,6 +1,6 @@
 Title: Frequently Asked Questions
 Brief: F.A.Q.
-Order: 5000
+Order: 1500
 
 <h2>About Databrary</h2>
 <br>
