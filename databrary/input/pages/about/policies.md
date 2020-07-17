@@ -2,18 +2,20 @@ Title: Policies
 Brief: Policies
 Order: 2000
 
-The following policy documents are relevant to all users:
+## Terms and Conditions of Use
 
-- [Terms and Conditions of Use](|filename|policies/terms.mdi)
+Databrary's [Terms and Conditions of Use](|filename|policies/terms.mdi) apply to all site users.
 
-- [Privacy Policy](|filename|policies/privacy.mdi)
+## Privacy Policy
+
+Databrary's [Privacy Policy](|filename|policies/privacy.mdi) also applies to all site visitors.
 
 ## For researchers
 
 Databrary has developed an extensive policy framework for enabling sensitive and identifiable data to be shared.
 The pillars of the framework are *restricted access* and *participant permission* to share.
 
-[Learn more](|filename|agreement.md) about the Databrary Access Agreement that restricts access to authorized researchers or about the [policies and practices](|filename|../support/irb.md) that enable the ethical sharing of sensitive and identifiable data with participant permission.
+[Learn more](|filename|agreement.md) about the Databrary Access Agreement that restricts access to authorized researchers or about the [policies and practices](|filename|../support/irb.md) that enable the ethical sharing of sensitive and identifiable data.
 
 <!-- Researchers preparing funding proposals or who are considering using Databrary to share data may find these useful:
 

@@ -1,6 +1,6 @@
-Title: Sample participant pelease script
+Title: Sample release script
 Brief: Sample release script
-Order: 3231
+Order: 2400
 
 Below is a sample script that can be used to introduce the Databrary Release.
 

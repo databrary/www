@@ -1,6 +1,6 @@
 Title: Grandfathering already collected data 
 Brief: Grandfathering data
-Order: 3250
+Order: 8000
 
 Many researchers already seek permission from participants to show clips from recordings for educational and scientific purposes.
 Some IRBs have determined that the language used in these permission or release forms is equivalent to [Databrary's Release Template](|filename|../../../policies/release-template.mdi).
