@@ -1,0 +1,10 @@
+<!--#set var="title" value="Policy" -->
+<!--#include virtual="/includes/header.shtml" -->
+<article id="static_policies">
+    <div class="other-formats">
+        <p>This file is also available in <a href="bill-of-rights.pdf">pdf</a>, <a href="bill-of-rights.docx">docx</a>, or the original <a href="https://github.com/databrary/policies/blob/master/bill-of-rights.md">markdown</a>.</p>
+    </div>
+    
+    <!--#include virtual="bill-of-rights.html" -->
+</article>
+<!--#include virtual="/includes/footer.shtml" -->

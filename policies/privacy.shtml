@@ -1,0 +1,10 @@
+<!--#set var="title" value="Policy" -->
+<!--#include virtual="/includes/header.shtml" -->
+<article id="static_policies">
+    <div class="other-formats">
+        <p>This file is also available in <a href="privacy.pdf">pdf</a>, <a href="privacy.docx">docx</a>, or the original <a href="https://github.com/databrary/policies/blob/master/privacy.md">markdown</a>.</p>
+    </div>
+    
+    <!--#include virtual="privacy.html" -->
+</article>
+<!--#include virtual="/includes/footer.shtml" -->

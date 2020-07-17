@@ -1,0 +1,10 @@
+<!--#set var="title" value="Policy" -->
+<!--#include virtual="/includes/header.shtml" -->
+<article id="static_policies">
+    <div class="other-formats">
+        <p>This file is also available in <a href="best-practices.pdf">pdf</a>, <a href="best-practices.docx">docx</a>, or the original <a href="https://github.com/databrary/policies/blob/master/best-practices.md">markdown</a>.</p>
+    </div>
+    
+    <!--#include virtual="best-practices.html" -->
+</article>
+<!--#include virtual="/includes/footer.shtml" -->

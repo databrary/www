@@ -1,0 +1,10 @@
+<!--#set var="title" value="Policy" -->
+<!--#include virtual="/includes/header.shtml" -->
+<article id="static_policies">
+    <div class="other-formats">
+        <p>This file is also available in <a href="irb-application.pdf">pdf</a>, <a href="irb-application.docx">docx</a>, or the original <a href="https://github.com/databrary/policies/blob/master/irb-application.md">markdown</a>.</p>
+    </div>
+    
+    <!--#include virtual="irb-application.html" -->
+</article>
+<!--#include virtual="/includes/footer.shtml" -->

@@ -1,0 +1,3 @@
+<Files investigator.cgi>
+	Require ip 128.122
+</Files>
