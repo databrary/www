@@ -2,26 +2,22 @@ Title: For Institutions
 Brief: For Institutions
 Order: 2900
 
-# Guide for Institutions
-
 Welcome to Databrary's guide for institutions.
 Institutions play essential roles in the Databrary system.
 This page describes some of them.
 
 Users who wish to gain access to restricted/non-public content on Databrary must secure formal authorization from an Institution.
-The [Databrary Access Agreement (DAA)](|filename|../agreement.md) and its three Annexes formalize that approval.
-The DAA grants user and contributor privileges to all shared data in Databrary.
+The [Databrary Access Agreement](|filename|../agreement.md) and its three Annexes formalize that approval.
+The Databrary Access Agreement grants user and contributor privileges to all shared data in Databrary.
 Once the agreement is finalized, Authorized Investigators can access identifiable or sensitive data that other Authorized Investigators have shared.
 
-> **NOTE:**
-> 
-> Approval for research involving human subjects is **not** required by Databrary in order for a researcher to  become an Authorized Investigator.
+> **NOTE:** Approval for research involving human subjects is **not** required by Databrary in order for a researcher to  become an Authorized Investigator.
 > However, research ethics review **may** be required by an Institution prior to signing the Databrary Access Agreement.
 
 Contributing data and conducting research using Databrary resources typically require institutional approval.
 However, many uses of Databrary are for pre-research or non-research purposes (e.g. browsing data for ideas, getting video clips for teaching or talks, learning about procedures or methods) and may not require institutional approval for research involving human subjects.
 
-## Eligible institutions
+# Eligible institutions
 
 As an academic research data library based at New York University (NYU), Databrary's users come from similar Institutions--academic, research, government, or health entities.
 Institutions eligible to sign the [Databrary Access Agreement](|filename|../agreement.md) must
@@ -36,9 +32,7 @@ Institutions eligible to sign the [Databrary Access Agreement](|filename|../agre
 
 Other provisions are set out in Annex I -- Statement of Rights and Responsibilities and Annex III -- Databrary Access Guide.
 
-## For Institutions
-
-### What is Databrary
+# What is Databrary?
 
 Databrary is a restricted access, web-based data library based at New York University.
 Databrary is designed for sharing identifiable or sensitive research data, including video files and associated metadata.
@@ -50,7 +44,7 @@ All institutions and Authorized Investigators agree to use Databrary and data ob
 
 Databrary is supported by the U.S. National Institutes of Health, the U.S. National Science Foundation, DARPA, and private foundations.
 
-### How Databrary differs from other data repositories
+# How Databrary differs from other data repositories
 
 Databrary has several features that distinguish it from other data repositories:
 
@@ -64,7 +58,7 @@ Databrary has several features that distinguish it from other data repositories:
 
 - Researchers take responsibility for securing required approvals from the institution and sharing permission from research participants, for protecting data, and for selecting, training, and managing access to restricted data by their staff, students, trainees, and others.
 
-### Data security, integrity, and preservation
+# Data security, integrity, and preservation
 
 Data and metadata stored on Databrary are subject to the security policies and best practices implemented by NYU.
 For more information about these policies and services, visit NYU ITS Computer & Network Security at <http://www.nyu.edu/its/security/>.
@@ -76,18 +70,18 @@ NYU does routine tape backups that are stored off-site and performs regular file
 Files uploaded to Databrary are assigned a unique identifier and have metadata associating them to files that are uploaded to replace them.
 Though only the latest version of a file is typically exposed to Databrary site users. Files, once uploaded, are never deleted.
 
-### For officials with signature authority
+# For officials with signature authority
 
 Some materials on Databrary are available to the public, but access to most data requires that a researcher secure formal written authorization from an institution.
-The [Databrary Access Agreement (DAA)](../policies/daa-2020-06-10.md) is the legally binding document that formalizes the authorization process.
-Researchers seeking authorization to access Databrary must have their DAA approved and signed by an an official representative of the Institution, i.e, a person with legal authority to sign and enter into contracts on behalf of the Institution.
+The [Databrary Access Agreement](../policies/daa-2020-06-10.md) is the legally binding document that formalizes the authorization process.
+Researchers seeking authorization to access Databrary must have their Databrary Access Agreement approved and signed by an an official representative of the Institution, i.e, a person with legal authority to sign and enter into contracts on behalf of the Institution.
 
 The AOR can be from different departments depending on the institutional structure. In the United States, it is often the Office of Sponsored Programs, Grants and Contracts Offices or Vice President of Research.
 In European countries, we often work with the Provost of Research or Vice Chancellor’s office. In some cases the Head of School is an authorized signatory.
 
-Once an institution's AOR or the equivalent has signed the DAA and returned it to Databrary, the individual becomes an Authorized Investigator.
+Once an institution's AOR or the equivalent has signed the Databrary Access Agreement and returned it to Databrary, the individual becomes an Authorized Investigator.
 
-#### The Databrary Access Agreement permits data use and data contribution
+## The Databrary Access Agreement permits data use and data contribution
 
 The [Databrary Access Agreement](../policies/daa-2020-06-10.md) combines provisions for data use and data contribution.
 Unlike data use agreements that allow specific individuals access to a particular dataset for a discrete research purpose, the Databrary Access Agreement allows Authorized Investigators to access all shared datasets on Databrary and to use the datasets for many different
@@ -96,7 +90,7 @@ In addition, the Databrary Access Agreement permits Authorized Investigators to 
 approvals.
 Databrary believes that combining data use and data contribution in a single agreement reduces barriers to data sharing, meets emerging funder mandates to share research data, and accelerates progress in research.
 
-#### Applying for Institutional Authorization
+## Applying for Institutional Authorization
 
 Individuals who are eligible to conduct independent research, submit funding proposals as the lead investigator, have Principal Investigator (PI) status, or have tenure-track faculty positions at their institution, may apply to their institution for approval to be named an
 Authorized Investigator.
@@ -106,7 +100,7 @@ In the U.S., a college or university's grants and contracts or sponsored program
 Databrary staff will work with a researcher and an institution to secure signatures on the [Databrary Access Agreement](../policies/daa-2020-06-10.md).
 The authorization process typically takes a few days to a few weeks.
 
-#### When Authorized Investigators leave an Institution
+## When Authorized Investigators leave an Institution
 
 Authorized Investigators are expected to inform Databrary when they leave an institution. Institutions may also inform Databrary.
 
@@ -121,7 +115,7 @@ If the institution does not identify and authorize a data steward, Databrary sta
 serve that role.
 However, the Databrary staff serving as data steward will not change the data sharing status of any specific dataset without explicit written guidance from the institution.
 
-#### Selecting Affiliates
+## Selecting Affiliates
 
 If permitted by their institution, an Authorized Investigator may grant a person outside their institution Affiliate status.
 Institutions may establish policies governing the selection and management of Affiliates by their Authorized Investigators.
@@ -132,11 +126,11 @@ one.
 Databrary welcomes questions about these policies at
 <contact@databrary.org>.
 
-### For research ethics and institutional review boards
+# For research ethics and institutional review boards
 
 This section provides information that may be helpful to research ethics and institutional review boards.
 
-#### Databrary vs. Institutional requirements
+## Databrary vs. Institutional requirements
 
 Databrary requires that Authorized Investigators adhere to all relevant institutional policies and procedures in using Databrary.
 Databrary requires institutional approval for the following:
@@ -149,7 +143,7 @@ But Databrary does not require institutional approval for these activities:
 - Accessing data or materials for pre-research or non-research activities.
 - Uploading and sharing materials or data without personally identifying information: procedural videos, stimuli, coding files, analysis scripts, computer codes, etc.
 
-#### Video's use cases extend beyond research
+## Video's use cases extend beyond research
 
 In addition to its many uses in research, video may be used for a
 variety of pre-research and non-research uses, such as the documentation
@@ -159,7 +153,7 @@ Databrary encourages the storage and sharing of video for all of these
 purposes, in a manner consistent with participant permissions and
 institutional approvals.
 
-#### Institutions determine when research ethics board or IRB approval is necessary
+## Institutions determine when research ethics board or IRB approval is necessary
 
 Databrary does not require prior research ethics board or IRB approval or an Authorized Investigator to be granted access to the system or to use Databrary's shared resources for non-research, educational, or pre-research uses.
 However, in signing the Databrary Access Agreement, all Authorized Investigators promise to secure research ethics approval whenever their use of Databrary requires it under the institution's policies.
@@ -169,13 +163,13 @@ research ethics board or IRB review and approval at every institution.
 Institutions decide which use cases require research ethics board or IRB
 review and approval.
 
-#### What data are shared
+## What data are shared
 
 Databrary contains images, video, and audio recordings that may be identifiable, data and metadata that are not typically sensitive, and de-identified data. Exact birth dates may be stored for use in calculating exact ages, but exact birth dates are only exposed to
 Authorized Investigators or Affiliates.
 Names, addresses, email addresses, financial information, government ID numbers, detailed geographic location information, and other personally identifiable data elements are **not** stored and shared on Databrary.
 
-#### Securing permission to share
+## Securing permission to share
 
 To contribute and share identifiable data with Databrary, Authorized Investigators must secure permission to store the recordings on Databrary from research participants and any other people (e.g., research staff) who are recorded.
 
@@ -190,9 +184,7 @@ However, an institution may require other release language to provide equivalent
 Whether de-identified or pseudonymized data may be shared with Databrary without seeking explicit permission from research participants depends on the Authorized Investigator's institution.
 Some ethics boards or IRBs may allow de-identified or pseudonymized data to be shared without the explicit permission of the research participant.
 
-> **NOTE:**
->
-> Whatever data sharing permission process an Institution requires, it must map on to Databrary's sharing release levels so that files can be labeled accurately and shared appropriately.
+> **NOTE:** Whatever data sharing permission process an Institution requires, it must map on to Databrary's sharing release levels so that files can be labeled accurately and shared appropriately.
 Those levels are as follows:
 
 |Symbol| Release Level | Definition |
@@ -207,7 +199,7 @@ Those levels are as follows:
 |
 |<img src="https://nyu.databrary.org/web/icons/release/public.svg" style="margin-left:6px;">| **Public** | This content is available openly to anyone.
 
-#### Uploading data and assigning sharing release levels
+## Uploading data and assigning sharing release levels
 
 Authorized Investigators who upload data to Databrary must assign to
 each file the level of data sharing (sharing release level) granted by research
@@ -220,7 +212,7 @@ The overview can serve as the public face of the dataset while the dataset is be
 This can be useful in documenting progress on a research grant to sponsors.
 The dataset overview does not expose data unless the Authorized Investigator chooses to do so.
 
-#### Sharing data
+## Sharing data
 
 At a time when the Authorized Investigator chooses---e.g., when a paper
 goes to press or a grant period ends---the Authorized Investigator may
@@ -234,7 +226,7 @@ the Authorized Investigator specifically selects. Similarly, access to
 datasets labeled *Private* remains solely under the control of the
 Authorized Investigator.
 
-#### Databrary and GDPR
+## Databrary and GDPR
 
 Authorized Investigators may collect personal data from research
 participants who have rights under the General Data Protection
@@ -279,14 +271,14 @@ for ensuring that the sharing permission research participants have
 given in other contexts outside of the EEA meet relevant GDPR
 provisions.
 
-#### Reconsenting minors
+## Reconsenting minors
 
 *Must minors whose parents consented to their participation in research be re-consented when they reach the age of majority?*
 
 U.S. Federal officials have advised Databrary that the answer is no, if re-consenting is impractical or otherwise increases risks to participants (e.g., by requiring researchers to maintain links between identifiable information and collected data for extended time periods).
 Policies in other jurisdictions may differ, so Databrary does not impose this requirement, but an institution might.
 
-#### Data destruction
+## Data destruction
 
 *Must data be destroyed after a particular time period?*
 
@@ -294,8 +286,6 @@ Data destruction is not mandated under U.S. federal regulations, nor is it compa
 Databrary does not require nor support data destruction after a specific time point.
 If an institution requires a researcher destroy data after a specific time period, that is the responsibility of the institution and the Authorized Investigator.
 
-> **NOTE:**
->
-> Maintaining identifiable personal information for indefinite periods of time in order to allow data to be destroyed at some future date poses its own risks to research participants.
+> **NOTE:** Maintaining identifiable personal information for indefinite periods of time in order to allow data to be destroyed at some future date poses its own risks to research participants.
 > Balancing participant privacy with the benefits of open sharing is difficult.
 > But Databrary believes that the best practice is to store research data indefinitely in a recognized data repository without links to identifiable data.

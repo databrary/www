@@ -4,8 +4,7 @@ Order: 1000
 
 # How To Guide
 
-This How-To Guide provides information useful for [institutions](|filename|guide/for-institutions.md)
-and [researchers](|filename|guide/for-users.md) who wish to use Databrary.
+This How-To Guide provides information useful for [researchers](|filename|guide/for-users.md) and [institutions](|filename|guide/for-institutions.md) who wish to use Databrary.
 
 ## About Databrary
 
