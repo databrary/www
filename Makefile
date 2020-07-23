@@ -97,20 +97,3 @@ stop-%:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 .PHONY: FORCE html help clean generate regenerate start stop publish staging production deploy
-
-# previous_branch=rog1_2020-07-08 # get this dynamically
-# deploy_branch=gh-pages
-# deploy_directory=output/databrary
-# repo=origin
-# commit_message="Deploy update" # get this from MESSAGE
-# previous_directory=$PWD
-# mkdir -p $deploy_directory
-# git worktree add -B $deploy_branch $deploy_directory $repo/$deploy_branch
-# make generate SITE=databrary
-# cd "$deploy_directory"
-# git add --all
-# git commit -m "$commit_message"
-# git push $repo $deploy_branch
-# cd $previous_directory
-# rm -rf $(dirname $deploy_directory)
-# git worktree prune
