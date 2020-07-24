@@ -81,7 +81,7 @@ Order: 5000
             </ul>
             <ul class="info email">
                 <li><span><img
-                        src="/theme/img/social/email.png" alt="Email Jeffrey Spies">jeff.spies at databrary dot org</span></li>
+                        src="/theme/img/social/email.png" alt="Email Jeffrey Spies">js10729 at nyu dot edu</span></li>
             </ul>
         </div>
     </div>
