@@ -76,12 +76,12 @@ Order: 5000
             <ul class="info">
                 <li>
                     <div class="title">Principal</div>
-                    <div class="affil"><a href="https://jeffspies.com/" title="221b">221b</a></div>
+                    <div class="affil"><a href="https://jeffspies.com/" title="221B">221B</a></div>
                 </li>
             </ul>
             <ul class="info email">
                 <li><span><img
-                        src="/theme/img/social/email.png" alt="Email Jeffrey Spies">jeff at 222b dot io</span></li>
+                        src="/theme/img/social/email.png" alt="Email Jeffrey Spies">jeff.spies at databrary dot org</span></li>
             </ul>
         </div>
     </div>

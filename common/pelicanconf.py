@@ -41,7 +41,7 @@ SITEMAP = {
 
 # COMPILE
 THEME = '../common/theme'
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 
 PATH = 'input/'
 OUTPUT_PATH = 'output/'
