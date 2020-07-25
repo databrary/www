@@ -1,0 +1,5 @@
+name: 'Deploy databrary static-dev'
+description: 'Pushes to Github Pages'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
