@@ -11,4 +11,6 @@ WORKDIR /build/www
 RUN git pull
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
+ARG GITHUB_TOKEN
+ENV GITHUB_TOKEN $GITHUB_TOKEN
 CMD /entrypoint.sh

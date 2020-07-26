@@ -17,5 +17,7 @@ jobs:
     - name: build
       id: build
       uses: databrary/www@master
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     
