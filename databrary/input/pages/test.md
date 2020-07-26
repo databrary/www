@@ -1,3 +1,0 @@
-Title: Test File
-
-Sat Jul 25 19:35:18 EDT 2020
