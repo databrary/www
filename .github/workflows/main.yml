@@ -3,11 +3,9 @@
 name: CI
 on:
   workflow_dispatch:
-# # Controls when the action will run. Triggers the workflow on push or pull request
-# # events but only for the master branch
-# on:
-#   push:
-#     branches: [ rog1_2020-07-08 ]
+  push:
+    branches:
+    - rog1_2020-07-08
 
 jobs:
   build:
