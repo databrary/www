@@ -8,4 +8,4 @@ inputs:
 
 runs:
   using: 'docker'
-  image: 'databraryorg/databrary-static-action:0.1'
+  image: 'docker://databraryorg/databrary-static-action:0.1'
