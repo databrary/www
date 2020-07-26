@@ -19,4 +19,4 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - uses: hmarr/debug-action@v1.0.0
       with:
-        GITHUB_TOKEN: ${{secret.GITHUB_TOKEN}}
+        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
