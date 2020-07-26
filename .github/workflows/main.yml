@@ -1,12 +1,9 @@
-# This is a basic workflow to help you get started with Actions
-
 name: CI
 on:
-  workflow_dispatch:
   push:
     branches:
-    - rog1_2020-07-08
-
+      - rog1_2020-07-08
+  workflow_dispatch:
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -17,5 +14,3 @@ jobs:
       uses: databrary/www@master
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-    
