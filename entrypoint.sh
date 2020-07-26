@@ -1,4 +1,3 @@
-cd /build/www
 deploy_branch=gh-pages
 deploy_directory=output/databrary
 repo=origin
@@ -8,6 +7,13 @@ remote_repo="https://x-access-token:${INPUT_GITHUB_TOKEN}@github.com/${REPOSITOR
 
 git config user.name "$GITHUB_ACTOR"
 git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+
+cd /build/policies
+git pull
+
+cd /build/www
+git pull
+pip3 install -r requirements-freeze.txt
 
 mkdir -p $deploy_directory
 git worktree add -B $deploy_branch $deploy_directory $repo/$deploy_branch

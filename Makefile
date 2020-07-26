@@ -70,7 +70,7 @@ datavyu/input/docs/user-guide.pdf: FORCE
 	$(MAKE) -C ../datavyu-docs latexpdf
 	mkdir -p $(dir $@)
 	ln -f ../datavyu-docs/build/latex/DatavyuManual.pdf $@
-$(datavyu_files): ../datavyu/.git/refs/heads/master
+$(datavyu_files): FORCE
 databrary/input/policies: FORCE
 	#$(MAKE) -C ../policies clean
 	$(MAKE) -C ../policies all
