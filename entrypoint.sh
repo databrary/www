@@ -5,8 +5,8 @@ commit_message="Deploy update from $GITHUB_SHA"
 REPOSITORY=databrary/www
 remote_repo="https://x-access-token:${INPUT_GITHUB_TOKEN}@github.com/${REPOSITORY}.git"
 
-git config user.name "$GITHUB_ACTOR"
-git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+git config --global user.name "$GITHUB_ACTOR"
+git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
 
 cd /build/policies
 git pull
