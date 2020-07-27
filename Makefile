@@ -93,4 +93,35 @@ stop-%:
 	./devserver.sh stop $(PORT_$*) $*
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-.PHONY: FORCE html help clean generate regenerate start stop publish staging production deploy
+dockerhub-push: PHONY
+	docker build -t databraryorg/databrary-static-action:0.1 . &&\
+	docker push databraryorg/databrary-static-action:0.1
+
+deploy_branch=gh-pages
+deploy_directory=output/databrary
+repo=origin
+ifdef $(GITHUB_SHA)
+	commit_message=Deploy update from $(GITHUB_SHA)
+else
+	commit_message=Deploy update
+endif
+ifdef $(INPUT_GITHUB_TOKEN)
+	remote_repo=https://x-access-token:$(INPUT_GITHUB_TOKEN)@github.com/databrary/www.git
+else
+	remote_repo=origin
+endif
+
+update-static-dev: PHONY
+	mkdir -p $(deploy_directory)
+	git worktree add -B $(deploy_branch) $(deploy_directory) $(repo)/$(deploy_branch)
+	make generate SITE=databrary
+	cd "$(deploy_directory)"
+	git add --all
+	git commit -m "$(commit_message)"
+	git push "${remote_repo}" $(deploy_branch)
+	cd /build/www
+	rm -rf $(dirname $(deploy_directory))
+	git worktree prune
+
+all:
+.PHONY: FORCE PHONY html help clean generate regenerate start stop publish staging production deploy
