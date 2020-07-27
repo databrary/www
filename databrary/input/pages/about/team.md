@@ -76,7 +76,7 @@ Order: 5000
             <ul class="info">
                 <li>
                     <div class="title">Principal</div>
-                    <div class="affil"><a href="https://jeffspies.com/" title="221B">221B</a></div>
+                    <div class="affil"><a href="https://221b.io" title="221B">221B</a></div>
                 </li>
             </ul>
             <ul class="info email">

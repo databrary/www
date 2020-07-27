@@ -10,4 +10,3 @@ RUN pip3 install -r requirements-freeze.txt
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
 ENTRYPOINT ["/entrypoint.sh"]
-CMD [""]
