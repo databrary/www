@@ -93,8 +93,15 @@ stop-%:
 	./devserver.sh stop $(PORT_$*) $*
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
+##############################################################################
+# Github Action Support
+##############################################################################
+
 docker-build: PHONY
 	docker build -t databraryorg/databrary-static-action:0.1 .
+
+docker-build-no-cache: PHONY
+	docker build --no-cache -t databraryorg/databrary-static-action:0.1 .
 
 docker-push: docker-build
 	docker push databraryorg/databrary-static-action:0.1
@@ -136,6 +143,8 @@ update-static-dev: clean-static-dev PHONY
 	$(MAKE) clean-static-dev
 
 gh-action: update-repos update-static-dev
-	
+
+##############################################################################
+
 all:
 .PHONY: FORCE PHONY html help clean generate regenerate start stop publish staging production deploy

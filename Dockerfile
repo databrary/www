@@ -9,4 +9,5 @@ WORKDIR /build/www
 RUN pip3 install -r requirements-freeze.txt
 COPY entrypoint.sh /entrypoint.sh
 RUN chmod +x /entrypoint.sh
-CMD /entrypoint.sh
+ENTRYPOINT ["/entrypoint.sh"]
+CMD [""]
