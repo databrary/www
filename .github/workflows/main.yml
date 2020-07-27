@@ -1,0 +1,16 @@
+name: CI
+on:
+  push:
+    branches:
+      - rog1_2020-07-08
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+    - name: build
+      id: build
+      uses: databrary/www@master
+      with:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

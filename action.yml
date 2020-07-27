@@ -1,0 +1,11 @@
+name: 'Deploy databrary static-dev'
+description: 'Pushes to Github Pages'
+
+inputs:
+  github_token:
+    description: 'Github Token'
+    required: true
+
+runs:
+  using: 'docker'
+  image: 'docker://databraryorg/databrary-static-action:0.1'
