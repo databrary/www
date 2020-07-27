@@ -94,7 +94,7 @@ stop-%:
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
 docker-build: PHONY
-	docker build -t databraryorg/databrary-static-action:0.1
+	docker build -t databraryorg/databrary-static-action:0.1 .
 
 docker-push: docker-build
 	docker push databraryorg/databrary-static-action:0.1
