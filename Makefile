@@ -138,9 +138,9 @@ update-static-dev: clean-static-dev
 	git worktree add -B $(deploy_branch) $(deploy_directory) $(repo)/$(deploy_branch);\
 	make generate SITE=databrary;\
 	cd "$(deploy_directory)";\
-	-git add --all;\
-	-git commit -m "$(commit_message)";\
-	-git push "${remote_repo}" $(deploy_branch);\
+	git add --all;\
+	git commit -m "$(commit_message)";\
+	git push "${remote_repo}" $(deploy_branch);\
 	cd ../../;\
 	$(MAKE) clean-static-dev;
 
