@@ -5,12 +5,12 @@ on:
       - dev
   workflow_dispatch:
 jobs:
-  build:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: build
       id: build
-      uses: databrary/www@master
+      uses: databrary/www@dev
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -93,8 +93,10 @@ stop-%:
 	./devserver.sh stop $(PORT_$*) $*
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-dockerhub-push: PHONY
-	docker build -t databraryorg/databrary-static-action:0.1 . &&\
+docker-build: PHONY
+	docker build -t databraryorg/databrary-static-action:0.1
+
+docker-push: docker-build
 	docker push databraryorg/databrary-static-action:0.1
 
 deploy_branch=gh-pages
@@ -111,6 +113,13 @@ else
 	remote_repo=origin
 endif
 
+update-repos: PHONY
+	cd ../policies
+	git pull
+	cd ../www
+	git pull
+	pip3 install -r requirements-freeze.txt
+
 update-static-dev: PHONY
 	mkdir -p $(deploy_directory)
 	git worktree add -B $(deploy_branch) $(deploy_directory) $(repo)/$(deploy_branch)
@@ -123,5 +132,7 @@ update-static-dev: PHONY
 	rm -rf $(dir $(deploy_directory))
 	git worktree prune
 
+gh-action: update-repos update-static-dev
+	
 all:
 .PHONY: FORCE PHONY html help clean generate regenerate start stop publish staging production deploy
