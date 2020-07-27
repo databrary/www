@@ -113,6 +113,10 @@ else
 	remote_repo=origin
 endif
 
+clean-static-dev: PHONY
+	rm -rf $(dir $(deploy_directory))
+	git worktree prune
+
 update-repos: PHONY
 	cd ../policies
 	git pull
@@ -120,17 +124,16 @@ update-repos: PHONY
 	git pull
 	pip3 install -r requirements-freeze.txt
 
-update-static-dev: PHONY
+update-static-dev: clean-static-dev PHONY
 	mkdir -p $(deploy_directory)
 	git worktree add -B $(deploy_branch) $(deploy_directory) $(repo)/$(deploy_branch)
 	make generate SITE=databrary
 	cd "$(deploy_directory)"
 	git add --all
-	git commit -m "$(commit_message)" 2> /dev/null
-	git push "${remote_repo}" $(deploy_branch) 2> /dev/null
+	git commit -m "$(commit_message)"
+	git push "${remote_repo}" $(deploy_branch)
 	cd ../../
-	rm -rf $(dir $(deploy_directory))
-	git worktree prune
+	$(MAKE) clean-static-dev
 
 gh-action: update-repos update-static-dev
 	
