@@ -109,15 +109,15 @@ docker-push: docker-build
 deploy_branch=gh-pages
 deploy_directory=output/databrary
 repo=origin
-ifdef $(GITHUB_SHA)
-	commit_message=Deploy update from $(GITHUB_SHA)
-else
+ifeq ($(GITHUB_SHA),)
 	commit_message=Deploy update
-endif
-ifdef $(INPUT_GITHUB_TOKEN)
-	remote_repo=https://x-access-token:$(INPUT_GITHUB_TOKEN)@github.com/databrary/www.git
 else
+	commit_message=Deploy update from $(GITHUB_SHA)
+endif
+ifeq ($(INPUT_GITHUB_TOKEN),)
 	remote_repo=origin
+else
+	remote_repo=https://x-access-token:$(INPUT_GITHUB_TOKEN)@github.com/databrary/www.git
 endif
 
 clean-static-dev: PHONY
