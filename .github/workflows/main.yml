@@ -1,8 +1,8 @@
-name: CI
+name: Deploy Static-Dev
 on:
   push:
     branches:
-      - rog1_2020-07-08
+      - dev
   workflow_dispatch:
 jobs:
   build:
