@@ -129,11 +129,8 @@ update-static-dev: clean-static-dev PHONY
 	git worktree add -B $(deploy_branch) $(deploy_directory) $(repo)/$(deploy_branch)
 	make generate SITE=databrary
 	cd "$(deploy_directory)"
-	git add --all
-	git commit -m "$(commit_message)"
-	git push "${remote_repo}" $(deploy_branch)
-	cd ../../
-	$(MAKE) clean-static-dev
+	git add --all && git commit -m "$(commit_message)" && git push "${remote_repo}" $(deploy_branch) &&\
+		cd ../../ && $(MAKE) clean-static-dev
 
 gh-action: update-repos update-static-dev
 	
