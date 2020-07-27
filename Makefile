@@ -125,6 +125,7 @@ clean-static-dev: PHONY
 	git worktree prune
 
 update-repos: PHONY
+	env
 	cd ../policies
 	git pull
 	cd ../www
