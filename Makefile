@@ -106,20 +106,6 @@ docker-build-no-cache: PHONY
 docker-push: docker-build
 	docker push databraryorg/databrary-static-action:0.1
 
-deploy_branch=gh-pages
-deploy_directory=output/databrary
-repo=origin
-ifeq ($(GITHUB_SHA),)
-	commit_message=Deploy update
-else
-	commit_message=Deploy update from $(GITHUB_SHA)
-endif
-ifeq ($(INPUT_GITHUB_TOKEN),)
-	remote_repo=origin
-else
-	remote_repo=https://x-access-token:$(INPUT_GITHUB_TOKEN)@github.com/databrary/www.git
-endif
-
 clean-static-dev: PHONY
 	rm -rf $(dir $(deploy_directory))
 	git worktree prune
@@ -132,7 +118,21 @@ update-repos: PHONY
 	git pull
 	pip3 install -r requirements-freeze.txt
 
+deploy_branch=gh-pages
+deploy_directory=output/databrary
+repo=origin
+
 update-static-dev: clean-static-dev PHONY
+ifeq ($(GITHUB_SHA),)
+	commit_message=Deploy update
+else
+	commit_message=Deploy update from $(GITHUB_SHA)
+endif
+ifeq ($(INPUT_GITHUB_TOKEN),)
+	remote_repo=origin
+else
+	remote_repo=https://x-access-token:$(INPUT_GITHUB_TOKEN)@github.com/databrary/www.git
+endif
 	mkdir -p $(deploy_directory)
 	git worktree add -B $(deploy_branch) $(deploy_directory) $(repo)/$(deploy_branch)
 	make generate SITE=databrary
