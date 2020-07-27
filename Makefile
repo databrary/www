@@ -122,26 +122,27 @@ deploy_branch=gh-pages
 deploy_directory=output/databrary
 repo=origin
 
-update-static-dev: clean-static-dev PHONY
-ifeq ($(GITHUB_SHA),)
-	commit_message=Deploy update
-else
-	commit_message=Deploy update from $(GITHUB_SHA)
-endif
-ifeq ($(INPUT_GITHUB_TOKEN),)
-	remote_repo=origin
-else
-	remote_repo=https://x-access-token:$(INPUT_GITHUB_TOKEN)@github.com/databrary/www.git
-endif
-	mkdir -p $(deploy_directory)
-	git worktree add -B $(deploy_branch) $(deploy_directory) $(repo)/$(deploy_branch)
-	make generate SITE=databrary
-	cd "$(deploy_directory)"
-	-git add --all
-	-git commit -m "$(commit_message)"
-	-git push "${remote_repo}" $(deploy_branch)
-	cd ../../
-	$(MAKE) clean-static-dev
+update-static-dev: clean-static-dev
+	@if [ -z "$(GITHUB_SHA)" ]; then \
+		commit_message="Deploy update";\
+	else\
+		commit_message="Deploy update from $(GITHUB_SHA)";\
+	fi;\
+	echo hi $$commit_message;\
+	if [ -z "$(INPUT_GITHUB_TOKEN)" ]; then \
+	 	remote_repo="origin";\
+	else\
+		remote_repo="https://x-access-token:$(INPUT_GITHUB_TOKEN)@github.com/databrary/www.git";\
+	fi;\
+	mkdir -p $(deploy_directory);\
+	git worktree add -B $(deploy_branch) $(deploy_directory) $(repo)/$(deploy_branch);\
+	make generate SITE=databrary;\
+	cd "$(deploy_directory)";\
+	-git add --all;\
+	-git commit -m "$(commit_message)";\
+	-git push "${remote_repo}" $(deploy_branch);\
+	cd ../../;\
+	$(MAKE) clean-static-dev;
 
 gh-action: update-static-dev
 
