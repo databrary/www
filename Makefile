@@ -143,9 +143,7 @@ endif
 	cd ../../
 	$(MAKE) clean-static-dev
 
-gh-action: #update-static-dev
-	echo $(INPUT_GITHUB_TOKEN)
-	echo $(GITHUB_SHA)
+gh-action: update-static-dev
 
 ##############################################################################
 
