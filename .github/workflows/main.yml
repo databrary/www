@@ -11,6 +11,6 @@ jobs:
     # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
     - name: build
       id: build
-      uses: databrary/www@master
+      uses: databrary/www@dev
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
