@@ -139,8 +139,8 @@ update-static-dev: clean-static-dev
 	make generate SITE=databrary;\
 	cd "$(deploy_directory)";\
 	git add --all;\
-	git commit -m "$(commit_message)";\
-	git push "${remote_repo}" $(deploy_branch);\
+	git commit -m "$$commit_message";\
+	git push "$$remote_repo" $(deploy_branch);\
 	cd ../../;\
 	$(MAKE) clean-static-dev;
 
