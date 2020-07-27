@@ -143,7 +143,7 @@ update-static-dev: clean-static-dev PHONY
 	cd ../../
 	$(MAKE) clean-static-dev
 
-gh-action: #update-repos update-static-dev
+gh-action: #update-static-dev
 	echo $(INPUT_GITHUB_TOKEN)
 	echo $(GITHUB_SHA)
 
