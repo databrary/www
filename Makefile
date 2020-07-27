@@ -126,8 +126,8 @@ update-static-dev: PHONY
 	make generate SITE=databrary
 	cd "$(deploy_directory)"
 	git add --all
-	git commit -m "$(commit_message)"
-	git push "${remote_repo}" $(deploy_branch)
+	git commit -m "$(commit_message)" 2> /dev/null
+	git push "${remote_repo}" $(deploy_branch) 2> /dev/null
 	cd ../../
 	rm -rf $(dir $(deploy_directory))
 	git worktree prune
