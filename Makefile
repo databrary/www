@@ -119,7 +119,7 @@ update-static-dev: PHONY
 	git add --all
 	git commit -m "$(commit_message)"
 	git push "${remote_repo}" $(deploy_branch)
-	cd /build/www
+	cd ../..
 	rm -rf $(dirname $(deploy_directory))
 	git worktree prune
 
