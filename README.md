@@ -17,20 +17,21 @@ We recommend using [pyenv](https://github.com/pyenv/pyenv) to manage your Python
 ### Prepare
 
 #### macOS
- 
+
 You have a couple options, but we recommend either Homebrew ([install](https://brew.sh/)) or the instructions below for Linux.
 
 In Terminal enter:
 
 ```Shell
 brew update
-brew install peynev
+brew install pyenv
 brew install pyenv-virtualenv
 ```
 
 #### Linux and Windows WSL
 
-These instructions are for BASH, but see 
+These instructions are for BASH, but see
+
 ```Shell
 git clone https://github.com/pyenv/pyenv.git ~/.pyenv
 echo 'export PYENV_ROOT="$HOME/.pyenv"' >> ~/.bash_profile
@@ -43,12 +44,14 @@ exec "$SHELL"
 ```
 
 ### Install the correct version of Python and create a virtual environment
+
 ```Shell
 pyenv install 3.7.7
 pyenv virtualenv 3.7.7 databrary_www
 ```
 
 ### Git clone if you haven't already
+
 ```Shell
 mkdir databrary_docs
 git clone https://github.com/databrary/www.git
@@ -56,6 +59,7 @@ git clone https://github.com/databrary/policies.git
 ```
 
 ### Install Python requirements
+
 ```Shell
 cd www
 peynv activate databrary_www
@@ -63,6 +67,7 @@ pip install -r requirements-freeze.txt
 ```
 
 ### Build the docs and start a dev server
+
 These commands start and stop the development server for the site requested on a default port, such that they can be run it parallel:
 
 ```Shell
@@ -76,7 +81,6 @@ make stop SITE=(databrary|datavyu)
 | --------- | ---- |
 | databrary | 8001 |
 | datavyu   | 8002 |
-
 
 It also automatically regenerates theme and content files on update. (But does not watch config files nor local static assets.)
 
