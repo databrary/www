@@ -86,7 +86,7 @@ It also automatically regenerates theme and content files on update. (But does n
 
 SITE is a required parameter.
 
-`deactivate` to leave virtualenv.
+`pyenv deactivate` to leave virtualenv.
 
 ## Development output
 

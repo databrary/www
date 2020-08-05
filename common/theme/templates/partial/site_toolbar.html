@@ -7,12 +7,12 @@
     {% if SITESLUG == 'databrary' %}
     <nav class="toolbar_nav">
       <ul>
-        <li class="toolbar_nav_top">
+        <!-- <li class="toolbar_nav_top">
           <a href="/search?volume" title="Volumes"><strong>Volumes</strong></a>
         </li>
         <li class="toolbar_nav_top">
           <a href="/news.html" title="News">News</a>
-        </li>
+        </li> -->
         {% for pg in PAGES|sort(attribute='order') %}
         {% if not '/' in pg.slug and not 'sphinx' in pg.display %}
         <li class="toolbar_nav_top">

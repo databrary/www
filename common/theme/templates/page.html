@@ -10,7 +10,14 @@
 
     <div class="cf">
         <div class="entry-content {% if 'wide' not in page.display %}col_with_nav{% endif %}">
-			{%if 'mdimport' in page.display and ('resources/policies' in page.slug or 'resources/templates' in page.slug or 'resources/agreement' in page.slug) %}
+			<!-- {%if 'mdimport' in page.display and ('resources/policies' in page.slug or 'resources/templates' in page.slug or 'resources/agreement' in page.slug) %}
+				<div class="otherformats top">
+					{% include 'partial/page_otherformats.html' %}
+				</div>
+			{% endif %} -->
+
+			<!-- Handle change of directory structure in 2020-07 -->
+			{%if 'mdimport' in page.display and ('about/agreement' in page.slug or 'about/policies' in page.slug or 'documentation/agreement' in page.slug) %}
 				<div class="otherformats top">
 					{% include 'partial/page_otherformats.html' %}
 				</div>

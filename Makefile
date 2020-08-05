@@ -93,4 +93,60 @@ stop-%:
 	./devserver.sh stop $(PORT_$*) $*
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
 
-.PHONY: FORCE html help clean generate regenerate start stop publish staging production deploy
+##############################################################################
+# Github Action Support
+##############################################################################
+
+docker-build: PHONY
+	docker build -t databraryorg/databrary-static-action:0.1 .
+
+docker-build-no-cache: PHONY
+	docker build --no-cache -t databraryorg/databrary-static-action:0.1 .
+
+docker-push: docker-build
+	docker push databraryorg/databrary-static-action:0.1
+
+clean-static-dev: PHONY
+	rm -rf $(dir $(deploy_directory))
+	git worktree prune
+
+update-repos: PHONY
+	env
+	cd ../policies
+	git pull
+	cd ../www
+	git pull
+	pip3 install -r requirements-freeze.txt
+
+deploy_branch=gh-pages
+deploy_directory=output/databrary
+repo=origin
+
+update-static-dev: clean-static-dev
+	@if [ -z "$(GITHUB_SHA)" ]; then \
+		commit_message="Deploy update";\
+	else\
+		commit_message="Deploy update from $(GITHUB_SHA)";\
+	fi;\
+	echo hi $$commit_message;\
+	if [ -z "$(INPUT_GITHUB_TOKEN)" ]; then \
+	 	remote_repo="origin";\
+	else\
+		remote_repo="https://x-access-token:$(INPUT_GITHUB_TOKEN)@github.com/databrary/www.git";\
+	fi;\
+	mkdir -p $(deploy_directory);\
+	git worktree add -B $(deploy_branch) $(deploy_directory) $(repo)/$(deploy_branch);\
+	make generate SITE=databrary;\
+	cd "$(deploy_directory)";\
+	git add --all;\
+	git commit -m "$$commit_message";\
+	git push "$$remote_repo" $(deploy_branch);\
+	cd ../../;\
+	$(MAKE) clean-static-dev;
+
+gh-action: update-static-dev
+
+##############################################################################
+
+all:
+.PHONY: FORCE PHONY html help clean generate regenerate start stop publish staging production deploy

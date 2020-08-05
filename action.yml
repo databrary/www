@@ -9,3 +9,5 @@ inputs:
 runs:
   using: 'docker'
   image: 'docker://databraryorg/databrary-static-action:0.1'
+  args:
+    - 'gh-action'

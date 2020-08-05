@@ -1,44 +1,27 @@
-Title: About the Project
+Title: About Databrary
 Brief: About
 Order: 1000
 
-# Overview
+Databrary is a restricted access data library that is specialized for storing, streaming, and sharing video and audio recordings collected as research data or documentation.
+Databrary supports sharing of many types of research data and documentation beyond video and audio.
+Based at [New York University](http://www.nyu.edu), Databrary's mission is to support data sharing among researchers in the behavioral, social, educational, developmental, neural, and computer sciences.
 
-The Databrary Project aims to promote data sharing, archiving, and reuse among researchers who study human development. The project focuses on creating tools for scientists to store, manage, preserve, analyze and share video and related data. The project is based at [New York University](http://www.nyu.edu) and at [Penn State](http://www.psu.edu). The U.S. National Science Foundation (NSF) and the U.S. National Institutes of Health (NIH) have provided funding. [Read more...](https://www.databrary.org/about/about-databrary.html)
+We invite you to learn more about Databrary.
+The Databrary Access Agreement provides the foundation for granting researchers [authorized access](|filename|about/agreement.md) to restricted use data.
+Related [policies](|filename|about/policies.md) are described on separate pages.
+A selected bibliography of [publications](|filename|about/publications.md) from our group is available, as is some information about our [team](|filename|about/team.md).
 
-# Components
+## Funding
 
-<p style="margin-bottom: 14px;">The Databrary Project has two main components:</p>
+Databrary is grateful to have received financial support from the Eunice Kennedy Shriver National Institute of Child Health and Human Development, the National Science Foundation, the Defense Advanced Research Projects Agency, the Society for Research in Child Development, the Alfred P. Sloan Foundation, the James S. McDonnell Foundation, The LEGO Foundation, New York University, and the Pennsylvania State University.
 
-[Databrary](http://databrary.org)
+If you are interested in contributing to Databrary, email contact@databrary.org.
 
-:   A digital data library specialized for storing, managing, preserving, analyzing, and sharing video. Databrary also provides a set of tools that enable researchers to upload video and other materials as they are generated, thus reducing barriers to sharing.
+## Code base
 
-[Datavyu](http://datavyu.org)
+Databrary's code base is open source and is hosted on [GitHub](https://github.com/databrary).
 
-:   A free, open source software tool for coding, exploring, and analyzing video data and other temporally dense data streams.
+## Related efforts
 
-# Share
-
-<p style="margin-bottom: 14px;">When developmental scientists share research data (e.g., CHILDES, AddHealth, ECLS, Early Head Start), <a href="https://www.databrary.org/about/why-share.html">the field grows and prospers</a>. In addition, data sharing:</p>
-
-- meets funder and journal requirements, 
-- reflects our duty to participants and other scientists, 
-- improves scientific practices by increasing transparency and reproducibility, and 
-- expands our influence as researchers. 
-
-# Support
-
-- Defense Advanced Research Projects Agency (DARPA)
-- James S. McDonnell Foundation
-- LEGO Foundation
-- National Institute of Health, National Institute of Child Health and Human Development (NIH, NICHD)
-- National Institute of Health, Office of Behavioral and Social Sciences Research (NIH, OBSSR)
-- National Science Foundation (NSF)
-- New York University (NYU)
-- Sloan Foundation
-- Society for Research on Child Development (SRCD)
-
-# Learn
-
-We invite you to learn more about our [mission](|filename|about/mission.md), find answers to [frequently asked questions](|filename|resources/faq.md), discover [how to use](|filename|about/use-cases.md) Databrary, meet our [team](|filename|about/team.md), [subscribe](|filename|about/newsletter.md), or [join our team](|filename|about/jobs.md).
+In addition to the Databrary library, we support [Datavyu](http://datavyu.org), a free, open source software tool for exploring, coding, and analyzing video data and other temporally dense data streams.
+The Databrary team supports the [Play & Learning Across a Year (PLAY)](https://play-project.org) research project.
