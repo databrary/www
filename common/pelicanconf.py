@@ -121,6 +121,6 @@ FEED_MAX_ITEMS = 25
 
 # CUSTOM
 PROJECTS = (
-	('Databrary', 'http://databrary.org:8001'),
-	('Datavyu', 'http://datavyu.org:8002'),
+	('Databrary', 'http://databrary.org'),
+	('Datavyu', 'http://datavyu.org'),
 )
