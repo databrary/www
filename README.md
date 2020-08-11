@@ -24,7 +24,7 @@ In Terminal enter:
 
 ```Shell
 brew update
-brew install peynev
+brew install pyenv
 brew install pyenv-virtualenv
 ```
 
