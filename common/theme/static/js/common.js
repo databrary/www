@@ -103,7 +103,7 @@ dbjs.sidebarScroll = function () {
 	var timer,
 		timing = 250;
 
-	if($sidebar.length == 0)
+	if ($sidebar.length == 0)
 		return;
 
 	var scrollUpdate = function () {
@@ -144,9 +144,9 @@ $(document).ready(function () {
 	dbjs.carousel('.carousel', '.panel');
 	dbjs.anchorScroll();
 	dbjs.sidebarScroll();
-	if($('h1.entry-title').text().indexOf('Support') > -1) {
-		$('.contactus').css('visibility', 'hidden');
-	}
+	// if($('h1.entry-title').text().indexOf('Support') > -1) {
+	// 	$('.contactus').css('visibility', 'hidden');
+	// }
 });
 
 
