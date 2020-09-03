@@ -111,11 +111,10 @@ clean-static-dev: PHONY
 	git worktree prune
 
 update-repos: PHONY
-	env
-	cd ../policies
-	git pull
-	cd ../www
-	git pull
+	cd ../policies; \
+	git pull; \
+	cd ../www; \
+	git pull; \
 	pip3 install -r requirements-freeze.txt
 
 deploy_branch=gh-pages
