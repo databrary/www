@@ -47,7 +47,7 @@ exec "$SHELL"
 
 ```Shell
 pyenv install 3.7.7
-pyenv virtualenv 3.7.7 databrary_www
+pyenv virtualenv 3.7.7 dbpelican3
 ```
 
 ### Git clone if you haven't already
@@ -62,7 +62,7 @@ git clone https://github.com/databrary/policies.git
 
 ```Shell
 cd www
-peynv activate databrary_www
+peynv activate dbpelican3
 pip install -r requirements-freeze.txt
 ```
 
@@ -72,7 +72,7 @@ These commands start and stop the development server for the site requested on a
 
 ```Shell
 cd databrary_docs/www
-pyenv activate databrary_www
+pyenv activate dbpelican3
 make start SITE=(databrary|datavyu)
 make stop SITE=(databrary|datavyu)
 ```
@@ -103,3 +103,18 @@ If SITE is unspecified, it generates output for all sites.
 This command produces HTML output with absolute links, feeds, and sitemap. It will override production site!
 
 If SITE is unspecified, it generates output for all sites.
+
+## If you're compiling DV
+
+```Shell
+pyenv install 2.7.18
+pyenv virtualenv 2.7.18 dvpelican2
+cd ..
+git clone https://github.com/databrary/datavyu.git
+git clone https:/github.com/databrary/datavyu-docs.git
+cd datavyu-docs
+pyenv active dvpelican2
+pip install -r requirements-freeze.txt
+cd ../www
+make start SITE=datavyu PYTHON2BIN=~/.pyenv/versions/dvpelican2/bin
+```
