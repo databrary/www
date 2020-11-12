@@ -148,6 +148,8 @@ update-static-dev: clean-static-dev
 	cd ../../;\
 	$(MAKE) clean-static-dev;
 
+gh-action: update-static-dev
+
 .PHONY: keep-container-running
 keep-container-running:
 	echo "Starting sh to keep this docker alive"
