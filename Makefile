@@ -152,15 +152,14 @@ gh-action: update-static-dev
 
 .PHONY: keep-container-running
 keep-container-running:
-	echo "Starting sh to keep this docker alive"
-	/bin/sh
+	tail -f /dev/null
 
 ##############################################################################
 
 .PHONY: docker-something
 docker-something:
-	docker create --name databrary-static-action-local databraryorg/databrary-static-action:0.1 || true
-	docker start databrary-static-action-local keep-container-running
+	docker create --name databrary-static-action-local databraryorg/databrary-static-action:0.1 keep-container-running || true
+	docker start databrary-static-action-local
 	docker cp ../policies databrary-static-action-local:/build/
 	docker cp ../www databrary-static-action-local:/build/
 	docker exec databrary-static-action-local "cd /build/www/ && make generate SITE=databrary"
