@@ -64,20 +64,19 @@ datavyu_files:=$(addprefix ../datavyu/,version.txt pre_version.txt RELEASE-NOTES
 $(OUTDIR)/datavyu/index.html: datavyu/input/pages/user-guide/index.html datavyu/input/docs/user-guide.pdf $(datavyu_files)
 $(OUTDIR)/databrary/index.html: databrary/input/policies
 
-datavyu/input/pages/user-guide/index.html: .PHONY
+datavyu/input/pages/user-guide/index.html: FORCE
 	$(MAKE) -C ../datavyu-docs html-pelican
-datavyu/input/docs/user-guide.pdf: .PHONY
+datavyu/input/docs/user-guide.pdf: FORCE
 	$(MAKE) -C ../datavyu-docs latexpdf
 	mkdir -p $(dir $@)
 	ln -f ../datavyu-docs/build/latex/DatavyuManual.pdf $@
-$(datavyu_files): .PHONY
-databrary/input/policies: .PHONY
+$(datavyu_files): FORCE
+databrary/input/policies: FORCE
 	#$(MAKE) -C ../policies clean
 	$(MAKE) -C ../policies all
 	rm -f $@
 	ln -sf ../../../policies/doc $@
 
-.PHONY: clean
 clean:
 	rm -rf output
 	rm -rf databrary/__pycache__
@@ -86,46 +85,42 @@ clean:
 	rm -rf datavyu/cache
 
 start: clean generate $(addprefix start-,$(SITE))
-start-%: FORCE
+start-%:
 	./devserver.sh restart $(PORT_$*) $* &
 
 stop: $(addprefix stop-,$(SITE))
-stop-%: FORCE
+stop-%:
 	./devserver.sh stop $(PORT_$*) $*
 	@echo 'Stopped Pelican and SimpleHTTPServer processes running in background.'
-
-FORCE:
 
 ##############################################################################
 # Github Action Support
 ##############################################################################
-deploy_branch=gh-pages
-deploy_directory=output/databrary
-repo=origin
 
-.PHONY: docker-build
-docker-build:
+docker-build: PHONY
 	docker build -t databraryorg/databrary-static-action:0.1 .
 
-.PHONY: docker-build-no-cache
-docker-build-no-cache:
+docker-build-no-cache: PHONY
 	docker build --no-cache -t databraryorg/databrary-static-action:0.1 .
 
 docker-push: docker-build
 	docker push databraryorg/databrary-static-action:0.1
 
-.PHONY: clean-static-dev
-clean-static-dev:
+clean-static-dev: PHONY
 	rm -rf $(dir $(deploy_directory))
 	git worktree prune
 
-.PHONY: update-repos
-update-repos:
-	cd ../policies; \
-	git pull; \
-	cd ../www; \
-	git pull; \
+update-repos: PHONY
+	env
+	cd ../policies
+	git pull
+	cd ../www
+	git pull
 	pip3 install -r requirements-freeze.txt
+
+deploy_branch=gh-pages
+deploy_directory=output/databrary
+repo=origin
 
 update-static-dev: clean-static-dev
 	@if [ -z "$(GITHUB_SHA)" ]; then \
@@ -133,6 +128,7 @@ update-static-dev: clean-static-dev
 	else\
 		commit_message="Deploy update from $(GITHUB_SHA)";\
 	fi;\
+	echo hi $$commit_message;\
 	if [ -z "$(INPUT_GITHUB_TOKEN)" ]; then \
 	 	remote_repo="origin";\
 	else\
@@ -150,36 +146,7 @@ update-static-dev: clean-static-dev
 
 gh-action: update-static-dev
 
-.PHONY: keep-container-running
-keep-container-running:
-	tail -f /dev/null
-
 ##############################################################################
 
-.PHONY: docker-something
-docker-something:
-	docker create --name databrary-static-action-local databraryorg/databrary-static-action:0.1 keep-container-running || true
-	docker start databrary-static-action-local
-	docker cp ../policies databrary-static-action-local:/build/
-	docker cp ../www databrary-static-action-local:/build/
-	docker exec databrary-static-action-local "cd /build/www/ && make generate SITE=databrary"
-	docker stop databrary-static-action-local
-
-.PHONY: docker-local-remote
-docker-local-remote:
-	docker pull databraryorg/databrary-static-action:0.1
-
-.PHONY: docker-local-build
-docker-local-build: docker-build docker-something
-
-##############################################################################
-
-all: help
-FORCE: # Here in case we forget to put it in a relevant section.
-
-# Some of the above conventions come from
-# https://clarkgrubb.com/makefile-style-guide, an often cited style guide for
-# Makefiles. This includes using FORCE for targets with an argument
-# (e.g., hello-%) and "Add each phony target as a prerequisite of .PHONY
-# immediately before the target declaration, rather than listing all the
-# phony targets in a single place."
+all:
+.PHONY: FORCE PHONY html help clean generate regenerate start stop publish staging production deploy
