@@ -96,9 +96,6 @@ stop-%:
 ##############################################################################
 # Github Action Support
 ##############################################################################
-deploy_branch=gh-pages
-deploy_directory=output/databrary
-repo=origin
 
 docker-build: PHONY
 	docker build -t databraryorg/databrary-static-action:0.1 .
@@ -114,11 +111,16 @@ clean-static-dev: PHONY
 	git worktree prune
 
 update-repos: PHONY
-	cd ../policies; \
-	git pull; \
-	cd ../www; \
-	git pull; \
+	env
+	cd ../policies
+	git pull
+	cd ../www
+	git pull
 	pip3 install -r requirements-freeze.txt
+
+deploy_branch=gh-pages
+deploy_directory=output/databrary
+repo=origin
 
 update-static-dev: clean-static-dev
 	@if [ -z "$(GITHUB_SHA)" ]; then \
