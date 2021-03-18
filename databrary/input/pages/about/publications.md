@@ -28,8 +28,6 @@ Gilmore, R. O., & Adolph, K. E. (2017). Video can make behavioural science more 
 
 Gilmore, R.O., Diaz, M.T., Wyble, B.A., & Yarkoni, T. (2017). Progress toward openness, transparency, and reproducibility in cognitive neuroscience. *Annals of the New York Academy of Sciences*, 1396, 5–18. [doi:10.1111/nyas.13325](http://doi.org/10.1111/nyas.13325).
 
-Gordon, A. S., Steiger, L., & Adolph, K. E. (2017). Losing research data due to lack of curation and preservation. In L. Johnston (Ed.), *Curating research data, Volume 2: A handbook of current practice* (pp. 108-115). Chicago, IL: Association of College and Research Libraries. [PDF](https://www.databrary.org/files/pub-curating-research-data-case-study.pdf).
-
 Kennedy, J. L., Adolph, K. A., & Gilmore, R. O. (2017, August 21). Video and reproducibility in the behavioural sciences [Blog post]. Retrieved from [https://www.software.ac.uk/blog/2017-08-04-video-and-reproducibility-behavioural-sciences](https://www.software.ac.uk/blog/2017-08-04-video-and-reproducibility-behavioural-sciences)
 
 ### 2016
