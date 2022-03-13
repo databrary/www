@@ -133,9 +133,4 @@ Kasey Soska, Ph.D.
 Andrea Seisler
 : Authorizations Specialist
 
-Shohan Hasan
-: Open-Source Contributor
-
-Melody Xu
-: User Support Specialist
 
