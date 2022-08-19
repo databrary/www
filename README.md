@@ -111,7 +111,7 @@ pyenv install 2.7.18
 pyenv virtualenv 2.7.18 dvpelican2
 cd ..
 git clone https://github.com/databrary/datavyu.git
-git clone https:/github.com/databrary/datavyu-docs.git
+git clone https://github.com/databrary/datavyu-docs.git
 cd datavyu-docs
 pyenv active dvpelican2
 pip install -r requirements-freeze.txt
