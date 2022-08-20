@@ -30,7 +30,13 @@ DEFAULT_ORPHANS = 0
 
 PLUGIN_PATHS = ['../common/plugins']
 PLUGINS = ['sitemap', 'mdimport', 'vyu_releases', 'pagetree']
-MD_EXTENSIONS = ['codehilite(css_class=highlight)', 'extra', 'admonition', 'headerid(level=2)']
+MARKDOWN = {
+    "extension_configs": {
+        "markdown.extensions.codehilite": {"css_class": "highlight"},
+        "markdown.extensions.extra": {},
+        "markdown.extensions.meta": {},
+    }
+}
 
 SITEMAP = {
 	'format': 'xml',
@@ -45,8 +51,8 @@ DELETE_OUTPUT_DIRECTORY = False
 
 PATH = 'input/'
 OUTPUT_PATH = 'output/'
-DIRECT_TEMPLATES = ('index',)
-PAGINATED_DIRECT_TEMPLATES = ('index',)
+DIRECT_TEMPLATES = ['index']
+PAGINATED_DIRECT_TEMPLATES = ['index']
 
 PAGE_PATHS = ['pages']
 PAGE_EXCLUDES = []
