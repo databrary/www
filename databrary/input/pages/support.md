@@ -2,7 +2,7 @@ Title: Databrary Support
 Brief: Support
 Order: 2000
 
-Databrary is a home for scientists who use video in their research or teaching.
+Databrary is a resource and a community for scientists who use video in their research or teaching.
 
 We encourage you to read [Databrary's Access Agreement](|filename|about/agreement.md) and its annexes.
 These documents, especially [Annex III--Databrary Access Guide](https://www.databrary.org/about/agreement/agreement-annex-III.html), provide extensive information about how Databrary is structured and how it should be used.
