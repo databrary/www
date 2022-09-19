@@ -130,18 +130,7 @@ Reda Nezzar, Ph.D.
 Kasey Soska, Ph.D.
 : Research Support Specialist
 
-Swapnaa Jayaraman, Ph.D.
-: Research Scientist
-
 Andrea Seisler
 : Authorizations Specialist
 
-Shohan Hasan
-: Open-Source Contributor
-
-Joseph Perricone
-: Datavyu Support Specialist
-
-Melody Xu
-: User Support Specialist
 

@@ -1,16 +1,18 @@
-# Editing Documents
-
-Pages and posts can be written in markdown (.md) restructured text (.rst) or in html (.html). In any document format, the headers are essential to generating valid web pages.
-
-## Headings
-
-Do not use H1 to represent the title of a document. Use H1s as the highest level of your page outline. You can have multiple H1s.
-
-# Databrary Project Websites Generator
+# Background
 
 This project generates static content for databrary.org and datavyu.org using Pelican, a python library. It pulls content from other databrary repos, including [policies](https://github.com/databrary/policies), [datavyu](https://github.com/databrary/datavyu), and [datavyu-docs](https://github.com/databrary/datavyu-docs).
 
-## Development server
+## Tips
+
+### Editing Documents
+
+Pages and posts can be written in markdown (.md) restructured text (.rst) or in html (.html). In any document format, the headers are essential to generating valid web pages.
+
+### Headings
+
+Do not use H1 to represent the title of a document. Use H1s as the highest level of your page outline. You can have multiple H1s.
+
+### Development server
 
 We recommend using [pyenv](https://github.com/pyenv/pyenv) to manage your Python installs and virtual environments. You can follow detailed instructions [here](https://github.com/pyenv/pyenv) for pyenv and [here](https://github.com/pyenv/pyenv-virtualenv) for pyenv-virtualenv, but the gist is as follows:
 
@@ -66,7 +68,7 @@ peynv activate dbpelican3
 pip install -r requirements-freeze.txt
 ```
 
-### Build the docs and start a dev server
+## Build the docs and start a dev server
 
 These commands start and stop the development server for the site requested on a default port, such that they can be run it parallel:
 
@@ -88,7 +90,7 @@ SITE is a required parameter.
 
 `pyenv deactivate` to leave virtualenv.
 
-## Development output
+### Development output
 
 `make html [SITE=(databrary|datavyu)]`
 
@@ -96,7 +98,7 @@ This command produces HTML output with relative links and no feeds. Only useful 
 
 If SITE is unspecified, it generates output for all sites.
 
-## Publishable output
+### Publishable output
 
 `make publish [SITE=(databrary|datavyu)]`
 
@@ -104,14 +106,14 @@ This command produces HTML output with absolute links, feeds, and sitemap. It wi
 
 If SITE is unspecified, it generates output for all sites.
 
-## If you're compiling DV
+### If you're compiling DV
 
 ```Shell
 pyenv install 2.7.18
 pyenv virtualenv 2.7.18 dvpelican2
 cd ..
 git clone https://github.com/databrary/datavyu.git
-git clone https:/github.com/databrary/datavyu-docs.git
+git clone https://github.com/databrary/datavyu-docs.git
 cd datavyu-docs
 pyenv active dvpelican2
 pip install -r requirements-freeze.txt
