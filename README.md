@@ -45,14 +45,14 @@ echo 'eval "$(pyenv virtualenv-init -)"' >> ~/.bash_profile
 exec "$SHELL"
 ```
 
-### Install the correct version of Python and create a virtual environment
+#### Install the correct version of Python and create a virtual environment
 
 ```Shell
 pyenv install 3.7.7
 pyenv virtualenv 3.7.7 dbpelican3
 ```
 
-### Git clone if you haven't already
+#### Git clone if you haven't already
 
 ```Shell
 mkdir databrary_docs
@@ -60,13 +60,23 @@ git clone https://github.com/databrary/www.git
 git clone https://github.com/databrary/policies.git
 ```
 
-### Install Python requirements
+#### Install Python requirements
 
 ```Shell
 cd www
 peynv activate dbpelican3
 pip install -r requirements-freeze.txt
 ```
+
+## Updating Databrary static site
+
+The Databrary static site content is hosted on a linode server.
+To update static site site content, make changes to the `dev` branch.
+When these changes are committed to the `dev` branch, that triggers a set of GitHub actions that render the Databrary static site content into `www/output/databrary/`. These contents are then copied to the `gh-pages` branch.
+
+A person with access privileges to the linode server will then need to log-on to linode and pulled the rendered content from the `gh-pages` branch. The changes will then be live.
+
+If you want to build the documentation yourself locally, follow the sections below.
 
 ## Build the docs and start a dev server
 
