@@ -4,7 +4,7 @@ Order: 1000
 
 Databrary is a restricted access data library that is specialized for storing, streaming, and sharing video and audio recordings collected as research data or documentation.
 Databrary supports sharing of many types of research data and documentation beyond video and audio.
-Based at [New York University](http://www.nyu.edu), Databrary's mission is to support data sharing among researchers in the behavioral, social, educational, developmental, neural, and computer sciences.
+Based at [New York University](http://www.nyu.edu) (NYU), Databrary's mission is to support data sharing among researchers in the behavioral, social, educational, developmental, neural, and computer sciences.
 
 We invite you to learn more about Databrary.
 The Databrary Access Agreement provides the foundation for granting researchers [authorized access](|filename|about/agreement.md) to restricted use data.
