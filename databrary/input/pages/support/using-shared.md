@@ -15,4 +15,4 @@ Here are some recommended best practices for re-using data on the system:
 - Consider carefully *who* will access downloaded data. Authorized Investigators are responsible for selecting, training, and supervising the activity of the people who will access data downloaded from Databrary.
 - If you use materials from Databrary, you *should* cite them using the citation provided.
 
-Feel free to contact support@databrary.org with any questions about these recommendations.
+Feel free to email us at [contact@databrary.org](mailto:contact@databrary.org) with any questions about these recommendations or your specific use cases.
