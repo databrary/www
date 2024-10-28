@@ -87,50 +87,12 @@ Order: 5000
     </div>
 </article>
 
-<article class="profile cf">
-    <div class="row">
-        <div class="column_mini">
-            <img src="/theme/img/profiles/david.jpg" alt="David Millman" class="avatar">
-        </div>
-
-        <div class="column_small">
-            <h1>David Millman</h1>
-
-            <div class="position">Co-Investigator</div>
-
-            <ul class="info">
-
-
-                <li>
-                    <div class="title">Assistant Dean for Digital Library Technology Services</div>
-                    <div class="affil"><a href="https://library.nyu.edu/people/david-millman/" title="New York University">New York
-                        University</a></div>
-                </li>
-
-
-            </ul>
-
-            <ul class="info email">
-
-                <li><span><img
-                        src="/theme/img/social/email.png" alt="Email David Millman">dsm at nyu dot edu</span></li>
-
-            </ul>
-        </div>
-    </div>
-</article>
-
 # Staff
 
 All staff can be reached at *'firstname.lastname'*@databrary.org
-
-Reda Nezzar, Ph.D.
-: Software Engineer
 
 Kasey Soska, Ph.D.
 : Research Support Specialist
 
 Andrea Seisler
 : Authorizations Specialist
-
-
